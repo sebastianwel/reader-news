@@ -1,0 +1,33 @@
+name: Daily Pala Briefing
+
+on:
+  schedule:
+    # Läuft jeden Morgen um 06:00 UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Erlaubt es dir, das Skript jederzeit manuell zu starten
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install Dependencies
+        run: pip install requests beautifulsoup4 lxml
+
+      - name: Run Script
+        run: python generate_briefing.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add *.txt
+          git commit -m "Update Daily Briefing" || exit 0
+          git push
