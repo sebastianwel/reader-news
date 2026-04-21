@@ -1,0 +1,12 @@
+=== WETTER HAMBURG - 21.04.2026 ===
+
+AKTUELL:
+Zustand: Klarer Himmel
+Temperatur: 12.2°C
+
+TAGESAUSSICHT:
+Vormittag  (10:00 Uhr: 7.6°C, Hauptsächlich klar (Regen: 0%))
+Nachmittag (15:00 Uhr: 12.3°C, Klarer Himmel (Regen: 0%))
+Abend      (20:00 Uhr: 10.1°C, Klarer Himmel (Regen: 0%))
+
+Einen schönen Tag in der Hansestadt! ⚓
