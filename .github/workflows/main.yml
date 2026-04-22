@@ -2,9 +2,13 @@ name: Daily Pala News Update
 
 on:
   schedule:
-    # 03:00 UTC ist 05:00 Uhr deutsche Sommerzeit
+    # 03:00 UTC ist 05:00 Uhr deutsche Sommerzeit (perfekt für 06:00 Uhr Pala-Update)
     - cron: '0 3 * * *'
-  workflow_dispatch: # Erlaubt es dir, den Download jederzeit manuell bei GitHub zu starten
+  workflow_dispatch: # Ermöglicht den manuellen Start über den "Actions" Tab
+
+# Erlaubt der Action, Dateien in dein Repository zu schreiben
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -14,8 +18,10 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          # Notwendig, damit die Action Schreibrechte hat
+          # Nutzt den Standard-Token mit den oben gesetzten Schreibrechten
           token: ${{ secrets.GITHUB_TOKEN }}
+          # Wichtig für den Rebase: Den kompletten Verlauf laden
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -27,19 +33,32 @@ jobs:
           pip install requests beautifulsoup4 lxml
 
       - name: Run News Scraper
-        run: python dein_skriptname.py  # <-- HIER deinen Dateinamen anpassen!
+        # Stelle sicher, dass "dein_skriptname.py" exakt so heißt wie deine Datei im Repo!
+        run: python dein_skriptname.py 
 
       - name: Commit and Push
         run: |
+          # Git Identität setzen
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           
-          # Alle neuen/geänderten Dateien hinzufügen
-          git add *_Briefing.txt *_Wetter.txt latest_briefing.txt latest_wetter.txt
+          # Sicherstellen, dass wir auf dem main-Branch sind
+          git checkout main
           
-          # Nur commiten, wenn es auch Änderungen gibt
-          git commit -m "Update Briefing und Wetter: $(date +'%d.%m.%Y')" || exit 0
+          # Alle generierten Textdateien hinzufügen
+          # Wir nutzen -f (force) oder prüfen auf Existenz, damit es nicht crasht
+          git add *_Briefing.txt *_Wetter.txt latest_briefing.txt latest_wetter.txt || echo "Einige Dateien wurden nicht gefunden"
           
-          # Pull mit Rebase, um "rejected" Fehler zu vermeiden
-          git pull --rebase origin main
-          git push origin main
+          # Commit nur ausführen, wenn Änderungen vorhanden sind
+          if git diff --cached --quiet; then
+            echo "Keine Änderungen zum Committen vorhanden."
+          else
+            git commit -m "Update Daily Briefing & Wetter: $(date +'%d.%m.%Y')"
+            
+            # Rebase zieht Änderungen vom Server (z.B. manuelle Code-Edits) 
+            # und setzt den neuen News-Commit oben drauf.
+            git pull --rebase origin main
+            
+            # Finaler Push
+            git push origin main
+          fi
