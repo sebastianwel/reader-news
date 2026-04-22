@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import time
+from datetime import datetime
 
 # --- KONFIGURATION & QUELLEN ---
 WEATHER_FORECAST_URL = "https://api.open-meteo.com/v1/forecast?latitude=53.5507&longitude=9.9930&current=temperature_2m,weather_code&hourly=temperature_2m,precipitation_probability,weather_code&timezone=Europe%2FBerlin&forecast_days=1"
@@ -22,7 +23,10 @@ WMO_CODES = {
     71: "Leichter Schneefall", 80: "Regenschauer", 95: "Gewitter"
 }
 
-# --- NEUE WETTER FUNKTIONEN ---
+# Zentrales Datum für die Dateinamen (z.B. 22.04)
+DATE_STR = datetime.now().strftime("%d.%m")
+
+# --- WETTER FUNKTIONEN ---
 
 def get_detailed_weather():
     """Erzeugt einen detaillierten Wetterbericht inkl. Tagesaussicht für Hamburg."""
@@ -43,7 +47,7 @@ def get_detailed_weather():
             return f"{hour}:00 Uhr: {t}°C, {code} (Regen: {prob}%)"
 
         report = (
-            f"=== WETTER HAMBURG - {time.strftime('%d.%m.%Y')} ===\n\n"
+            f"=== WETTER HAMBURG - {datetime.now().strftime('%d.%m.%Y')} ===\n\n"
             f"AKTUELL:\n"
             f"Zustand: {cond_now}\n"
             f"Temperatur: {temp_now}°C\n\n"
@@ -57,17 +61,19 @@ def get_detailed_weather():
     except Exception as e:
         return f"Wetter-Update fehlgeschlagen: {e}"
 
-def create_weather_file():
-    filename = "pala_hamburg_wetter.txt"
-    print("Erstelle Wetter-Datei...")
-    with open(filename, "w", encoding="utf-8") as f:
-        f.write(get_detailed_weather())
-    print(f"Erfolg! '{filename}' wurde erstellt.")
+def save_weather():
+    report = get_detailed_weather()
+    # 1. Datei mit Datum (Archiv)
+    with open(f"{DATE_STR}_Wetter.txt", "w", encoding="utf-8") as f:
+        f.write(report)
+    # 2. Datei für den Pala (Fixer Name)
+    with open("latest_wetter.txt", "w", encoding="utf-8") as f:
+        f.write(report)
+    print(f"Wetter-Dateien ({DATE_STR} & latest) erstellt.")
 
-# --- DEINE BESTEHENDE NEWS LOGIK (UNVERÄNDERT) ---
+# --- NEWS LOGIK ---
 
 def get_full_article(url):
-    """Extrahiert Text von Sportschau, Tagesschau oder Wired."""
     try:
         time.sleep(0.5)
         res = requests.get(url, headers=HEADERS, timeout=10)
@@ -79,7 +85,6 @@ def get_full_article(url):
             trash.decompose()
 
         paragraphs = soup.find_all(['p', 'div'], class_=['text-abschnitt', 'article__bodytext', 'paragraph', 'article__content'])
-        
         if not paragraphs:
             paragraphs = soup.find_all('p')
             
@@ -99,46 +104,44 @@ def get_full_article(url):
     except Exception as e:
         return f"[Fehler beim Laden des Volltexts: {e}]"
 
-def create_pala_briefing():
-    filename = "pala_top_briefing.txt"
-    print("Erstelle News-Briefing...")
+def create_briefing_content():
+    content = f"=== NANOBANANA DAILY BRIEFING - {datetime.now().strftime('%d.%m.%Y')} ===\n"
+    content += "Quellen: Tagesschau, Sportschau & Wired Tech\n\n"
     
-    with open(filename, "w", encoding="utf-8") as f:
-        f.write(f"=== NANOBANANA DAILY BRIEFING - {time.strftime('%d.%m.%Y')} ===\n")
-        f.write("Quellen: Tagesschau, Sportschau & Wired Tech\n\n")
-        
-        for category, rss_url in SOURCES.items():
-            print(f"Verarbeite {category}...")
-            f.write(f"\n>>> {category} <<<\n\n")
-            
-            try:
-                response = requests.get(rss_url, headers=HEADERS, timeout=10)
-                soup = BeautifulSoup(response.content, features="xml")
-                items = soup.find_all('item')[:3]
+    for category, rss_url in SOURCES.items():
+        print(f"Verarbeite {category}...")
+        content += f"\n>>> {category} <<<\n\n"
+        try:
+            response = requests.get(rss_url, headers=HEADERS, timeout=10)
+            soup = BeautifulSoup(response.content, features="xml")
+            items = soup.find_all('item')[:3]
 
-                for i, item in enumerate(items, 1):
-                    title = item.find('title').get_text() if item.find('title') else "Kein Titel"
-                    link = item.find('link').get_text() if item.find('link') else ""
-                    
-                    if not link: continue
-                    
-                    print(f"  - Artikel {i}: {title[:50]}...")
-                    f.write(f"[{i}] {title.upper()}\n\n")
-                    
-                    full_text = get_full_article(link)
-                    f.write(full_text)
-                    f.write("\n\n" + "-"*40 + "\n\n")
+            for i, item in enumerate(items, 1):
+                title = item.find('title').get_text() if item.find('title') else "Kein Titel"
+                link = item.find('link').get_text() if item.find('link') else ""
+                if not link: continue
+                
+                print(f"  - Artikel {i}: {title[:50]}...")
+                content += f"[{i}] {title.upper()}\n\n"
+                content += get_full_article(link)
+                content += "\n\n" + "-"*40 + "\n\n"
+        except Exception as e:
+            content += f"[Kategorie-Fehler: {e}]\n\n"
+    return content
 
-            except Exception as e:
-                print(f"  Fehler bei {category}: {e}")
-                f.write(f"[Kategorie-Fehler: {e}]\n\n")
-
-    print(f"Erfolg! '{filename}' wurde erstellt.")
+def save_briefing():
+    content = create_briefing_content()
+    # 1. Datei mit Datum (Archiv)
+    with open(f"{DATE_STR}_Briefing.txt", "w", encoding="utf-8") as f:
+        f.write(content)
+    # 2. Datei für den Pala (Fixer Name)
+    with open("latest_briefing.txt", "w", encoding="utf-8") as f:
+        f.write(content)
+    print(f"Briefing-Dateien ({DATE_STR} & latest) erstellt.")
 
 # --- EXECUTION ---
 
 if __name__ == "__main__":
-    # Erst das Wetter, dann die News
-    create_weather_file()
+    save_weather()
     print("-" * 30)
-    create_pala_briefing()
+    save_briefing()
