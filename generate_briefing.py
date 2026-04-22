@@ -105,7 +105,7 @@ def get_full_article(url):
         return f"[Fehler beim Laden des Volltexts: {e}]"
 
 def create_briefing_content():
-    content = f"=== NANOBANANA DAILY BRIEFING - {datetime.now().strftime('%d.%m.%Y')} ===\n"
+    content = f"=== DAILY BRIEFING - {datetime.now().strftime('%d.%m.%Y')} ===\n"
     content += "Quellen: Tagesschau, Sportschau & Wired Tech\n\n"
     
     for category, rss_url in SOURCES.items():
