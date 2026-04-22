@@ -2,11 +2,11 @@
 
 AKTUELL:
 Zustand: Klarer Himmel
-Temperatur: 7.1°C
+Temperatur: 11.3°C
 
 TAGESAUSSICHT:
-Vormittag  (10:00 Uhr: 8.9°C, Klarer Himmel (Regen: 0%))
-Nachmittag (15:00 Uhr: 15.5°C, Klarer Himmel (Regen: 0%))
-Abend      (20:00 Uhr: 12.7°C, Klarer Himmel (Regen: 0%))
+Vormittag  (10:00 Uhr: 9.0°C, Klarer Himmel (Regen: 0%))
+Nachmittag (15:00 Uhr: 15.6°C, Klarer Himmel (Regen: 0%))
+Abend      (20:00 Uhr: 12.8°C, Klarer Himmel (Regen: 0%))
 
 Einen schönen Tag in der Hansestadt! ⚓
