@@ -1,17 +1,21 @@
-name: Daily Pala Briefing
+name: Daily Pala News Update
 
 on:
   schedule:
-    # Läuft jeden Morgen um 06:00 UTC
+    # 03:00 UTC ist 05:00 Uhr deutsche Sommerzeit
     - cron: '0 3 * * *'
-  workflow_dispatch: # Erlaubt es dir, das Skript jederzeit manuell zu starten
+  workflow_dispatch: # Erlaubt es dir, den Download jederzeit manuell bei GitHub zu starten
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout Code
-        uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          # Notwendig, damit die Action Schreibrechte hat
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -19,15 +23,23 @@ jobs:
           python-version: '3.9'
 
       - name: Install Dependencies
-        run: pip install requests beautifulsoup4 lxml
+        run: |
+          pip install requests beautifulsoup4 lxml
 
-      - name: Run Script
-        run: python generate_briefing.py
+      - name: Run News Scraper
+        run: python dein_skriptname.py  # <-- HIER deinen Dateinamen anpassen!
 
-      - name: Commit and Push changes
+      - name: Commit and Push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add *.txt
-          git commit -m "Update Daily Briefing" || exit 0
-          git push
+          
+          # Alle neuen/geänderten Dateien hinzufügen
+          git add *_Briefing.txt *_Wetter.txt latest_briefing.txt latest_wetter.txt
+          
+          # Nur commiten, wenn es auch Änderungen gibt
+          git commit -m "Update Briefing und Wetter: $(date +'%d.%m.%Y')" || exit 0
+          
+          # Pull mit Rebase, um "rejected" Fehler zu vermeiden
+          git pull --rebase origin main
+          git push origin main
