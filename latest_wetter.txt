@@ -1,12 +1,12 @@
-=== WETTER HAMBURG - 10.10.2026 ===
+=== WETTER HAMBURG - 11.10.2026 ===
 
 AKTUELL:
-Zustand: Teilweise bewölkt
-Temperatur: 13.3°C
+Zustand: Leichter Regen
+Temperatur: 10.2°C
 
 TAGESAUSSICHT:
-Vormittag  (10:00 Uhr: 11.8°C, Bedeckt (Regen: 5%))
-Nachmittag (15:00 Uhr: 14.1°C, Leichter Regen (Regen: 70%))
-Abend      (20:00 Uhr: 11.2°C, Regenschauer (Regen: 20%))
+Vormittag  (10:00 Uhr: 9.5°C, Regenschauer (Regen: 5%))
+Nachmittag (15:00 Uhr: 11.2°C, Leichter Regen (Regen: 63%))
+Abend      (20:00 Uhr: 10.4°C, Klarer Himmel (Regen: 10%))
 
 Einen schönen Tag in der Hansestadt! ⚓
