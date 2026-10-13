@@ -1,12 +1,12 @@
-=== WETTER HAMBURG - 12.10.2026 ===
+=== WETTER HAMBURG - 13.10.2026 ===
 
 AKTUELL:
-Zustand: Klarer Himmel
-Temperatur: 12.2°C
+Zustand: Bedeckt
+Temperatur: 11.1°C
 
 TAGESAUSSICHT:
-Vormittag  (10:00 Uhr: 5.5°C, Nebel (Regen: 0%))
-Nachmittag (15:00 Uhr: 13.7°C, Klarer Himmel (Regen: 0%))
-Abend      (20:00 Uhr: 11.3°C, Hauptsächlich klar (Regen: 0%))
+Vormittag  (10:00 Uhr: 7.6°C, Bedeckt (Regen: 0%))
+Nachmittag (15:00 Uhr: 12.3°C, Bedeckt (Regen: 0%))
+Abend      (20:00 Uhr: 12.9°C, Bedeckt (Regen: 45%))
 
 Einen schönen Tag in der Hansestadt! ⚓

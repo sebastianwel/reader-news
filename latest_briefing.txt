@@ -1,247 +1,248 @@
-=== DAILY BRIEFING - 12.10.2026 ===
+=== DAILY BRIEFING - 13.10.2026 ===
 Quellen: Tagesschau, Sportschau & Wired Tech
 
 
 >>> TAGESSCHAU TOP-NEWS <<<
 
-[1] KLINGBEIL WILL SPD-FÜHRUNG NEU WÄHLEN LASSEN
+[1] MARKTBERICHT: ANLEGER BLEIBEN ZUVERSICHTLICH
 
-Die komplette Führung der SPD soll neu gewählt werden. Das hat Parteichef Klingbeil nach dem Rückzug von Bärbel Bas angekündigt. Zum Jahreswechsel ist dafür ein SPD-Parteitag geplant.
+Trotz der schwierigen geostrategischen Lage behauptet sich DAX zum Handelsstart auf hohem Niveau - und legt sogar zu. Die Anleger erwarten nun den Beginn der US-Berichtssaison der Unternehmen.
 
-Nach dem Rücktritt von Bärbel Bas als Co-Parteivorsitzende der SPD soll die gesamte Führung der Partei neu gewählt werden. Co-Parteivorsitzender Lars Klingbeil sagte die Posten sollen bei einem Bundesparteitag im Dezember oder Januar neu gewählt werden.
+Entgegen der vorbörslichen Indikationen legt der DAX zum Handelsstart moderat zu und notiert sogar über der Marke von 25.400 Punkten. Die Gewinne gehen bei den Einzelwerten quer durch alle Branchen. Lediglich die als deutsche KI-Profiteure geltenden Indexmitglieder Infineon und Siemens Energy geben stärker nach.
 
-Das habe das Präsidium einstimmig beschlossen. Dies sei wichtig, "damit wir Klarheit über die personelle Aufstellung und auch Klarheit über den programmatischen Kurs der SPD haben".
+Bereits am Vorabend an der Wall Street und heute auch im asiatischen Handel waren Halbleiteraktien verkauft worden. Anleger fürchten neue Konkurrenz aus China und betrachten die hohen Bewertungen im Sektor ohnehin schon länger mit Misstrauen.
 
-Am Morgen hatte Bas ihre Ämter als Arbeits- und Sozialministerin und als SPD-Co-Parteichefin niedergelegt. Sie begründet den Rücktritt mit dem Tod ihrer Stieftochter. Für die Verarbeitung des Schicksalsschlags wolle sie sich nun Zeit nehmen. Bas kritisierte aber auch öffentliche Angriffe gegen sie aus den Reihen des Koalitionspartners.
+Zu Wochenbeginn hatte der deutsche Leitindex schon knapp 0,8 Prozent zugelegt auf 25.277 Punkte - und dabei auch einem Anstieg der Ölpreise getrotzt. Der MDAX der mittelgroßen Unternehmen steigt rund ein Viertel Prozent und überwindet damit wieder die Marke von 30.000 Punkten.
 
-Dieses Thema im Programm: tagesschau24 | Nachrichten | 12.10.2026 | 11:00 UhrDas Erste | Nachrichten | 12.10.2026 | 20:00 Uhr
+Aber die Risiken bleiben, denn ein Ende der hohen Energiepreise scheint weiter nicht in Sicht. Im Gegenteil: Der Angriff der jemenitischen Huthi-Rebellen auf die saudi-arabische Hauptstadt Riad deutet eher auf eine weitere Eskalation im Nahen Osten hin. Nordsee-Rohöl Brent und US-Leichtöl WTI verteuerten sich nach den erneuten Attacken zunächst zwischen 1,3 und 1,5 Prozent auf rund 106 und 93 Dollar je Fass. Aktuell stehen die Notierungen leicht darunter.
+
+Auch die deutsche Inflation bleibt wegen der hohen Energiepreise auf hohem Niveau. Waren und Dienstleistungen verteuerten sich um 3,3 Prozent zum Vorjahresmonat, nach 2,9 Prozent im August, wie das Statistische Bundesamt bekanntgab und damit eine frühere Schätzung bestätigte. Es ist der höchste Stand seit 2023.
+
+"Verantwortlich für den Anstieg der Inflationsrate war erneut die Entwicklung der Energiepreise", sagte die Präsidentin des Statistikamtes, Ruth Brand. "Besonders zeigte sich die Teuerung bei Mineralölprodukten an den Tankstellen und beim Heizöl."
+
+Eng mit der Entwicklung der Inflation bleiben auch die Zinserwartungen an den Märkte verbunden. Eine Rate von 3,3 Prozent liegt weit über der Zielmarke der Europäischen Zentralbank (EZB) von 2 Prozent. Mit weiteren Zinserhöhungen dürfte daher zu rechnen sein, zumal sich die EZB stets streng datenbezogen orientiert.
+
+Neben der geostrategisch schwierigen Weltlage blicken die Anleger zudem auf den Beginn der US-Berichtssaison, die vor dem Handelsstart an der Wall Street mit den Quartalszahlen der großen Banken startet. Vier der sechs großen US Häuser, JPMorgan Chase, Citigroup, Wells Fargo und die führende Investmentbank Goldman Sachs, öffnen ihre Bücher.
+
+Zudem berichten auch die im Leitindex Dow Jones enthaltenen Großkonzerne Johnson & Johnson, ein Gesundheitsriese, sowie der größte Krankenversicherer des Landes, UnitedHealth.
+
+"Die großen Themen, die es in der Berichtssaison zu beobachten gilt, sind, wie Unternehmen KI einsetzen und davon profitieren", sagte Clark Bellin von Bellwether Wealth. Zudem sei wichtig, ob sie ihre Preissetzungsmacht beibehalten oder erhöhen und wie sie mit den gestiegenen Kreditkosten umgehen könnten.
+
+Der Internationale Währungsfonds (IWF) setzt derweil seine Wirtschaftsprognose für Deutschland und die Weltwirtschaft hoch. Der IWF rechnet nun damit, dass das deutsche Bruttoinlandsprodukt (BIP) im laufenden Jahr um 1,3 Prozent wächst, wie aus dem heute beim IWF-Jahrestreffen in Bangkok veröffentlichten Weltwirtschaftsausblick hervorging.
+
+Das sind 0,6 Prozentpunkte mehr als noch im Juli prognostiziert und stimmt mit der Prognose der Bundesregierung überein. Auch seine Erwartung für das globale Wirtschaftsleistung hob der IWF leicht um 0,1 Prozentpunkte auf 3,1 Prozent an.
+
+Der IWF rechnet nun damit, dass sich das weltweite Wirtschaftswachstum etwas weniger verlangsamt als zuvor erwartet, da die Industrieländer sich trotz der seit dem Iran-Krieg gestiegenen Energiepreise widerstandsfähig gezeigt hätten. "Die Weltwirtschaft hat sich als widerstandsfähig erwiesen, doch diese Widerstandsfähigkeit steht unter Druck, und die Risiken für das Wachstum sind eher nach unten gerichtet", so die IWF-Chefökonomin Silvana Tenreyro.
+
+Für die Weltwirtschaft gibt es eine kleine Änderung.
+
+Dieses Thema im Programm: tagesschau.de | Handelsbeginn mit DAX-Start: Zuversicht bei Anlegern | 13.10.2026 | 09:49 Uhr
 
 ----------------------------------------
 
-[2] NOBELPREIS FÜR WIRTSCHAFTSWISSENSCHAFTEN FÜR US-ÖKONOMEN HALL UND WOODFORD
+[2] SPANIENS KÖNIG IN CEUTA: SPUREN BESEITIGT, PROBLEM WEGGESCHOBEN
 
-Die US-Amerikaner Hall und Woodford werden mit dem Wirtschaftspreis in Gedenken an Alfred Nobel ausgezeichnet. Sie werden für ihre Arbeit zur Stabilisierung der Wirtschaft geehrt, erklärte die Königlich-Schwedische Akademie der Wissenschaften.
+Der spanische König besucht für zwei Tage die Enklave Ceuta. Vor seiner Anreise wurden Strände und Straßen geräumt, wo Migranten über Wochen ausgeharrt hatten. Was also wird Felipe VI. in Ceuta sehen können?
 
-Der Nobelpreis für Wirtschaftswissenschaften geht in diesem Jahr an Robert E. Hall und Michael Woodford aus den USA. Das gab die Königlich-Schwedische Akademie der Wissenschaften in Stockholm bekannt.
+An der Playa del Trampolín wird aufgeräumt. Reinigungstrupps in gelben Leuchtwesten beseitigen die Reste der improvisierten Zeltstadt, in der wochenlang Tausende Migranten ausgeharrt hatten.
 
-Woodford und Hall erhalten die Auszeichnung demnach für die Entwicklung makroökonomischer Modelle, die eine effektivere Stabilisierungspolitik ermöglichen. Auf Grundlage ihrer Modelle könnten gut abgestimmte fiskal- und geldpolitische Maßnahmen die wirtschaftlichen Ausschläge nach oben und unten abmildern, sagte die Generalsekretärin der Akademie, Ellen Moons, bei der Preisverkündung.
+Sie fegen Schilfrohr zusammen, Baumaterial für notdürftige Hütten, sammeln Plastikwasserflaschen und andere Überbleibsel ein und verstauen alles in unzählige schwarze Müllsäcke. Ein grün-silberner Pickup-Truck, der schon bessere Tage gesehen hat, bringt Ladung um Ladung der schwarzen Säcke zu riesigen grünen Abrollcontainern.
 
-Die Preisträger hätten eine "solide theoretische Grundlage" für die Modelle geliefert, die heute von Regierungen und Zentralbanken weltweit verwendet würden, erklärte der Vorsitzende des zuständigen Komitees, John Hassler. "Mit ihnen sind wir besser gerüstet, um wirtschaftliche Schocks wie Energiekrisen oder plötzliche Veränderungen beim Konsumverhalten der Haushalte zu bewältigen."
+Die Polizei hatte den Strand vor gut einer Woche endgültig geräumt, doch in den Felsen der Uferböschung werden an diesem Vormittag zwei Migranten entdeckt, die sich dort versteckt hatten. Ein Transporter der alarmierten Guardia Civil fährt mit ihnen davon.
 
-Der Nobelpreis im Fach Wirtschaftswissenschaften wird erst seit 1969 verliehen. Er geht als einziger der Preise nicht auf das Testament des schwedischen Industriellen und Dynamit-Erfinders Alfred Nobel zurück. Der Preis wird von der schwedischen Notenbank gestiftet, deshalb nennt die Nobel-Stiftung ihn nicht offiziell Nobelpreis, sondern "Preis der Schwedischen Reichsbank für Wirtschaftswissenschaften in Gedenken an Alfred Nobel".
+Ende Juli kamen binnen Stunden Zehntausende Migranten nach Ceuta. Der spanische Geheimdienst hatte davor gewarnt.
 
-Dotiert ist der Preis in diesem Jahr wie die anderen Auszeichnungen auch mit zwölf Millionen schwedischen Kronen - das entspricht etwas mehr als einer Million Euro. Auch er wird am 10. Dezember, dem Todestag Nobels, verliehen.
+Jorge González entgeht nichts, was sich auf dem Strand abspielt, sein strahlend weißes Haus thront an einem Hang über der kleinen zweispurigen Straße zwischen dem Strand und seinem Grundstück. Ein Refugium für den Ruhestand mit seiner Frau Marisa.
 
-In der vergangenen Woche waren bereits Nobelpreisträgerinnen und Nobelpreisträger in den Kategorien Medizin, Physik, Chemie, Literatur und Frieden verkündet worden.
+"Strand der Schande" steht auf einem gelb-roten Transparent, das die beiden zur Straßenseite vom Terrassengeländer aufgehängt haben. Die Aufräumarbeiten am Strand kommentiert Jorge nicht ohne Bitterkeit.
 
-Dieses Thema im Programm: Das Erste | tagesschau | 12.10.2026 | 12:00 Uhr
+An diesem Dienstag komme ja der spanische König nach Ceuta - "und sie wollen, dass der, obwohl er ja wissen dürfte, was hier los war, bei seinem Besuch sieht, dass es hier nichts zu sehen gibt". 4.000 bis 5.000 Menschen, schätzt González, seien von hier in andere Stadtteile weggebracht worden - "und damit das Problem einfach weggeschoben".
+
+In dem provisorischen Lager "El Guano" in der Nähe des Trampolin-Strandes in Ceuta hatten viele Migranten ausgeharrt. Vor dem Besuch des Königs wurde es geräumt - zum Abtransport teilten Polizisten die Migranten in Gruppen ein.
+
+Das Königspaar dürfte das Ergebnis gar nicht direkt zu Gesicht bekommen. Das offizielle Programm sieht keinen Besuch an einem der Strände vor - und auch nicht in einem Industriegebiet nahe der Grenze zu Marokko.
+
+Hier dürften auch die beiden zuvor am Trampolin-Strand aufgegriffenen Migranten landen. Entweder in den für die Aufnahme von Asylgesuchen eingerichteten Containerbauten, zu denen die Polizei die Reporter nicht durchlässt - oder direkt an der Grenze zu Marokko, damit sie freiwillig wieder zurückgehen.
+
+Seit Mitte August haben das nach Angaben der spanischen Regierung mehr als 10.000 Menschen getan.
+
+Marokko erlebt einen Wirtschaftsboom, aber der kommt bei vielen nicht an.
+
+In dem Industriegebiet hausten über Wochen viele Menschen auf der Straße, darunter kleine Kinder und Jugendliche, notdürftig medizinisch betreut aus einem Wohnmobil von Ärzten einer Hilfsorganisation.
+
+Das Wohnmobil dient weiterhin als mobile Klinik, nicht alle selbstgebauten Hütten und Verschläge sind verschwunden. Mit Stockbetten ausgestattete Lagerhäuser beherbergen unbegleitete Minderjährige.
+
+Reine "Kinderlager" seien das, keine echten Einrichtungen, sagt Ahmed Enfedal, der Präsident der Nachbarschaftsvereinigung von Ceutas marokkanischem Viertel El Príncipe. Er berichtet, dass derzeit versucht werde, Minderjährige von dort in einer alternativen Einrichtung unterzubringen, die bessere Bedingungen und Betreuung biete.
+
+Die Nachbarschaftsvereinigung hatte wochenlang junge Mädchen auf dem Fußballplatz einer Schule im Viertel versorgt. Sie verteilt weiterhin Essen an Migranten auf der Straße, unterstützt Eltern auf der Suche nach ihren Kindern beim Prozess der Familienzusammenführung.
+
+Doch auch die Menschen hier seien es leid, dass Menschen vor ihren Häusern schliefen, fühlten sich allein gelassen, sagt Ahmed. Sie versuchten aber im Rahmen ihrer bescheidenen Verhältnisse zu helfen, wo sie könnten.
+
+Nach der Räumung von "El Guano" kamen die Bagger, um die Reste des Lagers zu entsorgen - rechtzeitig zum Besuch des Königs.
+
+Dem Besuch des Königspaars misst Enfedal vor allem symbolischen Wert bei, organisiert aber dennoch engagiert Spanien-Fähnchen zum Schwenken.
+
+Am anderen Ende Ceutas zeigt Jorge González auf seiner weitläufigen Terrasse Fotos und Videos aus den Wochen, die er und seine Frau als Belagerungszustand empfunden haben und liefert eine sehr ähnliche Einschätzung des Königsbesuchs: "Das ist symbolisch, mehr nicht. Sonst kann er nichts tun. Aber zumindest unterstützt er uns moralisch, nachdem Europa und die spanische Regierung uns sehr im Stich gelassen haben."
+
+Dieses Thema im Programm: NDR Info | Nachrichten | 13.10.2026 | 08:07 Uhr
 
 ----------------------------------------
 
-[3] BRIEFPORTO 2027: STANDARDBRIEF KÖNNTE 1,14 EURO KOSTEN
+[3] SCHWARZES MEER: ERNEUT FRACHTER VOR BULGARISCHER KÜSTE GESUNKEN
 
-Ein Brief für mehr als einen Euro? Das könnte bald Realität werden. Die Post soll laut der Bundesnetzagentur ihre Preise kräftig erhöhen dürfen, auch für Pakete. Was dahintersteckt und wie teuer es werden könnte.
+Vor Bulgariens Küste sind wieder Handelsschiffe von Drohnen getroffen worden. Bei dem Angriff sank ein Frachter, mehrere Seeleute werden vermisst. Die bulgarische Regierung verdächtigt Russland und schaltet die NATO ein.
 
-Die Deutsche Post soll ihre Preise zum Jahreswechsel deutlich anheben dürfen. Die Bundesnetzagentur veröffentlichte einen Entwurf, nach dem das Porto für Privatkundenbriefe ab Januar 2027 im Durchschnitt um 20,35 Prozent steigen könnte.
+Bei erneuten Drohnenangriffen auf Handelsschiffe im Schwarzen Meer ist vor der bulgarischen Küste ein Frachter gesunken. Nach Angaben der bulgarischen Behörden werden elf Besatzungsmitglieder vermisst. Fünf Seeleute konnten gerettet werden. Ein weiteres Schiff wurde beschädigt.
 
-Es wäre der bislang größte genehmigte Preisaufschlag. Auch für Pakete sind höhere Preise vorgesehen.
+Die beiden Schiffe wurden in der Nacht in der Ausschließlichen Wirtschaftszone Bulgariens getroffen. Ministerpräsident Rumen Radew verurteilte die Attacken als "absolut inakzeptabel". Er berief eine außerordentliche Sitzung des Sicherheitsrats ein.
 
-Jeder Ort mit mehr als 2.000 Einwohnern muss eine Postfiliale haben. Erreicht wird das nicht immer.
+Betroffen sind nicht nur militärische Ziele - auch zivile Infrastruktur gerät zunehmend unter Beschuss.
 
-Wie teuer die einzelnen Briefarten werden, steht allerdings noch nicht fest. Das entscheidet die Deutsche Post später selbst. Würde sie den vorgesehenen Erhöhungsspielraum gleichmäßig auf alle Briefarten anwenden, könnte ein Standardbrief künftig 1,14 Euro kosten.
+Das gesunkene Frachtschiff "Azov Concord" war unter der Flagge von St. Kitts und Nevis unterwegs. Es wurde rund 31 Kilometer vor dem bulgarischen Küstenort Krapez nahe der rumänischen Grenze getroffen. Nach Angaben der bulgarischen Nachrichtenagentur BTA bestand seine Besatzung aus syrischen und ägyptischen Staatsangehörigen.
 
-Derzeit sind es 95 Cent. Denkbar sind allerdings auch Preise von 1,10 oder 1,15 Euro, da die Post ihre Preise bislang häufig in Fünf-Cent-Schritten angepasst hat.
+Das zweite Schiff, die unter maltesischer Flagge fahrende "Chelsea 3", wurde etwa 33 Kilometer vor dem Küstenort Bjala von drei Drohnen getroffen. Alle 15 Besatzungsmitglieder wurden gerettet. Mindestens fünf von ihnen mussten wegen leichter Verletzungen medizinisch behandelt werden.
 
-Damit würde das Porto für einen Standardbrief erstmals die Ein-Euro-Marke überschreiten. Seit 2012 hätte sich der Preis dann ungefähr verdoppelt. Damals kostete der Versand noch 55 Cent.
+Das Schiff gehört ukrainischen Eigentümern und war auf dem Weg von der Türkei in die Republik Moldau. Nach Angaben des bulgarischen Rundfunks trieb es nach der Evakuierung der Besatzung ohne Mannschaft auf dem Schwarzen Meer.
 
-Auch Pakete für Privatkundinnen und Privatkunden könnten teurer werden - um durchschnittlich 10,72 Prozent. Für Geschäftskundenbriefe sieht die Bundesnetzagentur denselben Erhöhungsspielraum wie für Privatkunden vor: 20,35 Prozent.
+Russland und die Ukraine wollen keine Schiffe mehr im Schwarzen Meer angreifen.
 
-Eigene Filialen der Deutschen Post gibt es fast gar nicht mehr.
+Die bulgarische Regierung kann nach eigenen Angaben bislang nicht eindeutig feststellen, wer die Drohnen abgefeuert hat. Ministerpräsident Radew erklärte jedoch, die Angriffe kämen den Interessen Russlands zugute.
 
-Ein wesentlicher Grund für die geplante Erhöhung ist die sinkende Briefmenge. Während 2005 in Deutschland noch 16,9 Milliarden Briefe verschickt wurden, waren es 2025 nur noch knapp 9,4 Milliarden. Immer mehr Firmen und Verbraucher kommunizieren digital.
+Er kündigte an, die russische Botschafterin in Sofia einzubestellen. Außerdem wolle Bulgarien die Überwachung seines Luftraums und des Schwarzen Meeres verstärken. Radew kündigte zudem Gespräche mit NATO-Generalsekretär Mark Rutte an. Außerdem hat Bulgarien die NATO und die Europäische Union um technische Unterstützung bei den Ermittlungen gebeten.
 
-Die Kosten für die Zustellung bleiben dagegen hoch. Die Post muss weiterhin ein dichtes Netz aus Filialen, Briefkästen und Zustellpersonal unterhalten.
+EU-Kommissionspräsidentin Ursula von der Leyen verurteilte die Angriffe scharf. Es sei inakzeptabel, dass das Schwarze Meer zu einer weiteren Front der Eskalation des russischen Angriffskriegs gegen die Ukraine werde, schrieb sie auf der Plattform X. Die Verantwortlichen müssten zur Rechenschaft gezogen werden.
 
-"Wenn die Kosten unter anderem aufgrund der zunehmenden Digitalisierung auf weniger Briefe zu verteilen sind, steigen die Preise", erklärte der Präsident der Bundesnetzagentur, Klaus Müller. Die Behörde sei bei ihrem Vorschlag unter den von der Post geforderten Preisanpassungen geblieben.
+Russland hat sich bisher nicht zu den Vorfällen geäußert.
 
-Die Deutsche Post verwies in einer ersten Reaktion auf deutlich gestiegene Kosten für Löhne, Energie und Materialien. Zugleich räumte der Konzern ein, dass zu starke Preissteigerungen die Kunden belasten und den Rückgang der Briefmengen weiter beschleunigen könnten.
+Die Crew gilt als vermisst - eine Rettungsaktion ist angelaufen. Auf einem weiteren Frachter gab es mehrere Verletzte.
 
-"Wir werden daher mit dem von der Bundesnetzagentur eingeräumten Spielraum verantwortungsvoll umgehen", teilte die Post mit. Ziel sei eine ausgewogene Preisgestaltung, die sowohl die Wirtschaftlichkeit als auch die Interessen der Kundinnen und Kunden berücksichtige.
+Erst vergangene Woche waren vor der bulgarischen Küste zwei Handelsschiffe von Drohnen getroffen worden. Eines der Schiffe sank, seine zwölfköpfige Besatzung gilt seitdem als vermisst. Auf dem zweiten Schiff brach ein Feuer aus, die Besatzung konnte gerettet werden.
 
-Dank eines Sparprogramms und einem höheren Briefporto hat die Deutsche Post ihr Ergebnis gesteigert.
+Die Ukraine machte Russland für diese früheren Angriffe verantwortlich. Präsident Wolodymyr Selenskyj warf Moskau vor, den westlichen Teil des Schwarzen Meeres für die Schifffahrt unbenutzbar machen zu wollen.
 
-Beschlossen ist die Portoerhöhung noch nicht. Zunächst können sich Unternehmen und Verbände zu dem Entwurf der Bundesnetzagentur äußern. Anschließend legt die Behörde den endgültigen Erhöhungsspielraum fest. Die Deutsche Post entscheidet dann, wie sie diesen auf die einzelnen Brief- und Paketarten verteilt. Die konkreten Preise müssen wiederum von der Bundesnetzagentur genehmigt werden.
+Berichten zufolge wurde der Frachter von einer russischen Drohne getroffen.
 
-Die neuen Portopreise sollen ab Januar 2027 gelten und für zwei Jahre Bestand haben. Im europäischen Vergleich ist der Briefversand in Deutschland bislang noch relativ günstig. In Österreich kostet ein Standardbrief einen Euro, in den Niederlanden 1,40 Euro und in Frankreich 1,52 Euro. Dort soll das Porto zum Jahreswechsel auf 1,67 Euro steigen.
+Seit Beginn des russischen Angriffskriegs gegen die Ukraine kommt es im Schwarzen Meer immer wieder zu Attacken auf zivile Schiffe. Nach Angaben der türkischen Handelskammer für Seefahrt wurden seit Kriegsbeginn fast 230 zivile und Handelsschiffe angegriffen, die meisten davon in diesem Jahr.
 
-Dieses Thema im Programm: MDR aktuell - Das Nachrichtenradio | Nachrichten | 12.10.2026 | 10:30 Uhr
+Bulgarien ist NATO- und EU-Mitglied. Das Land grenzt nicht unmittelbar an Russland oder die Ukraine, liegt aber an einer strategisch wichtigen Schifffahrtsroute im Schwarzen Meer.
+
+Dieses Thema im Programm: MDR aktuell - Das Nachrichtenradio | Nachrichten | 13.10.2026 | 10:00 Uhr
 
 ----------------------------------------
 
 
 >>> SPORT (SPORTSCHAU) <<<
 
-[1] "ES FUNKTIONIERT NICHT" - KRITIK AN FLORIAN WIRTZ NIMMT ZU
+[1] NIKO KOVAC BLEIBT BVB-CHEFTRAINER BIS 2029
 
-Der Rückenwind nach seinen starken Auftritten für Deutschland ist schon nach dem ersten Spiel in der Premier League wieder verpufft. Beim Topspiel gegen Manchester City blieb Florian Wirtz erneut unauffällig und wurde früh ausgewechselt. TV-Experte Jamie Carragher hat den Rekord-Transfer bereits abgehakt.
+Borussia Dortmund hat den Vertrag mit Niko Kovac verlängert. Eine logische Entscheidung, denn Kovac liefert für Dortmund verlässlich Punkte, ohne Anzeichen, dass sich das bald ändern könnte.
 
-Es wäre die Gelegenheit gewesen, die Leistungen zu bestätigen, vor allem die aus dem Spiel gegen Serbien. Da hatte Florian Wirtz ein Tor für die deutsche Nationalmannschaft geschossen, das andere beim 2:0-Sieg vorbereitet. "Da ist ja Deutschlands Unterschiedsspieler" titelte die "Süddeutsche Zeitung" nach dem Duell in der Nations League.
+Borussia Dortmund setzt weiter auf Niko Kovac. Am Dienstag kam die Mitteilung über die Vertragsverlängerung - einen Tag vor dem Champions League Spiel.
 
-Mit Deutschland war es dann jetzt aber wieder vorbei, es ging zurück zum Verein, zurück in die Premier League, in das Duell mit Manchester City.
+Der BVB setzt damit nach eigenen Angaben ein klares Zeichen für Konstanz und Stabilität. Lars Ricken, Geschäftsführer Sport, erklärt: "Mit Niko Kovac befinden wir uns seit seinem Amtsantritt vor etwas mehr als anderthalb Jahren auf einem sehr guten Weg. Er hat die Mannschaft konstant weiterentwickelt und genießt innerhalb unseres Klubs eine hohe Akzeptanz."
 
-Die Partie stand im Zeichen des Betrugsskandals um City, die Atmosphäre an der Anfield Road war entsprechend aufgeladen. Aber der Tabellenführer hielt dem Druck stand und gewann nach einer gelb-roten Karte für Liverpools Ryan Gravenberch souverän mit 3:0.
+Unter allen Dortmunder Trainern, die mehr als nur interimsweise im Amt waren, liegt Niko Kovac nach 80 Pflichtspielen auf Rang sechs, mit rund zwei Punkten pro Spiel. Das entspricht einem Sieg und einem Unentschieden in zwei Spielen. Zum Vergleich: Kovac liegt damit knapp vor Trainergrößen wie Edin Terzic, Lucien Favre und Jürgen Klopp.
 
-Wirtz gelang dabei so gut wie gar nichts. Während er für Deutschland gegen Serbien noch das Spiel lenkte und an fast jedem Angriff beteiligt war, blieb er im Liverpool-Trikot wieder unauffällig. Schon in der 66. Minute - kurz nach dem Führungstor durch Erling Haaland - nahm ihn Liverpools Trainer Andoni Iraola vom Platz.
+Auch, wenn Dortmund im letzten Jahrzehnt über weite Strecken Bayern-Verfolger Nummer eins war - Als Kovac im Februar 2025 kam, war die Aufgabe schwer: Der BVB stand auf Platz elf, wichtige Spieler wie Karim Adeyemi und Julian Brandt steckten im Formtief. Am Ende gelang eine spektakuläre Aufholjagd: Acht Siege aus neun Spielen brachten am 34. Spieltag den Sprung auf einen Champions-League-Platz. Und der Jubel: Unermesslich?
 
-Jamie Carragher ist als Legende des LFC bekannt und immer noch Hardcore-Fan seines Klubs. Er ist aber auch als Experte des britischen "Sky Sports" bekannt, der schonungslos urteilt. Am Sonntag sagte er: "Es tut mir leid, das sagen zu müssen: Es funktioniert nicht mit Florian Wirtz und hat bislang auch nicht funktioniert."
+Getrübt wurde Kovacs Aufholjagd durch seinen schlechten Start: in den ersten sechs Ligaspielen gab es nur zwei Siege und vier Niederlagen. Als Ex-Bayern-Trainer besaß er außerdem wohl nicht die höchsten Sympathiewerte. International war 2024/2025 im Champions League Viertelfinale gegen den FC Barcelona Schluss. Das war keine große Ernüchterung, aber eben auch kein Achtungserfolg. Trotz des beachtlichen vierten Platzes hatte sich Kovac in Dortmund damit keine großen Aktien erspielt.
 
-Michael Owen spielte auch einst für Liverpool und schoss mehr als 100 Tore für den Klub. Auch er ist heute als Fernsehexperte beschäftigt, und er sagte nach dem Spiel gegen City: "Seien wir ehrlich: Liverpool hat nicht so viel Geld ausgegeben, um einen Spieler zu bekommen, für den man monatelang immer neue Entschuldigungen finden muss."
+In der Saison 2025/2026 sank der Kurs für Kovac weiter, obwohl Dortmund in der Liga zuverlässig Punkte sammelte. Im Februar 2026 kam es zum Debakel im Playoff-Rückspiel der Champions League: 4:1 ging Dortmund in Bergamo unter und verpasste das Achtelfinale. Bitter war auch das frühe Aus im DFB-Pokal, in der zweiten Runde gegen den VfL Wolfsburg. In der Liga reichte es am Ende für Platz hingegen für Platz zwei, aber ohne den Bayern wirklich gefährlich zu werden.
 
-Lange hieß es, Wirtz müsse sich an das höhere Tempo und die robustere Spielweise in der Premier League gewöhnen. Aber in seiner zweiten Saison gibt es auch angesichts der horrenden Ablösesumme von weit mehr als 100 Millionen Euro keine Schonfrist mehr für den 23 Jahre alten Mittelfeldspieler. "Wirtz ist ein talentierter Fußballer, das bestreitet niemand. Aber Talent bedeutet sehr wenig, wenn man nicht liefern kann, sobald die Mannschaft einen braucht", sagte Owen.
+Die Spielweise wäre den Fans wohl kein Dorn im Auge, hätte Kovac in der abgelaufenen Saison die Champions League gewonnen. Denn "Echte Liebe", der offizielle Slogan des Klubs, lässt sich auch durch Erfolge erarbeiten. So aber stehen Vorwürfe im Raum, Dortmund spiele keinen erfolgreichen und zugleich attraktiven Offensivfußball.Kovac und Geschäftsführer Lars Ricken bestätigten sie nach der letzten Saison indirekt: "Bei über 50 Spielen pro Saison sind dreckige Siege genauso wichtig – und die bringen genauso viele Punkte", sagte Ricken. Kovac bezeichnete die Möglichkeiten des Kader als eingeschränkt: "Als Trainer muss man immer wieder sehen: Was hat man zur Verfügung? Dann kann man nur das spielen, was möglich ist", sagte er dem Kicker. Konkret nannte er Spieler wie Jadon Sancho, Erling Haaland und Marco Reus. Spieler von Weltklasseformat, die Dortmund im Moment aktuell nicht mehr, oder noch nicht hat. Und bisher hat Kovac bei Dortmund keinesfalls wenig aus dem Kader herausgeholt.
 
-Carragher sagte: "Er muss noch so viel mehr leisten, und mir fällt kaum ein Spiel ein, in dem er - nun ja - Liverpool den Sieg beschert hat, in dem er sozusagen der Mann des Spiels war. Ich finde, Liverpool hat ihm genug Chancen gegeben, und ich denke, er muss aus der Mannschaft herausgenommen werden."
-
-Sowohl in den sechs Partien der Premier League wie auch beim 2:1-Sieg gegen Atlético Madrid zum Auftakt der Champions League stand Wirtz in der Startelf von Iraola. Unter dessen Vorgänger Arne Slot begann Wirtz in zehn von elf Spielen der Champions League und in 27 von 33 möglichen Partien in der Liga.
-
-Nach seinem Abschied aus Leverkusen im Sommer 2025 bestritt Wirtz 56 Wettbewerbsspiele für Liverpool. Dabei gelangen ihm sieben Tore und elf Vorlagen. In der aktuellen Saison steht ein Assist bei sieben Einsätzen zu Buche.
-
-Carragher fällt aufgrund der Daten und Eindrücke ein harsches Urteil: "Er hat mittlerweile 55, 60 Spiele bestritten. Das ist eine ganze Menge. Ich glaube nicht, dass sich etwas ändern wird."
-
-Die Chance auf eine Wirtz-Wende sieht Carragher ausgerechnet in der deutschen Nationalmannschaft: "Die einzige Hoffnung ist jetzt, dass Jürgen Klopp den Arm um ihn legt", sagte der TV-Experte. Unter dem Bundestrainer habe Wirtz in den vergangenen Partien schließlich "besonders gut" gespielt.
-
-Bevor es Mitte November bei der Nationalmannschaft weiter geht, sind die Wochen sind prall gefüllt. Am Mittwoch spielt Liverpool in der Champions League beim Linzer ASK, am Samstag geht es in der Premier beim FC Brentford weiter, drei Tage später kommt der FC Villarreal an die Anfield Road. Wirtz darf also auf weitere Chancen hoffen, sein Talent auch in England zu zeigen.
-
-Dieses Thema im Programm: sportschau.de | Harte Kritik an Florian Wirtz in Liverpool | 12.10.2026 | 12.25 Uhr
+Sendung: WDR.de, "Niko Kovac und das BVB-Geraune", 08.10.2026, 16:19 Uhr
 
 ----------------------------------------
 
-[2] PREMIER LEAGUE: MAN CITY SIEGT VÖLLIG UNBEEINDRUCKT BEIM FC LIVERPOOL
+[2] EINTRACHTS SPORTCHEF MARKUS KRÖSCHE WACKELT
 
-Manchester City hat in der Premier League das brisante Spitzenspiel beim FC Liverpool gewonnen und zeigte sich dabei völlig unbeeindruckt vom aktuellen Finanzskandal.
+Nach der Demütigung in Leipzig wächst auch wieder die Kritik an der Kader-Zusammenstellung von Markus Krösche. Die Zukunft des Eintracht-Sportvorstands scheint ungewisser denn je.
 
-Im Stadion an der Anfield Road feierte City einen 3:0-Auswärtssieg. Die Tore erzielten Erling Haaland (65.), Jérémy Doku (68.) und Rayan Cherki (78.). Aus Liverpooler Sicht nahm das Unheil seinen Lauf, als Ryan Gravenberch in der 62. Minute mit Gelb-Rot vom Platz musste.
+Im September konnte Eintracht Frankfurt als Oase der Ruhe durchgehen. Zumindest im Vergleich zum August. Und zum Oktober. Keine Transfers, keine sportliche Krise, kein Bosse-Beben, kein Zwist zwischen Sportchef, Oberchef und Mannschaftschef (Trainer), angeblich nicht mal ein geschlossener Burgfrieden. Sondern, so der von den Protagonisten nach außen getragene Tenor: Friede, Freude, Eierkuchen.
 
-In der Tabelle bleibt City, das Team von Trainer Enzo Maresca, mit einer makellosen Bilanz und 18 Punkten Tabellenführer. Liverpool, das seine erste Saisonpleite einstecken musste, ist mit seinem neuen Trainer Andoni Iraola mit neun Punkten Neunter.
+Nun, da die Eintracht in Leipzig unter die Räder geraten ist, da die Mitgliederversammlung (19. Oktober) und vor allem die nächste Transferphase (1. Januar bis 1. Februar 2027) nahen, mehren sich jedoch wieder die Berichte, die sich mit der Frankfurter Führungsebene beschäftigen. Die verknappte Zusammenfassung: Derart rosig, wie die Stimmung von den Eintracht-Machern öffentlich geschildert wird, ist sie nicht. Einestags berichtet die Bild über geheime Bosse-Pläne, anderntags macht die Frankfurter Rundschau Krösche zum Chef "auf Abruf". Und auch nach Informationen des hr-sport ist die Zukunft von Krösche mehr als ungewiss.
 
-Das erste City-Spiel nach dem Schuldspruch wegen zahlreicher Verstöße gegen die Finanzregeln der Premier League war emotional enorm aufgeladen. Das bekamen die Gäste schon bei ihrer Ankunft am Stadion zu spüren, wo der Bus mit jeder Menge Pyrotechnik empfangen wurde.
+Bereits am Tag nach dem Deadline Day kommentierte der hr-sport, dass Krösche die Transferphase in den Sand gesetzt habe. Andere Medien sahen es anders, stellten dem Sportvorstand ein gutes Zeugnis aus, vor allem als Verkäufer. Dies mag stimmen, den von ihm vom Aufsichtsrat geforderten Transferüberschuss hat der 46-Jährige tatsächlich generiert. Immer mehr zeigt sich aber, dass die Kader-Zusammenstellung - wohlwollend ausgedrückt - suboptimal ist.
 
-Hintergrund: Man City drohen harte Strafen bis zur Aberkennung mehrerer Meistertitel oder einem Zwangsabstieg. Dabei könnte Liverpool zu den größten Nutznießern gehören. Gleich zwei Titel könnten theoretisch nachträglich an die "Reds" gehen: die englische Meisterschaft 2013/14 und der Ligapokal 2016. City hat Einspruch gegen das Urteil eingelegt und weist alle erhobenen Vorwürfe zurück.
+Die Problemzonen sind bekannt: Die Außenverteidiger sind nicht stabil, die Innenverteidiger noch viel weniger. Nathaniel Brown wurde nicht im Ansatz ersetzt, ebenso wenig Rasmus Kristensen. Robin Koch spielt hinten weiterhin wie Robin Koch, wirkliche Alternativen für den Kapitän aber gibt es nicht. Und selbst das defensive Mittelfeld, in dem die Eintracht für Raphael Onyedika und Noel Aseko mehr als 20 Millionen Euro hinblätterte, ist bisher nicht konstant.
 
-Schuldig in mehr als 100 Punkten - so lautet das Ergebnis einer unabhängigen Kommission der Premier League. Manchester City hingegen behauptet weiterhin unschuldig zu sein. Sport inside über den Finanzskandal und seine möglichen Folgen. 
-                                                ardsounds
+Auch Ersatzverteidiger Otavio kostete fast fünf Millionen. Krösche trägt sicher nicht allein die Schuld für den mehr als wackligen Saisonstart, seinen Anteil aber hat er sehr wohl. Mindestens bemerkenswert zudem: Nach der Demütigung von Leipzig war er derjenige, der die Leistung zwar tadelte, sich im Vergleich zu anderen aber doch weniger kritisch äußerte.
 
-Während des Spiels entlud sich der Unmut der Liverpool-Fans in Protest-Plakaten, Pfeifkonzerten, Spott und Beschimpfungen. Manchester Citys Trainer Enzo Maresca erwartet auch in den kommenden Wochen eine Art Spießrutenlauf bei jeder Auswärtspartie seines Teams. "Wir müssen lernen, mit diesem Lärm umzugehen", sagte der Italiener nach Abpfiff. "Denn der Lärm wird uns vielleicht in allen Auswärtsspielen begleiten wegen der Situation, die wir alle kennen."
+Längst kursieren hinter vorgehaltener Hand auch deshalb diverse Zukunftsszenarien, deren Wahrscheinlichkeiten unterschiedlich sind. Dass der Manager seinen Vertrag, der bis Sommer 2028 läuft, komplett erfüllt, hat dabei nicht den höchsten Wert. Schon eher, dass die gemeinsame Zusammenarbeit im kommenden Sommer enden wird.
 
-Fans des FC Liverpools präsentieren ein Banner gegen Manchester City
+Hier und da ist sogar zu erhaschen, dass schon vor diesem Winter Schluss sein könnte. Gegen letztere Variante spricht das Datum an sich. Also, dass es nicht mehr allzu lang hin ist bis Januar, der aus Eintracht-Sicht mit Blick auf die Kader-Lücken in diversen Transfers münden sollte. Ein neuer Sportchef bräuchte da schon eine Einarbeitungszeit und ist womöglich während einer Saison gar nicht so leicht zu bekommen. Doch dazu später mehr.
 
-"Während des Spiels war es hart", sagte auch Torschütze Haaland. "Aber wir haben einen unglaublichen Charakter gezeigt."
+Dass Axel Hellmann, der Vorstandssprecher und gemeinhin als Mister Eintracht bezeichnete 55-Jährige, inmitten möglicher Personalrochaden zum (noch mächtigeren) Vorstandsvorsitzenden aufsteigen könnte, ist nur eine weitere Zutat für das derzeit vor sich hin köchelnde Eintracht-Süppchen. Eine zentrale Rolle spielt ganz sicher Mathias Beck, der Präsident und Aufsichtsratsvorsitzender in Personalunion ist, und seine Position im Verein mit einem hochprozentigen Wahl-Ergebnis bei der Mitgliederversammlung (kein Gegenkandidat fürs Präsidentschaftsamt) nochmals stärken will. Viel spricht dafür, eigentlich alles, dass ihm das gelingen wird.
 
-Im Hexenkessel Anfield sahen die Fans in der ersten Halbzeit eine ausgeglichene Partie. Und die war vor allem intensiv. Schiedsrichter Chris Kavanagh hatte von Beginn an jede Menge zu tun. In der aufgeheizten Stimmung gab es die erste Rudelbildung schon nach rund zehn Minuten.
+An Beck liegt es zwecks seiner Position als Aufsichtsratsvorsitzender, den für den Sport verantwortlichen Vorstandsposten zu organisieren. Kürzlich sagte er dem Wiesbadener Kurier zur Zusammenarbeit mit Krösche: "Gehen Sie davon aus, dass wir in einem ständigen und guten Austausch sind. Ich habe aktuell auch keinen Grund, die Vertragsgrundlage anzuzweifeln."
 
-Viel Kampf war angesagt auf dem Rasen. Viele kleine Fouls in zahlreichen Zweikämpfen ließen kaum einmal Spielfluss aufkommen, die Partie spielte sich vor allem zwischen den beiden Strafräumen ab. Nach 45 Minuten hatten die Statistiker keine ernstzunehmende Torchance auf dem Zettel. Mehr als ein paar Versuche aus der Ferne gab es nicht zu sehen. Liverpools Florian Wirtz hatte dabei genauso einen schweren Stand wie auf der Gegenseite Man-City-Stürmer Erling Haaland.
+Dass vergangenes Jahr mit Pirmin Schwegler schon einmal ein potenzieller Krösche-Nachfolger im Klub aufgebaut werden sollte, auch wenn dies damals nach außen nicht so benannt wurde, passt ins Bild. Und ist nur professionell. Die Eintracht muss sich auf eine Post-Krösche-Ära vorbereiten – wann auch immer diese kommen mag.
 
-Im zweiten Durchgang wurde es besser. Die erste Chance hatten die Liverpooler kurz nach dem Wiederanpfiff. Nach einer Balleroberung im Mittelfeld ging es über Bradley Barcola blitzschnell durch Zentrum nach vorne, doch Lewis Koumas scheiterte mit seinem satten Schuss an City-Torwart Gianluigi Donnarumma. Nur Sekunden später zwangen Ryan Gravenberch und Alexis Mac Allister den Italiener zu zwei weiteren Paraden.
+Namen möglicher Nachfolgekandidaten gibt es, echte Favoriten sind bisher nicht auszumachen, sehr wohl aber Abstufungen. Während der vom Boulevard genannte Hasan Salihamidzic (einst FC Bayern, derzeit vereinslos) keine ernsthafte Option ist, können andere Kandidaten schon als deutlich realistischer eingeordnet werden.
 
-Und plötzlich tauchte dann auch City vorne auf. Antoine Semenyo flankte den Ball flach vors Tor, wo Iliman Ndiaye heranrauschte. Dem Rechtsaußen fehlten wenige Zentimeter zum 1:0. Milos Kerkez musste in höchster Not klären.
+So tauchen Joti Chatzialexiou (Sportvorstand 1. FC Nürnberg) oder Marcel Schäfer (Sport-Geschäftsführer RB Leipzig) auf, zudem auch die gebürtigen Hessen Benjamin Weber (Sportdirektor FC Augsburg, früher unter anderem Analyst unter Thomas Tuchel) und Marco Neppe (Sportdirektor Paris FC, einst Technischer Direktor Bayern München). Alle gemein haben sie, dass sie aktuell recht erfolgreich bei ihren Klubs arbeiten und mit langfristigen Arbeitspapieren ausgestattet sind.
 
-Die Partie, die im ersten Durchgang so enttäuscht hatte, nahm Fahrt auf. Und das lag vor allem an Jérémy Doku, der in der 56. Minute eingewechselt wurde.
+Bevor tatsächlich über Nachfolger befunden werden kann, muss freilich erst einmal mittel- und langfristig die Zukunft von Markus Krösche geklärt werden. Täuscht der Eindruck nicht, den der hr-sport aus verschiedenen Bereichen des Vereins vernimmt, könnten die nächsten Wochen darüber mehr Aufschluss bringen.
 
-Nach rund einer Stunde gab es die beiden nächsten Großchancen. Nach einer Ecke von Wirtz setzte Mac Allister den Ball aus fünf Metern nur knapp am Pfosten vorbei, auf der Gegenseite tauchte Haaland frei vor Liverpool-Torwart Alisson Becker auf, sein Schuss ging aber knapp am Tor vorbei.
-
-Dann wurde es hektisch. In der 63. Minute sah Gravenberch nach einem Foul an Doku die gelb-rote Karte. Liverpool in Unterzahl, eine herbe Schwächung für die "Reds". Und City brauchte keine drei Minuten, um die Überzahl und die Verwirrung beim LFC zu nutzen. Doku drang von der linken Seite in den Strafraum ein, Haaland nahm seine noch abgefälschte Flanke direkt und knallhart ab - 1:0 für Manchester City.
-
-Und die "Skyblues" machten gnadenlos weiter. Diesmal war es Doku selbst, der traf. Von links zog er erneut in die Mitte und dann schloss er ab - und zwar genau in den Winkel. Und das alles nur drei Minuten später.
-
-Die geschockten "Reds" hatten nichts mehr zuzusetzen. In der 78. Minute krönte Rayan Cherki ein tolles Zusammenspiel mit Elliot Anderson und Josko Gvardiol und erhöhte auf 3:0. Am Ende fuhr City nach schwacher erster Halbzeit einen am Ende ungefährdeten Sieg ein.
-
-Dieses Thema im Programm: sportschau.de | Manchester City gewinnt beim FC Liverpool deutlich | 11.10.2026 | 20.24 Uhr
+Dieses Thema im Programm: Sendung: hessenschau.de, Ungewisse Zukunft von Markus Krösche, 12.10.26, 14:10 Uhr
 
 ----------------------------------------
 
-[3] DIE SPORTSCHAU AM SONNTAG IN VOLLER LÄNGE
+[3] KOMMENTAR: SC FREIBURGS HÖHENFLUG IST LÄNGST KEINE "MOMENTAUFNAHME" MEHR
 
-Sehen Sie hier die Sportschau am Sonntag in voller Länge. Mit unter anderem der 2. Bundesliga, den Highlights der Premier-League-Partie zwischen dem FC Liverpool und Manchester City sowie der Formel 1 in Singapur.
+Nach fünf Spielen grüßt der SC Freiburg als Tabellenführer von der Bundesliga-Spitze. SWR-Reporter Pirmin Styrnol glaubt, dass das keine Momentaufnahme ist.
+
+Ein bisschen süß finde ich es ja schon, wenn man in Freiburg noch immer ganz bescheiden von einer "Momentaufnahme" spricht. Ganz so, als könne man sich selbst nicht erklären, wie zum Teufel man eigentlich dahin gekommen ist, wo man gerade steht. Als wäre das alles kaum zu glauben. Aber jetzt mal ehrlich: Über diesen Punkt sind wir doch längst hinaus. Der derzeitige Erfolg des SC Freiburg ist vieles, aber völlig überraschend sicher nicht.
+
+Wenn man die Entwicklung des Sport-Clubs in den vergangenen zehn Jahren ansieht, dann gleicht diese einem sehr sehr guten Börsenkurs. Ja, es gab auch ein paar Ausreißer nach unten. Aber darauf folgten jedes Mal eine schnelle Konsolidierung und dann ein neuer Höhenflug. Wie es bei einer guten Aktie eben sein soll. Was der Verein mit Christian Streich und dem Trio Saier-Hartenbach-Leki an der Spitze angestoßen hat und was Julian Schuster in seiner bereits dritten Saison als Chef-Coach fortführt, ist phänomenal. Eine Momentaufnahme ist das schon lange nicht mehr.
+
+Was wurde vor drei Jahren doch geunkt. Kaum einer hatte erwartet, dass Julian Schuster so nahtlos an die Ära Streich anknüpfen, geschweige denn sie vergolden könnte. So groß schienen die Fußstapfen. Doch Schusters Füße passten schnell. Der neue Cheftrainer nahm die Situation an, führte sein Team in der ersten Saison in die Europa League, in der zweiten Saison ins Euro-League-Finale und ins Halbfinale des DFB-Pokals und steht jetzt nach fünf Spieltagen an der Bundesliga-Spitze. Das ist Wahnsinn.
+
+Aber es ist zugleich auch einfach konsequent. Denn der SC Freiburg steht dort, wo er steht, weil er tut, was er tut. Der Geldbeutel quillt über, die Fußballschule fördert im Halbjahrestakt neue Hoffnungsträger, die Mannschaft ackert auf dem Platz und das Team im Hintergrund ackert im Hinterzimmer. Wenn der Sport-Club diese Einstellung konservieren kann - und ich sehe keinen Grund, warum er das nicht können sollte - dann ist der Freiburger Höhenflug keine Momentaufnahme. Dann dürfen wir uns vielmehr darauf freuen, dass dieser Höhenflug zur Normalität werden wird. Mit den gewohnten Ausreißern nach unten, aber das sollte in Freiburg längst niemanden mehr besorgen. Denn eines hat man im Breisgau in den vergangenen Jahren wieder und wieder bewiesen: Geduld und Unaufgeregtheit bringen langfristig Erfolg. Und das wird auch in Zukunft so bleiben.
+
+Übrigens: Als Leicester City in der Saison 2015/16 sensationell englischer Meister wurde, stand das Team nach fünf Spieltagen mit elf Punkten auf dem zweiten Tabellenplatz. Der SC Freiburg steht nach dem fünften Spieltag auf Platz eins. Mit 13 Punkten. Ich will jetzt nicht zu viele Hoffnungen wecken, aber dennoch: Jedem Fußballromantiker dürfte bei diesem Vergleich das Herz aufgehen. Man wird ja wohl noch träumen dürfen.
+
+Dieses Thema im Programm: Sendung am Mo., 12.10.2026 14:13 Uhr, Freiburg schlägt Schalke und ist Tabellenführer
 
 ----------------------------------------
 
 
 >>> TECH (WIRED) <<<
 
-[1] A NEW ANTI-AGING DRUG LOOKS TO TURN BACK THE CLOCK ON SKIN AGE
+[1] THE BIGGEST PRO-AI SUPER PAC NETWORK HAS POURED MILLIONS INTO NEVADA SHELL COMPANIES
 
-A wave of biotech companies is looking to prove that it’s possible to slow down the aging process. Mountain View, California–based Rubedo Life Sciences is starting with the most outwardly visible sign: the skin.
+The Spanish Springs shopping center in Sparks, Nevada, hosts many businesses, including a Spirit Halloween, a hearing aid supplier, and a Vietnamese restaurant. It’s also home to a consulting agency that’s received millions of dollars from one of the biggest pro-AI super PAC networks ahead of November’s midterm elections.
 
-The company’s experimental treatment is showing early promise that it may be able to reduce the appearance of aging, according to data the company presented at the Aging Research and Drug Discovery meeting in Boston earlier this month.
+The problem is that the company—Lantern Production Consultants LLC—doesn’t seem to exist anywhere beyond a post office box in the Spanish Springs shopping complex.
 
-In a small clinical trial, Rubedo tested its topical cream on 11 people with atopic dermatitis, an inflammatory skin condition and the most common type of eczema. The drug targets a mechanism of cellular senescence, a biological state in which damaged or stressed cells permanently stop dividing but do not die. These senescent or “zombie” cells accumulate as people age and can release substances that contribute to inflammation and tissue damage, which contributes to disease.
+Lantern Production Consultants has been paid around $20 million since last year by Think Big, part of a network of pro-AI super PACs funded by the Leading the Future PAC, for a wide array of services, including polling, digital advertising, research, and strategy, according to federal campaign finance records reviewed by WIRED. Backed by major AI investors, Leading the Future has taken a main role in supporting candidates who back what it calls “an AI innovation policy agenda.”
 
-After four weeks of using the cream, participants lowered the biological age of their skin by about two years, on average. That estimate was based on an aging “clock” designed by a different company, Mitra Bio, which performed an independent analysis on participants’ skin samples. One person in the trial had a reduction of more than 11 years in skin age. Separately, Rubedo found that its treatment was tied to a reduction in inflammation-related markers and a 10 percent increase in a type of collagen associated with skin elasticity and structure.
+It is just one of four mysterious LLCs based out of Nevada that have received payments from super PACs in the Leading the Future PAC network, including Think Big and American Mission. The network, which is also based in Nevada, has raised over $140 million to influence political campaigns that align with AI-industry priorities in the midterms.
 
-Biological or epigenetic age is an estimate of how well a person is aging compared to their calendar age. Aging clocks like Mitra’s attempt to calculate this number by looking at patterns of methylations, chemical modifications to DNA that regulate how genes function and can change over time. That metric doesn’t necessarily prove that the body or a particular organ or tissue has become functionally younger, though.
+Summit Ridge Media Group LLC, which received around $13 million between December 2025 and September 2026 from American Mission, lists an address at a mail center in a Reno strip mall. Blue Horizon Compliance Consultants, which also appears in the filings, has its address listed as a Staples location in Reno. And Prusik Partners LLC’s listed address is at a strip mall in Henderson, Nevada, sharing a building with a chiropractor and a beauty salon.
 
-“Our idea is to find ways to change the trajectory of how we age,” says Marco Quarta, Rubedo’s cofounder and chief scientific officer. “Aging is complex. There are many mechanisms, but cellular senescence is one of them.”
+Election watchdogs argue that these LLCs are shell companies, designed to mask the identities of strategists, consultants, and production companies who are working with Leading the Future. “This is about hiding where the money is going,” claims Shanna Ports, senior legal counsel at the Campaign Legal Center.
 
-Senescent cells are also involved in normal biological processes, such as wound healing and tumor suppression, but their accumulation over time is associated with many age-related conditions. Getting rid of them is one of the leading strategies that anti-aging and longevity companies are pursuing.
+In May, the Campaign Legal Center filed a complaint with the FEC, which enforces campaign finance laws, alleging that Think Big and American Mission had broken federal law by using shell companies in this way. Specifically, lawyers with the Campaign Legal Center alleged that super PACs in the Leading the Future network had violated the Federal Election Campaign Act (FECA) by failing to disclose the actual recipients of their payments. The LLCs, they wrote in their complaint, “function as mere extensions of the super PACs they serve.”
 
-Rubedo’s approach aims to clear out senescent cells by targeting a protein known as GPX4, a gatekeeper for cell survival. By transiently turning off GPX4, the drug is designed to make senescent cells more susceptible to ferroptosis, a regulated form of cell death, while reviving stressed, non-senescent cells nearby.
+In an emailed statement to WIRED, Leading the Future spokesperson Jesse Hunt wrote, “We comply with all applicable laws and this is merely a desperate ploy for attention from Public First, Anthropic, and the groups aligned with their outside organizations who see our message resonating with the public and policymakers.”
 
-In a separate study, researchers looked at the drug’s effect on actinic keratosis, a skin condition caused by sun damage and produces rough, scaly skin patches and can sometimes progress to skin cancer. In a trial of 18 people, the cream led to a 46 percent reduction in total lesions after a month of use.
+WIRED reached out to Anthropic and Public First—a pro-AI super PAC focused on transparency and safeguards that has significant backing from Anthropic leadership—to ask about Leading the Future’s charge. “I have no idea what they’re talking about,” said Public First spokesperson Anthony Rivera-Rodriguez. “We unequivocally had nothing to do with this complaint.” Anthropic did not respond to WIRED’s request for comment.
 
-Rubedo is studying the same drug for psoriasis and skin with sun damage. Soon, the company will add androgenetic alopecia, a type of hereditary hair loss, to the list. CEO Frederick Beddingfield, previously the chief medical officer at Allergan, where he launched Botox, sees potential in a lower-potency, over-the-counter version for general skin aging, which would compete with retinol. The company is also formulating the drug into a pill to study whether it can be used to treat metabolic conditions associated with aging.
+The Campaign Legal Center doesn’t expect its case to be heard by the FEC anytime soon, given that the FEC is essentially toothless at the moment. The FEC has six commissioner seats, all presidential appointees. To make a decision on a legal complaint, the FEC needs a quorum of four commissioners, which it hasn’t had since May 2025. Meanwhile, Think Big and American Mission have continued to pour millions of dollars into the Nevada LLCs.
 
-“It's great to see them doing this work,” says Eric Verdin, president and CEO of the Buck Institute for Research on Aging, which has developed several aging clocks. “I would probably be a little circumspect about what these clocks really measure, because right now, there are a proliferation of them.”
+Leading the Future has piqued a lot of public interest, not just because it has the most cash of any pro-AI group—thanks to Silicon Valley bankrollers like billionaire Marc Andreessen, Ben Horowitz, and OpenAI president Greg Brockman—but also because it funnels money into super PACs that support both Republicans and Democrats. Think Big overwhelmingly funds Democrats, and American Mission funds Republicans.
 
-Plus, the results that patients will care about is how their skin actually looks and feels, not a result from a biological aging test.
+The fact that the Leading the Future network is playing both sides of the aisle, supporting AI-friendly Democrats and Republicans, has generated speculation from experts as to why it’s spending so much on shielded vendors. Typically, political strategists and consultants cater to Democrats or Republicans, not both. “If you’re running in a Democrat primary and Think Big comes to spend in your race, and they drop half a million on your congressional district doing positive ads while using Republican vendors and strategists—that’s news,” speculates Kyle Morse, deputy executive director of Tech Oversight Project, a nonprofit advocacy group that’s critical of big tech.
 
-And senescence is just one piece of the aging puzzle, says Anthony Rossi, a dermatologist at Memorial Sloan Kettering Cancer Center. “Some senescent cells are good because they turn things off, like cancer progression.”
+There are plenty of reasons why a super PAC may want to hide its vendors, ranging from benign to nefarious. In this instance, it's possible businesses don’t want to be publicly associated with a pro-AI campaign. But with the FEC lacking a quorum for the foreseeable future, “We are not fundamentally equipped to figure out what’s happening here,” says Morse.
 
-He says the science is novel but the work is still very early-stage, and it will be interesting to see how it affects biological aging in people with healthy skin, not just those with certain skin conditions. “The best anti-aging routine right now is sleep, a good diet, and exercise,” he says. For now, at least.
+Leading the Future isn’t the only PAC accused of shielding vendors by using shell companies. Earlier this year, Campaign Legal Center filed a complaint with the FEC against pro-gun YouTuber Brandon Herrera, who is running for Congress in Texas District 23, alleging that more than 99 percent of his campaign’s disbursements were funneled through Texas Strategy Group, which was, the complaint claimed, “being used as a shell entity.” When reached for comment, Herrera’s campaign directed WIRED to conservative personality Matt Braynard, who runs Texas Strategy Group. Braynard strongly denied the Campaign Legal Center’s accusations, calling the complaint “meritless” and “little more than a recycled legal theory from a partisan advocacy group.”
 
-Introducing the app: More ways to make the most of WIRED
+Campaign Legal Center also filed a complaint with the FEC against Lead Left PAC, a pop-up super PAC that was funded by Republican operatives while posing as a Democratic entity with the presumed goal of meddling in Democratic primaries. Campaign Legal Center accused it of paying shell companies to avoid being linked to Republican strategists.
 
-Why so many AI researchers think the technology could kill us all
-
-The Big Interview: Patti Harrison had dreams of a tech utopia
-
-I let an AI agent hack all my gadgets—and I’d do it again
-
-In your inbox: Go inside the world of digital security with Kernel Panic
-
-© 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
-
-----------------------------------------
-
-[2] FAR-RIGHT ELECTION GROUPS ARE NOW TARGETING NURSING HOMES
-
-With just weeks to go until the midterms, election denial groups have found a new target: nursing homes.
-
-The groups, led by the right-wing Election Integrity Network, have claimed without evidence that left-wing organizations are perpetrating voter fraud inside nursing homes, care homes, and assisted-living facilities. The network is now recruiting their followers to contact and question those facilities.
-
-“These left-wing groups go into the nursing homes, and they go into the group homes, and they basically steal the votes of these most vulnerable,” Cleta Mitchell, the Election Integrity Network’s founder, said in a recent appearance on Steve Bannon’s War Room show.
-
-As evidence, Mitchell referenced a case in Wisconsin from 2020 in which a sheriff alleged that eight residents in a care home had their votes filled out for them. The Wisconsin Election Commission rejected the claims. Mitchell told Bannon the case could have cost president Donald Trump the 2020 election, though that wouldn’t be possible: Trump lost Wisconsin in 2020 by over 20,000 votes.
-
-Mitchell’s group has been urging followers to download a toolkit from the Election Integrity Network website and email and call nursing homes in their area. The group has also created multiple images for followers to share on social media which reinforce the idea of widespread voter fraud at nursing homes.
-
-In one campaign, the network shared a series of posts that mapped residential care facilities in competitive congressional districts in states including Arizona, California, New Hampshire, Pennsylvania, and Virginia. The posts identified “vulnerable residents” who “may become targets for political predators seeking easy access to ballots.”
-
-Mitchell and the Election Integrity Network did not respond to requests for comment.
-
-The effort is part of a much broader push by election deniers to undermine trust in the midterms. And just like the claims of noncitizen voting and widespread mail-in voter fraud, they have been supercharged by the Trump administration.
-
-In July, the Centers for Medicare and Medicaid Services (CMS) issued a memo that removed previous guidance on how staff at nursing homes could help residents to vote, such as assisting with mail-in voting or transporting residents to polling locations. The new memo replaced that guidance with threats of prosecution if staff “engage in inappropriate coercion or other violations of residents’ rights.”
-
-The memo also claimed that the agency has “become aware of several allegations of instances in which resident rights were unlawfully violated.” However, the examples cited in the memo did not lead to any proven cases of voter fraud. CMS did not respond to a request for comment.
-
-In August, senators led by Elizabeth Warren and Alex Padilla slammed the changes, writing in a letter to CMS that rather than protecting the country’s 2 million nursing home residents, the new rules would disenfranchise them.
-
-“CMS issued a memo that appears to be an attempt to intimidate nursing home staff from assisting residents in the voting process,” the senators wrote in the letter, addressed to CMS administrator Mehmet Oz (who himself has flip-flopped on whether the 2020 election was rigged).
-
-But now, with less than a month to go before the midterms, groups like the Election Integrity Network—which has close ties to the White House—are pushing the narrative that nursing homes are a hive of vote rigging activity.
-
-Another election denial group, the New York–based Project Civicia, has launched a similar campaign, entitled “Adopt a Care Facility.” The group told WIRED that it could not share how many people were taking part in the campaign but repeated the claims made by CMS about voter fraud in Wisconsin, in addition to other allegations.
-
-“We do not presume wrongdoing by a facility because its residents need voting assistance,” Kim Hermance, cofounder and president of Project Civica, tells WIRED. “There are other public cases of forged absentee applications and similar problems. Separately, in our own review of New York records, we noticed people over 85 who appeared to register and vote for the first time shortly before an election. That is not illegal by itself, but it raised a basic question about how facilities handle the process.”
+Ports says that this marks a disturbing trend in campaign finance, at a time when dark money in politics already reigns. “There’s no way of tracing the source behind the money, and that’s bad enough on its own,” says Ports. “Now there’s this new component, where groups are playing games to hide where the money is being spent. As a result, voters really lack fundamental information about where the money is coming from and where it’s going.”
 
 Introducing the app: More ways to make the most of WIRED
 
@@ -257,71 +258,329 @@ In your inbox: Go inside the world of digital security with Kernel Panic
 
 ----------------------------------------
 
-[3] THEY WAR-GAMED DIMMING THE SUN. IT WENT EVEN WORSE THAN YOU THINK
+[2] WHAT’S THE BEST KINDLE OF 2026 (SO FAR)?
 
-When it comes to deciding the fate of the planet, Colleen Golja always thought science and reason would have a seat at the table. That was until one morning last September in London, when the climate researcher took part in the first in a series of war games. The goal: to prevent an uncontrolled global race to develop a technology aimed at cooling the planet but that comes with vast, unknown risks that could reshape life on Earth.
+There’s a lot to love about a Kindle if you’re a reader. If you’re looking for the best Kindle, you really can’t go wrong with any of the models. These Amazon-powered ebook readers let you bring thousands of books anywhere and typically give a month of battery life per charge. You can subscribe to get unlimited books from Amazon or get free books from your local library. Our guide will help you decode the differences to find which Kindle is right for you.
 
-“I thought that would be such an easy thing. Like, we can all agree to do ethical research and make sure it's for the better of all humans,” she told WIRED. “And boy, was I wrong.”
+I've owned all kinds of Kindles, from the newest Kindle Scribes to hand-me-down base Kindles without a front light. The latter came from a friend who noticed I had spent my entire postpartum summer glued to library books on my phone, and I still have it to this day. But after trying all of the latest Kindles, I can say it's easy to spot the best one.
 
-The simulation, titled Exploring Geopolitical Tipping Points and Climate Cooling Strategies, saw a couple dozen foreign-relations experts, scientists, military personnel, and former government officials from across the world convene in a meeting room at Queen Mary University of London. After making introductions over coffee and little yogurts, they sat at tables arranged in a square with the name of the country or organization each person was playing: national governments, climate NGOs and nonprofits, indigenous groups, and tech companies. Golja was assigned to provide technical advice to help participants make scientifically literate decisions.
+Read on to find out my favorite overall Kindle and my favorite Kindles for specific uses and younger readers. You can also check out my other buying guides made for readers like me, including the Best Kindle Accessories, Best E-Readers, Best Digital Notebooks, and Best Gifts for Book Lovers.
 
-The point of the game was to stress-test the world’s response to a group of prospective technologies known collectively as solar radiation modification. These technologies promise to reverse global warming by reflecting away a portion of the sunlight reaching Earth, for example by spraying particles of sulphur dioxide or some other manufactured substance into the atmosphere. The cooling effect of this kind of solar geoengineering is widely accepted. It would mimic the well-known impacts of large volcanic eruptions, which temporarily cool the planet by half a degree or more. But the fallout is less certain—and less equal. Some regions will suffer: Models predict drying in sub-Saharan Africa and more intense tropical storms in the Atlantic. The cooling effect would also last only as long as the geoengineering continued; after that the global temperature could shoot back up with wild and hard-to-predict effects.
+Updated October 2026: I've added details about the new Kindles announced today.
 
-Until recently, the idea of solar radiation modification was a speculative niche of climate science. That has changed fast. Private firms are exploring solar geoengineering as a commercial opportunity: Last year, a US-Israeli startup called Stardust Solutions raised $60 million, and in May it released details of a suite of new inventions it claims would give humans the ability to dial down the global temperature as desired. In August, Elon Musk, whose company SpaceX might be a candidate for delivering geoengineering interventions, threw his voice behind solar geoengineering, writing on X: “Space satellites to control temperature and massive geo-engineering will be needed or it will be game over.”
+You came here to find out one thing: What is the best Kindle? The Kindle Paperwhite is Amazon's most popular Kindle and our favorite after testing every model, thanks to its great range of features. You'll get a large display with high resolution and warm lighting, and the technology inside has fast and smooth performance. Amazon launched the 12th-generation Paperwhite in late 2024, and it's been our new favorite ever since. Whether you want to read more or are tired of carrying physical books, all the extra features are worth the price. The basic Kindle may seem enticing, especially with the fun new colors it offers, but the Paperwhite will serve you better in the long run, especially if you're a nighttime reader like I am. The warm lighting is a great option on the eyes before bed.
 
-The world is going to have to make decisions about how to govern this technology much sooner than most policymakers imagine, Cynthia Scharf, a former UN advisor, told WIRED. “It's not 15 years from now; it's in the next decade, easily.”
+If you already have a Paperwhite, the update isn't so major that you need to upgrade to the newest model, but it's the best to choose if you're shopping for a brand-new Kindle. You'll get a slightly larger screen and the highest contrast ratio on any Kindle, not just of the Paperwhites. The battery life also increased from two months to three months, and it has the thinnest form factor yet. The 12th-gen Paperwhite has two versions: the standard and the Signature Edition. The latter comes with auto-adjust brightness, wireless charging, and double the storage at 32 gigabytes. The regular Paperwhite is more than enough and easily one of the best Kindles to buy, but if you plan on buying the model without lock-screen ads, you may as well pay the extra $30 for the Signature Edition.
 
-It was against this backdrop that Danielle Young, an assistant professor in international relations at Leeds University, arranged the war game. Its setting was a hastily convened UN committee charged with coordinating the international response to developments in solar geoengineering. The game unfolded over simulated meetings set at three points in time: the present, September 2027, and September 2028. Each step ratcheted up the stakes, with the game creators introducing new advances in sunlight-reflecting technology. As in real life, no one knew all the facts, and players had to respond to events that were bringing the world closer to a full-scale attempt at deploying solar geoengineering tech, even when they may not have a full picture of what had truly occurred—or what any of the others were up to.
+Speaking of price differences, both the Kindle Paperwhite and the Paperwhite Signature Edition recently became more expensive after Amazon increased some of its prices. The base Paperwhite went up $40 to hit $200, while the Signature Edition went from $200 to $250. I'm curious how much cheaper they'll be during fall sale season; we might now see the old base price as the new sale price. I'd wait for Prime Day or Black Friday to purchase either version of the Paperwhite.
 
-The first session set the tone. Distrust and disinformation dominated. As participants discussed rules governing outdoor experiments in an attempt to agree an international deal, players representing both the US and China told the group they could not sign a deal that constrained their pursuit of research considered to be in their “national interest.” Nor could they accept a deal that would see their superpower rival taking the lead technologically. Speaking to WIRED, Jeffrey Nielsen, a major in the US Army who played the role of a US national security attaché, summarized the position as “worse than no deal at all is any deal that favors China.”
+Students who want something digital to take notes on but who also love to read will love a Kindle Scribe. While there's a new version of the Scribe out that's also great, the best one is still the second-generation Kindle Scribe from 2024.
 
-Tensions escalated when the team running the simulation handed the Russian delegates an “intelligence report” indicating they had found a plane near the Bering Strait believed to be involved in a US geoengineering research program. The US team—which was indeed flying research missions—accused Russia of disinformation.
+This model has the same 10.2-inch (300 ppi) paperlike display as the first iteration, but it has a white border for a more notebook-style look, and the new Premium Pen is not only included but also has a soft-tipped eraser at the end. Personally, this is my most-used Kindle because I love to scribble notes and ideas all day long. It's easily my most-used Kindle and digital notebook because of the long battery life (12 weeks!) and the convenience of grabbing it for both my reading and note-taking needs. While I don't have as many options and layouts as I would on a true digital notebook, the Kindle Scribe still offers a handful of options to help me free up most of the ideas jumbling around in my brain, and solid options for students.
 
-Meanwhile, the US became convinced China was also conducting research and developing its own program. Beijing’s representatives had tried to insert language into a mooted deal that would ensure no retroactive punishment for past experiments. Then, China approached a player representing SpaceX to float the idea of a technology-sharing program. In a private discussion away from the group, the SpaceX player immediately reported the Chinese approach to the US team. The US demanded an international investigation. The finger-pointing continued, and countries abandoned the talks. The Canadian representative called it a “humiliating defeat.”
+The second-gen Scribe also packs new software capabilities, even if it's the slightly older model. Active Canvas lets you write directly in the book you're reading, though it won't work like true annotation—instead, the notes will appear in a small square on the screen like a Post-It note. That means it'll always be there if you resize the screen, but it didn't feel as natural as our testers would've liked. There are now Expandable Margins as well that let you write notes in the side panel of books, which feels a little more intuitive, but still isn't the full annotation experience you might want.
 
-At the end of the session, Nielsen was pumped. He’d busted China and derailed any prospect of a global deal. In the context of the game, he told WIRED, it was a “humungous victory” for the Americans. But Young, the researcher who designed the scenario, said the Chinese were not, in fact, conducting experiments in the game. Mutual suspicion meant all parties left the room believing the others were moving as quickly as possible to build their own geoengineering capability.
+There are also a couple of generative artificial intelligence features. The Refined Writing tool transforms your notes into a script font, while Summarization will quickly summarize pages of notes into bullets with a script font that you can then share from the notebook tab. Both features work well, but I never find myself reaching for them. These new software features can be downloaded onto first-generation Kindle Scribes if you already have one, or you can wait for an over-the-air update to hit your device. There are now three new Kindle Scribe models, which I detail below, but I still prefer this model. It also didn't see a price increase like other Kindle devices did, but that's true across the Kindle Scribe category.
 
-What played out in the first session reflected “the likelihood, in my opinion, of the geoengineering arms race,” says Nielsen, who clarified he was speaking to WIRED in a private capacity and not representing the views of the actual US government. Most experts agree it would take a superpower’s reach to ensure the safe passage of planes needed to deliver payloads of dust to the stratosphere in a geoengineering exercise. But neither the US nor China would lightly cede control over the global thermostat, says Nielsen, and distrust and poor communication are a significant risk: “Any action related to the issue by one actor can be perceived as malintent by the other.”
+Amazon now has two versions of its colorful Kindle. There's the Kindle Colorsoft Signature Edition, which came out last year and was Amazon's first-ever model with a color screen, and now there's a basic Kindle Colorsoft. It competes with colorful models we’ve already seen from Kobo and Boox, so while it’s new for Amazon, it’s not new in the world of e-readers. Both models have a 7-inch display with an oxide backplane for speedy performance and higher contrast for both color and black-and-white content. The front light has also been changed to include nitride LEDs, which enhance color and increase brightness.
 
-The threat of falling behind a rival is “a very strong driver of research and development of capability,” a former British diplomat with a background in national security told WIRED. “But that's not at all the same thing as deployment.” There are similarities with nuclear arms dynamics—though solar radiation management, unlike nukes, has more obvious benefits as well as downsides, many of which are poorly understood. “There is an interdependence here,” says the former diplomat, who was not involved in the game and spoke on condition of anonymity to preserve relationships. “It's not an inherently zero-sum game.”
+The Colorsoft Signature has a few extra features, but it also comes with a higher price tag. You'll get twice the amount of storage—32 GB to the base Colorsoft's 16 GB—wireless charging, and an auto-adjusting front light. It's a nice set of add-ons to get for just $20 more if you know you'll use the wireless charging and want an auto-adjusting light, but unless you already have a wireless charger you love, you'll probably be just as happy spending $20 less. It's already a hefty increase for the color screen and no other new features. The good news, at least, is Amazon did launch Dark Mode for Colorsoft, which it previously didn't have.
 
-Scharf, who represented the US government alongside Nielsen in the game, told WIRED a “scientifically transparent international collaboration” between China and the US “might be the best we can do in terms of fending off a very dangerous competition between the two. But I certainly cannot imagine that happening under the Trump administration.”
+Amazon also raised prices of the Kindle Colorsoft and Colorsoft Signature Edition, bringing both up $40 to $290 and $320, respectively. I'm curious to see what sale prices both of these get come Prime Day and Black Friday—I'd hold off buying anything until then.
 
-Compounding the problem is a lack of information. Geoengineering has historically been viewed with suspicion and often ignored by the scientific mainstream. One researcher told WIRED he’d experienced ostracization and barriers to academic progression owing to his interest in the technology; he no longer works in the field.
+I’m a parent of a young kid, and the books in our house are very, very colorful. We're still getting started on reading, but pulling up a book on the colorful Colosoft Kids is a much more fun experience than a black-and-white option. The color makes everything more engaging: The bookshelf of your books! The options to choose from on Kids+! The pages in the illustrated books themselves! Having a colorful option is something a lot of users want, but I think kids of all ages have the best chance of really getting the most use out of it. They can enjoy everything from picture books to graphic novels with full-page color, and add colorful highlights to books they want to annotate or study. It's not quite as vibrant as a digital screen or color on paper since it's an E Ink screen, but it's still a fun feature that adds to the reading experience.
 
-This lack of scientific interest greatly frustrated Golja, who spent much of the game watching as a bystander while political posturing dominated. Given the low level of knowledge around solar radiation modification and its side effects, she was one of very few experts who could help the participants understand the climate impacts of what they were discussing—yet she was largely ignored.“I was just so surprised about how little anyone actually cared about the science,” she says.
+You can technically turn on Kids mode on any Kindle, so you don't necessarily need a Kids-branded model (there's both a basic Kids ($180) and a Paperwhite Kids ($230) model) to have your kiddos read books separated from adult ones. But the real benefit is that Kids models, whether it's the Colorsoft or a black-and-white model, come with free access to Kids+ for six months to a year. Kids+ is Amazon's subscription service that features tons of age-appropriate books. The Colorsoft Kids gets the longest access, a full year, while the other models will only receive six months. That extra six months, plus colorful pages, really make going for a kid-specific model worth it. The Colorsoft Kids is also waterproof and comes with a colorful cover (you get to choose between two fun designs).
 
-In the next sessions, the organizers tried in vain to nudge the talks back toward the realities of climate change. The participants received frequent notifications of climate disasters. These barely registered. Golja had prepared an “emulator,” a real-world demonstration of the best available science on how solar radiation management might affect weather patterns in different regions. It was ignored. If country representatives asked her anything, it was usually a leading question looking for data that would serve their ends or frame a rival’s proposal as reckless.
+It's no surprise that the Colorsoft Kids also went up in price like the regular Colorsoft models, as did the rest of the Kindle Kids line. This one went up $30 to hit $300, while the Kindle Kids is now $180 (up $50) and the Kids Paperwhite is now $230 (also up $50). My recommendations may change soon based on how expensive the color version has become.
 
-Then, during the last day, players were trying to find a way to respond to reports that a major plume of aerosols had been detected. In the game, this had been caused by a joint US-Saudi test of Stardust’s technology, though not everyone knew this. Finally, scientific advice was at a premium. Countries needed to know how to establish a monitoring network of satellites and other observational tools in order to prevent tests like this from happening in secret. A player representing an NGO called the Climate Futures Cooperative approached Golja, offering her money to fund such a scheme.
+If you're looking for something lightweight and affordable, Amazon's 11th-generation Kindle is your best bet. It was updated in 2024 and builds upon the 2022 update that added more storage, a higher-resolution screen, and USB-C charging. The 2024 model has a few nice updates, including a higher-contrast-ratio screen, a brighter front light, and a faster page-turning rate.
 
-“Great. Fabulous. Why wouldn't I do that?” she recalls thinking.
+You still won't get a warm lighting feature, so if you want that, you'll have to upgrade to the Paperwhite or Colorsoft. But otherwise, you'll still get dark mode on this device (unlike the Colorsoft) and a snappy overall performance and nice screen brightness for the price point. Former WIRED reviewer Brenda Stolyar said the performance was a big improvement over the 2019 Kindle model she was previously using. If you have room to spend a little more, we still prefer the Paperwhite, since you'll also get a longer battery life and a waterproof build, along with the warm lighting, but this is a good Kindle for the price.
 
-But it soon came out that the Climate Futures Cooperative was actually backed by the fossil fuel industry. The organizers had recognized that fossil fuel companies and major producing countries like the US and Saudi Arabia would have a clear interest in removing barriers from the development of a technology that could combat climate change without having to immediately stop burning coal, oil, and gas. The shadowy NGO spent the game subtly wrecking the vibe and carping about process—though mostly they just sat back and let it burn. Some players—Russia, the US, SpaceX and Stardust—figured out the CFC was not what it seemed, says Young. “But they assessed it was to their benefit and didn’t draw attention to it.” Then the CFC chose its moment to offer money to Golja, only to crater her credibility, isolating and fragmenting the voice of science in the room.
+But not as great as it used to be since Amazon raised its prices, including this Kindle model. The 11th-gen Kindle used to retail for $110 and was often on sale for under $100, but now its starting price is $150. I'm curious how good the sales will be this fall, but I fear we won't see it fall under $100 anymore.
 
-That final lesson in fossil fuel realpolitik was about all Golja could endure. By the end of the last day, she was in tears.
+Amazon announced today that there's a whole new generation of Kindles coming, with every model getting a new version. Here are the details; I'll be updating this guide soon with thoughts as we review each model.
 
-At no point did the countries in the game agree to a deal, despite multiple proposals being put forward. European countries and Canada tried to build support for safeguards and open scientific research, but the talks constantly got bogged down by delay tactics and veered into tense showdowns over duelling strategic interests. In their final report, the researchers running the simulation—whose work was sponsored by the UK government-funded Advanced Research and Invention Agency—concluded that “strategic competition and state sovereignty drove the simulations, not climate concerns.”
+That's not all Kindle has coming out. There will also be a handful of new accessories, including the Kindle Click ($35) Bluetooth remote that will work with Kindle models as early as 2024, a Page-Turn Cover ($80), a Charging Dock ($60) designed to work with the pogo pins on the Signature Editions, and new Kindle covers in a variety of colors and textures. I'm most excited about the remote; I will update this guide and our Best Kindle Accessories guide with my notes as I test.
 
-Simulations like this one are not supposed to predict the future. The outcomes depend on the design of the game and the relative personalities and experience of the players. Many of those in the room lacked first-hand diplomatic and national security experience. The UN forum, which organizers selected as the game’s setting, may also not be as effective as talks between smaller groups of major countries. But the experiment in London echoed and refracted through the real world, during and after the months it was running.
+Amazon raised its prices across its product categories, including Kindle devices. The price increases hit several current Kindle models, leaving only the recent Kindle Scribe models with the original price tag. Amazon declined to comment to WIRED, but a spokesperson told CNET the price hikes were due to rising costs in memory and storage components. It's interesting that none of the more powerful Scribe models needed a price update, but it's also a relief since all three of those models are significantly more expensive than a regular Kindle.
 
-In March, two papers from conservative US think tanks urged the Trump administration to take the lead on solar radiation modification and counter China’s threat. One memorably invoked a new, MAGA-coded term: “Weather sovereignty.” This month, the Observer newspaper in London revealed that the UK Ministry of Defense had paid a deep tech security consultancy to conduct research into sunlight reflection. Then, last week, the British government released its first official policy paper on the field, backing further research but stating firmly that it did not support deployment and “does not plan to do so.” Stardust has continued its lobbying of the US and governments around the world; CEO Yanai Yedvab told WIRED its job was getting easier as, unlike before, “the majority of policymakers … are already aware of this technology.”
+Here are all the increases, including Signature versions:
 
-Stardust has always maintained that it will not conduct large-scale outdoor experiments, let alone full deployment, before global governance is in place. “We are developing a very powerful tool,” Yedvab says. “When you develop this kind of powerful technology—and you have many precedents—national interests will play out. We're not naive about it.”
+If you have your eyes on one of these Kindles, I'd wait until Amazon Prime Day or Black Friday to shop when they're on sale. It's likely the sale prices will only bring the Kindle down to the price it was before, but better than paying more.
 
-Meanwhile, drivers of the climate crisis are intensifying. During the time span of the game, efforts to curtail the use of fossil fuels were being undermined by rising energy costs and political hostility. Week after week, an incredible summer of drought and heat pounded Europe. In the final week of August, the collapse of a glacier on the Tibet-Nepal border fulfilled the prophecies of decades of climate scientists, killing more than 1,450 people.
+Kindle has three new Kindle Scribes that launched between late 2025 and June 2026. There are now the Kindle Scribe ($500), Kindle Scribe Colorsoft ($630), and the Kindle Scribe Without Front Light ($430). All three have a similar design and software experience, though the Scribe Colorsoft has a color screen and a shorter battery life—only eight weeks of reading time, compared to 12 weeks on the $500 Scribe and an impressive 16 weeks on the Scribe Without Front Light. Like the second-generation model, they're a great choice for note-takers and students, especially with the long battery life, but I still prefer the second-generation's price point.
 
-In the months since the simulation ended, Golja has reevaluated many things. On a corkboard behind her desk, she has pinned up a note to herself, laying out a vision for life in a world ruled by narrow geopolitical self-interest rather than science, evidence, and reason. Her answer: She plans to return to the small coastal town where she grew up in Connecticut and use her expertise to help local climate groups build the seawalls and coastal erosion buffers they will need to cope with the inevitable. “To try and make a difference where it feels like I actually have traction,” she says. After what she saw, pursuing science in the hope of informing global decisions no longer held as much appeal. “Now it feels a little bit more personal.”
+All three models have a new, taller design with an 11-inch screen, a slightly slimmer form factor, and an updated stylus. They both also have a quad-core chip, a new homepage, and will support a variety of AI features, including AI search (along with some AI tools for summarizing books you're reading without giving spoilers, though those won't arrive until next year). Users can connect to Google Drive and Microsoft OneDrive to mark up documents, which the older model can't do.
 
-Introducing the app: More ways to make the most of WIRED
+Overall, I'd say they're good devices, but as long as the cheaper second-generation Kindle Scribe is available, I think it's the better buy. It has some AI capabilities but no AI search, and has a different homepage design that matches a classic Kindle rather than the notebook-forward design the new ones have. Amazon said it'll get the same homepage this year, but I haven't seen it so far. I'm disappointed these new devices are so much more expensive; at that price, you might as well shop reMarkable's line of digital notebooks and get better features and accessories.
 
-Meta failed to catch hundreds of AI child abuse ads
+If you've ever had a long reading session that gives you hand cramps, these accessories might help. You can check out more options in our Best Kindle Accessories guide.
 
-Big Story: The search for Silicon Valley’s most powerful woman
+This pillow stand holder can sit freely on your lap, bed, or any nearby surface while holding up your Kindle. There are two receptacles built into it, one of which is big enough for my larger mugs. I usually drop a snack or my phone into the other one.
 
-Hackers got inside a Flock camera—its data shows how the system really works
+If you're looking for something to hold up your Kindle that clamps onto something nearby, like your bed frame or a table, this gooseneck tablet holder does a great job. It's 3 feet tall and has plenty of length to work in all kinds of spots.
 
-In your inbox: Go inside the world of digital security with Kernel Panic
+This soft silicone strap hooks onto the ends of a Kindle (or other e-reader) without any adhesive needed, and it was nice and secure when I slid my hand into it. It comes with two straps, but a single strap was plenty of security for me.
+
+The PopSockets PopGrips are handy to add to Kindles so you can easily grip your device, but you will need to use an adhesive, add a MagSafe adapter, or grab a MagSafe Kindle case so you can attach it. There are a ton of fun designs, and you can even customize your own, like my custom WIRED PopGrip.
+
+Amazon Kindles are, thankfully, not as fragile as a pricey smartphone, but you may still want to add a cover to protect the screen if you're frequently toting it around in a bag. These aren't padded for serious drops, but they are some of the best Kindle cases I've found for daily protection from scratches and scuffs. Also, don't forget that the Kids' editions come with cases, so if you're buying one of those, you won't need a case.
+
+This sturdy, clear case has reinforced corners if you're a chronic dropper. The corners didn't keep accessories from working with the device, but they did give a Kindle a thicker feel than with the Strapsicle or PopSockets cases.
+
+This sleek case is smoother and slimmer, but doesn't slack off on the protection front.
+
+If you're looking for a full cover and a strap, this has it all. This case only comes in blue, but it will fully cover the front of your Kindle, and when you open it, that cover has a built-in hand strap. It also has a little stand built into it too, so it can stand up on its own for you to read.
+
+PopSockets came out with its own line of Kindle cases that have a built-in MagSafe adapter, so you can more easily add your PopSocket grip of choice to it. There are matching sets of cases and grips you can shop for, or mix and match as you please.
+
+Amazon doesn't release new Kindles often—the company usually takes a few years between models. Whenever a new one arrives, its predecessor's stock starts to dwindle. It's not that we don't recommend these per se, but I only suggest these if you can find them on sale for the right price. And don't buy too old a model, since Amazon has started pulling support for older Kindles.
+
+Before making your purchase, cross-check the price against the latest model to make sure you're paying a fair amount less for the older device.
+
+Kindle (2022, 11th Generation): This is the smallest of the lot at 6.2 inches tall and 4.3 inches wide, with a 6-inch screen. If you find tablets too cumbersome to hold with one hand, consider this one. With this model, Amazon doubled the storage to 16 gigabytes and upgraded the display to 300 pixels per inch (PPI) resolution (up from 167 PPI). It's tough to find, and I usually don't see it for less than $75 these days.
+
+Kindle Paperwhite (2021, 11th Generation): This is the next step up from the basic model. It has a bright 6.8-inch screen with adjustable warm lighting, a fast page-turn rate, a USB-C port, and 16 gigs of storage. It's waterproof too. We like the Signature Edition, which also includes auto-adjust brightness and 32 gigabytes of storage. Don't recommend spending more than $100 if you can find them.
+
+Kindle Scribe (1st Generation): The original Scribe is a great option for note-takers. It has a giant 10.2-inch screen for taking notes, marking up PDFs, or drawing, and numerous paper formats you can choose, like college-ruled or dotted. It also comes with the Basic Pen, which feels natural to write with and attaches to the side of the Scribe magnetically. It's only worth it for $230 or less, and I often see it for under $200 on eBay.
+
+Kindle Kids (2022): This is an older kid-friendly model. It comes with a cover, a year’s subscription to Amazon Kids+, parental controls, and a two-year warranty, but the fact that it's only available secondhand means you'll likely miss out on the subscription window and may or may not still have a cover. Ideally, don't spend more than $70 on this one.
+
+Kindle Paperwhite Kids (2021): This older Paperwhite version is a step up from the previous basic Kids models. It has a high-resolution 300-ppi display with an adjustable warm screen and is also waterproof. You shouldn't spend more than $110 on this one.
+
+Which Kindle Models Lost Amazon Support and Kindle Store Access?
+
+As of May 20, 2026, Amazon stopped supporting Kindles released in 2012 or earlier. That means these models will not be able to get new books through Amazon's services or be registered to an Amazon account. You will be able to read books already on the device, though, and can manually download documents and books via USB cable and via software like Calibre.
+
+What’s the Best Way to Buy or Sell an Older Kindle?
+
+Have an old Kindle lying around? Are you looking at a used one for sale? If you're trying to figure out what model it is, this Amazon page includes photos, specs, and release years for the entire lineup. Once you know which one you have, you may be able to trade it in for credit toward a newer model.
+
+Most old Kindles probably still work, just with fewer bells and whistles. It's best to avoid Kindles with keyboards or any other physical buttons other than page-turn buttons. Some older models lost the ability to browse, purchase, or borrow new books directly from the device. However, you'll still be able to do this via Amazon on your computer or phone and have it sent to your Kindle, which is a better experience anyway. These models include the Kindle 2nd Generation (International), Kindle DX International, Kindle DX Graphite, Kindle Keyboard, Kindle 4th Generation, and Kindle 5th Generation.
+
+If you buy every single book you want to read on a Kindle, it can add up! But there are ways to save some money while reading as much as your heart desires. You may want to subscribe to Kindle Unlimited for $12 a month. You can only choose from the Unlimited catalog, but there are millions of titles there, including audiobooks and magazines. Start out with the 30-day free trial.
+
+If you already pay for a Prime account, you're eligible for some free ebooks through Prime Reading. There are not as many options as with Kindle Unlimited, and in a lot of cases, you'll see both Unlimited and Prime options lumped together; you'll have to look closely to find the free ebooks. It's still something, and there are even a few magazines.
+
+If you don't want another monthly subscription and don't want to continue giving your money to Amazon, take advantage of the ebooks available with your library card. Browsing a digital catalog is not as magical as spending an afternoon looking over every shelf in a library, but such is the ebook life (no one says you can't read both!). We have a detailed how-to on this that you should check out, but here are some of the takeaways:
+
+If you know someone else with a Kindle, you can lend books between your libraries, just as you would with a physical copy. Follow these instructions from Amazon if you want to share an ebook, but keep in mind that not all books can be loaned.
+
+Kindles have helpful features you may want to take advantage of. Long-press a word or phrase to see its definition, highlight it, or take notes. You can also search the entire book for that particular word or phrase or translate it to or from other languages.
+
+Word Wise shows short definitions in small text within the lines. Unfortunately, it's not available for all books, but when it is, you can turn it on or off and choose more and fewer hints. Clicking the short definition opens a longer one from Word Wise and the New Oxford American Dictionary or Oxford Dictionary of English (you can switch between the two), plus translations and a Wikipedia page, if applicable.
+
+While reading, tap the top of the screen and click “Aa” to change font size or type—there's even a font called OpenDyslexic that helps make reading easier for people with dyslexia. You can control margin sizes and line spacing from that menu too.
+
+When a Kindle is connected to a Bluetooth speaker or headphones, VoiceView Screen Reader (accessed through Settings > Accessibility) allows you to use gestures to navigate your device and reads aloud what you've pressed. It will also read a book aloud, though it doesn't sound nearly as nice as an audiobook.
+
+Amazon owns Goodreads, so it syncs seamlessly to Kindles (press the three-dot menu > Goodreads). If you have a Goodreads account, you can review the Kindle books you've read or browse your bookshelf and recommendations. Long-pressing a word or phrase, in addition to what is mentioned above, opens up an option to share quotes directly to Goodreads.
+
+There's a web browser too if you're connected to the internet (three-dot menu > Web Browser). It's not the best, so I'd reserve it for emergency searches.
+
+When Amazon releases a new software update, it will download and install to your Kindle automatically when it's connected to Wi-Fi. You can check if you're on the latest software by going to Settings > Device Options > Advanced Options > Update Your Kindle. If it's not on the latest software version, you'll see an update available and the Kindle will then prompt you to download and install it.
+
+What Do I Do If My Kindle Colorsoft Has a Yellow Bar?
+
+Following customer complaints in 2024 of a yellow bar at the bottom of the Colorsoft Signature’s screen and discoloration along the edges, an Amazon spokesperson confirmed to WIRED that "customers who notice this can reach out to our customer service team for a replacement or refund.” The company also said it’s “making the appropriate adjustments to ensure that new devices will not experience this issue moving forward.” However, there are still customer complaints about this issue, even with the new model out. We have not run into this issue while testing the Colorsoft, Colorsoft Signature, or Scribe Colorsoft.
+
+The best time to buy a Kindle is during a major sale event like Amazon Prime Day or Black Friday, because Amazon often has steep discounts. Amazon has always had sales on some (if not all) of its Kindles on past Amazon Prime Day and similar events, like Amazon Big Deal Days.
+
+You can also wait for other sale events if you're not ready to shop yet. Kindles are often on sale for Black Friday and Cyber Monday, which will occur in late November. Other sales often happen from time to time, but these sale events have consistent Kindle deals, so they're a good time to wait for if you want a better price.
+
+Kindles are great for students, though the model they'll like best will vary on how they use it. If they want to pair it with a stylus for highlighting and be able to take notes, get a Kindle Scribe model. These models also have long battery life, making them great for students to use for weeks on end without worrying about charging. You can get some textbooks on a Kindle too, and send library books to them. For students who love to read but don't want to take a ton of notes, a regular Kindle or Kindle Paperwhite will be best for them.
+
+Power up with unlimited access to WIRED. Get best-in-class reporting and exclusive subscriber content that's too important to ignore. Subscribe Today.
+
+Take 10% Off Legal Services with This LegalZoom Promo Code
+
+Save up to $420/year when you bundle AT&T Fiber® internet and wireless
+
+Take Up to 25% Off Custom Prints with VistaPrint Promo Code
+
+© 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+----------------------------------------
+
+[3] 6 BEST COFFEE GRINDERS BASED ON PARTICLE ANALYSIS AND TASTING (2026)
+
+coffee Is Only as good as the beans you use to make it, and the beans you use are only as good as the grinder you use to render them extractable. Beans fed into a coffee grinder right before you brew them might as well be a whole different substance from the bag of ground beans you get at the supermarket, full of aroma and flavor compounds that quickly dissipate as they oxidize in the air. (It also helps to use fresh beans from excellent roasters: Check out our Best Coffee Subscriptions guide for some of our favorites.)
+
+Grinders have become the most active tech frontier in coffee, and over the past decade coffee geeks have become devoted to the idea that getting the right grind on your beans is every bit as important as the machine you brew with. Uneven grinds can mean uneven extraction and uneven flavor—which is why we use particle size analysis to test the character of each grind from every grinder we review. But, of course, particle size alone does not tell the whole story, which is why I use the grounds from every model for cups of drip coffee, pour-over, Aeropress, and, when applicable, espresso.
+
+Our Reviews team has tested dozens of grinders over the past five years, and I've retested all the top burr-grinder picks this past year. And while super-high-end grinders like the wonderful Mazzer Philos ($1,595) can run into the thousands, our top pick, the Baratza Encore ESP ($200), will keep most people happy for much less. This said, the Fellow Ode Gen 2 ($400), our favorite flat-burr grinder for drip coffee, is able to wring a special sort of poetry from each cup. The five machines below are the coffee grinders we currently recommend to anyone who cares a lot about home coffee.
+
+Be sure to check out WIRED's other coffee coverage, like the Best Drip Coffee Makers, Best Espresso Machines, Best Latte and Cappuccino Machines, and Best Cold Brew Devices.
+
+Updated October 2026: We tested and added the Mazzer Mini-G and the Fellow Opus 2 to our top grinder picks. We’ve also updated and edited descriptions and prices, where appropriate.
+
+It's hard to fathom how good this Baratza Encore ESP coffee grinder is for the money—and how many types of coffee drinkers it can serve. Like other Baratzas, it's tank-durable and compact. It's easy to clean and maintain, and it's surprisingly precise for a conical burr grinder at this price point, especially with finer grinds. I verified this precision using particle size analysis—but also the evidence of my own senses after drinking the coffee that results. The Encore makes excellent espresso, and quite good drip coffee, and also good cold brew coffee—one of few devices on the market to handle such range, while still being priced accessibly for beginners to specialty coffee. And thus, it can serve pretty much every kind of coffee drinker with aplomb. That it does so for $200 is a gift.
+
+The secret behind this versatility is an ingenious bit of engineering. The previous-generation Baratza Encore had been a top grinder pick for years, but it didn't allow enough fine-tuning to make great espresso. With the ESP, Baratza upgraded the burr set and redesigned the grind wheel to allow for micro-adjustment when dialing in espresso-fine grinds. You also get broader adjustments at the medium-coarse end of the scale for pour-over, drip, and cold brew.
+
+The ESP makes round, full-bodied drip coffee with a pleasing mouthfeel. But if what you want is to gain crystalline clarity of flavor from light-roast beans, your grinder of choice is probably instead the Fellow Ode Gen 2 ($400).
+
+Other coffee grinders are prettier, or more likely to be mistaken for midcentury sculpture. And some may also be a little quieter. But at $200, this Encore ESP is the best grinder most coffee drinkers will likely need, for whatever style of coffee. And if it has the longevity of the previous-generation Encore, the ESP is likely to last a decade or more.
+
+The Fellow Opus 2, released in September 2026, is the most direct competitor to WIRED's top-pick Baratza Encore ESP—with every bit of its capabilities and a lot more style. The Opus 2 grinder is good for everything from espresso to drip to French press and cold brew. It's compact. It's quieter than the ESP, and it's a lot more modern—with a stepless adjustment knob that offers theoretically limitless adjustment. It's lightweight, if a bit plasticky. And when not on sale, it's the same price as the ESP: just $200.
+
+The second-generation Opus also handily fixes the two main problems with its predecessor, namely high grounds retention and an irritating adjustment system for espresso grinds. Adjustment is now an easy knob, and retention is minimal, maybe a few tenths of a gram. For both espresso and drip, the results are as good as it gets at this price: Indeed, for light-roast drip coffee, I prefer the precision of the Opus 2 to the round, full-body offered by the ESP.
+
+So why is this not my top overall pick over the ESP? Two things: One, the ESP has a proven track record of tanklike durability that the Opus 2 cannot yet match. And two, my adjustment dial on an early production model was a little bit floaty until I tightened a couple screws—a problem some online commenters seemed to share. It's an easy fix—see how to do it here—and I assume this glitch will iron out quickly. And so while the ESP remains my top pick at the moment for most people, the Opus 2 might overtake it after longer-term testing.
+
+Like Liam Neeson, the Ode Gen 2 has a highly particular set of skills. As with the majority of flat-burr grinders priced under $500, there's no espresso involved. But the Ode is a beauteous precision machine, made to elicit tuning-fork clarity of flavor from pour-over and drip and Aeropress, without sacrificing richness. On drip coffee settings, the particle size distribution on my coffee grounds looks like the same tight bell curve you learn in a first-year statistics class. Tick the Ode one setting finer, or coarser, and you'll often discover a new character, a different flavor note. It's a fun game for a mid-morning cup, when I'm down to experiment. (The Ode can also grind coarser for cold brew and French press, of course, but for cold brew I'd really only need the firepower of this flat burr for a Kyoto-style slow-drip, or the sui generis cold brew on a Fellow Aiden.)
+
+While the previous-generation Ode struggled with some of the lightest-roast pour-overs, this second-generation burr set sails through and remains beauteously static-free—you probably won't even have to water-spritz your beans like a sampler at a perfume counter. The Ode grinds quietly and diffusely, generally below 80 decibels, and preternaturally swiftly. When I first started using it, I kept double-checking to make sure it had ground all the beans so soon. It's also pretty, an elegant companion to whatever drip coffee machine I happen to be trying out, and offers better clarity of flavor than many grinders twice its price. And so I forgive it for the somewhat … squishy … feel of its power button, and a strange grind cup with interior fins whose proposed utility is still a mystery.
+
+The Oxo Brew Conical Burr Grinder has a good balance of features, usefulness, and a relatively low price among the conical-burr grinders we've used. Quite simply, it's the cheapest grinder I recommend to make actual good coffee. There are 30 settings that range from espresso to a coarse grind for French press—but the lack of fine adjustments at the low end of the scale won't suffice for non-pressurized espresso baskets. This Oxo is also not as quiet as our top pick, and kicks out more boulders and fines than either of our top two picks.
+
+That said, this machine is industrial-handsome and intuitive to use, with a grind-by-time function you can dial in for your brewer if you hate scales. (You should still use a scale, like this flow-cost one from Maestri House.) This Oxo also grinds consistently enough for good-tasting drip. It's a great grinder for beginners—an entry-level choice at half the price of our top pick, with a solid warranty and a sturdy build.
+
+“We live in the 21st century,” you're probably saying. “Electricity has been a pretty successful addition to modern life. Why would I want to grind coffee by hand?” The answer, at home, is precision and cost. The highest-end, most consistent, most adjustable coffee grinders can run into the thousands if you let them, especially where espresso is concerned. But a slower-grinding, precisely machined manual coffee grinder can attain similar precision at a far lower cost. This little Taiwanese-made Kingrinder K6 is a beast, with better consistency of grind than any flat burr I’ve tested south of four figures, beautiful fine adjustments, and a grind size range from the finest espresso to the coarsest of French press or cold brew. And yet, it's often $100 on sale. It's also a great travel and camping grinder. It's even better for home baristas.
+
+Sure, it requires effort and a little grip strength. And there's a bit of a learning curve: Each click on the K6's adjustment dial accounts for 16 microns of burr movement. Start with the dial at zero, and click counterclockwise. One full rotation is 60 clicks. Great espresso might begin at around 35 clicks, while great light-roast drip coffee is somewhere closer to 110. There's a helpful guide linked here. Then weigh your beans, fill them from the top of the device, close the lid, insert the handle, and crank it for 20 seconds or so for single-dose espresso or pour-over, a fast grind compared to most manuals. One of the best cups of pour-over I've made in my life has been with this little thing, a sweet spot of precise aromatics I couldn't replicate with any electric grinder I own. But fair warning, you'll get a little bit of a workout on fine grinds.
+
+If you want an electric coffee grinder that'll make good espresso at a similar price, check out the Wirsh Geimori T38 Plus ($150), described below in our picks for budget coffee grinders.
+
+If ever you need proof that an excellent grinder is every bit as important as a good espresso machine, here's a little experiment. Try using this Mazzer Philos coffee grinder (9/10, WIRED Recommends) with a cheap espresso machine. Your espresso shot will still come out full-bodied, syrupy, and delicate in all the right ways. Indeed, I've made some of my most prized espresso shots in recent memory using the Philos and a mid-tier machine.
+
+Italian brand Mazzer is best known for devices used in specialty coffee shops. The Philos is the first one I know that's just as suitable for home use. This said, it costs $1,500, as much as our favorite top-line espresso machines. This makes it a bit of a thought experiment. What leads to even extraction, and fewer off flavors? The excellence and evenness of the grind, or consistency and tight control over temperature and pressure? For my money, I might opt for this $1,500 grinder and an excellent but bare-bones $300 Breville Bambino, rather than spending the extra money on a more expensive espresso machine and a cheaper grinder.
+
+The Philos is a precise and thoughtfully designed device from one of the most trusted names in Italian coffee grinders. It hums powerfully but grinds quietly. It retains precious few coffee grounds. The burrs are easy to replace and clean, and you can choose between an i189D burr set meant for medium and dark roasts and an i200D set optimized for better clarity on lighter roasts. Stepless adjustment is also possible. You might get better drip coffee out of the Fellow Ode, but not by much. The espresso, meanwhile, is among the best you can make from a home grinder. The build quality is unmatched, with replaceable parts mostly made of metal. In a world full of plastic, the Philos is mostly devoid of it.
+
+A truly professional-grade buy-by-weight grinder: For most home users, I'd recommend the easy use and setup of the Philos. But let's say you use the same beans consistently. And you want the same exact shot of espresso every time, every morning, at café quality and with ridiculous precision. I give you the remarkable Mazzer Mini-G ($1,795), which will drop lovely, even, and preternaturally fluffy coffee grounds right into your portafilter—and will dose each shot within a tenth of a gram. No scale needed! At its heart, the Mini-G is probably a device for small professional barista setups. The construction is robust and seemingly indestructible. The shots are remarkably consistent. The results are syrupy, rich, and delicious. But the setup and calibration are painstaking and not overly intuitive. You'll probably need to watch a video. And swapping beans is not easy: You'll have to purge as many as 8 grams of coffee to do so. But once you've got your grinder dialed to your favorite beans and loaded up the hopper? The Mini-G will give you what's likely the most frictionless and delicious home espresso experience you've ever had. I like the flexibility and near-zero-retention of the Philos. But for people who want to set, forget, and enjoy, the Mini-G is a true buy-it-for-life gem.
+
+As mentioned above, the best bang for your buck will always be a hand grinder like my favorite, the Kingrinder K6 manual coffee grinder ($109). A precisely machined manual coffee grinder can rival coffee grinders many hundreds of dollars more expensive, both in precision and durability. And so the best manual coffee grinder will also be the budget option that'll lead to the best coffee. I've personally come to love the routine and the control.
+
+But I get it. You'll happily grind your pepper with the best pepper grinder, but you draw the line at grinding coffee. Mornings are hard. Electricity helps. These are the budgetiest of budget electric coffee grinder options for each style of brew, all blessedly hands-off. None of these will lead to the clarity of flavors or sweetness or delicacy of our top picks. But they're the absolute lowest-cost devices we recommend for each category of brew.
+
+Just when you thought Oxo had already cornered the market on affordable conical burr coffee grinders, the company comes in at an even lower price with this compact model. The Oxo Brew is stacked like a wee layer cake. And so the grind cup is housed within the column of the device and can be pulled out when you're done grinding. But while this is quite clever, neither consistency of grind nor ease of use is quite on par with Oxo's $110 basic conical burr, which remains my pick for an entry-level drip coffee grinder. But it's also very easy to move from the cabinet to the counter and back, and $30 less is $30 less. This is the lowest-price electric grinder I could actually recommend for Aeropress, drip, pour-over, French press, or cold brew. I wouldn't attempt espresso, though.
+
+The lowest-cost electric espresso-capable grinder I can recommend with a clean conscience is the Wirsh Geimori T38 Plus for $150. This portable conical-burr grinder is about the size of a Christmas nutcracker and looks alarmingly like Pinocchio's left leg. But it offers surprisingly low coffee retention, stepless grind adjustments, and far better precision than expected for a grinder of its price. It achieves this by grinding at low RPMs—meaning it grinds quite slowly and carefully for an electric grinder. This also means the T38 Plus takes more than 30 seconds to grind enough beans for a double shot of espresso. This is disqualifyingly slow for batches large enough for drip or French press, and the T38 doesn't really have the clarity you want for pour-over. Still, it might be the only electric grinder I've tested south of $150 that can make decent espresso on non-pressurized baskets. It's also wee—great for small kitchens or as a travel coffee grinder. It's the grinder I'd definitely take with me to a hotel room if I didn't feel like grinding coffee by hand.
+
+Look, blade grinders like this KitchenAid won't offer the powdery fineness and full-bodied coffee pleasures of a great conical burr, nor the precision of WIRED's top flat-burr pick. Blade grinders chop the heck out of beans, offering an uneven grind. But this is a very affordable coffee grinder, it's simple as pancakes to use, and blade-ground fresh beans are still a little better than the stuff in the supermarket. That said, they're probably still worse than getting beans fresh-ground at a café and using them within a week. When non-bean-geek friends ask for a grinder that costs less than dinner for two at Arby's, this is the one I offer up—especially if they're using darker grinds, and favor French press or a less expressive drip coffee maker. At the very least, it's enough so you're not crippled when you get whole-bean coffee as a gift. But let's be clear. The Oxo Compact conical burr grinder above is five times as good for about $30 more.
+
+I of course assessed coffee grinders by tasting the resulting coffee across a number of brew styles and beans. But I also backed up my taste buds with scientific instruments. I analyze the flavor profile and the grind consistency of each of WIRED's top burr coffee grinder picks using particle analysis by a device called the DiFluid Omni. You can read a broader discussion of that particle analysis here.
+
+Specifically, I tested each of WIRED's top burr grinders on multiple grind settings using the same medium-grind coffee beans—at both espresso-fine grinds and medium grinds more suitable for drip or pour-over coffee. Since September 2025, I also test every grinder I review or consider as a top pick, including the Moccamaster KM5, whose results are included here. I tested at least five times for each grind sample, collating the results into a characteristic curve for that bean and grinder.
+
+Expand the discussion below for detailed discussion, bar graphs, and such.
+
+Particle size analysis of coffee grinds is not a cut-and-dried test: It's more a clue as to the probable character of a brew. Patterns begin to emerge that correlate to the experiences I've had tasting coffee from each grinder. Taste is the ultimate test, alongside consistency of finicky espresso pulls. But quantitative analysis helps me (and you) actually trust and maybe understand those sensory test results.
+
+When looking at these bar graph curves below, there are also a few rules of thumb. Big boulders north of a thousand microns will often lead to muddier character. Too many fines below 100 microns might lead to bitterness. A tight particle size distribution is associated with greater clarity of flavor. Look at the standard deviation (SD) for a clue as to overall precision: Smaller numbers indicate likely greater clarity. This said, a broad distribution of coffee ground sizes can also lead to better body and more perceived sweetness.
+
+Our top pick for most people, the Baratza Encore ESP, proved itself to have quite precise results at very fine grinds—with standard deviation below 200 microns on espresso grinds, and 30 percent of particles concentrated within a single range. At its price range, this is admirable precision matched by very few grinders.
+
+The same wasn't as true at pour-over coffee settings for the Baratza Encore ESP (seen above at setting 22), which showed a broader and more heterogeneous particle size distribution—with both small and large particle sizes. In practice, this led to a full-bodied and rounder cup, but with a little bit less of the precise aromatics one can get from our favorite grinder for drip and pour-over, the Fellow Ode Gen 2.
+
+The Ode showed a characteristic bell-curve shape, surrounding a single high peak, which corresponded with the precise aromatics I taste when brewing drip or pour-over coffee using the Ode.
+
+Even greater precision was on display with the Technivorm Moccamaster KM5, a flat burr grinder that showed precise results across the board—rivaling the Encore ESP at fine grinds and the Ode Gen 2 at grinding for drip. It's not as user-friendly as some of the top-pick devices, and the resulting brews can sometimes feel clinically clean, with a thinner body. But my lord it does offer clarity.
+
+The Kingrinder K6 hand grinder, our top manual grinder pick, also showed strong peaks at grind sizes appropriate for pour-over coffee. Shown here are analyses of two medium-fine grinds, at 60 and 70 clicks from zero, respectively. Hand grinders have a secret weapon, which is that they cause you to grind slowly—which works very well at coaxing out more clarity from conical burrs. For pour-over grinds, the Kingrinder showed a higher peak than basically any grinder I tested, meaning grinds are very concentrated in a tight range of sizes: as many as 40 percent of coffee grounds were functionally the same size, and about 70 percent were grouped tightly around this. This leads to quite pronounced, intense flavor notes.
+
+At grind sizes suitable for espresso, the Mazzer Philos bests this precision, with more than 90 percent of coffee grounds huddled in a tight grouping while using the i200D burr set. Nonetheless, while boulders are all but nonexistent, enough coffee fines exist to give each shot an almost syrupy consistency. The result is both body and perceived sweetness, with a surprisingly delicate clarity. While I haven't tested the i189D burrs also available as an option, reports from the world say that the i189Ds lean even harder into clarity of flavors. But note that at bigger grind sizes more suitable for drip coffee, you'll get a quite broad distribution. This will lead to a well-rounded cup, but may not offer the clarity of flavor of the Fellow Ode Gen 2 or the Kingrinder K6 for drip and pour-over brews.
+
+WIRED tests coffee grinders by grinding a lot of beans and making a lot of coffee—testing each grinder to see if it can serve well for espresso, Aeropress, drip, and pour-over coffee, and coarse-ground cold brew and French press. I tend to always grind a drip Stumptown Homestead or Single-Origin Colombia as a baseline, because each is readily available at my local supermarket with stamped roast dates, and because I know the flavor well enough that I can detect variations. But I'll also try out a number of flavors and roasts on each grinder for different brewing methods.
+
+We assess each grinder for decibel level while grinding, ease of cleaning and operation, hopper design, the presence or absence of “popcorning” (where the beans pop around inside the hopper, often leading to more uneven results), messiness and static electrical buildup, grind retention, ease of use, value, and simple aesthetics.
+
+Previous WIRED reviewers assessed grind uniformity visually with the aid of macro lenses or filtered coffee grounds with sieves. In more recent rounds of testing, I reassessed each top coffee grinder pick using particle grind size analysis, with the help of the DiFluid Omni roast color and particle size analyzer, as well as a data analysis app.
+
+I tested both fine and medium grinds on each grinder, using the same beans for each grinder, roasted within a month of testing. I repeated the particle analysis at least five times for each grinder and setting, and collated the results. I assessed the uniformity of the grind and the overall distribution of particle sizes—paying particular attention to the share of coffee fines (the tiniest particles smaller than 100 microns) and boulders (big coffee bits larger than 1000 microns).
+
+Why Grind Whole Beans Instead of Buying Pre-Ground?
+
+The reasons are simple: flavor, freshness, and aroma.
+
+Whenever you open a vacuum-sealed bag of beans, a little invisible clock starts. Oxidation begins to erode the character of your beans, breaking down organic compounds and degrading them, turning your lovely beans to cardboard. Aromatic flavor compounds also escape from the bean, gassing out into the air where they do no particular good.
+
+When you grind your beans, these processes go into overdrive. Freshness for whole beans can be measured in weeks. For ground beans, freshness in the open air is a matter of hours or even minutes. That bag of pre-ground beans you got from the supermarket? It's still coffee, of course, and it'll taste like coffee. But the vibrancy is gone. As far as true freshness is concerned, that coffee's been dead for weeks. (Pre-ground beans can be kept airtight for a week or so and maintain their flavor if you get them ground fresh at a coffee roaster.)
+
+The only reliable way to get truly excellent flavor from your coffee beans, the way you experience it at a café, is to use fresh, whole beans. This is also how you can exercise some control over extraction and dial in your brewer or espresso maker to get perfect results for each bean.
+
+Espresso requires a fine grind, pour-over a little coarser, and electric drip coffee a little coarser than this. Each grinder should have a guide to the best adjustments for each brewing method. Lighter-roast beans will want a finer grind than dark-roast to aid in extraction: Porous dark-roast beans give up their secrets a lot easier.
+
+It's all kinda fun to figure out if you let it be fun. But certainly, when you strike paydirt, you'll know it: Finding the right marriage of grind and bean, on a good grinder, can turn into the best cup you've ever had. It's like the magical first time you seared a perfect steak or baked a perfect layer cake. Effort meets reward. It's marvelous. The grinders in this guide will help you find that moment more often.
+
+Most coffee grinders fall into three main types: Conical-burr, flat-burr, and blade grinders. Burr grinders are generally higher quality and higher cost.
+
+Conical-burr grinders are the category occupied by our top pick, the Baratza Encore ESP, and pretty much all of the most affordable grinders that still make good coffee. And there's a reason for this: Conical tends to offer the sweet spot at the intersection of high performance, cost, and flexibility. In a conical grinder, coffee beans are crushed and ground between two rings of burrs. They deliver a finer, much more consistent grind than you’d get with a traditional blade grinder, even the nicest blade grinder you've ever met. Conicals do tend to throw off more fines than a flat burr, but many feel this leads to more body and a more rounded flavor character.
+
+Flat-burr grinders are thought to be more precise than conical grinders (though this is by no means universal). They’re also typically more finicky and also more expensive. Burrs are laid on top of each other, and the beans pass through them as they grind. The grinder action pushes the grounds out of one end, instead of relying on gravity like a conical-burr grinder, which means the beans spend more time in contact with the burrs. This often results in a more consistent grind, and therefore more precise flavors. For this reason, flat-burr grinders are often preferred as a way to elicit clarity of tasting notes in single-origin beans for pour-over, drip, and Aeropress.
+
+Blade grinders have a chopping blade that spins around like a food processor. But blades don't produce even results. Some of your coffee will be fine powder at the bottom, and at the top you'll have bits too large for even French press. The result is an inconsistent, unpredictable brew. These grinders are generally quite cheap. But in case you're wondering, using fresh beans in a blade grinder is still probably better than buying stale ground coffee. (You can learn how to shake the beans to even your grind just a little. Pulsing the machine often also works. See world barista champion James Hoffmann's video for some more blade grinder hacks.) Still, if you can afford it, the conical or flat-burr grinders on this list will lead to far better coffee than any blade.
+
+What's the Difference Between a Cheap and Expensive Burr Grinder?
+
+The machinery in a high-quality burr grinder is a bit more complicated, and it's built to withstand greater wear and tear. In cheap burr grinders, the burrs can get blunt from regular use, and flimsier motors may burn out in a matter of months.
+
+But also, coffee grinders have undergone a revolution in technology and design in the past decade. Manufacturers have been experimenting with different shapes of burr even on conical burr grinders—pentagonal, hexagonal, heptagonal. And grinders with more precise cuts will cost more money.
+
+Flat burrs also cost more money to manufacture, and are seen as having more precision. The true geeks are swapping out for new generations of flat burr that offer greater precision in machining, and multistage grinds. Grinder makers are experimenting with larger and smaller burrs and different materials. It's a hive of invention out there. And these precision parts cost money: Some burr sets might cost hundreds all by themselves.
+
+The end result of all this attention is a greater range or finer adjustment of grind sizes, better and more reliable calibration, and often more precision in the resulting coffee grinds—and thus more precision in the flavor of your coffee or the brew of your espresso.
+
+Can I Run Pre-Ground Beans Through My Burr Grinder to Get Better Coffee?
+
+First off, if you're trying to improve the flavor of store-bought beans, the game's already lost. One of the main reasons to use fresh-ground whole beans is to avoid oxidation, and pre-ground beans have already been cardboarded up by evil, stale air.
+
+But also, you'll mostly just muck up your machine. Logically, it might make some sense. Your grind is too coarse, so let's just run them through again at a finer setting, and perfect coffee results! Alas, on burr grinders, pre-ground coffee will get stuck inside the burrs, gum them up, and cause you to have to take the whole thing apart and clean it with your little brush and put it back together.
+
+Quite simply, the best coffee grinders for espresso are the ones that offer the finest calibration at the “fine” end of the spectrum. If you want to get super specific, look for coffee grinders that offer a number of fine calibrations at the fine end of the spectrum.
+
+Dialing in individual espresso beans can require quite fine adjustments—and so even if a grinder is technically able to grind fine enough for espresso, it should also be able to make precise enough adjustments within that range to account for different beans, roasts, and machines. (For a real-world counterexample, witness the wall WIRED reviewer Joe Ray ran into when trying to get the (excellent) Wilfa Uniform Coffee Grinder to work for espresso. Without fine adjustments, chances are you'll fail.)
+
+Otherwise, what you're looking for is excellent build, a motor that can withstand the higher torque you'll need to grind finely even on lighter roasts, and a machine that deals well with static electricity: Finer espresso grinds can turn static into a terrible enemy, sending coffee grounds spraying wildly.
+
+The most vaunted espresso grinders can travel upwards into the high hundreds of dollars (see the Timemore Sculptor 064S flat-burr) or the thousands of dollars (see the Zerno Z1).
+
+The Mazzer Philos Coffee Grinder ($1,595) offered maybe the best shots of espresso I've pulled at home in the past year. This offers delicate flavor and syrupy shots like the ones you'll get from a café, even on lower-cost espresso machines. (See my full review of the Mazzer Philos.)
+
+But in this guide, we focused mostly on the best espresso grinders for the 90-some percent of people who are trying to gain access to good coffee without spending four figures. For most people and most budgets, our top pick, the Baratza Encore ESP ($200), will be the best choice, with sturdy construction and 20 grind adjustments for espresso alone. If you don't mind a little elbow grease, you can tune your grinds even finer by using a manual coffee grinder like the Kingrinder K6 ($109).
+
+And then there's the true budget electric option. The tiny, slow-grinding Wirsh Geimori T38 Plus ($150) is the lowest-cost electric espresso grinder I've tried that can actually make good espresso on non-presurized baskets, though I'd probably limit it to medium roasts or darker, lest you strain the machine. Torque is not a strong suit.
+
+Baratza Encore for $150: Baratza's original Encore is the Honda of the conical burr grinder world: easy to maintain, runs great, easy to use, lasts forever, replacement parts easy to find. It's been on the market largely unchanged for more than a decade. For not much more money, though, our top-pick Encore ESP offers beautiful adjustment on espresso settings, so I tend to recommend paying an extra $50 for the added versatility. But the original Encore remains a solid entry-level choice.
+
+Baratza Virtuoso+ for $250: The Virtuoso+ uses the same burr set as the ESP, but is not quite as optimized for espresso. The biggest upgrade against the Encore ESP is a timer. Both have similar rock-solid but compact builds (although the Virtuoso is a little more stylish with its fitted grounds bin), 40 grind settings, and burr grinders for consistent grounds. The Virtuoso’s digital timer, however, is great for those wanting consistent coffee ground dosings each morning. You’ll have to dial in on your grind time versus coffee grounds output, but once you figure that out, you can walk away from the grinder and multitask if you please. —Tyler Shane
+
+KitchenAid Burr Grinder for $200: This KitchenAid is stylish and easy to clean, and former WIRED reviewer Jaina Grey likes that the burrs are accessible thanks to their placement directly beneath the hopper. It also features precise dose control, with grind size controlled by a dial. For espresso lovers, one excellent feature is that you can swap the little container that catches the grounds with a holder for a portafilter.
+
+Technivorm Moccamaster KM5 Flat Burr Grinder for $349: The performance on this stepless (read: infinite adjustment) grinder is somewhere between good and damn good. The razor-thin grind size distribution in early testing makes the KM5 a credible rival to the similarly priced Fellow Ode, in fact. And like the Ode, this Moccamaster is made especially for bringing out precise flavors on drip and pour-over. Particle analysis shows this Moccamaster to potentially offer even more precise grinds, leading to an almost clinically clean brew with light body. The KM5 not overly user-friendly, mind you: It cranks at 90 decibels, you have to hold down its analog switch to grind, and its aesthetics are the same sturdy industrial chic as all Moccamasters. Indeed, it's designed to sit alongside the classic drip coffee maker that's been on our buy-it-for-life guide since we've had one. If you prefer clarity to ease of use, this gives the Ode a run for the money, for less money.
+
+Eureka Mignon Filtro for $269: The precision on flat burrs is terrific. But usually, so is the price. This no-frills Filtro from beloved Italian coffee brand Eureka clocks in at more than $100 less than our top-pick flat-burr, and it's an absolute metal-clad tank of a machine, says former WIRED reviewer Jaina Grey. It's as robust as the higher-end models and offers excellent consistency of grind size. Sure, it's a little loud, and you have to hold the button down when you grind. But life is full of trade-offs.
+
+Lardera Wilfa Uniform for $299: This Wilfa has long been on our list as a great flat-burr grinder for pour-overs and drip. It remains such, though the Ode springboarded it as the top pick with its Gen 2 burr update, at about the same price. Like its name suggests, the Wilfa offers a beautifully consistent grind size and will make you a lovely pour-over. That said, it's fussier to adjust and louder than the Ode.
+
+Breville Smart Grinder Pro for $200: WIRED has recommended this Breville in the past for its accessible burrs that make it easy to clean. But it's not really optimized for lighter-roast espresso, and ever since Breville bought Baratza, they've slowly been swapping out the grinders in their top-line semi-automatic espresso machines with those excellent Baratza burrs. For a stand-alone grinder at the same price, we give the same advice to you.
+
+Baratza Vario W+ for $600: The Encore has a bigger, beefier, flat burr cousin, the Baratza Vario-W+ (7/10, WIRED Recommends) with a built-in scale and ridiculously granular adjustment (230 settings!). But like a lot of flat burrs, it struggles on finer grinds, according to WIRED contributor Joe Ray. And static is an issue. With price in play, the Ode Gen 2 comes out on top, but Ray was still a big fan of the Vario.
+
+VSSL Java manual grinder for $165: VSSL specializes in ultra-durable camping tools, and it applied this same durable construction to this hardy campsite-ready hand grinder that WIRED reviewer Scott Gilbertson attests to be rugged enough to survive the zombie apocalypse. The handle folds out to provide a lot of leverage while you grind, and you can use it as a hook to hang the device up when you're done.
+
+Wirsh Geimori GU38 for $200: The GU38 grinder from Wirsh/Geimori uses an identical burr set to the T38 Plus model I recommend as a budget espresso grinder. It's also bulkier and built a little sturdier. But the angled hopper causes more coffee retention, including some coffee beans that just refuse to feed into the grinder. Performance also seems slightly less reliable than the TU38, perhaps because the GU38 grinds faster. Either way, I'd opt for the lower-cost T38 Plus over this quite similar model.
+
+Aarke Flat-Burr Grinder for $400: This pretty, shiny, stainless steel Aarke grinder contains a unique feature when paired with Aarke's coffee brewer, detecting the water in the brewer's tank and grinding the appropriate amount of beans. But this feature wasn't as calibrated as we'd like, and there have been a lot of online reports of grinder jams. I didn't have the same problem, but at more than $300 for a grinder that hasn't been long on the market, prudence is often rewarded.
+
+Hario Skerton Pro for $55: The Hario Skerton was the gateway hand grinder for many a coffee nerd, but it has since given ground to newer entrants. It's fast and cheap, but it'll give you a heck of a workout and isn't as consistent for coarse grinds, plus the silicone handle has a habit of falling off.
+
+Hario Mini-Slim Plus for $39: This smaller Hario manual grinder is slower than the Skerton, but its plastic construction makes it good to throw in a travel bag. The low price is its main advertisement.
+
+Cuisinart Burr Grinder for $75: At first, it seems like a good deal. It's Cuisinart, a known brand, and a conical burr grinder for less than $100! But former WIRED reviewer Jaina Grey found that the low price came with a cost: These things apparently burn out faster than a rock star in the late ’60s.
+
+Bodum Bistro Electric Blade Grinder for $20: This little blade grinder is quite cheap, and the model has served WIRED contributing reviewer Tyler Shane for years. That said, after some inconsistent reports on reliability, we favor the KitchenAid as our ultra-budget pick.
+
+Power up with unlimited access to WIRED. Get best-in-class reporting that's too important to ignore. Subscribe Today.
+
+Take 10% Off Legal Services with This LegalZoom Promo Code
+
+Save up to $420/year when you bundle AT&T Fiber® internet and wireless
+
+Take Up to 25% Off Custom Prints with VistaPrint Promo Code
 
 © 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
 
