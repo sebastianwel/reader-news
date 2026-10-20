@@ -1,12 +1,12 @@
-=== WETTER HAMBURG - 19.10.2026 ===
+=== WETTER HAMBURG - 20.10.2026 ===
 
 AKTUELL:
 Zustand: Bedeckt
-Temperatur: 8.5°C
+Temperatur: 7.8°C
 
 TAGESAUSSICHT:
-Vormittag  (10:00 Uhr: 7.8°C, Hauptsächlich klar (Regen: 0%))
-Nachmittag (15:00 Uhr: 11.8°C, Bedeckt (Regen: 0%))
-Abend      (20:00 Uhr: 8.4°C, Klarer Himmel (Regen: 0%))
+Vormittag  (10:00 Uhr: 7.5°C, Teilweise bewölkt (Regen: 0%))
+Nachmittag (15:00 Uhr: 9.9°C, Bedeckt (Regen: 0%))
+Abend      (20:00 Uhr: 8.2°C, Teilweise bewölkt (Regen: 0%))
 
 Einen schönen Tag in der Hansestadt! ⚓
