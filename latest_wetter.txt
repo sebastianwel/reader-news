@@ -1,12 +1,12 @@
-=== WETTER HAMBURG - 22.10.2026 ===
+=== WETTER HAMBURG - 23.10.2026 ===
 
 AKTUELL:
-Zustand: Hauptsächlich klar
-Temperatur: 8.8°C
+Zustand: Leichter Regen
+Temperatur: 7.7°C
 
 TAGESAUSSICHT:
-Vormittag  (10:00 Uhr: 8.7°C, Hauptsächlich klar (Regen: 0%))
-Nachmittag (15:00 Uhr: 12.4°C, Bedeckt (Regen: 7%))
-Abend      (20:00 Uhr: 10.9°C, Teilweise bewölkt (Regen: 18%))
+Vormittag  (10:00 Uhr: 7.4°C, Leichter Regen (Regen: 53%))
+Nachmittag (15:00 Uhr: 11.2°C, Leichter Regen (Regen: 35%))
+Abend      (20:00 Uhr: 10.2°C, Leichter Regen (Regen: 25%))
 
 Einen schönen Tag in der Hansestadt! ⚓
