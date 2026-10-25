@@ -1,0 +1,12 @@
+=== WETTER HAMBURG - 25.10.2026 ===
+
+AKTUELL:
+Zustand: Bedeckt
+Temperatur: 10.8°C
+
+TAGESAUSSICHT:
+Vormittag  (10:00 Uhr: 11.3°C, Bedeckt (Regen: 5%))
+Nachmittag (15:00 Uhr: 11.6°C, Leichter Regen (Regen: 83%))
+Abend      (20:00 Uhr: 10.3°C, Bedeckt (Regen: 8%))
+
+Einen schönen Tag in der Hansestadt! ⚓

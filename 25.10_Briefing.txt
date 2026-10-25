@@ -1,0 +1,373 @@
+=== DAILY BRIEFING - 25.10.2026 ===
+Quellen: Tagesschau, Sportschau & Wired Tech
+
+
+>>> TAGESSCHAU TOP-NEWS <<<
+
+[1] MUSK WIRFT UKRAINE VERSTOSS BEI STARLINK-NUTZUNG VOR
+
+Tech-Milliardär Musk wirft der Ukraine vor, seinen Satelliten-Internetdienst Starlink für tödliche Drohnenangriffe missbraucht zu haben. Das System sei kein "Mittel zum Töten", sagte Musk. Die Sicherheitslücke sei inzwischen aber geschlossen.
+
+US-Tech-Milliardär Elon Musk hat der ukrainischen Armee vorgeworfen, gegen die Nutzungsbedingungen des von seinem Unternehmen SpaceX bereit gestellten Satelliten-Internetdienstes Starlink verstoßen zu haben.
+
+Das ukrainische Militär habe den Dienst "für offensive Drohnenangriffe genutzt, um Menschen zu töten", sagte Musk in seinem Onlinedienst X. Er fügte jedoch an, dass diese Lücke in der vergangenen Woche geschlossen worden sei.
+
+In einem weiteren X-Beitrag erklärte Musk, die Nutzungsbedingungen von Starlink seien "darauf ausgelegt, dass es sich um ein ziviles System handelt - nicht um ein Mittel zum Töten". Ein Verstoß gegen diese Bedingungen führe "zum Abschalten des Dienstes". Starlink sei weiterhin "entscheidend für die Verteidigung der Ukraine", schrieb Musk weiter. Es sei "das einzige System, das zumindest derzeit weder gestört noch zerstört" werden könne. "Würde Starlink abgeschaltet, würde die ukrainische Frontlinie sofort zusammenbrechen."
+
+Die ukrainische Armee meldet derweil Angriffe auf kriegswichtige russische Industrieanlagen.
+
+Die Ukraine hatte zuvor mitgeteilt, dass sie wieder über eine "stabile Verbindung" zu Starlink verfüge. "Überwachungssysteme verzeichnen eine Erholung der Geschwindigkeit von Starlink", erklärte der ukrainische Verteidigungsminister Jewhenij Chmara. "Die Verbindung ist stabil", fügte er hinzu.
+
+Kiew hatte seit Tagen eine Drosselung von Starlink und der dazugehörigen militärischen Variante Starshield beklagt. Das "Wall Street Journal" hatte berichtet, SpaceX-Chef Musk habe die Einschränkung von Starshield für die Ukraine angeordnet. Musk, der seine Haltung zur Ukraine seit Beginn des russischen Angriffskriegs mehrfach geändert hat, hatte dagegen erklärt, "alle Beschränkungen bei Geschwindigkeit oder Nutzung" des Starshield-Systems würden vom US-Militär und letztlich vom Präsidenten entschieden.
+
+Sollte das zutreffend sein, wirft das einige Fragen auf - auch an US-Präsident Trump.
+
+Dies wurde von US-Präsident Donald Trump und Verteidigungsminister Pete Hegseth zurückgewiesen. Trump erklärte am Donnerstag, Musk habe den Zugang der Ukraine zu Starlink wiederhergestellt. Am Freitag legte er nach und erklärte, er werde mit Musk sprechen, sollte Kiew weiterhin Probleme mit dem Satelliten-Internetdienst haben.
+
+Die Beziehungen zwischen Kiew und Washington haben sich in den vergangenen Wochen deutlich verschlechtert. Trump hat ein Abkommen mit Moskau über die Lieferung von Diesel-Kraftstoff geschlossen und geplante Sanktionen gegen Russland ausgesetzt. Als der ukrainische Präsident Wolodymyr Selenskyj den Diesel-Deal kritisierte, forderte Trump dessen Ablösung.
+
+Dieses Thema im Programm: NDRinfo | Nachrichten | 25.10.2026 | 05:00 Uhr
+
+----------------------------------------
+
+[2] AUDI KÜNDIGT US-WERK AN - AUF TRUMPS WAHLKAMPFTOUR
+
+Immer wieder droht Trump ausländischen Unternehmen mit hohen Zöllen. Nun kündigte Audi den Bau seines ersten Werks in den USA an. Auf einer Wahlkampfveranstaltung durfte der US-Präsident damit auch für sich werben.
+
+Audi hat den Bau eines Werks in den USA verkündet - und das mitten auf einer Wahlkampfveranstaltung von Donald Trump. Der US-Präsident versprach bei seiner Rede im Bundesstaat Georgia zunächst seinen Anhängern, dass der Autohersteller dort 200.000 SUV im Jahr bauen will. Anschließend rief er Audi-Chef Gernot Döllner auf die Bühne. Döllner dankte Trump für die Unterstützung.
+
+Der Auftritt kommt zu beachtenswerter Zeit: Bis zu den Midterms sind es weniger als zehn Tage. Am 3. November wird über die Sitze im Repräsentantenhaus und einen Teil der Sitze im Senat abgestimmt. Die Republikanische Partei Trumps will ihre hauchdünnen Mehrheiten in den beiden Kammern des US-Kongresses verteidigen.
+
+Wer wird gewählt, welche Themen bestimmen den Wahlkampf und welche Chancen haben die Demokraten?
+
+Trump fordert seit Beginn seiner zweiten Amtszeit von ausländischen Unternehmen immer wieder, ihre Produktion in die USA zu verlagern. Dabei stellte er solchen Firmen einen Zollerlass in Aussicht. Trump will so die heimische Wirtschaft ankurbeln und Industriejobs schaffen.
+
+In einer Audi-Mitteilung gab es weitere Details zu dem Werk. Der Baubeginn ist für 2027 vorgesehen. Erstmals plane die Marke ein eigenes Werk in den USA. Rund 4.500 Jobs sollen geschaffen und rund vier Milliarden US-Dollar (rund 3,6 Milliarden Euro) investiert werden. Die Produktion soll Anfang der 2030er-Jahre starten. In dem Werk sollen Premium-SUVs gebaut werden, die gezielt auf die Anforderungen von nordamerikanischen Kundinnen und Kunden ausgerichtet werden.
+
+Die VW-Spitze und die IG Metall treffen sich heute erneut zu Gesprächen über den künftigen Sparkurs.
+
+Die IG Metall äußerte sich zu den Plänen grundsätzlich positiv, verband dies aber auch mit einer Mahnung. "Den US-Markt durch ein neues Werk besser zu erschließen ist richtig und notwendig", sagte die Erste Vorsitzende Christiane Benner. "Jedoch müssen verbindliche Perspektiven für die Beschäftigten an allen, gerade den hiesigen Standorten, klar definiert und festgehalten werden."
+
+Dabei sei der Vorstand in einer Bringschuld. Benner verwies zudem darauf, die abschließende Entscheidung über einen möglichen Fabrikneubau in den USA stehe unter dem Vorbehalt der Gremienzustimmung. "Das finale Votum wird mit ganzheitlichem Blick richtiger- und wichtigerweise im Aufsichtsrat der Volkswagen AG getroffen."
+
+Dieses Thema im Programm: NDRInfo | Nachrichten | 25.10.26 | 7:00 UhrDas Erste | Nachrichten | 25.10.26 | 9:00 Uhr
+
+----------------------------------------
+
+[3] WIE ERDWÄRME DIE WÄRMEVERSORGUNG VERÄNDERN SOLL
+
+In Potsdam wird gerade mehr als einen Kilometer in den Boden gebohrt, um künftig Tausende Haushalte mit Erdwärme zu versorgen. Die Technik birgt Risiken, aber auch viele Chancen.
+
+Ein 30 Meter hoher Bohrturm ragt auf dem Gelände des Heizkraftwerks Potsdam Süd in die Höhe. Seit Juli wird hier gebohrt, fast rund um die Uhr. Die Bohrungen sollen bis zu 1.500 Meter tief gehen.
+
+Das Ziel: möglichst viel warmes Wasser finden, um damit künftig Tausende Haushalte der Brandenburger Landeshauptstadt zu versorgen. Denn Potsdam will bis 2035 seine Fernwärme komplett ohne fossile Energieträger erzeugen. Die sogenannte Tiefengeothermie soll dabei eine zentrale Rolle spielen.
+
+Gerade verteuern sich viele Lebensbereiche zugleich. Wie gehen Verbraucher und Unternehmen damit um?
+
+Rund 78 Millionen Euro sind für das Projekt am Heizkraftwerk Süd eingeplant. Die Verantwortlichen geben sich zuversichtlich, dass sich der Aufwand auszahlen wird. Aber niemand kann genau vorhersagen, wie viel warmes Wasser sich tatsächlich dort aus dem Untergrund fördern lässt. "Man weiß ja nie, ob man fündig wird", sagt Tristan Grüttner, Projektleiter beim kommunalen Energieversorger EWP. "Wir haben aber natürlich im Vorfeld viele Studien gemacht." Und die ersten Ergebnisse würden zeigen, dass man auf dem richtigen Weg sei, berichtet der Projektleiter.
+
+Bis Ende des Jahres sollen weitere Erkenntnisse vorliegen. Dann wird auch entschieden, ob noch zusätzliche Bohrungen sinnvoll sind. An einem anderen Standort in Potsdam waren sie so bereits erfolgreich. Auf dem Gelände eines ehemaligen Straßenbahndepots ist bereits seit 2024 eine erste Geothermieanlage in Betrieb. Sie versorgt bereits ein ganzes Neubauquartier mit Erdwärme. Mit vier Megawatt thermischer Leistung liefert die Anlage doppelt so viel Wärme wie ursprünglich erwartet.
+
+Ein immer größerer Teil der neuen Wohngebäude in Deutschland wird mit Wärmepumpen beheizt - vor allem Ein- und Zweifamilienhäuser.
+
+Das Prinzip ist vergleichsweise einfach: Je tiefer man in die Erde bohrt, desto wärmer wird es. In Deutschland steigt die Temperatur durchschnittlich um etwa drei Grad pro 100 Meter. Das warme Wasser wird aus tiefen Gesteinsschichten an die Oberfläche gepumpt. Dort wird ihm Wärme entzogen, die zum Heizen genutzt werden kann. Anschließend wird das abgekühlte Wasser zurück in den Untergrund geleitet.
+
+Gerade Brandenburg bietet dafür gute Voraussetzungen. Das Bundesland liegt zu großen Teilen im Norddeutschen Becken, dort gibt es in großer Tiefe Sandsteinschichten, die das warme Wasser speichern. "Der zentrale Teil Brandenburgs liegt in den besten Gebieten, was die Untergrundeigenschaften für Geothermie betrifft", sagt Ingo Sass vom Helmholtz-Zentrum für Geoforschung in Potsdam. Entscheidend ist allerdings bei den Bohrungen immer: Es muss auch genügend Wasser vorhanden sein, das sich fördern lässt.
+
+Entlastungen für Autofahrer, aber nicht für Öl- und Gasheizungen. Ist das ein Gerechtigkeitsproblem?
+
+Potsdam ist mit seinen Bohrungen nicht allein. Auch in anderen Brandenburger Städten wie Neuruppin und Prenzlau wird Erdwärme bereits genutzt oder weiter ausgebaut. Vor allem seit der Energiekrise 2022 ist das Interesse deutlich gewachsen.
+
+"Wir haben die fünffache Anzahl an Projekten in der Tiefengeothermie", sagt Gregor Dilger, Geschäftsführer des Bundesverbands Geothermie. Viele Stadtwerke seien durch den Krieg gegen die Ukraine und die anschließende Gaspreiskrise aufgewacht und hätten erkannt: "Wir müssen hier was tun."
+
+Anders als Wind- oder Solarenergie ist Erdwärme rund um die Uhr verfügbar. Trotzdem spielt sie bei der Wärmeversorgung bislang nur eine kleine Rolle. In Brandenburg stammen nach Angaben von Wirtschaftsministerin Martina Klement derzeit nur etwa 13 Prozent der Wärme aus erneuerbaren Energien. "Da haben wir Luft nach oben. Aber das bietet natürlich auch Chancen", sagt die CSU-Politikerin.
+
+Kaum ein Vorhaben der Ampelkoalition war so umstritten wie das Gebäudeenergiegesetz.
+
+Ein großes Hindernis sind vor allem die anfangs hohen Erkundungs- und Erschließungskosten. Schon die Bohrungen verschlingen Millionen Euro. Wird nicht genügend warmes Wasser gefunden, drohen hohe Verluste. Gerade für kleinere Kommunen ist dieses sogenannte Fündigkeitsrisiko schwer zu tragen. Um die finanziellen Hürden zu senken, springt mittlerweile auch der Bund mit eigenen Programmen ein. Etwa mit günstigen Krediten oder einem Förderprogramm für Wärmenetze. Auch Potsdam erhält für seine Wärmewende Fördermittel vom Bund.
+
+Langfristig aber, so Ingo Sass vom GFZ, würde sich Tiefengeothermie als stabile, vergleichsweise preiswerte und krisensichere Energiequelle auszahlen. "Es ist eine Frage der Investitionsverteilung", so Sass. Es bleiben allerdings mögliche Risiken für Mensch und Umwelt. So können durch die Eingriffe in den Untergrund kleinere Erdbeben ausgelöst werden. Auch das Grundwasser könnte bei Bohrungen gefährdet werden. Durch sorgfältige Planung, moderne Sicherheitstechnik und die Überwachung der Anlagen lassen sich diese Risiken nach Einschätzung von Fachleuten allerdings verringern.
+
+Die Zustimmung zum Klimaschutz bleibt hoch. Die Bereitschaft, privat dafür zu investieren, steigt wieder.
+
+Auch ein paar Kilometer weiter in der Hauptstadt soll die Wärme aus dem Untergrund künftig stärker genutzt werden. Erst am Montag hat Berlin erstmals Erkundungsrechte für Tiefengeothermie vergeben. Die Berliner Energie und Wärme GmbH (BEW) plant am Kraftwerksstandort Marzahn eine Bohrung in knapp 2.000 Meter Tiefe.
+
+Dort sollen vier wasserführende Gesteinsschichten untersucht werden. Die Ergebnisse sollen zeigen, ob sich Erdwärme künftig für das Berliner Fernwärmenetz nutzen lässt. Eine erste Anlage könnte nach bisherigen Planungen 2031 in Betrieb gehen.
+
+Das neue Jahr bringt einen höheren CO2-Preis mit sich. Die großen Turbulenzen bei den Kosten stehen noch bevor.
+
+Ob Potsdam, Berlin oder andere Städte in Deutschland: Immer mehr Kommunen setzen auf Erdwärme. Doch der Ausbau soll noch schneller vorangehen.
+
+Wie das gelingen kann, darüber haben diese Woche mehr als 550 Fachleute aus Wissenschaft, Wirtschaft und Politik beim Deutschen Geothermiekongress in Potsdam beraten. Hauptthemen waren unter anderem neue Technologien, die Finanzierung und die politischen Rahmenbedingungen.
+
+Ausgewählte Inhalte und die wichtigsten Eilmeldungen von uns finden Sie auch in unserem WhatsApp-Channel.
+                                                whatsapp.com
+
+Dieses Thema im Programm: rbb | rbb24 Brandenburg aktuell | 19.10.2026 | 19:30 Uhr
+
+----------------------------------------
+
+
+>>> SPORT (SPORTSCHAU) <<<
+
+[1] BEIER BEFREIT DEN BVB GEGEN EINTRACHT FRANKFURT VOM PECH
+
+Borussia Dortmund hat in der Fußball-Bundesliga seine kurze Durststrecke überwunden. Vor dem Tor von Maximilian Beier in der 80. Minute sah es beim 1:0 (0:0) gegen Eintracht Frankfurt zunächst anders aus.
+
+Trotz vieler Chancen und einem überwältigenden Eckenverhältnis von 13:1 hatte dem BVB das dritte Ligaspiel ohne Sieg gedroht und erneut eine Partie ohne Tor. Nachdem zwei Aluminiumtreffer und ein nicht gegebener Strafstoß zunächst die Dortmunder Führung verhindert hatten, schoss Beier seine Mannschaft vor den Augen von Bundestrainer Jürgen Klopp aber doch noch ins Glück. So war es auch schon beim 1:0-Erfolg beim VfB Stuttgart im September gelaufen.
+
+"Der Sieg war sehr verdient, weil wir ein richtig gutes Spiel gemacht haben. Es hat lange gedauert, aber durch die Art und Weise war es schon schön und wichtig nach den intensiven vergangenen Wochen", sagte BVB-Trainer Niko Kovac im Sportschau-Interview. "Ich wusste nicht, dass der Bundestrainer da war, aber Maxi hat nicht nur mit dem Tor heute bewiesen, dass er Qualitäten hat. Er ist ein Nationalspieler, auch wenn er beim vergangenen Mal nicht eingeladen wurde. Mit solchen Aktionen empfiehlt er sich, ich denke, auch der Bundestrainer hat einen guten Maxi Beier gesehen."
+
+Von Beginn an gab es auf beiden Seiten Gelegenheiten, doch die Effizienz fehlte jeweils. Bei der ersten Gelegenheit für Frankfurt lag das aber gar nicht an Nnamdi Collins, der frei durch war, sondern an der hervorragenden Grätsche von Ramy Bensebaini, der im letzten Moment klären konnte (3. Minute). Und beim 17-Meter-Schuss von Serhou Guirassy war es die starke Parade von Noah Atubolu, die die BVB-Führung verhinderte (15.).
+
+Fahrlässiger war der Umgang des Dortmunder Stürmers mit der Hundertprozentigen, die er kurz danach ausließ. Nach einem Abwehrfehler der Frankfurter stand Guirassy frei vor dem Tor, nahm sich sehr viel Zeit und versuchte, den Ball aufreizend lässig über Atubolu hinweg zu chippen, doch der Torhüter riss die Hand hoch und hielt (17.). Dann folgte der Schiedsrichter-Aufreger des Abends.
+
+Nach einem weiten Einwurf ging Bensebaini zu Boden, nachdem ihm Jonathan Burkardt zwar unabsichtlich, aber dennoch deutlich auf den Fuß getreten war. Sven Jablonski entschied sich gegen einen Pfiff und bekam vom VAR auch nicht den Hinweis, dass er sich die Szene noch mal ansehen solle - obwohl Dortmund zu Recht einen Strafstoß forderte, da ein klares Foul vorlag (19.).
+
+Ab diesem Moment kam die Eintracht besser ins Spiel, doch auch Burkardt schaffte es nicht, den Ball frei vor Gregor Kobel im gegnerischen Tor unterzubringen, aus 17 Metern verzog er knapp (27.). Noch knapper wurde es auf der anderen Seite nach einem abgefälschten Schuss von Daniel Svensson, der auf die Latte klatschte (31.), kurz danach rettete Kobel im Eins-gegen-eins gegen Younes Ebnoutalib, nachdem Felix Nmecha gepatzt hatte (33.).
+
+Dennoch war vor allem den Dortmundern das Pech treu. Denn nach dem nicht gegebenen Elfmeter und dem Lattenschuss von Svensson traf auch Guirassy nur Aluminium. Nach einem Eckball kam der BVB-Stürmer aus vier Metern zum Kopfball, setzte ihn aber um Zentimeter zu hoch an und traf ebenfalls nur den Querbalken (53.). Es sollte einfach nicht sein für Guirassy, der auch nach einer Flanke den Ball mit dem Fuß nicht gut genug traf und das Tor verfehlte (68.).
+
+In der Schlussphase versuchte der BVB, das dritte Remis in der Bundesliga in Folge zu verhindern, das Team von Trainer Niko Kovac ging aber nicht mehr voll ins Risiko. Es deutete sich bereits das 0:0 an, doch dann stach ein BVB-Joker. Beier bekam vom nur eine Minute zuvor ebenfalls eingewechselten Jobe Bellingham den Ball, versuchte es aus 17 Metern und ließ Atubolu mit seinem verdeckten Schuss ins lange Eck keine Chance (80.). Die Erlösung und die Entscheidung in einem Spiel, in dem zuvor vieles gegen den BVB gelaufen war.
+
+Der geht mit seinem zweiten Sieg in Folge nach dem Erfolg in der Champions League bei Sabah FK (2:1) mit noch mehr Mut in das Wiedersehen mit Niclas Füllkrug und Werder Bremen im DFB-Pokal (Dienstag, 20.45 Uhr) - vor wenigen Wochen hatte es in Dortmund ein 2:2-Remis gegeben, nachdem die Gastgeber einen Zwei-Tore-Vorsprung in den letzten Minuten hergegeben hatten. In der Bundesliga geht es vier Tage später mit dem "Klassiker" beim FC Bayern München (18.30 Uhr) weiter.
+
+Frankfurt, das nach einer turbulenten Woche mit dem Rücktritt von Sportvorstand Markus Krösche auch einen sportlichen Rückstand hinnehmen musste, steht derweil vor zwei Spielen gegen den Hamburger SV. Am Dienstag kommt es in Hamburg zum Duell im DFB-Pokal (18 Uhr), vier Tage später treffen sich die beiden Klubs in Frankfurt wieder (17.30 Uhr).
+
+Dieses Thema im Programm: sportschau.de | Beier erlöst den BVB gegen Frankfurt - die Audio-Highlights | 24.10.2026 | 20.58 Uhr
+
+----------------------------------------
+
+[2] LEIPZIGS HALBZEIT-GALA SCHICKT ELVERSBERG IN DIE AUSWÄRTSKRISE
+
+Bei Bayern München und Real Madrid hatte es Klatschen für RB Leipzig gegeben. Doch die englische Woche endete gegen Elversberg in der Fußball-Bundesliga dank der Tore von Tidiam Gomis (48. Minute), Romulo (66./90.+4) und Christoph Baumgartner (84.) mit einem 45-minütigen Feuerwerk. Die SV Elversberg enttäuschte beim 0:4 (0:0) wieder in der Fremde.
+
+"Nach den zwei Niederlagen war es für die ganze Welt unsere Pflicht, hier heute zu gewinnen, aber wir sind auf eine eklige Mannschaft getroffen. Die erste Halbzeit war nicht einfach, Elversberg hat nicht zufällig schon zehn Punkte. Aber mit unserer Qualität sind dann die Tore gekommen", sagte RB-Trainer Martin Demichelis im Sportschau-Interview.
+
+Auf den ersten Blick stehen sowohl das Team des Argentiniers als auch Elversberg für spektakulären Offensivfußball, doch bei genauerer Betrachtung hätte man darauf kommen können, dass das Duell kein Feuerwerk der Unterhaltung werden dürfte. RB hatte gerade die beiden Topspiele in München (1:6) und Madrid (1:4) deutlich verloren, musste diesmal den Fokus auf Sicherheit legen. Und die SVE blieb in den vergangenen Auswärtsspielen bei Schalke 04 (0:0) und Union Berlin (0:1) torlos, der Aufsteiger stürmt nur zu Hause.
+
+Das Ergebnis dieser Ausgangslage war dann genau das, was ihr entsprach. Es war ein von Fehlern geprägtes Spiel, in dem beide das Risiko mieden. Erst in der 21. Minute hatte Maurice Krattenmacher nach einer Flanke von Lukas Petkov die erste Chance, seine Direktabnahme geriet aber zu hoch. Das galt auch für Leipzigs einzige Offensivaktion im ersten Durchgang, als Antonio Nusa in den Strafraum zog, das lange Eck anvisierte, aber über das Tor schoss (25.).
+
+Kurz vor dem Seitenwechsel hatte Elversberg die bis dahin beste Phase und kam dem Führungstreffer schon deutlich näher. David Mokwa versuchte es nach einem Einwurf mit einer Direktabnahme aus 30 Metern, Örjan Nyland ließ sich aber nicht überraschen (37.). Kurz danach gab es nach einem Konter der Gäste das nächste Duell der beiden. Mokwa umspielte dabei den RB-Torhüter, aber der Winkel wurde zu spitz und Willi Orban konnte klären (39.).
+
+Nach der Pause wachte die Leipziger Offensive auf. Zunächst nahm Orban seinem Kollegen Gomis die Großchance vom Fuß und verzog (48.). Doch kurz darauf kam der Stürmer, der das Tor in Madrid erzielt hatte, doch nach einem Pass von Nusa an den Ball und blieb eiskalt - 1:0 (49.). Beinahe hätte der 20-Jährige wenig später wieder getroffen, nach einem langen Pass kam er erneut zum Abschluss, Nicolas Kristof konnte aber noch mit dem Fuß abwehren (58.).
+
+Elversberg gelang im Spiel nach vorne fast nichts mehr, musste aber mehr riskieren und öffnete so die Räume für Leipziger Konter. Ein solcher sorgte dann für die Vorentscheidung. Wieder reichte ein langer Ball, diesmal setzte sich Romulo robust durch und schoss den Ball durch die Beine von Kristof (66.). Kurz danach vergab Frederik Schmahl aus kurzer Distanz die Großchance, um Elversberg zurück ins Spiel zu bringen (69.).
+
+In der Schlussphase blieb ein Aufbäumen der Gäste aus, stattdessen erhöhte Baumgartner sogar noch per Kopf auf 3:0 (84.). Das Highlight des Spiels gab es dann noch in der Nachspielzeit, als Romulo den Ball nach einer traumhaften Hackenvorlage von Abdoul Koné ins Tor stocherte (90.+4). So feierte Leipzig einen erfolgreichen Abschluss nach den vielen Gegentoren der englischen Woche und geht so mit einem positiven Gefühl in die nächste.
+
+Bereits am Dienstag geht es für RB im DFB-Pokal mit einer schweren Aufgabe bei Rot-Weiss Essen (18 Uhr) weiter, Samstag muss das Demichelis-Team in der Bundesliga auf Schalke (15.30 Uhr) ran.
+
+Elversberg dürfte nach den dürftigen Auswärtsspielen froh darüber sein, dass es jetzt mit zwei Heimspielen weitergeht. Am Dienstagabend ist das Zweitliga-Krisenteam Darmstadt 98 im Saarland zu Gast (20.45 Uhr), bereits am Freitag trifft die "Elv" auf Mainz 05 (20.30 Uhr).
+
+Elversbergs Trainer Vincent Wagner spricht nach dem Spiel gegen Leipzigs über die Leistung seiner Mannschaft.
+
+"Hintenraus ist die Niederlage ein oder zwei Tore zu hoch, aber wir dürfen daraus lernen. Unser Weg ist sehr weit, aber das ist auch gar nicht überraschend, wenn man mit einem Zehntel des Etats der anderen Mannschaften unterwegs ist. Da finde ich es beeindruckend, wie wir überhaupt die erste Halbzeit gespielt haben", meinte SVE-Trainer Vincent Wagner im Sportschau-Interview nach der Pleite in Leipzig.
+
+Dieses Thema im Programm: sportschau.de | Leipzig weiterhin zu Hause makellos - die Audio-Highlights | 24.10.2026 | 17.39 Uhr
+
+----------------------------------------
+
+[3] BLUTIGER ZUSAMMENPRALL BEI NULLNUMMER IN KÖLN
+
+Keine Tore im Traditionsduell der West-Klubs: Der 1. FC Köln und Schalke 04 haben sich in einer heiß umkämpften, aber wenig unterhaltsamen Partie am Samstagnachmittag remis getrennt. Für Aufregung sorgte ein heftiger Zusammenprall, nach dem zwei Schalker angeschlagen ausgewechselt werden mussten.
+
+Am 7. Bundesliga-Spieltag hielt damit die starke Heimserie der Kölner, die bislang zuhause noch keine Niederlage hinnehmen mussten. Wirklich zufrieden dürfte das Team von Trainer René Wagner angesichts der mauen Offensivleistung aber nicht sein. Schalke verdiente sich nach zuletzt zwei Niederlagen in Folge immerhin einen Auswärtspunkt.
+
+In einer zerfahrenen, fußballerisch schwachen Partie sorgte ein Zusammenprall für einen Negativ-Höhepunkt. Schalkes Soufiane El-Faouzi und Robin Gosens rasselten in einem Kopfballduell heftig zusammen und gingen stark blutend zu Boden (38. Spielminute). Beide mussten nach langer Behandlung ausgewechselt werden.
+
+Soufiane El Faouzi und Robin Gosens (r.) müssen behandelt werden
+
+"Ich bin sehr zufrieden und stolz", sagte Schalkes Trainer Miron Muslic. "Wir hatten diesen Schockmoment mit El-Faouzi und Gosens, da brechen dir mit einer Aktion zwei Spieler weg. Das hat uns aber nicht gebrochen, hat uns noch enger zusammengeschweißt. Der Punkt geht aus unserer Sicht komplett in Ordnung."
+
+Bei Kölns Said El Mala war die Stimmung nach dem Spiel deutlich schlechter. "Es tut gerade noch weh, weil wir meiner Meinung nach die bessere Mannschaft waren", sagte Kölns erneut auffälligster Offensivspieler: "Wir hatten mehr Spielanteile und mehr Chancen. Jetzt stehen wir hier wieder und ärgern uns."
+
+Von Beginn an hatte sich eines dieser Spiele entwickelt, das nicht durch die hohe Anzahl an Torraumszenen interessant war, sondern von der totalen Leidenschaft und Hingabe beider Mannschaften lebte. In den Zweikämpfen ging es zur Sache, die Spieler nahmen bei gelungenen Aktionen das Publikum mit und bei Fouls wurde direkt hochemotional diskutiert.
+
+Die Schalker zeigten sich dabei im Vergleich zur Heimniederlage gegen Mainz (0:1) deutlich verbessert. Insbesondere in der Anfangsphase zahlte sich das intensive Pressing aus, sodass die ersten gelungenen Szenen den Königsblauen gehörten - eine gute Chance sprang dabei für El-Faouzi heraus (5.). Doch auch Köln zeigte unbedingten Siegeswillen und kämpfte sich ins Spiel.
+
+Einen ersten Abschluss von El Mala konnte Gäste-Torwart Loris Karius nur abprallen lassen, im Nachsetzen war Isak Johannesson zur Stelle und traf, stand dabei aber im Abseits (16.). Eine gute Viertelstunde später war es erneut El Mala, der sich robust gegen Gosens durchsetzte und rechts im Strafraum volley das Tor deutlich verfehlte. Wenn in dieser Phase ein Team gefährlich wurde, war es Köln. Insgesamt prägten aber hart geführte Zweikämpfe die Partie, immer wieder mussten Spieler behandelt werden.
+
+Die längste Unterbrechung verursachte allerdings ein unglücklicher Zusammenprall zweier Mitspieler: El Mala schubste Gegenspieler El-Faouzi leicht, der bei einem hohen Ball heftig mit Robin Gosens kollidierte. Beide Schalker gingen mit blutenden Wunden zu Boden und mussten minutenlang behandelt werden, konnten dann aber gehend den Platz verlassen. Besonders Gosens wirkte dabei benommen.
+
+Muslic musste so früh doppelt wechseln, ein Eingriff, der der Mannschaft nicht guttat. Köln blieb auf dem Gaspedal und spielte sich kurz vor dem verspäteten Pausenpfiff die beste Chance heraus: Linton Maina eroberte nach einer Schalker Ungenauigkeit im Aufbauspiel den Ball und machte sich über links auf und davon. Seine Hereingabe geriet aber etwas zu hoch, sodass El Mala im Zentrum nur das Knie an den Ball brachte und so das Tor verfehlte.
+
+Offenbar fand Muslic in der Pause die richtigen Worte, denn im zweiten Durchgang waren es erneut die Schalker, die besser starteten und Torannäherungen verzeichneten. Die Gäste kamen jetzt auch zu mehr Ballbesitz, was auch dem Stadion spürbar die Energie nahm: Die Unterstützung der Kölner Fans wurde weniger vehement.
+
+Immer wieder hart geführte Zweikämpfe: Schalkes Adamu (l.) gegen Kölns Lochoshvili
+
+Generell verlor die Partie in der zweiten Hälfte etwas an Fahrt. Offensiv blieb es auf beiden Seiten Stückwerk, sodass Torchancen noch seltener wurden als vor dem Seitenwechsel. Junior Dina-Ebimbes Abschluss wurde noch geblockt (70.), auf der anderen Seite sorgte die Doppelchance von Marius Bülter und FC-Joker Luca Waldschmidt mal für Torgefahr (74.) - der erneut aufmerksame Karius war aber zur Stelle.
+
+Auch in der Schlussphase blieb es dabei: Die Defensiven hielten stand, nach vorne ging auf beiden Seiten extrem wenig. Das leistungsgerechte Remis war die logische Folge. Weiter geht's für beide Mannschaften im DFB-Pokal: Köln empfängt schon am Dienstag Union Berlin (20.45 Uhr), Schalke spielt am Mittwoch in Dresden (18 Uhr).
+
+Sendung: WDR.de, Audiostream: 1. FC Köln gegen Schalke 04, 24.10.2026, 15:30 Uhr
+
+----------------------------------------
+
+
+>>> TECH (WIRED) <<<
+
+[1] THE PHP MELTDOWN SHOWS HOW AI MAKES BUGS MORE EXPLOITABLE
+
+Welcome to Kernel Panic, a weekly newsletter by Lily Hay Newman and Matt Burgess from inside the new world of privacy and digital security. To receive this newsletter in your inbox each week, sign up here.
+
+As security teams and web admins scrambled this week to patch newly public PHP bugs, criminal hackers quickly attempted to exploit the flaws in the wild. Millions of exploitation attempts hit within hours of the vulnerabilities being published, according to analysis from Cloudflare—unsurprising given broad access to AI tools that can make it easier for attackers to quickly exploit flaws.
+
+So far, the nightmare scenario of mass victim takeovers and breaches hasn’t come to pass. The PHP Foundation says it hasn’t seen any successful exploitation of the bugs, collectively dubbed PHP2Shell, and many publicly circulating potential exploits appear to be ineffective. However, perhaps the most interesting role of AI amid the chaos this week is how advanced models helped researchers uncover practical exploitations for the vulnerabilities, which were known about, at least in part, for years. In other words, AI helped turn historic vulnerability into a current crisis.
+
+So are we all about to be walloped by a wave of critical vulnerabilities that have been kicking around for decades?
+
+Researchers at security company Calif were the first to identify the PHP2Shell vulnerabilities and create exploits in early August—partially using frontier AI tools as part of OpenAI’s Patch the Planet program, but also using expert human knowledge of PHP, its dynamics, and its weaknesses. Some of the underlying issues were identified in 2024 but were deemed too complex to exploit at the time. Following Calif’s discovery, researchers at OpenAI and the Google-owned security firm Wiz independently discovered PHP2Shell flaws using AI tools.
+
+“The vulnerability had been known to the PHP team for years, but because it could not be leveraged by an attacker—at least, not a human one—it was not addressed,” says Sagi Tzadik, a security researcher at Wiz.
+
+No software is perfect. There are inevitably flaws in even the most critical, foundational digital tools, but the expanding capabilities of AI models have made it faster to analyze and potentially exploit vulnerabilities. This puts even more pressure on under-resourced IT teams, developers, and admins to keep up. Microsoft’s security updates included a record 1,453 security vulnerabilities this month alone. Meanwhile, Bank of America recently hired 1,000 consultants to fix flaws discovered by Anthropic’s Mythos. Security researchers emphasize, though, that AI is ultimately not doing anything new, but rather magnifying existing dynamics of vulnerability discovery and coordinated disclosure.
+
+“We'll definitely see more of these long-life bugs that are in every version of the software for the last decade or whatever,” says Jake Williams, vice president of research and development at Hunter Strategy and a former NSA hacker. “But I think there’s only so much of this low-hanging fruit. There isn’t much else that has the specific reach of PHP. It’s a pretty wild attack surface—most other tools aren’t exposed to the internet by design.”
+
+Researchers note, too, that even with frontier models, most examples of sophisticated AI-aided hacking also involve human expertise. As Ryan Austin, the Calif researcher who first discovered the PHP flaws, wrote this week, “No model is simply capable of unearthing ‘all bugs’ with simple prompts. At least for now.”
+
+In short, security engineer and researcher Niels Provos says, everyone can dial back their freak-outs, at least a bit. “To be honest, I am not really worried,” he says, about AI finding an overwhelming number of historic bugs that are newly exploitable—or new vulnerabilities that couldn’t have been practically exploited without AI. “People have now been looking with AI for over a year, and it required a highly skilled team to find this one. I guess we will see whether I am completely wrong, but I doubt it.”
+
+Introducing the app: More ways to make the most of WIRED
+
+Why so many AI researchers think the technology could kill us all
+
+The Big Interview: Patti Harrison had dreams of a tech utopia
+
+I let an AI agent hack all my gadgets—and I’d do it again
+
+In your inbox: Go inside the world of digital security with Kernel Panic
+
+© 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+----------------------------------------
+
+[2] NEW MRNA VACCINE REDUCES RISK OF MELANOMA RECURRENCE BY OVER 40 PERCENT
+
+An experimental vaccine offers new hope to patients with melanoma, one of the most aggressive forms of skin cancer. The pharmaceutical companies Merck and Moderna released the results of a Phase 3 clinical trial that evaluated the efficacy of a personalized mRNA-based vaccine that, when combined with immunotherapy, reduced the risk of disease recurrence or death by 42 percent compared to treatment with the immunotherapy drug alone.
+
+Georgina Long, medical director of the Australian Melanoma Institute and the study’s principal investigator, said in a statement that these results are “transformative” and “have the potential to make a foundational shift in how we treat patients with earlier-stage melanoma.”
+
+The trial, known as INTerpath-001, included 1,137 people with high-risk melanoma who had undergone surgery to completely remove their tumors. The participants were divided into two groups. Those in the first group received only Pembrolizumab, a drug that helps the immune system detect and fight cancer cells, while those in the second group were treated with the same drug in combination with the mRNA vaccine, called Intismeran Autogene.
+
+After monitoring the participants for an average of 24.6 months, the researchers determined that addition of the vaccine reduced the risk of cancer recurrence or death by 42 percent compared to Pembrolizumab alone.
+
+The results also showed that the experimental treatment reduced the risk of the disease spreading to other parts of the body by 38 percent. At the end of the follow-up period, 82.2 percent of patients who received both treatments remained recurrence-free, compared with 70 percent of those who received Pembrolizumab alone.
+
+“The results of the INTerpath-001 study represent a major breakthrough in the treatment of melanoma and, in particular, in the development of personalized medicine,” Eva Muñoz Couselo—who leads a melanoma research group at the Vall d’Hebron Institute of Oncology, in Barcelona and who was not involved in the study—told SMC Spain. “For the first time, a Phase III trial has demonstrated that an individualized therapeutic vaccine, designed on the basis of the molecular characteristics of each patient’s tumor, can significantly improve the outcomes of conventional immunotherapy.”
+
+The laboratories explained that the vaccine was developed from a tumor sample taken from each patient, which was used to identify specific mutations that would create distinct proteins the immune system could learn to recognize in order to attack cancer cells. The scientists selected up to three of these molecular signatures per patient.
+
+During the trial, some participants experienced mild side effects such as fever, fatigue, and pain at the injection site. These side effects were seen in earlier trials as well, and the Phase 3 findings demonstrate similar safety when the vaccine is used in the combination with Pembrolizumab.
+
+“These results reinforce our conviction that mRNA has the potential to fundamentally change how we treat cancer,” Stéphane Bancel, CEO of Moderna, said in a statement.
+
+The pharmaceutical companies emphasized that the vaccine is not designed to prevent melanoma but rather to reduce the risk of recurrence and death following prior medical treatment. They also noted that the therapy remains under investigation to validate its efficacy and obtain approval from health authorities before widespread use.
+
+Most people diagnosed with melanoma have a high chance of survival, especially if detected early, but as one of the most common cancers, melanoma kills over 50,000 people globally each year. In theory, similar vaccines could be developed for other kinds of tumors in the future. Earlier this year, another trial demonstrated that personalized mRNA vaccines can greatly improve survival among patients with pancreatic cancer, one of the deadliest kinds of tumor.
+
+“This is the major breakthrough, because conceptually it would make it possible to treat not only melanoma but also other tumors in which the immune system can be reactivated,” Marisol Soengas—a leading melanoma researcher at Spain’s National Cancer Research Center also not involved in the trial—told SMC Spain.
+
+That doesn’t mean a cure for cancer is right around the corner. “The challenge is to ensure that this personalization can be scaled up to a large number of patients and that the cost is affordable for health care systems,” Soengas said. “It is logistically complex. It is literally a bespoke vaccine.”
+
+This story originally appeared on WIRED en Español and has been translated from Spanish.
+
+© 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+----------------------------------------
+
+[3] BEST PET CAMERA OF 2026: FURBO, PETCUBE, AND ENABOT
+
+The best pet camera for you depends on what you value for your pet. Personally, I never knew I needed a pet camera, but after trying several models, I don’t think I can go into the office or on vacation without one set up at home. A home security camera can give you extra peace of mind when you’re out, and pet cameras specifically designed for our furry friends add helpful features, like the ability to follow your pet around, engage in play, and dispense kibble. Connected to an app on your phone and with cloud storage options, these pet cameras—including our top pick for most people (and pets!), the Furbo Mini 360° ($49), and our compact 360 rotating budget pick, Petcube Cam 360 ($47)—ensure you’ll never miss a moment in your pet’s life when you’re away (or at home).
+
+For more peace of mind while you’re away from your pet, be sure to check out our related guides, like the Best Automatic Feeders, Best Cat Water Fountains, Best Automatic Litter Boxes, Best Indoor Security Cameras, and Best Outdoor Security Cameras.
+
+Updated October 2026: I’ve added the SwitchBot Pan/Tilt Cam Plus 3K and Amazon Blink Mini 2K+ to Others Tested, and retested the Enabot Ebo Max FamilyBot. I’ve also ensured up-to-date links and prices throughout.
+
+I love that this affordable model has most of what every pet parent looks for in a pet camera: it dispenses treats, pans so you can see the whole room, and, if you subscribe, provides daily highlights, broken down by activity or motion. There’s also seven-day storage and a report with insights into your pet’s daily activities. It pans left and right so you can see the entire surrounding area; has super-clear 1080p HD color and night-vision resolution; supports two-way audio so you can hear, talk to, and see your pet; and dispenses treats through the app. That said, you can’t schedule feedings or change the amount dispensed, and when dispensing treats, it makes a jarring, loud chirping noise that my cats seem to find alarming and perplexing. It can sit on a flat surface without drilling, and like all Furbo cameras I’ve tested, this one is only compatible with 2.4 GHz Wi-Fi (5 GHz isn’t supported).
+
+As with most pet cams, you’ll need to subscribe to a service to access the best features (starting at $8 per month with a yearly subscription). Furbo’s Nanny service captures photos and sends safety alerts about hazards like smoke or falling objects, along with chewing or barking/meowing alerts. It can also spot intruders. The video clips are stored in the cloud, so you can review the footage at any time.
+
+Although it's a great pet camera overall, this model shares a pitfall that affects the rest of the brand’s lineup: Its features are seriously limited unless you pay for Petcube’s upgraded Care plan (which starts at $4 a month), which includes video storage, pet detection, and automatic video recording. Even so, this camera has 360 PTZ rotation, 1080p HD resolution, 8x digital zoom, two-way audio, and night vision. Getting all of these included bells and whistles for around $50 makes this camera a super-affordable buy.
+
+Optional mounting requires some tools, which can make setup tricky. Once up and running, the camera feed rotated smoothly, and with the wide, fisheye-like lens and pan-and-tilt capabilities (including up and down), I could clearly see more of the room than I thought possible. It covered more space than most pet cameras I’ve tested. Plus, with the new privacy mode, you can easily turn off the camera lens for added security. I was pleasantly surprised by this 360 PTZ camera and its seriously affordable price.
+
+This dual camera features 3K high definition, with a 360-degree rotating top camera and a stationary camera below for even more coverage. There’s also live view, two-way chat, night vision, and 6X zoom. AI detection alerts you to events like barks, meows, loud noises, and fire—really anything alarming. Through the app, you can view live footage, review footage stored on the microSD card or in the cloud, and share the content with family. Plus, you can access smart voice control with Amazon Alexa or Google Assistant.
+
+There's an adjustable mount you can install on the ceiling for even greater range. It provides some of the clearest images I’ve seen during testing, and I love that the dual views let me see what my pets are doing on the ground and the 360-degree views above at the same time.
+
+Using pan rotation for an almost 360-degree viewing angle, this model also has a crystal-clear 2K HD live video feed and intelligent infrared night vision. The bottom of the camera has suction cups, making it easy to move around the house without hardware. Through the app, you can pan the camera, take photos, and record video, talk and listen to your pet through the microphone, schedule regular feedings, or toss your pet a snack. This camera has motion, bark, and voice detection, along with AI auto-tracking. Essentially, when the camera detects something out of the norm, the app sends you a notification.
+
+Its AI features create a minute-long video from motion-triggered recordings and automatically save it for 30 days. From there, you can download and share it on socials. You can opt for cloud storage (with the ability to upgrade to a monthly subscription for 30 days of continuous recording) or buy a memory card (up to 128 GB) for 24/7 recording. The video is always hi-def and clear, never laggy or showing error messages. I also love that I can pan to see the whole room.
+
+The Furbo 360 is marketed toward dogs, but both cats and dogs will like its treat-dispensing feature. (Read our full review here.) Very similar to the Tkenpro 2K Pet Camera Treat Dispenser pick, the major selling points of this Furbo are its rotation and kibble dispensing.
+
+The pet camera also has a crystal-clear 1080p color night-vision camera, two-way communication, noise notifications, and 360-degree pan capabilities. It also uses auto-tracking to follow your pet, making it easier to find them on your phone screen while using the app. Just remember, you'll need to pay for Furbo’s Nanny service for features like alerts and video playback storage.
+
+A rarity for pet camera services, this pet camera promises all the best features without a required subscription. It has three lenses, with 360-degree horizontal and 270-degree vertical views, two-way audio, and clear 8-MP color and night vision. When you set up the camera, you'll create pet profiles for each pet, and the camera will learn to track and identify each pet independently. Through the app, you can view footage categorized as daily, weekly, and monthly, by pet and by activity type (like vocalizations and abnormalities). Unlike most other AI-enabled pet products (including our Petlibro camera pick below), the AI correctly identified and categorized my cats during my testing. The pet camera has many customizable features, including sleep mode, scan settings, a parked position, and the ability to share footage with up to five people.
+
+This camera is ready to use out of the box, with 32 GB of storage and AI features included at no extra cost. If you want extras, there's the extended cloud storage plan, which starts at $6 per month and also includes additional replays and downloads.
+
+In my opinion, anything beyond what’s included isn’t super necessary. The only drawback is the sometimes chaotic camera whirring and auto-tracking in the app. Sometimes auto-tracking would pan right past my cats and land on a nearby fan. I’d have to wait for the auto-tracking cycle to complete, then manually reset.
+
+I found that this rolling pet camera is the most polished of all the Enabot wheeled pet camera models I’ve tested. It delivers clear 2K video and black-and-white night vision. It weighs just over a pound, works on 2.4 and 5 GHz Wi-Fi, climbs slopes up to 15 degrees, and can clear obstacles up to 10 millimeters. It charges via a magnetic cord, and the battery lasts up to 25 days, so unlike other models, you don’t need to charge it frequently. The camera sleeps when it’s not in use to conserve battery.
+
+You can use the app to virtually control camera speed and movement, as well as action and sound settings that spin, zigzag, and swing the device and send meows, purrs, and duck quacks. You decide whether each action or sound plays once or for three minutes. The app also lets you take pictures or video recordings. The camera has a built-in 32 GB microSD card, but you can opt for a cloud storage subscription.
+
+You can schedule recordings, and the camera also has automatic motion detection, recording 10-second videos when it detects humans or pets. Additional privacy features include camera control, allowing you to disable the in-app camera view. You can also manage individual user permissions and controls, such as customizing device-sharing schedules and in-app notifications when someone views or records footage. Although my cats are still scared of and perplexed by the animal noises and erratic movements, this camera has a surprisingly wide field of view, a solid ability to cover my home, an always-clear video feed, and a super-long battery life.
+
+The newest—and only—camera model from one of my favorite pet tech brands, Petlibro, is sleek, and the app is intuitive and easy to use. (Read my full review here.) The camera offers 1080p HD video, black-and-white and color night vision (you can choose your preference), two-way audio, and a mounting option. It works with both 2.4 and 5 GHz Wi-Fi networks, and you just need to set up profiles for your pets in the app to get started. As the Scout camera captures footage, the built-in AI (which requires an additional subscription plan that starts at $12 per month) begins to learn which pet is which, uploading photos for the human to review so the AI continually gets smarter. Throughout testing, the camera continuously asked me to categorize pets to ensure each was labeled correctly, and through the app, you could view historical footage by activity type and cat that the AI sorted.
+
+Through the app, you can view live footage, watch clips organized by day, pet, and activity type, and review 30-second highlight reels for each day. You can also easily send feedback on each pet and behavior with a click of a button, so the AI can learn to label them correctly. Overall, I personally don't think the upgraded built-in AI features are worth the subscription price for me, but it’s still a techy pet camera worth checking out.
+
+There’s a lot to love about this compact pet camera on wheels. It uses a 16 GB SD card (which you can swap for a larger one if needed) instead of a pricier cloud subscription, and it handles varied terrain easily (up to 4 degrees uphill), from high-pile carpet to hardwood to doorways. It also has a charging dock, so it doesn't need to be plugged in manually. Maintenance is super easy: When the pet camera-robot’s battery runs low, it automatically returns to the charging dock using built-in infrared scanning technology. Charging takes about two and a half hours and lasts for about five hours.
+
+The pet camera on wheels works on both 2.4 and 5 GHz Wi-Fi. Through the built-in app, you can adjust movement speed, control the camera's movements; use voice chat to talk to and listen to your pets; take photos or videos; and “play,” which refers to action movements like moving in circles and swinging. You’ll also receive app notifications for events like unusual robot movement (such as being stuck on carpet or in a corner) and low battery. You can store and review footage and photos through the app. While it doesn't have as many features as the Enabot Rola Mini (who really needs their pet camera to make duck noises?), it’s a solid smart camera that can surveil your entire house for a little less money.
+
+Like the dual-lens pet camera pick above, this is one of the cameras I’ve tested that covers the most area. The 2K camera on the bottom stays fixed, while the panning camera above pans left/right and up/down for nearly 360-degree views of the camera’s surroundings. It also comes with an optional mount if you’d rather hang it from a ceiling for even more bird's-eye coverage. (I live in an apartment, so I set it upright on various surfaces in my house throughout testing.) The front has a call button to call a pre-saved contact with one press, and the pet camera stores historical video feed on a microSD card (not included) rather than a pricey cloud storage system. I appreciate this because I much prefer storing video on a disk rather than through a company’s internal cloud storage, which can be unsafe and has recurring costs that add up.
+
+Through the connected Lorex app, you can view live footage (and historical footage with a memory card), pan the camera, take photos and videos, talk to and hear from your pet, and adjust settings such as volume and video resolution. With both cameras, you can adjust each camera's settings independently, including tracking and detection sensitivity, and enable AI auto-tracking for pets and humans. Online reviewers had trouble with an unreliable Wi-Fi connection, which led to a laggy feed. Others complained that the camera's panning abilities caused the app to freeze, which could be resolved only by manually rebooting the camera. However, I did not encounter either issue during my weeks-long testing.
+
+Enabot Ebo Max FamilyBot for $600: I’m usually a big fan of Enabot’s pet tech—especially its line of pet cameras, which are generally affordable and work consistently well without needing a pricey add-on cloud storage system. This camera is touted as an AI family companion that can recognize pets and household members, remember routines and preferences, and come when called. It also has the expected pet camera-on-wheels features, like two-way audio and video, night vision, and 4K imaging. During initial testing, the camera didn't charge properly on the dock and often froze or stopped charging. I got a second model to test, and it worked better—it handled tasks on command, returned to the charging station, and recognized my cats. However, I still don't think its AI-powered companion features are cool enough to justify that price tag. If price is no issue for you and you want a moving camera on wheels, it's worth checking out.
+
+SwitchBot Pan/Tilt Cam Plus 3K for $50: I generally liked this pan/tilt camera, which offers a 360-degree horizontal field of view and a 115-degree vertical field of view, and can be mounted with the provided tools. It also has two-way audio, voice commands, and smart-home support like Amazon Alexa or Google Home. It has eight infrared LEDs that support enhanced night vision, with a range of up to 32 feet. Through the app, you can adjust camera settings for motion detection or tracking and switch to privacy mode when you want the camera to stop recording. However, it only works with 2.4-GHz Wi-Fi and, like many other cams on this list, requires a paid subscription plan to access enhanced features like AI recognition, smart event summaries, unlimited cloud storage, and access to historical recordings. It also required several firmware updates throughout testing and would freeze during updates. It also lagged when moving through the app and often froze for a prolonged period when first opening the app.
+
+Amazon Blink Mini 2K+ for $40: This small, budget-friendly camera supports 2K video, 4X hybrid zoom, and color night vision. In his testing, reviewer Simon Hill found its motion detection reliable, but only with a subscription: $3 per month or $30 per year for one camera, or $10 per month or $100 per year for unlimited cameras. You can record locally by purchasing a Sync Module 2 ($50) and inserting a USB flash drive. Luckily, you don't need a subscription to record the motion-triggered footage from the camera to the Sync Module 2. You just need to insert an approved USB flash drive (up to 256 GB) into the Sync Module 2 to enable subscription-free local storage. Without a subscription, however, live viewing is limited to five minutes, recording is unavailable, videos load much more slowly, people/animal detection isn’t included, and you can’t share clips.
+
+Enabot Ebo Air 2 for $199: The new model from Enabot is an improved interactive robot toy and camera on wheels from the brand’s lineup. It’s got a 2K HD camera, two-way audio, and a built-in laser toy, and you control the robot’s movements from your phone’s app. It’s lightweight and compact, and it can easily maneuver around objects. While acting as a pet camera, the robot also entertains (or scares or confuses) your pet by making animal noises, doing tricks like spinning and zigzagging, and displaying “emotions” via its front screen. It also has a built-in laser toy that my cats actually played with, along with key features like 24/7 video recording with smart playback, motion detection, and activity alerts.
+
+Petcube Play 2 for $75: This Petcube camera attempts to combine popular laser toys that cats love with a pet security cam, with mixed results. Like many other cameras in the brand’s lineup, the Play 2 has excellent color and night vision, an extra-wide view, and two-way audio. The laser toy is supposed to auto-engage when motion is detected, but this often didn’t happen during my tests. When the laser did work and caught my cats’ attention, the feature turned off quickly. Plus, because the camera needed to sit high on a shelf to see the area, the laser was often too high for the cats to attempt to catch. You can manually play with the cat using the laser through the app, although it’s often laggy, and my cats ended up more perplexed than playful when the laser was on. It’s a solid camera, but the toy aspect falls a bit flat.
+
+Furbo Mini for $25: I love this super-affordable, 360-degree-rotating basic pet camera. Furbo’s app is easy to use, the 1080 HD feed is clear, it can be mounted on a wall, and it has two-way audio. It’s powered via USB, but it works only with 2.4 GHz Wi-Fi, so beware. As with most other pet cameras, to access the full features—like smart detection, alerts, and access to historical video footage—you’ll need Furbo Nanny, the paid subscription service. Luckily, Furbo offers a 14-day free trial to see if the service is a good fit.
+
+Petcube Bites 2 Lite for $80: With HD 1080p live video, night vision up to 30 feet, 8x zoom, two-way audio so you can talk to and hear your pets, and food-dispensing abilities, this pet camera has all of the bells and whistles. It also includes an easily detachable plastic treat dispenser that holds up to 1.5 pounds of kibble. You can toss treats remotely from the app, and you can also control the amount and distance. With the subscription service, the app alerts you when the device detects motion or sound and logs it with playback video. I like the customization options and clear video feed, but—like other Petcube devices—you need the extra Care plan to unlock all the best features.
+
+Enabot Rola PetPal Robot Pet Companion for $200 (treat dispensing): A pet camera on wheels, this rolling model has the best of intentions, but the sometimes glitchy app makes the combo pet camera/toy/feeder a little unpredictable. Through the app, you can watch your pets on the security camera and drive the robot around, pressing buttons to do tricks and dispense treats. You can watch the camera feed live in the app, and you can also schedule recordings, which are viewable via cloud playback. It also assembles a 30-second “day in the life” compilation. The robot is also supposed to detect abnormal movement or sounds, like barking or broken glass, and send a smart alert to the owner with a timestamp while away from home. Through AI-powered pet recognition, the bot can also snap a picture of your pet, but the AI features were unreliable when I tested them.
+
+Petcube Cam for $32: It's simple, compact, and doesn't have all the bells and whistles like more advanced models do, but it’s a great price for a reliable, basic pet camera. Like others in Petcube's lineup, it has a 1080p HD camera, night vision, and two-way audio. It sits on hinges and can angle up and down, with the option to flip the video feed in-app if you want to lay it horizontally. You'll need the brand's subscription Care plan to access any features beyond the live feed. You can set a “motion zone” to receive notifications only in a specific area, and you can connect your phone’s location to the app so you’re alerted more often when you’re away. You can also share the camera feed with others so they can watch remotely, and specify the footage you want to share. This camera is basic, but it delivers a high-quality camera feed and advanced extras that make it a steal at this price.
+
+Catit Pixi Smart Mouse Camera for $51: This cutie looks like a miniature mouse with oversized, magnetic feet that attach to a metal stand. The mouse legs hinge so you can adjust the camera’s height and angle. While adorable, it’s expensive for what it is: The lens doesn't move, and it requires a microSD card to capture video beyond a live feed. With the SD card, you can scroll through recorded video to see activity from past days, record live footage, and save photos and videos to your smartphone’s camera roll. Even with the SD card, though, it was hard to pinpoint the exact time when reviewing footage. The live video feed can be laggy, and there were connectivity issues a few times. It’s a tad expensive at this price point for its (lack of) capabilities.
+
+Closer Pets TreatView with Pet Camera for $100: With an HD camera, two-way communication, motion detection, a built-in memory card, and a one-cup storage for kibble or treats, which you can schedule or dispense at random—on paper, this pet camera has all of the bells and whistles. The video feed was always clear, though the audio was a bit laggy and hard to hear. The treat portions were huge, dispensing a heaping handful of kibble even at the lowest setting. The dispensing alert was super jarring, and my pets were frightened by it—there was no way to silence it. Because of the kibble-dispensing hole's placement, the camera is angled low, making it hard to see the area I wanted. This is an okay pet camera, but its additional features become a burden rather than an asset.
+
+To find the best pet cameras to test, I first looked for security cameras with extra pet-specific features. I set up each camera individually, noting any difficulties with initial setup, Wi-Fi configuration, and the camera feed's speed and reliability. I tested each camera for at least a week (most for much longer) in various spots around my house, and I rigorously tested the extra features available on most of the cameras, like scheduled feedings, food-dispensing, playtime, and scheduled recordings, noting any issues I experienced. Over the months of testing, I went out of town several times and completely relied on these cams to keep an eye on my two children—I mean, cats.
+
+So, Is There Really a Difference Between Security Cameras and Pet Cameras? Sort Of
+
+Security cameras let you keep an eye on your house (and pet) while you’re away, but pet cameras often include additional pet-specific features, such as the ability to dispense treats and interact with your furry friend via a two-way speaker. These cameras with special features can help ease common pet issues like separation anxiety or boredom. The Enabot Rola PetPal Robot Pet Companion, for example, has attachments that let you remotely give your pet a treat or engage in “playtime.”
+
+That's not to say you can’t use a security camera as a pet cam, but like any other smart home device that connects to Wi-Fi, it could be hacked and compromise your privacy. Make sure your Wi-Fi password is strong, and set up two-factor authentication in your camera’s app. It’s also a good idea to keep it turned off when you’re home, as an extra precaution.
+
+Power up with unlimited access to WIRED. Get best-in-class reporting and exclusive subscriber content that's too important to ignore. Subscribe Today.
+
+Take Up to 25% Off Custom Prints with VistaPrint Promo Code
+
+Take 10% Off Legal Services with This LegalZoom Promo Code
+
+Get unlimited, hyper-fast AT&T Fiber internet starting at $35/mo.
+
+© 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+----------------------------------------
+
