@@ -1,12 +1,12 @@
-=== WETTER HAMBURG - 26.10.2026 ===
+=== WETTER HAMBURG - 27.10.2026 ===
 
 AKTUELL:
-Zustand: Bedeckt
-Temperatur: 9.8°C
+Zustand: Teilweise bewölkt
+Temperatur: 12.7°C
 
 TAGESAUSSICHT:
-Vormittag  (10:00 Uhr: 10.0°C, Bedeckt (Regen: 8%))
-Nachmittag (15:00 Uhr: 12.7°C, Bedeckt (Regen: 0%))
-Abend      (20:00 Uhr: 10.0°C, Bedeckt (Regen: 0%))
+Vormittag  (10:00 Uhr: 13.0°C, Teilweise bewölkt (Regen: 0%))
+Nachmittag (15:00 Uhr: 15.9°C, Teilweise bewölkt (Regen: 0%))
+Abend      (20:00 Uhr: 12.5°C, Bedeckt (Regen: 0%))
 
 Einen schönen Tag in der Hansestadt! ⚓
