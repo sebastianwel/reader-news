@@ -1,0 +1,366 @@
+=== DAILY BRIEFING - 29.10.2026 ===
+Quellen: Tagesschau, Sportschau & Wired Tech
+
+
+>>> TAGESSCHAU TOP-NEWS <<<
+
+[1] KI-INVESTITIONEN TRAGEN NICHT ÜBERALL FRÜCHTE
+
+Die Tech-Giganten im Silicon Valley stecken Milliarden in Künstliche Intelligenz. Doch die investierten Gelder führen nicht automatisch zu Wachstum. Das zeigen die Zahlen von Microsoft und Alphabet.
+
+Verbrannte Milliarden bei der Google-Mutter Alphabet ‌und klingelnde Kassen bei Microsoft: Die Geschäftszahlen ​dieser US-Technologiekonzerne stehen exemplarisch für die Licht- und Schattenseiten des aktuellen KI-Boom. Beide Unternehmen investieren mehrstellige Milliardenbeträge in den Bau neuer Rechenzentren für Künstliche Intelligenz (KI).
+
+Bei Alphabet steigen die Einnahmen jedoch nicht schnell genug, um diese Kosten zu decken. Microsoft erwirtschaftete dagegen mit 18,6 Milliarden Dollar einen doppelt so hohen Free Cash Flow wie erwartet.
+
+Die Zahlen des Softwarekonzerns seien "so makellos, wie es für ein Unternehmen dieser Größe nur sein kann", sagte Analyst Jesse Cohen vom Finanzportal Investing.com. Während die Bilanzen von Alphabet und der Facebook-Mutter Meta Sorgen schürten, dass sich der Ausbau der KI-Infrastruktur ​als Verlustgeschäft erweisen könnte, liefere Microsoft den Gegenbeweis.
+
+Die ‌Reaktion der Anleger fiel im nachbörslichen Handel an der Wall Street am Mittwoch entsprechend aus. Die Aktien von Alphabet brachen zeitweise um mehr als zehn Prozent ein. Dadurch schrumpfte der Börsenwert der ​Google-Mutter um mehr als 400 Milliarden Dollar. Microsoft-Titel stiegen dagegen um 3,5 Prozent.
+
+Microsoft-Finanzchefin Amy Hood bezeichnete das abgelaufene Quartal als guten Start ins Geschäftsjahr 2026/2027. Alle wichtigen Kennzahlen hätten die Markterwartungen übertroffen. Das Wachstum der Cloud-Sparte Azure beschleunigte sich auf 48 Prozent nach einem Plus von 43 Prozent im vorangegangenen Quartal.
+
+Die Investitionen blieben dagegen mit 45,2 Milliarden Dollar rund fünf Milliarden Dollar hinter den eigenen Planungen zurück. Dies sei aber in erster Linie ​auf Lieferverzögerungen zurückzuführen, erläuterte Konzernsprecher Jonathan Neilson.
+
+Die Stimmung von Unternehmen in Deutschland ist getrübt. Wie gehen Firmen mit Künstlicher Intelligenz um?
+
+Marcel Tietjen, Technologie-Experte der Beratungsfirma BearingPoint, wies auf einen weiteren Aspekt hin: "Hinter Microsofts Quartalszahlen vollzieht sich eine Verschiebung im Geschäftsmodell, die bislang wenig Beachtung findet." Durch die zunehmende Verbreitung von digitalen Assistenten, die komplexe Aufgaben eigenständig erledigen, und die nutzungsbasierte Abrechnung von KI-Modellen verlören die Lizenzeinnahmen an Bedeutung. "Microsofts Wachstum wird künftig weniger von der Zahl der Nutzer abhängen als davon, wie viel Arbeit KI-Agenten in den Unternehmen übernehmen."
+
+Um dieses Geschäft weiter anzukurbeln, hat Microsoft-Chef Satya Nadella eine Reihe günstigerer KI-Modelle ins Angebot aufgenommen. Damit reagiert er auf den wachsenden Sparzwang bei Firmenkunden, denen die KI-Kosten aus dem Ruder laufen.
+
+Der KI-Boom beherrscht weiter die Wall Street.
+
+Die Alphabet-Sparte Google Cloud verdoppelte zwar ihren Umsatz im Berichtszeitraum. Der negative Free Cash Flow verdoppelte sich dennoch nahezu und überstieg mit rund neun Milliarden Dollar die Analystenprognosen um etwa das 250-Fache. Operativ rutschte der Konzern ebenfalls in die roten Zahlen und machte 7,66 Milliarden Dollar Verlust.
+
+Wegen schwächelnder Werbeeinnahmen enttäuschte zudem der Konzernumsatz. Eine Trendwende ist vorerst nicht in Sicht. Alphabet-Finanzchefin Anat Ashkenazi bekräftigte zwar ihre Prognose, 2026 bis zu 205 ​Milliarden Dollar in den Ausbau der KI-Infrastruktur zu investieren. Im kommenden Jahr dürften die Ausgaben aber deutlich steigen. Gleichzeitig drücke die Anmietung externer ‌Rechenkapazitäten auf die Margen.
+
+Anleger beobachten die steigenden Kosten für den Ausbau der KI-Infrastruktur mit Sorge. Sie befürchten massive Abschreibungen, weil die Anlagen Experten zufolge auf absehbare Zeit keine Gewinne abwerfen dürften. Dies spiegelt sich unter anderem in den steigenden Prämien für die Absicherung gegen Zahlungsausfälle der großen Technologiekonzerne. Die Kurse der sogenannten Credit Default Swaps (CDS) kletterten zuletzt teilweise auf Rekordhochs.
+
+Wasserzeichen können darüber Auskunft geben, ob Künstliche Intelligenz beim Schreiben genutzt wurde.
+
+Seit Jahresbeginn haben allein die US-Unternehmen Amazon, Alphabet, Meta und Oracle Anleihen im Gesamtvolumen von deutlich mehr als 200 Milliarden Dollar emittiert. Die Facebook-Mutter Meta, die in den vergangenen Monaten wegen KI ebenfalls Milliarden verbrannt hat, will darüber hinaus neue Aktien im Gesamtvolumen von knapp 100 Milliarden Dollar ausgeben. Eine erste Tranche über 37,5 Milliarden Dollar platzierte das Unternehmen am Dienstag.
+
+Oracle versuchte am Mittwoch, die Sorgen der Anleger über die Finanzierung der KI-Pläne mit einer optimistischen Prognose für den Barmittelzufluss zu dämpfen. Der SAP-Rivale stellte wegen sinkender Investitionen für die zweite Hälfte des Geschäftsjahres 2027/2028 einen positiven Free ‌Cash ‌Flow in Aussicht. Im darauffolgenden Jahr dürfte ‌er die Marke von ​30 Milliarden Dollar übersteigen.
+
+Dieses Thema im Programm: tagesschau.de | Börse: DAX-Ausblick, Fed, Bilanzen von Microsoft und Alphabet | 29.10.26 | 06:17 Uhr
+
+----------------------------------------
+
+[2] US-ZWISCHENWAHLEN: TRUMP HOLEN SEINE VERSPRECHEN EIN
+
+Er werde das Leben in den USA wieder erschwinglich machen, hatte Trump den Wählern 2024 versprochen. Zwei Jahre danach sieht die Wirklichkeit anders aus - nicht zuletzt an den Zapfsäulen. Das wirkt sich auf die Umfragen vor den Midterms aus.
+
+Ein Wort prägt den Wahlkampf für den Kongress: "Affordability", wörtlich übersetzt Erschwinglichkeit. Hohe Lebenshaltungskosten und steigende Preise beschäftigen die US-Amerikaner seit dem Inflationsschub in der Pandemie im Jahr 2021. Donald Trump nutzte sie schon vereinzelt für seine Kampagne bei der Präsidentschaftswahl 2024 - "Make America Affordable Again" stand auf einzelnen Plakaten bei seinen Rallys.
+
+Aber zum klaren Thema Nummer eins sind die Lebenshaltungskosten erst jetzt bei den Kongresswahlen geworden. Trump war angetreten mit dem Versprechen, die Preise in den Griff zu bekommen. Schon seine erste große politische Entscheidung, der Erlass umfangreicher Importzölle, bewirkte das Gegenteil. Aber seit Trump den Krieg gegen Iran begonnen hat, bestimmt die Preisentwicklung an den Tankstellen den Alltag und die politischen Debatten. Die Inflation ist mittlerweile höher als zu seinem Amtsantritt.
+
+Laut Umfragen hat US-Präsident Trump viele Menschen enttäuscht, von denen er 2024 gewählt wurde.
+
+In einer Ipsos-Befragung nach dem wichtigsten wahlentscheidenden Thema nennen die Befragten zu 49 Prozent die Lebenshaltungskosten, gefolgt von demokratischen Werten und Normen mit 22 Prozent. Migration mit zwölf Prozent und Kriminalität mit vier Prozent haben gegenüber früheren Wahlen an Bedeutung verloren.
+
+Dabei ist die Wirtschaftslage in den USA eigentlich nach objektiven Maßstäben gut. Das Wirtschaftswachstum ist solide, die Arbeitslosigkeit auf niedrigem Niveau stabil. Trotzdem bewerten die Befragten die Wirtschaftslage in verschiedenen Befragungen übereinstimmend schlecht.
+
+In der Siena-Erhebung für die New York Times im Oktober bezeichnen 21 Prozent die Lage als gut oder sehr gut, 79 Prozent als weniger gut oder schlecht. Im Januar vor Beginn des Iran-Kriegs lag die positive Bewertung immerhin bei 29 Prozent.
+
+In den USA wird kontrovers diskutiert, ob das Land unter Trump noch eine Demokratie ist.
+
+Die Wählerinnen und Wähler messen die wirtschaftliche Lage eben vor allem an der Preisentwicklung. Und für die machen sie längst nicht mehr den Demokraten Joe Biden verantwortlich, sondern den Republikaner Trump.
+
+65 Prozent sind nach der aktuellen Pew-Umfrage aus dem Oktober überzeugt, dass Trump seit Amtsantritt der Wirtschaft mehr geschadet habe als genützt, 19 Prozent sehen es umgekehrt. Unter republikanischen Anhängern gibt es noch eine leichte relative Mehrheit von 39 Prozent, für die der Nutzen überwiegt, für 35 Prozent ist auch in dieser Gruppe der Schaden größer.
+
+Wer wird gewählt, welche Themen bestimmen den Wahlkampf und welche Chancen haben die Demokraten?
+
+In der Befragung wird auch regelmäßig erhoben, welche Probleme oder Entwicklungen den Amerikanern die größte Sorge bereiten. Ganz oben auf der Sorgenliste stehen aktuell die Energiepreise. 74 Prozent zeigen sich sehr besorgt oder besorgt - ein Wert, der sich seit Jahresbeginn verdoppelt hat. Es folgen die Lebenshaltungskosten mit 73 Prozent, die Kosten für Gesundheit mit 69 Prozent und die Kosten fürs Wohnen mit 66 Prozent.
+
+Wohnkosten sind für die meisten Amerikaner nicht die monatlichen Mietzahlungen, sondern die Zinsen fürs Eigentum. Eine Hypothek über 30 Jahre wird aktuell mit 7,5 Prozent verzinst, der höchste Wert seit Jahren. Viele Paare und Familien schieben den Hauskauf schon seit Langem auf und warten vergeblich auf niedrigere Zinsen.
+
+Jahrzehntelang und noch bis zum Beginn der Pandemie waren US-Amerikaner im Durchschnitt um die 30 Jahre alt, wenn sie ihr erstes eigenen Haus oder ihre erste eine Wohnung kauften. 2025 sprang das Durchschnittsalter der Hauskäufer auf 40 Jahre, ein Allzeitrekord.
+
+Ein guter Job, ein Haus, eine Familie: Viele junge Amerikaner haben den amerikanischen Traum aufgegeben.
+
+Entspannt hat sich nach den Pew-Daten in den letzten Jahren nur der Blick der US-Bürger auf den Aktienmarkt. Da zeigen sich gegenwärtig nur 21 Prozent der Befragten besorgt. Tatsächlich sind ja die Kurse unter Trump weiter deutlich angestiegen. Wohlhabende Amerikaner haben oft einen großen Teil ihrer Altersversorgung in Aktien angelegt, und diese Gruppe wählt ganz überwiegend republikanisch.
+
+Die mehrheitlich schlechte Bewertung der Wirtschaft und die großen Sorgen um das eigene Budget sind die entscheidenden Gründe für den Gegenwind, den die Republikaner in der Schlussphase des Wahlkampfs spüren. Und dieses Problem ist hausgemacht - es ist die Folge von Trumps politischen Entscheidungen.
+
+Die Versuche, die Entwicklung mit umstrittenen Maßnahmen wie dem Diesel-Deal mit dem russischen Präsidenten Wladimir Putin zu beeinflussen, wirken sich weder auf die Energiepreise noch auf die Umfragen aus.
+
+US-Präsident Trump nähert sich Russland an - und lobt Putin ausdrücklich. Auch Republikaner kritisieren das mit deutlichen Worten.
+
+Ein Klassiker der US-amerikanischen Politikforschung ist die Frage, wie sich die ganz persönliche wirtschaftliche Lage seit dem Amtsantritt des jeweiligen Präsidenten entwickelt hat. Ronald Reagan hatte das 1980 im TV-Duell gegen Jimmy Carter gefragt: "Are you better off than you were four years ago?" - "Geht es Ihnen besser als vor vier Jahren?"
+
+Nun dauert Trumps zweite Amtszeit erst zwei Jahre. In der Umfrage von Ipsos gaben nur 15 Prozent an, dass es ihnen besser gehe, 48 beklagen, es sei schlechter geworden, 36 Prozent spüren keine Veränderung. Für die Wähler, für die die Lebenshaltungskosten bei ihrer Stimmabgabe ausschlaggebend sind, ist dieses Ergebnis wahrlich kein Argument, republikanisch zu wählen.
+
+Allerdings ist das Zutrauen in einen demokratisch kontrollierten Kongress auch nicht groß. Nur 28 Prozent glauben, dass sich ihre Lage damit verbessern würde, 28 Prozent rechnen sogar mit einer Verschlechterung. An diesen Zahlen erkennt man, warum die Demokraten nicht deutlicher von Trumps Schwäche profitieren. Das Zutrauen in ihre Arbeit ist auch nicht sehr groß.
+
+Der Blick auf die vergangenen zwei Jahre zeigt: Mit dem Ruf nach "Affordability" kann man in den USA Wahlen gewinnen. Aber danach wird man schnell verantwortlich gemacht für die Probleme, die man vor der Wahl selbst beklagt hat.
+
+Dieses Thema im Programm: BR24 Radio | Nachrichten | 15.10.2026 | 08:51 Uhr
+
+----------------------------------------
+
+[3] SUCHE NACH OPFERN DES ZUGUNGLÜCKS IN SPANIEN GEHT WEITER
+
+In Spanien suchen die Rettungskräfte nach dem schweren Zugunglück nach weiteren Opfern in den Waggon-Trümmern. Die Regierung versprach Aufklärung, in Madrid gab es Proteste. Als Unfallursache könnte menschliches Versagen eine Rolle gespielt haben.
+
+Nach dem verheerenden Zugunglück in Spanien gehen die Bergungsarbeiten weiter. Mit Hilfe dreier großer Kräne seien Rettungsteams auch die Nacht über im Einsatz gewesen, um nach möglichen weiteren Opfern in den zerstörten Waggons zu suchen, berichtetet der spanische Sender RTVE. Neben Drohnen mit Wärmebildsensoren werden demnach auch Suchhunde eingesetzt.
+
+Bei dem Unglück am Mittwochmorgen waren in der Provinz Toledo mindestens 68 Menschen ums Leben gekommen und Dutzende verletzt worden, als nahe der Gemeinde Urda zwei Hochgeschwindigkeitszüge zusammenstießen. Ein Zug der staatlichen Gesellschaft Renfe fuhr dabei von hinten auf einen stehenden Zug des privaten Bahnunternehmens Iryo auf. Insgesamt saßen mehr als 540 Passagiere in den beiden Zügen. Die Retter schließen nicht aus, dass sich in den Waggon-Wracks noch weitere Opfer befinden.
+
+Viele Menschen suchten in der Nacht noch nach vermissten Familienangehörigen. Um die Identifizierung der Opfer zu erleichtern, können Angehörige in der Hauptstadt Madrid sowie in den Städten Toledo, Córdoba und Sevilla DNA-Proben abgeben. Zudem wurden in Kastilien-La Mancha und Madrid Zentren für Blutspenden eingerichtet.
+
+In Spanien sitzt der Schock tief über das zweite schwere Zugunglück auf der Hochgeschwindigkeitszugstrecke zwischen Madrid und Andalusien.
+
+Am Mittwochabend gedachten die Menschen vor zahlreichen Rathäusern in ganz Spanien mit einer Schweigeminute der Opfer. Ministerpräsident Pedro Sánchez rief zudem eine dreitägige Staatstrauer bis Samstag aus - und versprach eine umfassende Aufklärung. "Wir werden der Sache bis zum Ende nachgehen. Sollte es Fahrlässigkeit gegeben haben, wird das ans Licht kommen", versicherte er vor Journalisten an der Unglücksstelle.
+
+"Für ein Land wie Spanien ist es nicht hinnehmbar, innerhalb eines Jahres zwei schwere Unglücke mit Hochgeschwindigkeitszügen zu erleben", sagte Sánchez mit Blick auf das Zugunglück von Adamuz in Andalusien, bei dem im Januar 46 Menschen ums Leben gekommen waren. Sollten sich Fehler im Sicherheitssystem herausstellen, werde man mit aller Konsequenz reagieren.
+
+Die betroffene Strecke war laut Verkehrsminister Puente frisch modernisiert.
+
+Sánchez steht auch deshalb unter Druck, weil er einen Monat vor der vorgezogenen Parlamentswahl von der konservativen und rechtspopulistischen Opposition für das Unglück verantwortlich gemacht wird. "Korruption tötet", die linke Regierung sei kriminell, sagte etwa der Chef der rechtspopulistischen Partei Vox, Santiago Abascal.
+
+Am Abend hatten ultrarechte Gruppierungen zu einer Kundgebung vor dem Verkehrsministerium in Madrid aufgerufen. Dabei kam es zu Spannungen zwischen Teilen der rund 1.500 Demonstranten und der Polizei, wie der Fernsehsender TVE berichtete. Die Beamten setzten schließlich Tränengas ein, um die Demonstration aufzulösen. Die Proteste richteten sich gegen Sánchez' Regierung sowie Verkehrsminister Óscar Puente, bei denen die Kundgebungsteilnehmer die Verantwortung für das Zugunglück sehen.
+
+Zur Katastrophe führte ein technischer Defekt. Und offenbar auch eine Fehleinschätzung.
+
+Dabei ist die Ursache des aktuellen Unglücks noch nicht abschließend geklärt. Puente deutete jedoch auf mögliches menschliches Versagen hin. Das Unglück sei auf eine "unerklärliche" und "falsche" Entscheidung der Bahnleitstelle zurückzuführen. Obwohl das automatische Zugsicherungssystem nach einem Computerausfall noch nicht wieder funktionierte, habe die Leitstelle dem Renfe-Zug grünes Licht zur Weiterfahrt gegeben, während der Iryo-Zug noch stand. Ob allerdings tatsächlich menschliches Fehlverhalten vorlag, müsse die Untersuchung klären, sagte der Verkehrsminister.
+
+Warum der zuständige Fahrdienstleiter die Gefahr nicht rechtzeitig erkannte, ist eine der zentralen offenen Fragen. Zwischen den beiden Zügen lagen rund 25 Kilometer, die der Renfe-Zug in etwa 17 Minuten zurücklegte. Beamte der Polizei und der unabhängigen Behörde für die Untersuchung von Unfällen (AITAT) befragten bereits den Mitarbeiter. Die AITAT hält es derweil für "viel zu früh", Hypothesen zu den Ursachen des Zusammenstoßes aufzustellen.
+
+Kritik am Zustand des Eisenbahnnetzes gab es unter anderem von der spanischen Eisenbahngewerkschaft. Die Lokführergewerkschaft Semaf hält an ihrem für heute angekündigten Streik fest, mit dem sie Verbesserungen bei der Sicherheit fordert. Der Ausstand war bereits am 16. Oktober und damit vor dem Unglück angekündigt worden.
+
+Dieses Thema im Programm: tagesschau.de | Spanien: Update zum Zugunglück am frühen Donnerstagmorgen | 29.10.2026 | 06:04 UhrDas Erste | tagesthemen | 28.10.2026 | 21:30 Uhr
+
+----------------------------------------
+
+
+>>> SPORT (SPORTSCHAU) <<<
+
+[1] DFB-POKAL: BAYERN GEGEN MAGDEBURG GNADENLOS - AUCH OHNE KANE
+
+Harry Kane wurde geschont, doch der 1. FC Magdeburg nicht: Bayern München ließ dem mutigen Zweitligisten beim 6:1 (2:1) im DFB-Pokal am Mittwoch (28.10.2026) keine Chance.
+
+Für den Rekordmeister trafen Michael Olise (10. und 50. Minute), Ismael Saibari (21.), Alphonso Davies (70.), Nathaniel Brown (73.) und David Santos Daiber (90.+3). Mateusz Zukowski gelang der zwischenzeitliche Ausgleich (15.).
+
+Für den FC Bayern hatte es im Vorfeld der Partie mehrere besondere Momente gegeben. Kane wurde unter der Woche mit dem Ballon d'Or ausgezeichnet, als Belohnung durfte der Stürmerstar gegen Magdeburg eine Pause einlegen.
+
+Noch wichtiger aber war, dass Sportvorstand Max Eberl im Sportschau-Interview verriet, dass Trainer Vincent Kompany mittlerweile aus dem Krankenhaus entlassen wurde. Nun fehlte nur noch der Pflichtsieg gegen den Zweitligisten - der sich phasenweise als starker Gegner präsentierte.
+
+"Es ist selten leicht, man muss sich erarbeiten, dass es leicht aussieht. Wir haben immer besser reingefunden und irgendwann war das Momentum auf unserer Seite. Es geht darum, dass wir jetzt professionell sind und wir können denen, die gerade nicht da sind, Energie geben, wenn wir das zeigen, was wir heute gezeigt haben", sagte Jonathan Tah im Sportschau-Interview.
+
+Der Start in die Partie war standesgemäß, die Bayern hatten schnell die ersten Chancen, Olise (7.) und Saibari (9.) verfehlten das Tor aber knapp. Eine Koproduktion der beiden sorgte kurz danach aber für die Führung. Nach einem Traumpass von Lennart Karl schob Saibari den Ball zu Olise rüber, der nur noch das leere Tor treffen musste (10.). Mit dem 1:0 schien alles seinen Lauf zu nehmen.
+
+Doch es kam zunächst anders. Magdeburg war mutig im Ballbesitz und wenn sich die Gelegenheit ergab, ging es ganz schnell nach vorne. Wie in der 15. Minute, als Zukowski von der linken Seite Richtung Zentrum dribbelte, es aus 22 Metern versuchte und Hiroki Ito seinen Schuss so abfälschte, dass Jonas Urbig keine Chance hatte - 1:1.
+
+Die Bayern schlugen allerdings zurück, diesmal setzte Olise mit einem fantastischen Pass Saibari ein, der sein Team mit einem Chip an Dominik Reimann vorbei erneut in Führung brachte (21.). Im Anschluss schaffte es Magdeburg, den Rekordmeister zu neutralisieren - und dann schlug der Underdog kurz vor der Pause fast erneut zu. Baris Atik machte es wie Zukowski und zog von Linksaußen in die Mitte, überraschte Urbig im kurzen Eck, aber der Ball klatschte an den Pfosten (45.+2).
+
+Kurz nach der Pause rückte die Entscheidung zugunsten der Bayern aber doch schnell näher. Der gerade eingewechselte Davies wurde nach einem Zuspiel von Saibari klar von Pierre Nadjombe am Arm gehalten und es gab zu Recht Elfmeter.
+
+Da Kane nicht auf dem Spielfeld war, schnappte sich Olise den Ball und mit einem lockeren Chip lupfte er den Ball zum 3:1 ins Tor (50.). Reimann verhinderte danach beim Schuss von Karl vorerst, dass es noch deutlicher wurde (59.).
+
+Das wurde es allerdings in der 70. Minute, als Aleksandar Pavlovic die gesamte Magdeburger Defensive mit einem Pass aushebelte und Davies den Querpass von Karl zum 4:1 verwertete. Wenig später legte Nathaniel Brown nach Vorlage von Davies den fünften bayrischen Treffer nach und es deutete sich nun doch eine Klatsche für die lange so mutigen Magdeburger an.
+
+Deren mehr als 10.000 angereiste Fans feierten dennoch auf den Rängen - auch wenn sie weitere Gegentore befürchten mussten. Es gab allerdings nur noch eins, Bayern-Talent Daiber traf in der Nachspielzeit per Fernschuss zum 6:1-Endstand (90.+3).
+
+Der FC Bayern München spielt in der 2. Runde des DFB-Pokals gegen den 1. FC Magdeburg. Sehen Sie hier die Analyse und Interviews nach der Partie.
+
+Ansonsten sparten die Münchner Kräfte für den "Klassiker" am kommenden Samstag. Um 18.30 Uhr kommt es zum Topspiel in München gegen Borussia Dortmund. Mit einem Sieg könnte sich der Rekordmeister erstmals in dieser Saison etwas von der Konkurrenz absetzen. Bei dem Vorhaben wird Kane ganz sicher wieder mitwirken und in seinem ersten Spiel als Weltfußballer seine Klasse zeigen wollen.
+
+Magdeburg wird sich derweil auf den Aufstiegskampf in der 2. Liga konzentrieren müssen, in den sich das Team von Trainer Petrik Sander mit ähnlich mutigen Leistungen wie in München gespielt hat. Am Samstagmittag trifft der aktuell sechstplatzierte FCM auswärts auf Darmstadt 98, dem Tabellenletzten (13 Uhr). Die sechs Gegentore in München änderten nichts an der Vorfreude auf die nächsten Wochen. Alexander Nollenberger sagte im Sportschau-Interview sogar: "Es hat Spaß gemacht und angefühlt wie im Film."
+
+Dieses Thema im Programm: sportschau.de | Bayern München gegen 1. FC Magdeburg - alle Tore im Video | 28.10.2026 | 22.37 Uhr
+
+----------------------------------------
+
+[2] DFB-POKAL: MUTIGE NÜRNBERGER FORDERN LEVERKUSEN ALLES AB
+
+Bayer 04 Leverkusen brauchte viel Energie, um den mutig auftretenden 1.FC Nürnberg in der 2. Runde des DFB-Pokals zu besiegen.
+
+Fast eine ganze Halbzeit benögten die Leverkusener, um in diese Partie zu finden. Am Ende setzte sich die Mannschaft von Trainer Carles Martinez trotz eines zwischenzeitlichen Zwei-Tore-Rückstans mit 5:2 (1:2) gegen den Zweitligisten durch.
+
+Rafael Lubach (14.) und Sigurd Haugen (30.) trafen für die Nürnberger. Edmond Tapsoba (41., 49.), Patrik Schick (70., Foulelfmeter), Jonas Hofmann (78.) und Lucas Vazquez (89.) waren für die Leverkusener erfolgreich.
+
+Damit stehen die Rheinländer im Achtelfinale des DFB-Pokals. Der Aufwand, den sie dafür betreiben mussten, war allerdings außergewöhnlich groß. Leverkusens Mittelfeldmann Aleix Garcia gab sich selbstkritisch: "Wir sind nicht gut gestartet. Wenn wir so spielen wie in der zweiten Hälfte, hätten sie keine Chance gehabt. Wir haben Qualität, die haben wir in der zweiten Halbzeit gezeigt."
+
+Das Team von Nürnbergs Trainer Miroslav Klose hat zwar eine Niederlage hinnehmen müssen, kann aber mit dem Gefühl an den Valznerweiher zurückkehren, dass es gegen einen der stärksten Bundesligisten mit einem mutigen Auftritt lange auf Augenhöhe mithalten konnte.
+
+Es dauerte rund zehn Minuten in der zunächst ausgeglichenen und schwungvollen Partie, bis die Werkself die erste Tormöglichkeit hatte. Nathan Tella vergab allerdings seinen Kopfball aus zwölf Metern. Die Partie schien ab diesem Moment ihren erwarteten Gang zu gehen, allerdings hatten die Nürnberger etwas dagegen.
+
+Lubach kam am Bayer-Strafraum an den Ball, seinen Flachschuss aus zentraler Position aus 16 Metern konnte Janis Blaswich nicht parieren. Der Club, der von Beginn an mutig und engagiert agierte, führte überraschend mit 1:0.
+
+Das Martinez-Team erhöhte danach das Tempo, rannte sich aber immer wieder an der Nürnberger Abwehr fest. Es fehlte an Ideen und Durchsetzungsfähigkeit. Und der Club? Der konterte die Werkself eiskalt aus.
+
+Nach einem Leverkusener Ballverlust von Aleix Garcia in der Nürnberger Hälfte schnappte sich William Böving auf der rechten Seite den Ball, lief bis in den Bayer-Strafraum und passte perfekt auf den zweiten Pfosten, wo Haugen aus drei Metern nur noch den Fuß zum 2:0 hinhalten musste.
+
+Tella hatte fünf Minuten vor dem Ende der ersten Hälfte die große Möglichkeit, den Anschlusstreffer zu erzielen, seine Direktabnahme aus sechs Metern konnte FCN-Torhüter Jan Reichert noch spektakulär parieren. Allerdings fiel nur wenige Sekunden später das 1:2 für die Werkself. Tapsoba verwandelte den nachfolgenden Eckball unhaltbar mit der Schulter.
+
+Mit Beginn der zweiten Hälfte drückten die Gastgeber sofort aufs Tempo und brachten das Klose-Team sofort in Schwierigkeiten. Es waren gerade einmal drei Minuten gespielt, da war es erneut Tapsoba, der traf. Wieder nach einem Eckball war der Bayer-Kapitän im zweiten Versuch zur Stelle und verwandelte dieses Mal mit dem Fuß aus fünf Metern zum 2:2.
+
+Die Werkself blieb dran, erspielte sich weitere Chancen, die Nürnberger waren fast nur noch in ihrer eigenen Hälfte zu finden. Vor allem Garcia wurde immer gefährlich, war aber nicht präzise genug. Der Druck wurde für die Franken immer größer.
+
+Die Vorentscheidung zugunsten der Leverkusener fiel, als der zur Pause eingewechselte Schick im Nürnberger Strafraum von Verteidiger Alexios Kalogeropoulos abgeräumt wurde. Der Angreifer trat selbst zum Elfmeter an und verwandelte sicher zum 3.2.
+
+Nur acht Minuten später stellte Hofmann mit einem leicht abgefälschten Distanzschuss aus 18 Metern auf 4:2. Vazquez sorgte mit seiner sehenswerten Direktabnahme aus 15 Metern von halbrechts ins lange in letzter Minute noch für den 5:2-Endstand.
+
+Für Leverkusen geht es in der Bundesliga am Samstag (15.30 Uhr) gegen den VfB Stuttgart weiter. Eine Etage tiefer hat muss der 1. FC Nürnberg am Sonntag (13.30 Uhr) zum FC St. Pauli.
+
+Dieses Thema im Programm: Das Erste | Sportschau | 28.10.2026 | 23:10 Uhr
+
+----------------------------------------
+
+[3] DFB-POKAL: JOKER GOTO SCHIESST FREIBURG GEGEN WOLFSBURG WEITER
+
+Keisuke Goto hat den SC Freiburg mit einem späten Doppelpack gegen den VfL Wolfsburg ins Achtelfinale des DFB-Pokals geschossen. Die Breisgauer siegten am Ende einer spektakulären Schlussphase in einer ansonsten aber chancenarmen Partie mit 3:2 (1:2).
+
+Igor Matanovic gelang das frühe 1:0 (6. Spielminute), der Japaner Kento Shiogai (8., 43.) drehte die Partie für die Gäste noch vor der Pause, doch dessen Landsmann Goto brachte den SCF schließlich doch noch in die nächste Runde (76., 90.+2).
+
+Freiburgs Trainer Julian Schuster musste auf die angeschlagenen Jordy Makengo und Derry Scherhant verzichten, aber auch sonst rotierte Schuster im Vergleich zur Niederlage gegen die Bayern in der Liga ordentlich: Gleich sieben Änderungen gab es in der Startformation.
+
+Sein Gegenüber Tobias Strobl war da deutlich konservativer: Nur drei Wechsel gegenüber dem Remis gegen Bochum, unter anderem saß Fabian Reese auf der Bank.
+
+In der Anfangsphase spielte zunächst nur der Bundesligist - und mit der ersten Chance ging er auch direkt in Führung: Christian Günter wurde auf dem linken Flügel auf die Reise geschickt, flankte perfekt in die Mitte und dort köpfte Matanovic ziemlich frei rechts ins Eck zum 1:0 ein (6.).
+
+Aber die Antwort der Wölfe folgte auf dem Fuße: Einen langen Ball von Torwart Timon Wellenreuther unterlief Max Rosenfelder in Bedrängnis gegen Shiogai völlig, der Japaner war auf und davon und vollstreckte vor Pokal-Keeper Florian Müller eiskalt zu seinem Premierentreffer für den VfL. Beide Teams hatten mit ihrer ersten Gelegenheit getroffen.
+
+In der 2. Liga sind die Wölfe in diesem Jahr so gut wie nie der Außenseiter, haben den zweitmeisten Ballbesitz. In dieser Pokalpartie setzte die Strobl-Elf im Gegensatz dazu ganz klar auf Konter, ohne sich dabei aber hinten einzuigeln.
+
+Die Freiburger probierten es wie schon beim 1:0 immer wieder über die linke Seite mit Günter und Vincenzo Grifo, zumeist konnte Wellenreuther die Flanken von dort aber aus der Gefahrenzone befördern, bevor es brenzlig wurde.
+
+Vor der Pause gab es stattdessen noch zwei Hiobsbotschaften für den SCF: Erst verletzte sich Nationalspieler Philipp Treu bei einem Zweikampf mit Cleiton am Knöchel und musste ausgewechselt werden (39.) und kurz darauf geriet die Schuster-Elf sogar in Rückstand.
+
+Bei einer Ecke von links stand Shiogai zentral im Fünfmeterraum ohne Gegenspieler bereit, Müller blieb auf der Linie, kein Freiburger ging zum Ball und so nickte der Japaner mit seiner zweiten Torchance zur Wolfsburger 2:1-Führung ein (43.). Die war angesichts der defensiven Stabilität der Wölfe auch nicht völlig unverdient, obwohl die Niedersachen nur 39 Prozent Ballbesitz hatten.
+
+Den zweiten Durchgang starteten die Freiburger wie den ersten mit viel Druck. Cyriaque Irié verzog im Strafraum knapp (50.). Kurz darauf entschied Schiedsrichter Sören Storks zunächst auf Handelfmeter für die Gastgeber, nachdem der Ball Joaekim Maehle im Strafraum an den Arm gesprungen war.
+
+Nach Ansicht der Videobilder nahm Storks den Strafstoß allerdings zurück - vertretbar. Der Däne hatte sichtbar versucht, seinen Arm noch aus dem Weg zu ziehen, zudem verhinderte er durch die Berührung auch keine Torchance, hinter ihm hatte niemand gestanden.
+
+Nach dieser Entscheidung stieg das Emotionsbarometer der Partie deutlich an, es knisterte jetzt in den Zweikämpfen. In der 58. Minute zählte der vermeintliche Ausgleichstreffer durch Günter nicht, weil Matanovic zuvor hauchdünn im Abseits gestanden hatte, es war richtig Feuer drin und die Freiburger Fans schalteten sich lautstark immer wieder mit Pfiffen gegen Schiedsrichter und Gegner ein.
+
+Freiburg drängte auf das 2:2, Matanovic köpfte mehrfach gefährlich knapp am Gäste-Tor vorbei. Wolfsburg kam zwischenzeitlich gar nicht mehr zu Entlastungsangriffen, Strobl reagierte und brachte Reese für Alexander Bernhardsson.
+
+Schuster hatte mittlerweile ebenfalls gewechselt und unter anderem Goto ins Spiel gebracht. In der 76. Minute war der Japaner bei einer Grifo-Ecke direkt zur Stelle, stieg höher als Reese und Elvis Rexhbecaj und nickte den Ball unhaltbar links oben ins Eck zum verdienten Ausgleich ein. Es war der dritte Kopfballtreffer der Partie.
+
+Große Aufreger hatte die Schlussphase danach erst einmal nicht mehr parat. Als Wolfsburg in der Nachspielzeit dann doch mal mit Schwung ins Angriffsdrittel kam und dann am Strafraumrand hängen blieb, geschah es dann doch.
+
+Philipp Lienhart schlug einen langen Ball, Goto enteilte allen zu weit aufgerückten Verteidigern und hob den Ball über den ebenfalls zu hoch stehenden Wellenreuther zum 3:2-Siegtreffer ins Tor (90.+2). Das Ergebnis ging angesichts der zweiten Hälfte in Ordnung, in der die Wölfe selbst keine einzige Torchance herausgespielt hatten.
+
+"Es ist schön, so einen Joker zu haben, der uns hilft", sagte Freiburg-Stürmer Matanovic über den Siegtorschützen. "Wir hätten einiges besser machen können. Am Ende war es aber verdient, dass wir das Spiel gewonnen haben."
+
+Beide Teams müssen am Samstag in der Liga ran: Der SC Freiburg ist in der Bundesliga in Augsburg zu Gast (15.30 Uhr). Der VfL Wolfsburg erwartet in der 2. Bundesliga den VfL Osnabrück (13 Uhr).
+
+Dieses Thema im Programm: Das Erste | Sportschau | 28.10.2026 | 23:00 Uhr
+
+----------------------------------------
+
+
+>>> TECH (WIRED) <<<
+
+[1] LIQUID GLASS FINALLY MAKES SENSE ON THE IPHONE DUO
+
+Apple rarely admits a mistake. But when it unveiled new versions of its operating systems this summer, it came close.
+
+“With all major design updates, there’s a natural process where we take a bold leap forward, and then we continue to iterate,” said Apple's human interface designer, Shubham Kedia, during a predictably sleek keynote video. “Our team really appreciates your feedback, and we considered it deeply as we refined the new design.”
+
+Not quite “Sorry, everyone, we messed up,” but for Apple, practically an apology tour. The subject was Liquid Glass, Apple’s most divisive interface design since at least iOS 7. Apple's Vision Pro mixed-reality headset (which itself flopped) inspired the translucent design language, and the company brought it to millions of other Apple devices.
+
+The result was a mess—at odds with Steve Jobs’ famous line, “Design is not just what it looks like and feels like. Design is how it works.” Liquid Glass started obsessed with gloss and effects, despite promises it would bring your content to the foreground. Yet Apple’s own press release showed interfaces with illegible text. Worse, users found constant reflections and flickering color shifts distracting, and a lack of clarity across devices hurt accessibility.
+
+But iOS 27, alongside updates to Apple's other software platforms, signaled a shift in priorities after Kedia’s mea culpa. Kedia spoke of reincorporating design cornerstones in what was, if not quite a U-turn, then at least a rediscovery of a core principle: how it works. Instantly, interface elements across Apple devices gained greater clarity and structure, making it easier to tell apps' components from content. The most obvious change, though, was a slider.
+
+Apple said it tuned Liquid Glass to diffuse complex content more effectively, keeping elements legible when above imagery and text. But it also acknowledged that not everyone wants the same thing—some users might prefer a more tinted look, and others “would like Liquid Glass to be even more clear.” You can now decide for yourself with the Liquid Design slider in Settings. For a company known for being opinionated, such bet-hedging was surprising but not unwelcome. Choice isn’t a bad thing, and now users had more of it.
+
+“I immediately pushed that slider all the way to the most tinted setting, and pretty much all the legibility issues vanished,” Ben Rice McCarthy, an indie developer behind popular apps like Obscura and Indigo, tells WIRED. McCarthy has long criticized Liquid Glass. Now? Not so much.
+
+“Liquid Glass introduced a lot of issues without adequate solutions, but this year’s operating systems solved or improved a lot of them,” McCarthy says. “There’s the adaptiveness of the interface. Buttons can grow into menus. Controls merge and divide like cells as you transition between views. Toolbars can expand and contract smoothly as the view changes size.”
+
+Flexibility matters when resizing windows across any device. But while announcing its updates, Apple also dropped major hints that all but confirmed new hardware—it showed iPhone apps running on an iPad or a Mac could resize to a suspiciously specific shape that matched the rumored inner display dimensions of Apple’s upcoming folding phone.
+
+When Apple showed off the iPhone Duo, everything clicked. Its passport-shaped display bucks the trend of iPhones and their rivals growing taller over the years. The Duo is wider and almost squat, and when opened, it naturally defaults to landscape, echoing the iPad Mini display.
+
+Apple being Apple, it wanted to avoid the jarring jolt between displays that’s often evident on rival foldables, so it made content appear to move seamlessly from one screen to the other. That begins with the hardware. As Molly Anderson, Apple's vice president of Industrial Design, said at the September keynote: “To achieve this continuity, we designed iPhone Duo around a consistent aspect ratio that is the same across both displays.” But it’s the software—rooted in Liquid Glass—that sells the illusion.
+
+The most arresting element is a fancy animation, which various folks in the Android space are now busy being “inspired” by. It reinforces the idea of a flowing interface. Meanwhile, Liquid Glass freed Apple from being prescriptive about where essential controls live. On the Duo, they sit at the side. When the phone’s closed, that frees up space for content. When it’s open, the controls stay in a consistent spot, so you never have to hunt for them. Reorient the device, and everything settles into the most appropriate place.
+
+That’s form following function, not function being subservient to form. This device and its flexible interface don’t strictly need the Liquid Glass design language, but the two feel made for each other. Liquid Glass finally makes sense on the iPhone Duo—and with Apple’s other refinements, it’s starting to make sense elsewhere, too.
+
+How much of this is happenstance is hard to say. Given Apple’s lead times, pure coincidence seems unlikely. And even if Liquid Glass wasn’t made with the Duo in mind, it adapts to it.
+
+Liquid Glass feels more considered. It’s increasingly tuned for individual devices rather than governed by a “universal” aesthetic forced onto them all. The result is operating systems that feel solid rather than fragile, with interfaces less likely to fight content for your attention. On Macs and iPads, the Liquid Glass revamp now looks more like a love letter to Aqua—Apple's water-themed interface introduced in 2000. On the iPhone, it’s usable again. On the Duo, it’s a delight.
+
+That’s not to say it’s perfect. “There’s some weirdness that hasn’t been fully resolved, and there needs to be a consistency to all these materials or the metaphors break down,” McCarthy says. “But overall, Liquid Glass is vastly improved.”
+
+And it’s worth remembering that while the Duo is new, Liquid Glass is relatively young, too. As developer Steve Troughton-Smith wrote, “For some iPhone apps, even with keen developers, it will take six months to a year of work to properly support iPhone Duo. A lot of developers are still trying to finish the Liquid Glass transition they started last year.”
+
+A useful reminder that transitions take time. But at least now, Apple’s vision looks clear.
+
+In your inbox: For life-tested picks, sign up for our Gear newsletters
+
+Airbnb hosts are furious they can no longer make guests do their chores
+
+big story: cool kids write in all lowercase—does that make you mad?
+
+WIRED event: The technologies, people, and ideas transforming our world
+
+Take Up to 25% Off Custom Prints with VistaPrint Promo Code
+
+Take 10% Off Legal Services with This LegalZoom Promo Code
+
+© 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+----------------------------------------
+
+[2] ASTRONOMERS DISCOVER A POSSIBLE NEW DWARF PLANET IN OUR SOLAR SYSTEM
+
+Scientists are on the verge of confirming the discovery of another member of the solar system, a potential dwarf planet. Astronomers at the Vera C. Rubin Observatory in Chile located the object, provisionally named 2026 ED138.
+
+The prospective planet measures somewhere between 600 and 1,500 kilometers in diameter and is located about 46 astronomical units from the sun (an astronomical unit being Earth’s approximate distance from the sun). For comparison, Pluto—which is also now considered a dwarf planet—orbits at an average distance of 40 astronomical units. Based on its location, ED138 belongs to the population of trans-Neptunian objects. According to its discoverers, it could be one of the brightest known objects of this type and also among the largest.
+
+Like Pluto, the possible Dwarf planet’s orbit is tilted relative to the plane on which the planets orbit.
+
+The difference between a planet and a dwarf planet is largely their environment. While both orbit the sun and have sufficient gravity to assume a nearly spherical shape, a planet has cleared its orbit of other bodies of comparable size. Dwarf planets, on the other hand, coexist with other objects in the region of the solar system they traverse. This is the main reason why Pluto ceased to be considered a planet in 2006 and was reclassified as a dwarf planet.
+
+Matthew Holman, a researcher at the Harvard-Smithsonian Center for Astrophysics and a member of the observatory’s operations team, identified the object on October 13 while analyzing data collected by Rubin in 2026. A more thorough search allowed the team to locate additional observations in archived records dating back to 2016. Thanks to this set of images, the team was able to reconstruct more than a decade of the object’s trajectory.
+
+Astronomers explain that ED138 had managed to “hide” from us because its position in the night sky is against the disk of the Milky Way, which we usually see as a thick band of millions of stars. This concentrated brightness makes it difficult to distinguish fainter objects, but the Rubin Observatory’s enormous amounts of data made it possible to identify the object amid that sea of light.
+
+Though ED138 appears to have the right characteristics, astronomers have yet to confirm whether it is a dwarf planet. For now, astronomers know it is a trans-Neptunian object, but they need to determine its size more precisely to establish whether its own gravity is sufficient to give it a nearly spherical shape. If it meets the requirements, ED138 would join the group of five dwarf planets recognized by the International Astronomical Union: Ceres, Pluto, Haumea, Makemake, and Eris.
+
+It is also not the only celestial body awaiting possible classification as a dwarf planet. Astronomers have identified dozens of objects in the outer solar system that, based on their size and other characteristics, could meet the criteria. Among the best-known candidates are Gonggong, Quaoar, Sedna, and Orcus. Experts acknowledge that the list could be even longer.
+
+Confirming them as dwarf planets is no easy task. The enormous distance at which they lie makes it difficult to directly measure their size and mass and, above all, to determine whether their own gravity has given them a nearly spherical shape. To obtain high-resolution images of Pluto, for example, the New Horizons probe had to be sent to its vicinity—a journey that took nearly nine and a half years from its launch in 2006 to its flyby in 2015. Three years later, it reached the object Arrokoth, a small planetesimal even farther away.
+
+The solar system is often depicted as a star surrounded by eight planets, but in reality it is a much more extensive and populous structure. In addition to planets and moons, it contains dwarf planets, asteroids, comets, and a vast number of small bodies that extend far beyond Neptune. The Kuiper Belt extends to approximately 50 astronomical units, while the scattered disk reaches nearly 1,000. Much farther out lies the Oort Cloud, a region we have never directly observed and that could extend up to about 100,000 astronomical units from the sun.
+
+This story originally appeared on WIRED en Español and has been translated from Spanish.
+
+In your inbox: Inside WIRED’s newsroom with Katie Drummond
+
+They war-gamed dimming the sun—it went worse than you think
+
+The Big Interview: Nathan Fielder tells us everything
+
+Live tracker: Elon Musk’s America PAC is spending big on the midterms
+
+Introducing the app: More ways to make the most of WIRED
+
+© 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+----------------------------------------
+
+[3] NORTON COUPON CODES: UP TO 58% OFF
+
+Norton Antivirus is the only antivirus software I've ever used, in part because many years ago I switched to Linux, which eliminates the need for antivirus software. If you're still on macOS or Windows, though, Norton Antivirus is still a solid choice. None of these services is something anyone is excited to run, but they can save you bacon if you make a bad decision downloading questionable files or clicking links you shouldn't have. The best way to stay protected without spending a fortune is to use a Norton coupon code to get yourself a deal.
+
+While I’ve only ever used the Antivirus offering, the real way to save is to bundle several services and use a coupon code for the lot. With Norton, that means Norton 360, which gets you the Antivirus, malware, ransomware, and hacking protection, along with a VPN and dark web monitoring, for up to three devices. You also get a password manager and 2GB of online storage. With this Norton coupon code, you get all that for $40 for the first year, which is about the same as paying for a VPN alone. Norton 360 Deluxe gets you everything that comes with the regular version, but it works with five devices and gives you 50GB of online storage.
+
+LifeLock is Norton’s usual online protection suite, but adds up to $1 million in potential coverage if you experience financial loss due to identity theft. With this Norton coupon code, Norton 360 with LifeLock is just $8.33 per month.
+
+If you want to get (and stay) serious about your privacy and protection, and the overall health and longevity of your computer, I’d suggest investing in an antivirus protection plan for your whole setup. With Norton 360 Antivirus Plus, you’ll get powerful antivirus protection for your device, including AI-powered Scam Protection, Password Manager, and 2 GB Cloud Backup. And you can get even more peace of mind with a 60-day money-back guarantee. Best of all, Norton 360 Antivirus Plus is 50% off right now, taking it from $60 per year to only $30—which works out to just $2.50 per month—a small investment worth so much more in protection and peace of mind.
+
+If you want to protect more than a few devices, the small business plans are the way to go. These coupons will get you $100 off the Small Business Premium plan and $80 off the Small Business plan. These plans cover two devices per user and up to five users.
+
+Take Up to 25% Off Custom Prints with VistaPrint Promo Code
+
+Take 10% Off Legal Services with This LegalZoom Promo Code
+
+© 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+----------------------------------------
+
