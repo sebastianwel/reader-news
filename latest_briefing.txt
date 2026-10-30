@@ -1,302 +1,233 @@
-=== DAILY BRIEFING - 29.10.2026 ===
+=== DAILY BRIEFING - 30.10.2026 ===
 Quellen: Tagesschau, Sportschau & Wired Tech
 
 
 >>> TAGESSCHAU TOP-NEWS <<<
 
-[1] KI-INVESTITIONEN TRAGEN NICHT ÜBERALL FRÜCHTE
+[1] KRISE IN AUTOMOBILBRANCHE: GEWINN BEI AUDI BRICHT DRASTISCH EIN
 
-Die Tech-Giganten im Silicon Valley stecken Milliarden in Künstliche Intelligenz. Doch die investierten Gelder führen nicht automatisch zu Wachstum. Das zeigen die Zahlen von Microsoft und Alphabet.
+Auch der Autobauer Audi steckt in der Krise: Der Gewinn brach im dritten Quartal deutlich ein. Grund ist unter anderem das schwache China-Geschäft. Neue Automodelle sollen positive Impulse bringen.
 
-Verbrannte Milliarden bei der Google-Mutter Alphabet ‌und klingelnde Kassen bei Microsoft: Die Geschäftszahlen ​dieser US-Technologiekonzerne stehen exemplarisch für die Licht- und Schattenseiten des aktuellen KI-Boom. Beide Unternehmen investieren mehrstellige Milliardenbeträge in den Bau neuer Rechenzentren für Künstliche Intelligenz (KI).
+Im dritten Quartal lief es beim Autobauer Audi deutlich schlechter als im Vorjahreszeitraum. Nach Steuern verdiente die VW-Tochter nur noch 95 Millionen Euro, wie das Unternehmen mitteilte. Das waren 87 Prozent weniger als im Vorjahreszeitraum, als der Gewinn noch bei 718 Euro Millionen lag. Damit schlittert Audi finanziell immer tiefer in die Krise.
 
-Bei Alphabet steigen die Einnahmen jedoch nicht schnell genug, um diese Kosten zu decken. Microsoft erwirtschaftete dagegen mit 18,6 Milliarden Dollar einen doppelt so hohen Free Cash Flow wie erwartet.
+Vor allem das Geschäft in China ist den Angaben zufolge betroffen. Dort habe sich insbesondere dasVerbrennergeschäft eingetrübt, sagte Finanzchef Jürgen Rittersberger. Auch die steigende Wettbewerbsintensität sowie der zunehmende Exportdruck chinesischer Hersteller auf den europäischen Markt belasten. "Hinzu kommen anhaltende Unsicherheiten infolge der Lage im Nahen Osten und dem damit verbundenen Anstieg der Energiekosten sowie durch US-Zölle", teilte Audi weiter mit.
 
-Die Zahlen des Softwarekonzerns seien "so makellos, wie es für ein Unternehmen dieser Größe nur sein kann", sagte Analyst Jesse Cohen vom Finanzportal Investing.com. Während die Bilanzen von Alphabet und der Facebook-Mutter Meta Sorgen schürten, dass sich der Ausbau der KI-Infrastruktur ​als Verlustgeschäft erweisen könnte, liefere Microsoft den Gegenbeweis.
+Bei der Betriebsversammlung von Porsche stehen Details des "Zukunftspakets" im Mittelpunkt.
 
-Die ‌Reaktion der Anleger fiel im nachbörslichen Handel an der Wall Street am Mittwoch entsprechend aus. Die Aktien von Alphabet brachen zeitweise um mehr als zehn Prozent ein. Dadurch schrumpfte der Börsenwert der ​Google-Mutter um mehr als 400 Milliarden Dollar. Microsoft-Titel stiegen dagegen um 3,5 Prozent.
+Nach neun Monaten hat Audi 1,2 Milliarden Euro Gewinn eingefahren und 42 Milliarden Euro Umsatz gemacht. Beide Kennzahlen gingen damit stark zurück. Angesichts des ausgesprochen schlechten dritten Quartals passt der Konzern nun auch seine Prognose für das Gesamtjahr nach unten an. Audi rechnet nun nur noch mit einer Umsatzrendite zwischen drei und fünf Prozent bei Erlösen zwischen 55 und 59 Milliarden Euro.
 
-Microsoft-Finanzchefin Amy Hood bezeichnete das abgelaufene Quartal als guten Start ins Geschäftsjahr 2026/2027. Alle wichtigen Kennzahlen hätten die Markterwartungen übertroffen. Das Wachstum der Cloud-Sparte Azure beschleunigte sich auf 48 Prozent nach einem Plus von 43 Prozent im vorangegangenen Quartal.
+"Die Kennzahlen zeigen deutlich: Der Handlungsbedarf bei Audi ist hoch und duldet keinen Aufschub", sagte Rittersberger. Vor allem im dritten Quartal habe sich das Umfeld noch einmal erheblich verschärft. "Unsere Maßnahmen wirken, aber aufgrund des enormen Wettbewerbsdrucks müssen wir sie verstärken. Deshalb setzen wir auf konsequente Kostendisziplin, reduzieren Komplexität und erhöhen die Effizienz unserer Strukturen."
 
-Die Investitionen blieben dagegen mit 45,2 Milliarden Dollar rund fünf Milliarden Dollar hinter den eigenen Planungen zurück. Dies sei aber in erster Linie ​auf Lieferverzögerungen zurückzuführen, erläuterte Konzernsprecher Jonathan Neilson.
+BMW meldet einen deutlichen Gewinneinbruch. Die Krise der deutschen Autobauer geht tief.
 
-Die Stimmung von Unternehmen in Deutschland ist getrübt. Wie gehen Firmen mit Künstlicher Intelligenz um?
+Nach dem Gewinneinbruch der ersten neun Monate hofft Audi auf eine Geschäftsbelebung zum ‌Jahresende. "Wir erwarten ein deutlich ​stärkeres viertes Quartal", sagte Rittersberger. Impulse erwarte sein Unternehmen unter anderem von den neuen SUV-Modellen Q7 und Q9 auf dem US-Markt.
 
-Marcel Tietjen, Technologie-Experte der Beratungsfirma BearingPoint, wies auf einen weiteren Aspekt hin: "Hinter Microsofts Quartalszahlen vollzieht sich eine Verschiebung im Geschäftsmodell, die bislang wenig Beachtung findet." Durch die zunehmende Verbreitung von digitalen Assistenten, die komplexe Aufgaben eigenständig erledigen, und die nutzungsbasierte Abrechnung von KI-Modellen verlören die Lizenzeinnahmen an Bedeutung. "Microsofts Wachstum wird künftig weniger von der Zahl der Nutzer abhängen als davon, wie viel Arbeit KI-Agenten in den Unternehmen übernehmen."
+Das ist die Krise, der sich alle deutschen Hersteller gegenübersehen, doch die Ingolstädter werden besonders hart getroffen. Zum Vergleich: Konkurrent Mercedes hat im abgelaufenen dritten Quartal 1,52 Milliarden Euro Gewinn gemacht. BMW legt erst nächste Woche Zahlen vor.
 
-Um dieses Geschäft weiter anzukurbeln, hat Microsoft-Chef Satya Nadella eine Reihe günstigerer KI-Modelle ins Angebot aufgenommen. Damit reagiert er auf den wachsenden Sparzwang bei Firmenkunden, denen die KI-Kosten aus dem Ruder laufen.
+Der Auftritt des Audi-Chefs auf einer Wahlkampfveranstaltung Trumps sorgt für heftige Kritik.
 
-Der KI-Boom beherrscht weiter die Wall Street.
+Was die Entwicklung für die deutschen Standorte bedeutet, ließ Audi offen. Mit der im vergangenen Jahr geschlossenen Zukunftsvereinbarung, habe man wichtige Maßnahmen auf den Weg gebracht, hieß es. "Darauf aufbauend sollen weitere Maßnahmen entwickelt werden, um Wettbewerbsfähigkeit und Beschäftigung nachhaltig zu sichern. Die hierfür notwendigen Schritte sollen gemeinsam mit dem Gesamtbetriebsrat im Dialog erarbeitet werden."
 
-Die Alphabet-Sparte Google Cloud verdoppelte zwar ihren Umsatz im Berichtszeitraum. Der negative Free Cash Flow verdoppelte sich dennoch nahezu und überstieg mit rund neun Milliarden Dollar die Analystenprognosen um etwa das 250-Fache. Operativ rutschte der Konzern ebenfalls in die roten Zahlen und machte 7,66 Milliarden Dollar Verlust.
+Die Zukunftsvereinbarung beinhaltete unter anderem den Abbau Tausender Jobs in Deutschland. Aktuell wird um weitere Einsparungen gerungen. Dabei steht sogar das Aus des Werks in Neckarsulm im Raum.
 
-Wegen schwächelnder Werbeeinnahmen enttäuschte zudem der Konzernumsatz. Eine Trendwende ist vorerst nicht in Sicht. Alphabet-Finanzchefin Anat Ashkenazi bekräftigte zwar ihre Prognose, 2026 bis zu 205 ​Milliarden Dollar in den Ausbau der KI-Infrastruktur zu investieren. Im kommenden Jahr dürften die Ausgaben aber deutlich steigen. Gleichzeitig drücke die Anmietung externer ‌Rechenkapazitäten auf die Margen.
+Die Kritik am Auftritt von Audi-Chef Döllner an der Seite von US-Präsident Trump reißt nicht ab.
 
-Anleger beobachten die steigenden Kosten für den Ausbau der KI-Infrastruktur mit Sorge. Sie befürchten massive Abschreibungen, weil die Anlagen Experten zufolge auf absehbare Zeit keine Gewinne abwerfen dürften. Dies spiegelt sich unter anderem in den steigenden Prämien für die Absicherung gegen Zahlungsausfälle der großen Technologiekonzerne. Die Kurse der sogenannten Credit Default Swaps (CDS) kletterten zuletzt teilweise auf Rekordhochs.
+Der Versuch, die Probleme in den USA in den Griff zu bekommen, hat Audi zudem eine weitere Krise beschert. Denn am Rande von Verhandlungen zum Bau eines Werks im US-Bundesstaat Georgia trat Audi-Chef Gernot Döllner am Wochenende überraschend zusammen mit US-Präsident Donald Trump auf. Dieser verkündete auf einer Wahlkampfveranstaltung Audis Pläne.
 
-Wasserzeichen können darüber Auskunft geben, ob Künstliche Intelligenz beim Schreiben genutzt wurde.
+Seither reißt die Kritik an Döllner nicht ab. Kritiker werfen ihm vor, damit gegen Audis eigene Regeln verstoßen zu haben, die solche Auftritte ausschließen. Döllner hat seinen Auftritt als im Interesse des Unternehmens verteidigt. Wegen der Angelegenheit kommt am Nachmittag auch der Aufsichtsrat des Autobauers zu einer außerplanmäßigen Sitzung zusammen.
 
-Seit Jahresbeginn haben allein die US-Unternehmen Amazon, Alphabet, Meta und Oracle Anleihen im Gesamtvolumen von deutlich mehr als 200 Milliarden Dollar emittiert. Die Facebook-Mutter Meta, die in den vergangenen Monaten wegen KI ebenfalls Milliarden verbrannt hat, will darüber hinaus neue Aktien im Gesamtvolumen von knapp 100 Milliarden Dollar ausgeben. Eine erste Tranche über 37,5 Milliarden Dollar platzierte das Unternehmen am Dienstag.
-
-Oracle versuchte am Mittwoch, die Sorgen der Anleger über die Finanzierung der KI-Pläne mit einer optimistischen Prognose für den Barmittelzufluss zu dämpfen. Der SAP-Rivale stellte wegen sinkender Investitionen für die zweite Hälfte des Geschäftsjahres 2027/2028 einen positiven Free ‌Cash ‌Flow in Aussicht. Im darauffolgenden Jahr dürfte ‌er die Marke von ​30 Milliarden Dollar übersteigen.
-
-Dieses Thema im Programm: tagesschau.de | Börse: DAX-Ausblick, Fed, Bilanzen von Microsoft und Alphabet | 29.10.26 | 06:17 Uhr
+Dieses Thema im Programm: rbb24 Inforadio | Nachrichten | 30.10.2026 | 09:44 UhrDas Erste | tagesschau | 30.10.2026 | 10:40 Uhr
 
 ----------------------------------------
 
-[2] US-ZWISCHENWAHLEN: TRUMP HOLEN SEINE VERSPRECHEN EIN
+[2] ZUGUNGLÜCK IN SPANIEN: FAHRDATENSCHREIBER GEBORGEN
 
-Er werde das Leben in den USA wieder erschwinglich machen, hatte Trump den Wählern 2024 versprochen. Zwei Jahre danach sieht die Wirklichkeit anders aus - nicht zuletzt an den Zapfsäulen. Das wirkt sich auf die Umfragen vor den Midterms aus.
+Auf den Schock nach dem schweren Zugunglück in Spanien folgt die Suche nach der Ursache: Ermittler haben die Fahrdatenschreiber in den Wracks gefunden. Die Daten werden nun ausgewertet - und liefern hoffentlich Antworten.
 
-Ein Wort prägt den Wahlkampf für den Kongress: "Affordability", wörtlich übersetzt Erschwinglichkeit. Hohe Lebenshaltungskosten und steigende Preise beschäftigen die US-Amerikaner seit dem Inflationsschub in der Pandemie im Jahr 2021. Donald Trump nutzte sie schon vereinzelt für seine Kampagne bei der Präsidentschaftswahl 2024 - "Make America Affordable Again" stand auf einzelnen Plakaten bei seinen Rallys.
+Als wahrscheinlichste Ursache für das schwere Zugunglück in Spanien gilt bislang eine Verkettung menschlicher Fehlentscheidungen. Viele Menschen fragen sich: Wie kann es sein, dass ein Zug auf einen stehenden Hochgeschwindigkeitszug auffährt? Und was ist in den Minuten vor dem Unglück passiert? Antworten darauf dürften die Fahrdatenschreiber der beiden Züge liefern. Sie wurden jetzt aus den Wracks geborgen.
 
-Aber zum klaren Thema Nummer eins sind die Lebenshaltungskosten erst jetzt bei den Kongresswahlen geworden. Trump war angetreten mit dem Versprechen, die Preise in den Griff zu bekommen. Schon seine erste große politische Entscheidung, der Erlass umfangreicher Importzölle, bewirkte das Gegenteil. Aber seit Trump den Krieg gegen Iran begonnen hat, bestimmt die Preisentwicklung an den Tankstellen den Alltag und die politischen Debatten. Die Inflation ist mittlerweile höher als zu seinem Amtsantritt.
+Die Aufzeichnungsgeräte registrieren wichtige Informationen über die Fahrten. Sie befinden sich nun in den Händen der Polizeieinheit Guardia Civil, wie die unabhängige Behörde für die Untersuchung von Unfällen (AITAT) Medienberichten zufolge mitteilte. Die Daten sollen demnächst ausgewertet werden.
 
-Laut Umfragen hat US-Präsident Trump viele Menschen enttäuscht, von denen er 2024 gewählt wurde.
+Bei dem Unglück waren am Mittwochmorgen zwei Hochgeschwindigkeitszüge kollidiert: Ein Zug der staatlichen Bahngesellschaft Renfe fuhr von hinten auf einen stehenden Zug des privaten Unternehmens Iryo auf. Mindestens 69 Menschen kamen ums Leben.
 
-In einer Ipsos-Befragung nach dem wichtigsten wahlentscheidenden Thema nennen die Befragten zu 49 Prozent die Lebenshaltungskosten, gefolgt von demokratischen Werten und Normen mit 22 Prozent. Migration mit zwölf Prozent und Kriminalität mit vier Prozent haben gegenüber früheren Wahlen an Bedeutung verloren.
+Laut der Unfall-Untersuchungsbehörde ereignete sich der Zusammenstoß bei einer Geschwindigkeit, die auf 160 bis 200 Kilometer pro Stunde geschätzt wird. Das genaue Tempo werde man aber erst nach Auswertung der Aufzeichnungen kennen. Die Ermittlungen befänden sich in einem frühen Stadium. "Die Ergebnisse der Untersuchung werden zu gegebener Zeit im Abschlussbericht dargelegt werden", teilte die Behörde mit.
 
-Dabei ist die Wirtschaftslage in den USA eigentlich nach objektiven Maßstäben gut. Das Wirtschaftswachstum ist solide, die Arbeitslosigkeit auf niedrigem Niveau stabil. Trotzdem bewerten die Befragten die Wirtschaftslage in verschiedenen Befragungen übereinstimmend schlecht.
+Im Zentrum der Ermittlungen stehen der Ausfall des älteren Zugsicherungssystems LZB sowie mögliche Fehlentscheidungen der Bahnleitstelle in Madrid. Medien veröffentlichten Mitschnitte des Funkverkehrs. Demnach wurde Lokführer eines Zuges von einem Mitarbeiter der Bahnleitstelle angewiesen, den "normalen Fahrbetrieb" wieder aufzunehmen - obwohl das automatische Zugsicherungssystem noch nicht wieder funktionierte und der andere Zug noch auf der Strecke stand.
 
-In der Siena-Erhebung für die New York Times im Oktober bezeichnen 21 Prozent die Lage als gut oder sehr gut, 79 Prozent als weniger gut oder schlecht. Im Januar vor Beginn des Iran-Kriegs lag die positive Bewertung immerhin bei 29 Prozent.
+Einige Medien veröffentlichten die Gesprächsprotokolle der Leitstelle mit den Lokomotivführern.
 
-In den USA wird kontrovers diskutiert, ob das Land unter Trump noch eine Demokratie ist.
+Eine gründliche Untersuchung und dann auch Konsequenzen fordert der spanische König. "Die Ermittlungen müssen klären, warum und wie diese Katastrophe sich ereignet hat", sagte Felipe VI. nach einem Besuch in einem Krankenhaus. Anschließend müssten Schritte ergriffen werden, um ähnliche Unglücke zu verhindern.
 
-Die Wählerinnen und Wähler messen die wirtschaftliche Lage eben vor allem an der Preisentwicklung. Und für die machen sie längst nicht mehr den Demokraten Joe Biden verantwortlich, sondern den Republikaner Trump.
+Die Behörden arbeiteten "Tag und Nacht" daran, "jedes noch so kleine Detail dieser Tragödie aufzuklären", versicherte Regierungschef Pedro Sánchez bei einem Besuch an der Unfallstelle. Er kündigte eine Verstärkung der Sicherheitsvorkehrungen an, "um sicherzustellen, dass so etwas nie wieder geschieht". Das Unglück ereignete sich einen Monat vor der vorgezogenen Parlamentswahl und könnte Sánchez' Chancen auf Wiederwahl schmälern.
 
-65 Prozent sind nach der aktuellen Pew-Umfrage aus dem Oktober überzeugt, dass Trump seit Amtsantritt der Wirtschaft mehr geschadet habe als genützt, 19 Prozent sehen es umgekehrt. Unter republikanischen Anhängern gibt es noch eine leichte relative Mehrheit von 39 Prozent, für die der Nutzen überwiegt, für 35 Prozent ist auch in dieser Gruppe der Schaden größer.
-
-Wer wird gewählt, welche Themen bestimmen den Wahlkampf und welche Chancen haben die Demokraten?
-
-In der Befragung wird auch regelmäßig erhoben, welche Probleme oder Entwicklungen den Amerikanern die größte Sorge bereiten. Ganz oben auf der Sorgenliste stehen aktuell die Energiepreise. 74 Prozent zeigen sich sehr besorgt oder besorgt - ein Wert, der sich seit Jahresbeginn verdoppelt hat. Es folgen die Lebenshaltungskosten mit 73 Prozent, die Kosten für Gesundheit mit 69 Prozent und die Kosten fürs Wohnen mit 66 Prozent.
-
-Wohnkosten sind für die meisten Amerikaner nicht die monatlichen Mietzahlungen, sondern die Zinsen fürs Eigentum. Eine Hypothek über 30 Jahre wird aktuell mit 7,5 Prozent verzinst, der höchste Wert seit Jahren. Viele Paare und Familien schieben den Hauskauf schon seit Langem auf und warten vergeblich auf niedrigere Zinsen.
-
-Jahrzehntelang und noch bis zum Beginn der Pandemie waren US-Amerikaner im Durchschnitt um die 30 Jahre alt, wenn sie ihr erstes eigenen Haus oder ihre erste eine Wohnung kauften. 2025 sprang das Durchschnittsalter der Hauskäufer auf 40 Jahre, ein Allzeitrekord.
-
-Ein guter Job, ein Haus, eine Familie: Viele junge Amerikaner haben den amerikanischen Traum aufgegeben.
-
-Entspannt hat sich nach den Pew-Daten in den letzten Jahren nur der Blick der US-Bürger auf den Aktienmarkt. Da zeigen sich gegenwärtig nur 21 Prozent der Befragten besorgt. Tatsächlich sind ja die Kurse unter Trump weiter deutlich angestiegen. Wohlhabende Amerikaner haben oft einen großen Teil ihrer Altersversorgung in Aktien angelegt, und diese Gruppe wählt ganz überwiegend republikanisch.
-
-Die mehrheitlich schlechte Bewertung der Wirtschaft und die großen Sorgen um das eigene Budget sind die entscheidenden Gründe für den Gegenwind, den die Republikaner in der Schlussphase des Wahlkampfs spüren. Und dieses Problem ist hausgemacht - es ist die Folge von Trumps politischen Entscheidungen.
-
-Die Versuche, die Entwicklung mit umstrittenen Maßnahmen wie dem Diesel-Deal mit dem russischen Präsidenten Wladimir Putin zu beeinflussen, wirken sich weder auf die Energiepreise noch auf die Umfragen aus.
-
-US-Präsident Trump nähert sich Russland an - und lobt Putin ausdrücklich. Auch Republikaner kritisieren das mit deutlichen Worten.
-
-Ein Klassiker der US-amerikanischen Politikforschung ist die Frage, wie sich die ganz persönliche wirtschaftliche Lage seit dem Amtsantritt des jeweiligen Präsidenten entwickelt hat. Ronald Reagan hatte das 1980 im TV-Duell gegen Jimmy Carter gefragt: "Are you better off than you were four years ago?" - "Geht es Ihnen besser als vor vier Jahren?"
-
-Nun dauert Trumps zweite Amtszeit erst zwei Jahre. In der Umfrage von Ipsos gaben nur 15 Prozent an, dass es ihnen besser gehe, 48 beklagen, es sei schlechter geworden, 36 Prozent spüren keine Veränderung. Für die Wähler, für die die Lebenshaltungskosten bei ihrer Stimmabgabe ausschlaggebend sind, ist dieses Ergebnis wahrlich kein Argument, republikanisch zu wählen.
-
-Allerdings ist das Zutrauen in einen demokratisch kontrollierten Kongress auch nicht groß. Nur 28 Prozent glauben, dass sich ihre Lage damit verbessern würde, 28 Prozent rechnen sogar mit einer Verschlechterung. An diesen Zahlen erkennt man, warum die Demokraten nicht deutlicher von Trumps Schwäche profitieren. Das Zutrauen in ihre Arbeit ist auch nicht sehr groß.
-
-Der Blick auf die vergangenen zwei Jahre zeigt: Mit dem Ruf nach "Affordability" kann man in den USA Wahlen gewinnen. Aber danach wird man schnell verantwortlich gemacht für die Probleme, die man vor der Wahl selbst beklagt hat.
-
-Dieses Thema im Programm: BR24 Radio | Nachrichten | 15.10.2026 | 08:51 Uhr
+Dieses Thema im Programm: BR24 Radio | Nachrichten | 30.10.2026 | 08:39 Uhr
 
 ----------------------------------------
 
-[3] SUCHE NACH OPFERN DES ZUGUNGLÜCKS IN SPANIEN GEHT WEITER
+[3] NACHRUF AUF PATRICK STEWART: ER KONNTE SCIENCE-FICTION - UND SHAKESPEARE
 
-In Spanien suchen die Rettungskräfte nach dem schweren Zugunglück nach weiteren Opfern in den Waggon-Trümmern. Die Regierung versprach Aufklärung, in Madrid gab es Proteste. Als Unfallursache könnte menschliches Versagen eine Rolle gespielt haben.
+Der Welt bekannt wurde er als Raumschiff-Enterprise-Kapitän Picard, aber seine große Liebe galt sein Leben lang Shakespeare. Jetzt ist der große englische Schauspieler Patrick Stewart gestorben. Ein Nachruf.
 
-Nach dem verheerenden Zugunglück in Spanien gehen die Bergungsarbeiten weiter. Mit Hilfe dreier großer Kräne seien Rettungsteams auch die Nacht über im Einsatz gewesen, um nach möglichen weiteren Opfern in den zerstörten Waggons zu suchen, berichtetet der spanische Sender RTVE. Neben Drohnen mit Wärmebildsensoren werden demnach auch Suchhunde eingesetzt.
+In Deutschland ist Patrick Stewart vor allem durch diese Rolle bekannt geworden: als Captain Jean-Luc Picard in "Star Trek: The Next Generation", jener Serie, die in Deutschland Anfang der 90er-Jahre unter dem Titel "Raumschiff Enterprise: Das nächste Jahrhundert" ihre Fangemeinde fand. Für Stewart brachte die Serie den internationalen Durchbruch.
 
-Bei dem Unglück am Mittwochmorgen waren in der Provinz Toledo mindestens 68 Menschen ums Leben gekommen und Dutzende verletzt worden, als nahe der Gemeinde Urda zwei Hochgeschwindigkeitszüge zusammenstießen. Ein Zug der staatlichen Gesellschaft Renfe fuhr dabei von hinten auf einen stehenden Zug des privaten Bahnunternehmens Iryo auf. Insgesamt saßen mehr als 540 Passagiere in den beiden Zügen. Die Retter schließen nicht aus, dass sich in den Waggon-Wracks noch weitere Opfer befinden.
+Das jüngere Publikum kennt ihn vor allem als Professor Charles Xavier, Gründer und Leiter der "X-Men", der sich für ein friedliches Zusammenleben von Menschen und Mutanten einsetzte. Ab den 2000er Jahren stand Stewart unter anderem mit dem Schauspielkollegen Ian McKellen für die Reihe vor der Kamera. Im Dezember wird er sogar noch einmal als Professor X. zu sehen sein im Film "Avengers: Doomsday".
 
-Viele Menschen suchten in der Nacht noch nach vermissten Familienangehörigen. Um die Identifizierung der Opfer zu erleichtern, können Angehörige in der Hauptstadt Madrid sowie in den Städten Toledo, Córdoba und Sevilla DNA-Proben abgeben. Zudem wurden in Kastilien-La Mancha und Madrid Zentren für Blutspenden eingerichtet.
+Eine Serie als Spiegel der Gesellschaft: Warum ist "Star Trek" noch heute bei Fans beliebt? Eine Spurensuche.
 
-In Spanien sitzt der Schock tief über das zweite schwere Zugunglück auf der Hochgeschwindigkeitszugstrecke zwischen Madrid und Andalusien.
+1940 in England - in Mirfield in der Grafschaft West Yorkshire - geboren, wuchs Stewart als Sohn einer Weberin und eines Soldaten auf. Der Vater, der offenbar unter einem Kriegstrauma litt, war gewalttätig. Das Leben war ärmlich, das Kleinstadtmilieu langweilig.
 
-Am Mittwochabend gedachten die Menschen vor zahlreichen Rathäusern in ganz Spanien mit einer Schweigeminute der Opfer. Ministerpräsident Pedro Sánchez rief zudem eine dreitägige Staatstrauer bis Samstag aus - und versprach eine umfassende Aufklärung. "Wir werden der Sache bis zum Ende nachgehen. Sollte es Fahrlässigkeit gegeben haben, wird das ans Licht kommen", versicherte er vor Journalisten an der Unglücksstelle.
+Was blieb, waren die Auszeiten im Kino. "Ich bin samstagvormittags ins Kino gegangen", sagte Stewart. "Wo ich aufgewachsen bin, wusste man nicht viel von der Welt da draußen. Egal was gezeigt wurde, Western, Science-Fiction oder Krimi, es hat meinen Horizont erweitert. In meinem Elternhaus gab es keine Bücher. Es waren Filme, die mir die Welt näher gebracht haben."
 
-"Für ein Land wie Spanien ist es nicht hinnehmbar, innerhalb eines Jahres zwei schwere Unglücke mit Hochgeschwindigkeitszügen zu erleben", sagte Sánchez mit Blick auf das Zugunglück von Adamuz in Andalusien, bei dem im Januar 46 Menschen ums Leben gekommen waren. Sollten sich Fehler im Sicherheitssystem herausstellen, werde man mit aller Konsequenz reagieren.
+Er war Captain Picard in Star Trek und Professor Charles Xavier bei X-Men.
 
-Die betroffene Strecke war laut Verkehrsminister Puente frisch modernisiert.
+Stewarts eigene Filmografie ist lang, aber es waren im Wesentlichen zwei Dinge, die seine Karriere geprägt haben. Zwei Dinge, die gar nicht zusammenzupassen schienen, aber Stewart umso interessanter machten. Seine Science-Fiction- und Actionfilm-Rollen und seine Liebe zu William Shakespeare. Dessentwegen, sagte Stewart einmal, sei er überhaupt Schauspieler geworden, er wollte Shakespeare spielen.
 
-Sánchez steht auch deshalb unter Druck, weil er einen Monat vor der vorgezogenen Parlamentswahl von der konservativen und rechtspopulistischen Opposition für das Unglück verantwortlich gemacht wird. "Korruption tötet", die linke Regierung sei kriminell, sagte etwa der Chef der rechtspopulistischen Partei Vox, Santiago Abascal.
+Mit zwölf Jahren schon fing Stewart an, Theater zu spielen, und ab 1966 war er Darsteller der Royal Shakespeare Company. Für seine Verdienste ums Drama ist er von Queen Elizabeth II. zum Ritter geschlagen worden. Während des Corona-Lockdowns im Frühjahr 2020 entschied er sich, Shakespeares Sonette auf Twitter unter dem Hashtag "a sonnet a day" vorzutragen.
 
-Am Abend hatten ultrarechte Gruppierungen zu einer Kundgebung vor dem Verkehrsministerium in Madrid aufgerufen. Dabei kam es zu Spannungen zwischen Teilen der rund 1.500 Demonstranten und der Polizei, wie der Fernsehsender TVE berichtete. Die Beamten setzten schließlich Tränengas ein, um die Demonstration aufzulösen. Die Proteste richteten sich gegen Sánchez' Regierung sowie Verkehrsminister Óscar Puente, bei denen die Kundgebungsteilnehmer die Verantwortung für das Zugunglück sehen.
+Stewarts Liebe zu Shakespeare war dabei beständiger als die zu seinen Frauen. Der Schauspieler und Produzent war dreimal verheiratet. Aus seiner ersten Ehe stammen zwei Kinder.
 
-Zur Katastrophe führte ein technischer Defekt. Und offenbar auch eine Fehleinschätzung.
+Politisch hat sich Stewart eindeutig positioniert. Er war Mitglied der Labour-Partei und hatte, bevor der Austritt aus der Europäischen Union vollzogen wurde, für ein zweites Referendum gekämpft. Seine Wertschätzung für die EU war eng mit seiner Lebenserfahrung verknüpft. "Ich bin ein Kriegskind", sagte er. "Als ich anfing, meine Umwelt wahrzunehmen, waren viele Dinge nicht gut. Als Großbritannien dann der Europäischen Wirtschaftsgemeinschaft beigetreten ist, war das einer der aufregendsten Tage meines Erwachsenenlebens."
 
-Dabei ist die Ursache des aktuellen Unglücks noch nicht abschließend geklärt. Puente deutete jedoch auf mögliches menschliches Versagen hin. Das Unglück sei auf eine "unerklärliche" und "falsche" Entscheidung der Bahnleitstelle zurückzuführen. Obwohl das automatische Zugsicherungssystem nach einem Computerausfall noch nicht wieder funktionierte, habe die Leitstelle dem Renfe-Zug grünes Licht zur Weiterfahrt gegeben, während der Iryo-Zug noch stand. Ob allerdings tatsächlich menschliches Fehlverhalten vorlag, müsse die Untersuchung klären, sagte der Verkehrsminister.
+Auch wenn er den Brexit nicht aufhalten konnte, innerlich hat er seiner Heimat nie ganz den Rücken gekehrt. Das dürfte auch an Shakespeare gelegen haben.
 
-Warum der zuständige Fahrdienstleiter die Gefahr nicht rechtzeitig erkannte, ist eine der zentralen offenen Fragen. Zwischen den beiden Zügen lagen rund 25 Kilometer, die der Renfe-Zug in etwa 17 Minuten zurücklegte. Beamte der Polizei und der unabhängigen Behörde für die Untersuchung von Unfällen (AITAT) befragten bereits den Mitarbeiter. Die AITAT hält es derweil für "viel zu früh", Hypothesen zu den Ursachen des Zusammenstoßes aufzustellen.
-
-Kritik am Zustand des Eisenbahnnetzes gab es unter anderem von der spanischen Eisenbahngewerkschaft. Die Lokführergewerkschaft Semaf hält an ihrem für heute angekündigten Streik fest, mit dem sie Verbesserungen bei der Sicherheit fordert. Der Ausstand war bereits am 16. Oktober und damit vor dem Unglück angekündigt worden.
-
-Dieses Thema im Programm: tagesschau.de | Spanien: Update zum Zugunglück am frühen Donnerstagmorgen | 29.10.2026 | 06:04 UhrDas Erste | tagesthemen | 28.10.2026 | 21:30 Uhr
+Dieses Thema im Programm: tagesschau.de | Nachruf Schauspieler Patrick Stewart | 30.10.2026 | 08:50 Uhr
 
 ----------------------------------------
 
 
 >>> SPORT (SPORTSCHAU) <<<
 
-[1] DFB-POKAL: BAYERN GEGEN MAGDEBURG GNADENLOS - AUCH OHNE KANE
+[1] ALEXANDER ZVEREV KRÖNT SICH IN WIEN ZUR NUMMER EINS DER TENNIS-WELT
 
-Harry Kane wurde geschont, doch der 1. FC Magdeburg nicht: Bayern München ließ dem mutigen Zweitligisten beim 6:1 (2:1) im DFB-Pokal am Mittwoch (28.10.2026) keine Chance.
+Alexander Zverev hat den Sprung an die Spitze der Weltrangliste perfekt gemacht und sich den nächsten großen sportlichen Traum erfüllt. Durch den Viertelfinaleinzug beim Turnier in Wien löst der 29-Jährige am kommenden Montag den Italiener Jannik Sinner ab und wird als zweiter männlicher Deutscher nach Boris Becker die Nummer eins der Tennis-Welt.
 
-Für den Rekordmeister trafen Michael Olise (10. und 50. Minute), Ismael Saibari (21.), Alphonso Davies (70.), Nathaniel Brown (73.) und David Santos Daiber (90.+3). Mateusz Zukowski gelang der zwischenzeitliche Ausgleich (15.).
+Nachdem Alexander Zverev das Match mit einem Ass beendet hatte, ließ er sich von den Fans in Wien feiern. "Für alle, die nicht verstehen, warum ich nach einem Zweitrundensieg so jubele: Ich bin die Nummer eins der Welt geworden", sagte Zverev nach dem 6:4, 7:5 gegen den Niederländer Tallon Griekspoor im Achtelfinale von Wien. "Das ist eines der besten Gefühle auf der Welt", sagte der 29-Jährige, neben einer großen weißen Eins stehend.
 
-Für den FC Bayern hatte es im Vorfeld der Partie mehrere besondere Momente gegeben. Kane wurde unter der Woche mit dem Ballon d'Or ausgezeichnet, als Belohnung durfte der Stürmerstar gegen Magdeburg eine Pause einlegen.
+Durch den Viertelfinaleinzug beim Turnier in der österreichischen Hauptstadt löst Zverev am kommenden Montag den Italiener Jannik Sinner ab und wird als zweiter männlicher Deutscher nach Boris Becker die Nummer eins der Tennis-Welt. Schon vor vier Jahren war Zverev bei den French Open in Paris nah dran, ehe er sich im Halbfinale gegen Rafael Nadal schwer am Fuß verletzte.
 
-Noch wichtiger aber war, dass Sportvorstand Max Eberl im Sportschau-Interview verriet, dass Trainer Vincent Kompany mittlerweile aus dem Krankenhaus entlassen wurde. Nun fehlte nur noch der Pflichtsieg gegen den Zweitligisten - der sich phasenweise als starker Gegner präsentierte.
+"Manchmal muss man auf die besten Dinge im Leben etwas warten", sagte Zverev, als er es am Donnerstag um 20.20 Uhr endlich geschafft hatte. Angesichts des verletzungsbedingten Saisonendes von Sinner stand bereits länger fest, dass Zverev das Jahr als Weltranglistenerster abschließen wird. Nun wird der zweimalige Grand-Slam-Titelgewinner bereits von Montag an offiziell als Nummer eins geführt.
 
-"Es ist selten leicht, man muss sich erarbeiten, dass es leicht aussieht. Wir haben immer besser reingefunden und irgendwann war das Momentum auf unserer Seite. Es geht darum, dass wir jetzt professionell sind und wir können denen, die gerade nicht da sind, Energie geben, wenn wir das zeigen, was wir heute gezeigt haben", sagte Jonathan Tah im Sportschau-Interview.
+Alexander Zverev die Nummer eins der Tennis-Welt? Das erschien vor wenigen Monaten noch utopisch. Ein Rückblick auf ein verrücktes Jahr.
 
-Der Start in die Partie war standesgemäß, die Bayern hatten schnell die ersten Chancen, Olise (7.) und Saibari (9.) verfehlten das Tor aber knapp. Eine Koproduktion der beiden sorgte kurz danach aber für die Führung. Nach einem Traumpass von Lennart Karl schob Saibari den Ball zu Olise rüber, der nur noch das leere Tor treffen musste (10.). Mit dem 1:0 schien alles seinen Lauf zu nehmen.
+Zverev ist erst der 30. Tennisspieler, der die 1973 eingeführte ATP-Weltrangliste anführen wird. Vor gut 35 Jahren hatte in Becker zuletzt ein deutscher Tennisspieler die Topposition innegehabt. Von den deutschen Tennisspielerinnen hatten dies lediglich Steffi Graf und Angelique Kerber im WTA-Ranking geschafft.
 
-Doch es kam zunächst anders. Magdeburg war mutig im Ballbesitz und wenn sich die Gelegenheit ergab, ging es ganz schnell nach vorne. Wie in der 15. Minute, als Zukowski von der linken Seite Richtung Zentrum dribbelte, es aus 22 Metern versuchte und Hiroki Ito seinen Schuss so abfälschte, dass Jonas Urbig keine Chance hatte - 1:1.
+"Es ist ein Traum, der wahr wird", hatte Zverev bereits vor gut zwei Wochen gesagt, als ihm die Position zum Abschluss des Jahres nicht mehr zu nehmen gewesen war. "Es stecken so viel Arbeit und Mühe darin, dieses Ziel zu erreichen." In Wien gab sich der Hamburger in der Frage, wann es soweit sein wird, abgeklärt. "Ich weiß, dass es passieren wird. Für mich ist es nicht so ein Riesenthema im Kopf, ob ich es diese Woche werde oder die Woche danach", sagte Zverev nach dem hart erkämpften Auftaktsieg über den Spanier Martin Landaluce. "Klar ist es schön, es diese Woche zu werden und es ist auch schön, es in Wien zu werden. Aber im Großen und Ganzen ändert es nichts Großartiges."
 
-Die Bayern schlugen allerdings zurück, diesmal setzte Olise mit einem fantastischen Pass Saibari ein, der sein Team mit einem Chip an Dominik Reimann vorbei erneut in Führung brachte (21.). Im Anschluss schaffte es Magdeburg, den Rekordmeister zu neutralisieren - und dann schlug der Underdog kurz vor der Pause fast erneut zu. Baris Atik machte es wie Zukowski und zog von Linksaußen in die Mitte, überraschte Urbig im kurzen Eck, aber der Ball klatschte an den Pfosten (45.+2).
+Der Sieger der French Open und US Open spielte gegen den Weltranglisten-50. so souverän, wie es einem Ersten gebührt. Gleich im ersten Spiel nahm er dem Niederländer den Aufschlag ab. Im sechsten Spiel lag er bei eigenem Aufschlag mit 0:30 zurück, gewann es aber noch mühelos zum 4:2. Nach 40 Minuten war der erste Satz mit 6:4 gewonnen.
 
-Kurz nach der Pause rückte die Entscheidung zugunsten der Bayern aber doch schnell näher. Der gerade eingewechselte Davies wurde nach einem Zuspiel von Saibari klar von Pierre Nadjombe am Arm gehalten und es gab zu Recht Elfmeter.
+Im zweiten Satz gaben sich beide Profis bei ihren Servicespielen zunächst keine Blöße. Beim Stand von 5:5 aber spielte Zverev einige traumhafte Bälle und nahm Griekspoor den Aufschlag ab.
 
-Da Kane nicht auf dem Spielfeld war, schnappte sich Olise den Ball und mit einem lockeren Chip lupfte er den Ball zum 3:1 ins Tor (50.). Reimann verhinderte danach beim Schuss von Karl vorerst, dass es noch deutlicher wurde (59.).
+Das Feld war somit bereitet, um zum Sprung an die Spitze zu servieren. Das gelang - allerdings erst nach einer kurzen und kuriosen Unterbrechung. Eine defekte LED-Werbung störte Zverev. Die Leuchtstreifen wurden mit einem Handtuch abgedeckt. So konnte der Matchball gespielt werden. Um 20.20 Uhr wusste Zverev, dass er ab Montag, 2. November, die Nummer eins der Weltrangliste sein wird.
 
-Das wurde es allerdings in der 70. Minute, als Aleksandar Pavlovic die gesamte Magdeburger Defensive mit einem Pass aushebelte und Davies den Querpass von Karl zum 4:1 verwertete. Wenig später legte Nathaniel Brown nach Vorlage von Davies den fünften bayrischen Treffer nach und es deutete sich nun doch eine Klatsche für die lange so mutigen Magdeburger an.
-
-Deren mehr als 10.000 angereiste Fans feierten dennoch auf den Rängen - auch wenn sie weitere Gegentore befürchten mussten. Es gab allerdings nur noch eins, Bayern-Talent Daiber traf in der Nachspielzeit per Fernschuss zum 6:1-Endstand (90.+3).
-
-Der FC Bayern München spielt in der 2. Runde des DFB-Pokals gegen den 1. FC Magdeburg. Sehen Sie hier die Analyse und Interviews nach der Partie.
-
-Ansonsten sparten die Münchner Kräfte für den "Klassiker" am kommenden Samstag. Um 18.30 Uhr kommt es zum Topspiel in München gegen Borussia Dortmund. Mit einem Sieg könnte sich der Rekordmeister erstmals in dieser Saison etwas von der Konkurrenz absetzen. Bei dem Vorhaben wird Kane ganz sicher wieder mitwirken und in seinem ersten Spiel als Weltfußballer seine Klasse zeigen wollen.
-
-Magdeburg wird sich derweil auf den Aufstiegskampf in der 2. Liga konzentrieren müssen, in den sich das Team von Trainer Petrik Sander mit ähnlich mutigen Leistungen wie in München gespielt hat. Am Samstagmittag trifft der aktuell sechstplatzierte FCM auswärts auf Darmstadt 98, dem Tabellenletzten (13 Uhr). Die sechs Gegentore in München änderten nichts an der Vorfreude auf die nächsten Wochen. Alexander Nollenberger sagte im Sportschau-Interview sogar: "Es hat Spaß gemacht und angefühlt wie im Film."
-
-Dieses Thema im Programm: sportschau.de | Bayern München gegen 1. FC Magdeburg - alle Tore im Video | 28.10.2026 | 22.37 Uhr
+Dieses Thema im Programm: www.sportschau.de | "Zverev gewinnt gegen Griekspoor und ist Nummer 1 der Welt" | 29.10.2026 | 20.48 Uhr
 
 ----------------------------------------
 
-[2] DFB-POKAL: MUTIGE NÜRNBERGER FORDERN LEVERKUSEN ALLES AB
+[2] ZVEREVS UNWAHRSCHEINLICHE AUFHOLJAGD IN DER WELTRANGLISTE
 
-Bayer 04 Leverkusen brauchte viel Energie, um den mutig auftretenden 1.FC Nürnberg in der 2. Runde des DFB-Pokals zu besiegen.
+Alexander Zverev die Nummer eins der Tennis-Welt? Das erschien vor wenigen Monaten noch utopisch. Ein Rückblick auf ein verrücktes Jahr.
 
-Fast eine ganze Halbzeit benögten die Leverkusener, um in diese Partie zu finden. Am Ende setzte sich die Mannschaft von Trainer Carles Martinez trotz eines zwischenzeitlichen Zwei-Tore-Rückstans mit 5:2 (1:2) gegen den Zweitligisten durch.
+Nach einem durchwachsenen Jahr hofft Zverev in Wien auf den Turniersieg. Das Problem: Im Finale wartet ein gewisser Jannik Sinner als Gegner. Herausforderungen angenommen: Zverev gewinnt den ersten Satz, zeigt seine beste Saisonleistung. Und verliert trotzdem 6:3, 3:6, 5:7.
 
-Rafael Lubach (14.) und Sigurd Haugen (30.) trafen für die Nürnberger. Edmond Tapsoba (41., 49.), Patrik Schick (70., Foulelfmeter), Jonas Hofmann (78.) und Lucas Vazquez (89.) waren für die Leverkusener erfolgreich.
+Sein Kommentar mit Augenzwinkern: "Jannik, du gehst den anderen Spielern sowas von auf den Sack in den vergangenen zwei Jahren. Entspann dich mal. Lass mich auch mal was gewinnen."
 
-Damit stehen die Rheinländer im Achtelfinale des DFB-Pokals. Der Aufwand, den sie dafür betreiben mussten, war allerdings außergewöhnlich groß. Leverkusens Mittelfeldmann Aleix Garcia gab sich selbstkritisch: "Wir sind nicht gut gestartet. Wenn wir so spielen wie in der zweiten Hälfte, hätten sie keine Chance gehabt. Wir haben Qualität, die haben wir in der zweiten Halbzeit gezeigt."
+Nächstes Turnier, nächstes Duell mit Sinner. Es ist das Halbfinale in Paris-Bercy. Und dieses Mal gibt es eine Klatsche: 0:6, 1:6. Zverev ist körperlich angeschlagen, vor allem der Knöchel macht ihm zu schaffen. Weil er im Vorjahr in Paris gewonnen hat, verliert Zverev einige Zähler in der Weltrangliste.
 
-Das Team von Nürnbergs Trainer Miroslav Klose hat zwar eine Niederlage hinnehmen müssen, kann aber mit dem Gefühl an den Valznerweiher zurückkehren, dass es gegen einen der stärksten Bundesligisten mit einem mutigen Auftritt lange auf Augenhöhe mithalten konnte.
+Alexander Zverev plagt erneut eine Verletzung: Nach der deutlichen Niederlage gegen Jannik Sinner will der deutsche Tennisstar wegen seines rechten Knöchels zunächst zum Arzt, die ATP-Finals in Turin hat er aber fest auf der Rechnung.
 
-Es dauerte rund zehn Minuten in der zunächst ausgeglichenen und schwungvollen Partie, bis die Werkself die erste Tormöglichkeit hatte. Nathan Tella vergab allerdings seinen Kopfball aus zwölf Metern. Die Partie schien ab diesem Moment ihren erwarteten Gang zu gehen, allerdings hatten die Nürnberger etwas dagegen.
+Das Jahr endet mit einer Enttäuschung, Zverev verpasst bei den ATP Finals das Halbfinale. Ein Sieg gegen Taylor Fritz in der Gruppenphase ist zu wenig wegen der Niederlagen gegen Felix Auger-Alliassime und, schon wieder, Sinner. Das Abschlussfazit nach einem Jahr mit nur einem Titel beim ATP500-Turnier in München klingt trotzdem versöhnlich. "Ich fand, dass ich die letzten Monate wieder richtig gut Tennis gespielt habe", sagt Zverev.
 
-Lubach kam am Bayer-Strafraum an den Ball, seinen Flachschuss aus zentraler Position aus 16 Metern konnte Janis Blaswich nicht parieren. Der Club, der von Beginn an mutig und engagiert agierte, führte überraschend mit 1:0.
+Australian Open, der alljährliche Kaltstart zu Saisonbeginn - und Zverev ist gut drauf. Im Halbfinale liefert er Carlos Alcaraz einen ganz großen Kampf mit bitterem Ende: Zverev verliert den fünften Satz 5:7 und Punkte in der Weltrangliste, weil er im Vorjahr ins Finale eingezogen war. Er fällt hinter Novak Djokovic auf Rang vier zurück und sieht Alcaraz auf Platz eins nur noch mit dem Fernglas.
 
-Das Martinez-Team erhöhte danach das Tempo, rannte sich aber immer wieder an der Nürnberger Abwehr fest. Es fehlte an Ideen und Durchsetzungsfähigkeit. Und der Club? Der konterte die Werkself eiskalt aus.
+Der Hamburger zog gegen den aktuell weltbesten Tennisspieler in einem epischen Match knapp den Kürzeren. Seinen Traum vom ersten Grand-Slam-Sieg muss er damit ein weiteres Mal begraben.
+                                                ndr
 
-Nach einem Leverkusener Ballverlust von Aleix Garcia in der Nürnberger Hälfte schnappte sich William Böving auf der rechten Seite den Ball, lief bis in den Bayer-Strafraum und passte perfekt auf den zweiten Pfosten, wo Haugen aus drei Metern nur noch den Fuß zum 2:0 hinhalten musste.
+Zverev ist auch in den USA gut in Form, hat aber ein Problem. Es heißt Sinner. Bei den Masters in Indian Wells und in Miami verliert er jeweils im Halbfinale gegen den Italiener. Die Tenniswelt der Herren ist weiter sortiert in die Lager: Sinner und Alcaraz weit vorne, dann der ganze Rest. Aber es zeichnet sich ab: Zverev ist der "Best of the Rest". Und er erobert Platz drei in der Weltrangliste von Djokovic zurück.
 
-Tella hatte fünf Minuten vor dem Ende der ersten Hälfte die große Möglichkeit, den Anschlusstreffer zu erzielen, seine Direktabnahme aus sechs Metern konnte FCN-Torhüter Jan Reichert noch spektakulär parieren. Allerdings fiel nur wenige Sekunden später das 1:2 für die Werkself. Tapsoba verwandelte den nachfolgenden Eckball unhaltbar mit der Schulter.
+Alexander Zverev hat auch beim Masters in Miami das Finale verpasst. Wie so oft in letzter Zeit war Jannik Sinner eine Nummer zu groß für das deutsche Tennis-Ass.
 
-Mit Beginn der zweiten Hälfte drückten die Gastgeber sofort aufs Tempo und brachten das Klose-Team sofort in Schwierigkeiten. Es waren gerade einmal drei Minuten gespielt, da war es erneut Tapsoba, der traf. Wieder nach einem Eckball war der Bayer-Kapitän im zweiten Versuch zur Stelle und verwandelte dieses Mal mit dem Fuß aus fünf Metern zum 2:2.
+Glück für Zverev in Madrid: Sinner ist in der anderen Turnierbaumhälfte, so ist der Weg ins Finale frei. Zverev schafft den Endspieleinzug souverän und geht guten Mutes in das nächste Duell mit Sinner. Es wird desillusionierend. 1:6, 2:6. Es ist die neunte Niederlage gegen Sinner in Folge. "Entschuldigung für das Finale, das war nicht mein bester Tag", sagt Zverev in Richtung der Zuschauer. Und in Richtung Sinner: "Du bist der derzeit beste Spieler."
 
-Die Werkself blieb dran, erspielte sich weitere Chancen, die Nürnberger waren fast nur noch in ihrer eigenen Hälfte zu finden. Vor allem Garcia wurde immer gefährlich, war aber nicht präzise genug. Der Druck wurde für die Franken immer größer.
+Wie Recht er hat. Sinner gewinnt anschließend auch noch in Rom, es ist sein sechster Masters-Titel in Folge - Rekord. In der Weltrangliste erreicht er den Jahresbestwert von 14.750 Punkten. Hier gehört der Rekord übrigens Djokovic mit 16.950 Punkten.
 
-Die Vorentscheidung zugunsten der Leverkusener fiel, als der zur Pause eingewechselte Schick im Nürnberger Strafraum von Verteidiger Alexios Kalogeropoulos abgeräumt wurde. Der Angreifer trat selbst zum Elfmeter an und verwandelte sicher zum 3.2.
+Die große Befreiung, Zverev holt einen Grand-Slam-Titel! Bei den French Open fehlt Alcaraz verletzt und Sinner scheidet von Krämpfen geplagt überraschend in der zweiten Runde aus. "Jetzt oder vielleicht nie" heißt es fortan für Zverev, der Erwartungsdruck ist immens. Zverev hält ihm stand, gewinnt das Finale gegen Flavio Cobolli in fünf Sätzen.
 
-Nur acht Minuten später stellte Hofmann mit einem leicht abgefälschten Distanzschuss aus 18 Metern auf 4:2. Vazquez sorgte mit seiner sehenswerten Direktabnahme aus 15 Metern von halbrechts ins lange in letzter Minute noch für den 5:2-Endstand.
+Alexander Zverev hat mit den French Open in seinem 41. Grand Slam seinen ersehnten ersten Titel geholt. Er managte in den vierzehn Tagen Roland Garros seine Emotionen und den Druck als Topfavorit nahezu perfekt.
 
-Für Leverkusen geht es in der Bundesliga am Samstag (15.30 Uhr) gegen den VfB Stuttgart weiter. Eine Etage tiefer hat muss der 1. FC Nürnberg am Sonntag (13.30 Uhr) zum FC St. Pauli.
+Ein sehr lang und intensiv gehegter Traum geht in Erfüllung, jetzt braucht es neue Ziele. Nummer eins der Welt, das steht noch auf Zverevs Bucket List. Der Rückstand ist aber weiterhin gewaltig und kaum jemand zieht ernsthaft in Erwägung, dass sich daran so schnell etwas ändert.
 
-Dieses Thema im Programm: Das Erste | Sportschau | 28.10.2026 | 23:10 Uhr
+Wimbledon, das dritte Grand-Slam-Turnier des Jahres, und wieder ist Zverev bärenstark. Befreit vom Makel, noch nie einen Grand Slam gewonnen zu haben, stürmt Zverev ins Endspiel und fordert einmal mehr Sinner heraus. Er gewinnt den ersten Satz 7:6, erzwingt auch im zweiten Durchgang einen Tiebreak. Doch Sinner zeigt seine Extraklasse, triumphiert in vier Sätzen.
+
+Tennisprofi Alexander Zverev hat seinen ersten Triumph in Wimbledon verpasst. Im Finale verlor er trotz Satzführung gegen den Weltranglistenersten Jannik Sinner.
+
+Anschließend sagt er auf dem Court in Richtung Zverev: "Ich weiß, eins deiner Ziele ist, Nummer eins der Welt zu werden. Du bist sehr nah dran. Wir müssen sehr vorsichtig sein." Immerhin übernimmt Zverev schon einmal Platz zwei vom immer noch verletzten Alcaraz. Auf Sinner fehlen ihm aber noch fast 5.000 Punkte, das ist eine Menge Holz.
+
+Was zu diesem Zeitpunkt noch niemand ahnt: Das Wimbledonfinale ist Sinners letztes Spiel des Jahres, eine rätselhafte Entzündung im Knie stoppt seinen Siegeszug.
+
+Bei den US Open gibt Alcaraz nach viereinhalb Jahren Verletzungspause sein Comeback und ist gleich on fire, aber noch nicht ganz der Alte. In einem hochklassigen Viertelfinale unterliegt er dem Amerikaner Ben Shelton. So hat Zverev erneut die Möglichkeit, ein Grand-Slam-Turnier zu gewinnen, ohne Alcaraz oder Sinner dafür aus dem Weg räumen zu müssen. Er nutzt seine Chance, bezwingt Alcaraz-Bezwinger Shelton im Finale. Was für ein Jahr!
+
+So wie das Turnier angefangen hat, so hat es auch aufgehört. Mit den ausgebreiteten Armen von Alexander Zverev. Flieg, Albatros, flieg!
+
+Spätestens jetzt ist auch Weltranglistenplatz eins greifbar nahe. Zverev kratzt an der 10.000er-Marke, so viele Punkte hatte er noch nie. Vor allem aber verliert Sinner mit jedem Turnier, das er verletzungsbedingt verpasst, viele Punkte. Als Sinner sein vorzeitiges Saisonende bekannt gibt, ist Anfang Oktober auch rechnerisch klar: Zverev wird Platz eins noch in diesem Jahr übernehmen.
+
+Das Verletzungspech von Sinner und Alcaraz hat die furiose Aufholjagd ermöglicht, aber Zverevs Leistung ist dennoch beeindruckend. Er hat den Rest der Welt deklassiert. Der Nächstbeste in der Weltrangliste, Ben Shelton, hat knapp 5.000 Punkte weniger.
+
+Alexander Zverev, das ist jetzt so gut wie sicher, wird Ende des Jahres der erste deutsche Spieler seit Boris Becker an der Spitze der ATP-Weltrangliste sein.
+
+Dieses Thema im Programm: sportschau.de | Zverevs verrücktes Tennis-Jahr | 29.10.2026 | 20.00 Uhr
 
 ----------------------------------------
 
-[3] DFB-POKAL: JOKER GOTO SCHIESST FREIBURG GEGEN WOLFSBURG WEITER
+[3] ATP-TURNIER IN BASEL: JAN-LENNARD STRUFF BEZWINGT ERSTMALS NOVAK DJOKOVIC
 
-Keisuke Goto hat den SC Freiburg mit einem späten Doppelpack gegen den VfL Wolfsburg ins Achtelfinale des DFB-Pokals geschossen. Die Breisgauer siegten am Ende einer spektakulären Schlussphase in einer ansonsten aber chancenarmen Partie mit 3:2 (1:2).
+Jan-Lennard Struff hat nach seinem verlorenen Finale von Brüssel für einen weiteren Achtungserfolg auf der Tennis-Tour gesorgt. Der 36-Jährige gewann im Achtelfinale des Turniers in Basel überraschend gegen den ehemaligen Weltranglistenersten Novak Djokovic aus Serbien mit 6:7 (4:7), 7:5 und 7:6 (7:5).
 
-Igor Matanovic gelang das frühe 1:0 (6. Spielminute), der Japaner Kento Shiogai (8., 43.) drehte die Partie für die Gäste noch vor der Pause, doch dessen Landsmann Goto brachte den SCF schließlich doch noch in die nächste Runde (76., 90.+2).
+Den ersten Erfolg nach zuvor acht Niederlagen gegen den 39-Jährigen besiegelte Struff in dem packenden Spiel nach 2:35 Stunden mit seinem 27. Ass der Partie. Im Viertelfinale trifft der Warsteiner nun auf den Portugiesen Nuno Borges.
 
-Freiburgs Trainer Julian Schuster musste auf die angeschlagenen Jordy Makengo und Derry Scherhant verzichten, aber auch sonst rotierte Schuster im Vergleich zur Niederlage gegen die Bayern in der Liga ordentlich: Gleich sieben Änderungen gab es in der Startformation.
+Routinier Struff hatte den zweiten ATP-Titel seiner Karriere am vergangenen Sonntag knapp verpasst. Beim Turnier in Brüssel unterlag er dem Niederländer Tallon Griekspoor im Endspiel mit 6:4, 3:6 und 4:6. Seinen bislang einzigen Turniersieg hatte Struff 2024 in München geholt.
 
-Sein Gegenüber Tobias Strobl war da deutlich konservativer: Nur drei Wechsel gegenüber dem Remis gegen Bochum, unter anderem saß Fabian Reese auf der Bank.
-
-In der Anfangsphase spielte zunächst nur der Bundesligist - und mit der ersten Chance ging er auch direkt in Führung: Christian Günter wurde auf dem linken Flügel auf die Reise geschickt, flankte perfekt in die Mitte und dort köpfte Matanovic ziemlich frei rechts ins Eck zum 1:0 ein (6.).
-
-Aber die Antwort der Wölfe folgte auf dem Fuße: Einen langen Ball von Torwart Timon Wellenreuther unterlief Max Rosenfelder in Bedrängnis gegen Shiogai völlig, der Japaner war auf und davon und vollstreckte vor Pokal-Keeper Florian Müller eiskalt zu seinem Premierentreffer für den VfL. Beide Teams hatten mit ihrer ersten Gelegenheit getroffen.
-
-In der 2. Liga sind die Wölfe in diesem Jahr so gut wie nie der Außenseiter, haben den zweitmeisten Ballbesitz. In dieser Pokalpartie setzte die Strobl-Elf im Gegensatz dazu ganz klar auf Konter, ohne sich dabei aber hinten einzuigeln.
-
-Die Freiburger probierten es wie schon beim 1:0 immer wieder über die linke Seite mit Günter und Vincenzo Grifo, zumeist konnte Wellenreuther die Flanken von dort aber aus der Gefahrenzone befördern, bevor es brenzlig wurde.
-
-Vor der Pause gab es stattdessen noch zwei Hiobsbotschaften für den SCF: Erst verletzte sich Nationalspieler Philipp Treu bei einem Zweikampf mit Cleiton am Knöchel und musste ausgewechselt werden (39.) und kurz darauf geriet die Schuster-Elf sogar in Rückstand.
-
-Bei einer Ecke von links stand Shiogai zentral im Fünfmeterraum ohne Gegenspieler bereit, Müller blieb auf der Linie, kein Freiburger ging zum Ball und so nickte der Japaner mit seiner zweiten Torchance zur Wolfsburger 2:1-Führung ein (43.). Die war angesichts der defensiven Stabilität der Wölfe auch nicht völlig unverdient, obwohl die Niedersachen nur 39 Prozent Ballbesitz hatten.
-
-Den zweiten Durchgang starteten die Freiburger wie den ersten mit viel Druck. Cyriaque Irié verzog im Strafraum knapp (50.). Kurz darauf entschied Schiedsrichter Sören Storks zunächst auf Handelfmeter für die Gastgeber, nachdem der Ball Joaekim Maehle im Strafraum an den Arm gesprungen war.
-
-Nach Ansicht der Videobilder nahm Storks den Strafstoß allerdings zurück - vertretbar. Der Däne hatte sichtbar versucht, seinen Arm noch aus dem Weg zu ziehen, zudem verhinderte er durch die Berührung auch keine Torchance, hinter ihm hatte niemand gestanden.
-
-Nach dieser Entscheidung stieg das Emotionsbarometer der Partie deutlich an, es knisterte jetzt in den Zweikämpfen. In der 58. Minute zählte der vermeintliche Ausgleichstreffer durch Günter nicht, weil Matanovic zuvor hauchdünn im Abseits gestanden hatte, es war richtig Feuer drin und die Freiburger Fans schalteten sich lautstark immer wieder mit Pfiffen gegen Schiedsrichter und Gegner ein.
-
-Freiburg drängte auf das 2:2, Matanovic köpfte mehrfach gefährlich knapp am Gäste-Tor vorbei. Wolfsburg kam zwischenzeitlich gar nicht mehr zu Entlastungsangriffen, Strobl reagierte und brachte Reese für Alexander Bernhardsson.
-
-Schuster hatte mittlerweile ebenfalls gewechselt und unter anderem Goto ins Spiel gebracht. In der 76. Minute war der Japaner bei einer Grifo-Ecke direkt zur Stelle, stieg höher als Reese und Elvis Rexhbecaj und nickte den Ball unhaltbar links oben ins Eck zum verdienten Ausgleich ein. Es war der dritte Kopfballtreffer der Partie.
-
-Große Aufreger hatte die Schlussphase danach erst einmal nicht mehr parat. Als Wolfsburg in der Nachspielzeit dann doch mal mit Schwung ins Angriffsdrittel kam und dann am Strafraumrand hängen blieb, geschah es dann doch.
-
-Philipp Lienhart schlug einen langen Ball, Goto enteilte allen zu weit aufgerückten Verteidigern und hob den Ball über den ebenfalls zu hoch stehenden Wellenreuther zum 3:2-Siegtreffer ins Tor (90.+2). Das Ergebnis ging angesichts der zweiten Hälfte in Ordnung, in der die Wölfe selbst keine einzige Torchance herausgespielt hatten.
-
-"Es ist schön, so einen Joker zu haben, der uns hilft", sagte Freiburg-Stürmer Matanovic über den Siegtorschützen. "Wir hätten einiges besser machen können. Am Ende war es aber verdient, dass wir das Spiel gewonnen haben."
-
-Beide Teams müssen am Samstag in der Liga ran: Der SC Freiburg ist in der Bundesliga in Augsburg zu Gast (15.30 Uhr). Der VfL Wolfsburg erwartet in der 2. Bundesliga den VfL Osnabrück (13 Uhr).
-
-Dieses Thema im Programm: Das Erste | Sportschau | 28.10.2026 | 23:00 Uhr
+Dieses Thema im Programm: www.sportschau.de | "Struff siegt gegen Djokovic" | 29.10.2026 | 23:24 Uhr
 
 ----------------------------------------
 
 
 >>> TECH (WIRED) <<<
 
-[1] LIQUID GLASS FINALLY MAKES SENSE ON THE IPHONE DUO
+[1] GIFT IDEAS FOR FRIENDS (2026): WELLNESS TECH, KITCHEN ESSENTIALS
 
-Apple rarely admits a mistake. But when it unveiled new versions of its operating systems this summer, it came close.
+In writing this guide on gift ideas for friends, I learned that there really is no catch-all gift that will please everyone. Choosing these gifts, I thought back to some of the best self-care products and tech I’ve tested recently. I included the gadgets I reach for regularly, as well as those I’ve bought for family and friends after testing and loving them. So please use this guide as a starting point, keeping your friend’s personality, needs, and hobbies in mind as you shop for the right gifts.
 
-“With all major design updates, there’s a natural process where we take a bold leap forward, and then we continue to iterate,” said Apple's human interface designer, Shubham Kedia, during a predictably sleek keynote video. “Our team really appreciates your feedback, and we considered it deeply as we refined the new design.”
+After testing hundreds of products during my years on the WIRED Reviews team, these are the items I’d recommend to the friends on my own list. I’ve included self-care gifts like massagers, cozy gifts like an ultra-soft throw blanket, kitchen staples like a chef’s knife, and everything in between. There are many gifts at different price points, and they’re also categorized by gift type below. Be sure to check back often, as I will be updating this guide with versatile new picks as we get closer to gifting season.
 
-Not quite “Sorry, everyone, we messed up,” but for Apple, practically an apology tour. The subject was Liquid Glass, Apple’s most divisive interface design since at least iOS 7. Apple's Vision Pro mixed-reality headset (which itself flopped) inspired the translucent design language, and the company brought it to millions of other Apple devices.
+Looking for more gift ideas? Don’t miss our other awesome gift guides as the holiday season ramps up.
 
-The result was a mess—at odds with Steve Jobs’ famous line, “Design is not just what it looks like and feels like. Design is how it works.” Liquid Glass started obsessed with gloss and effects, despite promises it would bring your content to the foreground. Yet Apple’s own press release showed interfaces with illegible text. Worse, users found constant reflections and flickering color shifts distracting, and a lack of clarity across devices hurt accessibility.
+It's my belief that everyone could use a small, portable Bluetooth speaker. Whether you want to sing along to your favorite tunes in the shower or get the party going around a campfire, having a compact, Bluetooth-enabled speaker at the ready makes you everyone’s favorite party guest. At less than $60, I promise this li’l guy will be a hit as a gift (without breaking the bank). Plus, you can fully customize the design with images, text, and stickers if you want to make it more personalized for the giftee.
 
-But iOS 27, alongside updates to Apple's other software platforms, signaled a shift in priorities after Kedia’s mea culpa. Kedia spoke of reincorporating design cornerstones in what was, if not quite a U-turn, then at least a rediscovery of a core principle: how it works. Instantly, interface elements across Apple devices gained greater clarity and structure, making it easier to tell apps' components from content. The most obvious change, though, was a slider.
+If you have a friend who could benefit from a smart speaker—to set timers, check the weather, or play tunes anywhere in the house without using their phone—this one is ideal, especially if they're in the Google Home smart-home ecosystem. Plus, it comes in a range of fun colors.
 
-Apple said it tuned Liquid Glass to diffuse complex content more effectively, keeping elements legible when above imagery and text. But it also acknowledged that not everyone wants the same thing—some users might prefer a more tinted look, and others “would like Liquid Glass to be even more clear.” You can now decide for yourself with the Liquid Design slider in Settings. For a company known for being opinionated, such bet-hedging was surprising but not unwelcome. Choice isn’t a bad thing, and now users had more of it.
+This is our favorite budget-friendly Amazon Alexa smart-home speaker for homes in the Amazon/Alexa ecosystem. I've gotten one of these little guys for my parents and sister-in-law, and it's become their most-used gift.
 
-“I immediately pushed that slider all the way to the most tinted setting, and pretty much all the legibility issues vanished,” Ben Rice McCarthy, an indie developer behind popular apps like Obscura and Indigo, tells WIRED. McCarthy has long criticized Liquid Glass. Now? Not so much.
+This nifty gadget from wellness tech company Chirp is a godsend for anyone who’s always on their feet. It has two sides: One features a textured surface that targets pressure points, and the other has a heated, centralized oval that acts like a hot stone for targeted arch relief. The end has a USB-C charging port and buttons to adjust heat, vibration, and preset recovery programs, which use different heat and massage patterns for relief. I use this gadget almost daily, especially if I’ve been on my feet a lot that day. This is the perfect gift for someone who’s always asking for a foot massage.
 
-“Liquid Glass introduced a lot of issues without adequate solutions, but this year’s operating systems solved or improved a lot of them,” McCarthy says. “There’s the adaptiveness of the interface. Buttons can grow into menus. Controls merge and divide like cells as you transition between views. Toolbars can expand and contract smoothly as the view changes size.”
+This device uses TENS and EMS technology to deliver low-voltage electrical currents to motor nerves, which I feel improves my circulation and relaxes my muscles. I suffer from chronic back pain and joint overuse, and I’ve noticed improved mobility and circulation when using it consistently, especially in colder weather. This is the perfect gift for those who suffer from chronic pain or want targeted, post-workout relief.
 
-Flexibility matters when resizing windows across any device. But while announcing its updates, Apple also dropped major hints that all but confirmed new hardware—it showed iPhone apps running on an iPad or a Mac could resize to a suspiciously specific shape that matched the rumored inner display dimensions of Apple’s upcoming folding phone.
+If your friend is obsessed with using a gua sha tool, this is the ultimate upgrade. It uses the same techniques to encourage lymphatic drainage and features both cold settings to depuff and brighten and heat to increase circulation. I love to use it daily, and I gifted one to my skin-care fanatic friend, who now uses it religiously.
 
-When Apple showed off the iPhone Duo, everything clicked. Its passport-shaped display bucks the trend of iPhones and their rivals growing taller over the years. The Duo is wider and almost squat, and when opened, it naturally defaults to landscape, echoing the iPad Mini display.
+As someone who suffers from persistent razor burn and red bumps, especially in sensitive areas like my bikini line, I’m always asking my friends what they recommend. I tested this set from Dollar Shave Club, and I haven’t looked back—and I keep giving it to my friends who want a better way to shave. The set pictured above is for women and includes one grippy, ergonomic razor handle, six cartridges with six blades each, a razor hanger for your shower wall, an amazing sugar scrub that exfoliates dead skin before shaving, and a silky-smooth shave oil to moisturize and soften hair before shaving. If you want to be extra generous, you can opt for the subscription plan on behalf of your friend, which sends new replacement blades, the scrub, and the shave oil every two months for half price. I haven’t tested the men’s set yet, but it includes two six-blade razors, a diamond-grip handle, shave butter, prep scrub, post-shave dew, a razor cover, and a travel case. The subscription plan works the same as the women’s set.
 
-Apple being Apple, it wanted to avoid the jarring jolt between displays that’s often evident on rival foldables, so it made content appear to move seamlessly from one screen to the other. That begins with the hardware. As Molly Anderson, Apple's vice president of Industrial Design, said at the September keynote: “To achieve this continuity, we designed iPhone Duo around a consistent aspect ratio that is the same across both displays.” But it’s the software—rooted in Liquid Glass—that sells the illusion.
+WIRED reviewer Boutayna Chokrane was sold on Hatch’s newest sunrise alarm clock, which also doubles as a sleep tracker. If your giftee doesn’t want to sleep with a wearable to get their sleep stats, this device uses motion-based tracking to provide passive sleep monitoring from their nightstand. It functions as a sunrise clock, a dimmable bedside light, and a sound machine, and it now captures data like sleep duration and stages, presented in interactive visuals. Boutayna loved the refreshing minimalist design, with no cameras or microphones watching you sleep. Best of all, your data is not locked behind a Hatch+ membership. If you have a friend who struggles with sleep or waking up, consider joining in the sunrise alarm clock trend and getting them this aesthetic bedside machine.
 
-The most arresting element is a fancy animation, which various folks in the Android space are now busy being “inspired” by. It reinforces the idea of a flowing interface. Meanwhile, Liquid Glass freed Apple from being prescriptive about where essential controls live. On the Duo, they sit at the side. When the phone’s closed, that frees up space for content. When it’s open, the controls stay in a consistent spot, so you never have to hunt for them. Reorient the device, and everything settles into the most appropriate place.
+I never want to get up when snuggling up with this weighted blanket, especially now that the weather has turned chilly around me. It’s woven from 100 percent cotton and comes in four different weights, from 10 to 25 pounds. Give your friend the gift of a cozy hug this winter with this seriously relaxing splurge.
 
-That’s form following function, not function being subservient to form. This device and its flexible interface don’t strictly need the Liquid Glass design language, but the two feel made for each other. Liquid Glass finally makes sense on the iPhone Duo—and with Apple’s other refinements, it’s starting to make sense elsewhere, too.
+It’s my belief that you can never have too many cozy blankets for your couch. I’m always delighted when I’m gifted a new cozy blanket. Wearing this feels like being surrounded by a fluffy cloud. It’s made from a super-soft, shed-free polyester blend with added spandex for stretch, which also gives it a beautiful ribboning effect. I promise this gift will be fought over at the next movie night.
 
-How much of this is happenstance is hard to say. Given Apple’s lead times, pure coincidence seems unlikely. And even if Liquid Glass wasn’t made with the Duo in mind, it adapts to it.
+Everyone—I mean every single person—needs at least one great chef’s knife. This is probably the most important multipurpose kitchen tool—it can slice, dice, and chop ingredients with speed and precision. Your friend most likely could use a better knife for everyday cooking. Great chef’s knives range from less than $100 to several hundred dollars, but I really like this mid-range, 8-inch knife from Material. It’s made from luxe Japanese high-carbon, stainless steel for extra durability, with a matte, stain-resistant composite handle. Plus, if you buy from Material’s site, you can personalize it with an engraved message for a fun, more personal touch.
 
-Liquid Glass feels more considered. It’s increasingly tuned for individual devices rather than governed by a “universal” aesthetic forced onto them all. The result is operating systems that feel solid rather than fragile, with interfaces less likely to fight content for your attention. On Macs and iPads, the Liquid Glass revamp now looks more like a love letter to Aqua—Apple's water-themed interface introduced in 2000. On the iPhone, it’s usable again. On the Duo, it’s a delight.
+This is a splurge, but well worth it if your friend has been using old pans that tend to stick or flake. This four-piece nonstick ceramic set covers most of my everyday stovetop cooking: an 8-inch mini fry pan, 10.5-inch fry pan, 4.5-quart sauté pan, and a heavy-duty lid. I love these pans and haven’t needed another pan size since I’ve had them.
 
-That’s not to say it’s perfect. “There’s some weirdness that hasn’t been fully resolved, and there needs to be a consistency to all these materials or the metaphors break down,” McCarthy says. “But overall, Liquid Glass is vastly improved.”
+This is pretty much everyone’s favorite travel mug on the Reviews team. In my opinion, you can never have too many options for taking drinks on the go. This one is low-maintenance, practically indestructible, and forgiving if you’re clumsy. Plus, the 16-ounce size fits most car cup holders, and the wide-mouth lids are interchangeable, so you can swap in a straw lid for cold beverages. If you buy directly from Hydro Flask, you can personalize it as well.
 
-And it’s worth remembering that while the Duo is new, Liquid Glass is relatively young, too. As developer Steve Troughton-Smith wrote, “For some iPhone apps, even with keen developers, it will take six months to a year of work to properly support iPhone Duo. A lot of developers are still trying to finish the Liquid Glass transition they started last year.”
-
-A useful reminder that transitions take time. But at least now, Apple’s vision looks clear.
-
-In your inbox: For life-tested picks, sign up for our Gear newsletters
-
-Airbnb hosts are furious they can no longer make guests do their chores
-
-big story: cool kids write in all lowercase—does that make you mad?
-
-WIRED event: The technologies, people, and ideas transforming our world
+Power up with unlimited access to WIRED. Get best-in-class reporting and exclusive subscriber content that's too important to ignore. Subscribe Today.
 
 Take Up to 25% Off Custom Prints with VistaPrint Promo Code
 
@@ -306,29 +237,77 @@ Take 10% Off Legal Services with This LegalZoom Promo Code
 
 ----------------------------------------
 
-[2] ASTRONOMERS DISCOVER A POSSIBLE NEW DWARF PLANET IN OUR SOLAR SYSTEM
+[2] THE BEST LEAF BLOWER WE’VE TESTED IS READY FOR HALLOWEEN
 
-Scientists are on the verge of confirming the discovery of another member of the solar system, a potential dwarf planet. Astronomers at the Vera C. Rubin Observatory in Chile located the object, provisionally named 2026 ED138.
+Where I live, it's officially leaf season, and they are everywhere. Driveways, sidewalks, and even blowing into my garage, where they stick to people's feet as they come inside. Luckily, we have exhaustively tested all the major battery-powered leaf blowers on both fabric leaves and concrete blocks, and one model blew away the competition: the Ego Power+ 880 CFM, which delivered gaslike power while somehow also being the quietest. It even knocked over a 5-pound brick paver without having to engage turbo mode—the only one we tested that was able to do so.
 
-The prospective planet measures somewhere between 600 and 1,500 kilometers in diameter and is located about 46 astronomical units from the sun (an astronomical unit being Earth’s approximate distance from the sun). For comparison, Pluto—which is also now considered a dwarf planet—orbits at an average distance of 40 astronomical units. Based on its location, ED138 belongs to the population of trans-Neptunian objects. According to its discoverers, it could be one of the brightest known objects of this type and also among the largest.
+Luckily, it's on sale at Lowe's this week, along with an extra backup battery so you never have to worry about running out of juice. It serves a practical purpose, to be sure, but there's also a less practical purpose that WIRED contributing reviewer and leaf blower expert Sal Vaglica is happy to demonstrate.
 
-Like Pluto, the possible Dwarf planet’s orbit is tilted relative to the plane on which the planets orbit.
+Watch Sal show you how to turn the Ego leaf blower into a DIY toilet paper cannon—just in time for Halloween. (Sale ends November 4.) —Kat Merck
 
-The difference between a planet and a dwarf planet is largely their environment. While both orbit the sun and have sufficient gravity to assume a nearly spherical shape, a planet has cleared its orbit of other bodies of comparable size. Dwarf planets, on the other hand, coexist with other objects in the region of the solar system they traverse. This is the main reason why Pluto ceased to be considered a planet in 2006 and was reclassified as a dwarf planet.
+With a few hardware-store parts—some you may already have at home—you can turn a battery-powered leaf blower into a toilet paper cannon that unrolls a single- or double-ply roll in seconds. Once assembled, you can use it to decorate a house or children. A blower’s airflow, usually measured in cubic feet per minute (cfm) and miles per hour (mph), helps power the effect. The fast-moving air creates a lower-pressure stream, while the still air around the roll pushes it toward that stream. As air follows the roll’s curve, it helps lift the roll, and friction carries the paper along. Bernoulli’s principle is part of the trick, along with curved-surface lift and the airflow pulling the paper forward.
 
-Matthew Holman, a researcher at the Harvard-Smithsonian Center for Astrophysics and a member of the observatory’s operations team, identified the object on October 13 while analyzing data collected by Rubin in 2026. A more thorough search allowed the team to locate additional observations in archived records dating back to 2016. Thanks to this set of images, the team was able to reconstruct more than a decade of the object’s trajectory.
+To figure out where to position the toilet paper relative to the blower, I spoke with Saffron Wyse, associate principal at the international engineering firm Thornton Tomasetti, where she specializes in fluid dynamics. “Positioning the roll underneath the nozzle is slightly better because then you’re pulling the paper upward into the airstream, and you want it to go upward because that stream is going to do the bulk of the work for you,” she says.
 
-Astronomers explain that ED138 had managed to “hide” from us because its position in the night sky is against the disk of the Milky Way, which we usually see as a thick band of millions of stars. This concentrated brightness makes it difficult to distinguish fainter objects, but the Rubin Observatory’s enormous amounts of data made it possible to identify the object amid that sea of light.
+All leaf blowers come with a tapered round tube, but some, including the Ego I used, also have a wide, flat attachment. The tapered round tube is the most stable solution, says Wyse, because it gives you a tall, wide airstream. But I’m building this for speed, which favors the flat attachment. "Having a thin nozzle arrangement that’s trying to flatten the airstream probably gives you more force, more velocity, so it’s likely to go further,” says Wyse. You could replicate such an attachment with duct tape and cardboard if your leaf blower didn’t come with one.
 
-Though ED138 appears to have the right characteristics, astronomers have yet to confirm whether it is a dwarf planet. For now, astronomers know it is a trans-Neptunian object, but they need to determine its size more precisely to establish whether its own gravity is sufficient to give it a nearly spherical shape. If it meets the requirements, ED138 would join the group of five dwarf planets recognized by the International Astronomical Union: Ceres, Pluto, Haumea, Makemake, and Eris.
+Start with a mini paint roller made for standard nap rollers. Avoid models designed for foam rollers, because they are too narrow. Slide a toilet paper roll onto the cage. If it fits loosely, wrap the cage first in painter’s tape, then in duct tape, adding layers until the roll grips securely. The painter’s tape ensures you’ll be able to use the roller for painting later on.
 
-It is also not the only celestial body awaiting possible classification as a dwarf planet. Astronomers have identified dozens of objects in the outer solar system that, based on their size and other characteristics, could meet the criteria. Among the best-known candidates are Gonggong, Quaoar, Sedna, and Orcus. Experts acknowledge that the list could be even longer.
+With the TP on the roller, position it beneath the leaf blower’s nozzle, about 3 to 4 inches from the tip and centered in the airstream. Use 12-inch strips of duct tape to secure the roller handle to the blower first, measure again, then add more tape to secure it. To help protect the nozzle from adhesive residue, apply painter’s tape to it before adding the duct tape.
 
-Confirming them as dwarf planets is no easy task. The enormous distance at which they lie makes it difficult to directly measure their size and mass and, above all, to determine whether their own gravity has given them a nearly spherical shape. To obtain high-resolution images of Pluto, for example, the New Horizons probe had to be sent to its vicinity—a journey that took nearly nine and a half years from its launch in 2006 to its flyby in 2015. Three years later, it reached the object Arrokoth, a small planetesimal even farther away.
+Pull the first few sheets free from the roll, squeeze the trigger, and let the paper fly. —Sal Vaglica
 
-The solar system is often depicted as a star surrounded by eight planets, but in reality it is a much more extensive and populous structure. In addition to planets and moons, it contains dwarf planets, asteroids, comets, and a vast number of small bodies that extend far beyond Neptune. The Kuiper Belt extends to approximately 50 astronomical units, while the scattered disk reaches nearly 1,000. Much farther out lies the Oort Cloud, a region we have never directly observed and that could extend up to about 100,000 astronomical units from the sun.
+Power up with unlimited access to WIRED. Get best-in-class reporting and exclusive subscriber content that's too important to ignore. Subscribe Today.
 
-This story originally appeared on WIRED en Español and has been translated from Spanish.
+Take Up to 25% Off Custom Prints with VistaPrint Promo Code
+
+Take 10% Off Legal Services with This LegalZoom Promo Code
+
+© 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+----------------------------------------
+
+[3] THE IRAN WAR’S IMPACT ON OIL IS HITTING KEY SENATE RACES HARD
+
+Now in its ninth month, the war in Iran has hit American pockets hard, and it could shift the balance in key midterm races that decide who controls Congress.
+
+The serious damage to refineries and other facilities in the Middle East, combined with ongoing uncertainty about whether the Strait of Hormuz will remain open, have kept oil prices inflated. Americans have paid for it: The Center for American Progress estimates that the war has cost each US household at least $1,200.
+
+Rising costs are among the reasons the war has been deeply unpopular, and Tuesday’s midterms are likely to be a referendum on how the White House has handled the impact. Democrats are trying to use that to their advantage to win races in places where the high price of diesel, home heating oil, and fertilizer are particularly top-of-mind for voters. Here’s how it’s playing out in key states across the country.
+
+High diesel prices are affecting voters in every state, but it’s a particularly acute problem in Texas, where Governor Greg Abbott issued a state of emergency over diesel prices last month. The state, which traditionally had some of the lowest diesel prices in the country, has seen prices surge more than 80 percent compared to last year. That’s roughly 10 percent above the national average, according to AAA data.
+
+Abbott is facing a tough reelection campaign, and his opponent, Gina Hinojosa, has used the war as an attack line against Abbott. She has pressured Abbott to suspend a state gas tax on diesel. The Texas Democratic Party issued a statement following the state of the emergency declaration calling on Abbott to “demand that Donald Trump lift his absurd tariffs and halt the unnecessary war that are driving up costs for Texans.”
+
+Fuel prices have also factored into the heated Senate race between Democrat James Talarico and Texas attorney general Ken Paxton. Talarico has also called on Paxton to support suspending the federal gas tax—a move that is supported by some high-ranking Republicans, including Trump—and accused him of “choosing to support the war driving up diesel prices.”
+
+More than 80 percent of the 4.9 million households in the US that heat their homes with oil are located in the Northeast. It’s a particularly popular form of heating in Maine, where more than half of households in the state rely on it.
+
+With winter approaching and prices now nearly double what they were last year, heating oil has played a big role in the contentious Senate race between incumbent Republican Susan Collins and Democratic challenger Troy Jackson.
+
+State Democrats have seized on Collins’ early support of the war to attack her. (She has come out against the conflict in recent months.)
+
+In a sign that the race is uncomfortably close, the White House released a tranche of heating oil reserves in a bid to temporarily draw down the price of the fuel.
+
+“Families are spending a lot more to fill up a tank than they did a year ago,” says Mark Wolfe, the executive director of the National Energy Assistance Directors Association, which predicted that households in the Northeast could spend an additional $3.8 billion on heating oil this winter.
+
+Unlike price spikes on diesel fuel, which may filter to consumers through higher prices on a number of different products, heating oil itself is a consumer good: Families pay directly for the oil to be delivered to their homes. The impact to voters’ pocketbooks, Wolfe says, is “very immediate.”
+
+High diesel prices have hurt farmers, but so, too, has the cost of fertilizer.
+
+Nitrogen-based fertilizers, like ammonia and urea, are made from natural gas by-products, and some of the world’s biggest producers are based in the Middle East. While some production has restarted, it remains well below its prewar average. Urea prices spiked earlier this year.
+
+“If you're going to plant crops like wheat and corn, you have to apply nitrogen,” says Josh Linville, the vice president of fertilizer at financial services company StoneX.
+
+Sulfur, which is also made from oil and gas by-products, is a crucial ingredient in other types of fertilizer. Sulfur prices have more than doubled since the start of this year, thanks to supply chain issues in the Gulf. Farmers who use sulfur-based fertilizers, Linville says, have had to make tough choices about how to manage their crops.
+
+These stresses have put fertilizer front and center in tight races in states like Ohio, Iowa, and Illinois. VoteVets, a PAC that supports Democrats, aired an attack ad against Republican Senate nominee Ashley Hinson in Iowa earlier this month that highlights her record of voting in favor of attacks on Iran.
+
+“Record gas prices. Record fertilizer costs. Farms going under,” the ad intones. “And Ashley Henson’s voting for all of it in Washington.”
+
+In Ohio, Democrat Sherrod Brown’s campaign has aired an ad in recent weeks pinning high diesel and fertilizer costs on his opponent, incumbent senator John Husted, again by bringing up his track record of voting for the war.
+
+Whether that can peel off enough farm voters—a core Republican constituency—to swing the race to Brown remains to be seen. But the costs on farmers are mounting, and there’s little relief in sight with uncertainty looming over Iran. “That farmer’s sitting there saying, ‘I have to farm, but it’s not a matter of can I make money,’” Linville says. “It’s ‘how do I lose the least amount of money next year?’”
 
 In your inbox: Inside WIRED’s newsroom with Katie Drummond
 
@@ -339,26 +318,6 @@ The Big Interview: Nathan Fielder tells us everything
 Live tracker: Elon Musk’s America PAC is spending big on the midterms
 
 Introducing the app: More ways to make the most of WIRED
-
-© 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
-
-----------------------------------------
-
-[3] NORTON COUPON CODES: UP TO 58% OFF
-
-Norton Antivirus is the only antivirus software I've ever used, in part because many years ago I switched to Linux, which eliminates the need for antivirus software. If you're still on macOS or Windows, though, Norton Antivirus is still a solid choice. None of these services is something anyone is excited to run, but they can save you bacon if you make a bad decision downloading questionable files or clicking links you shouldn't have. The best way to stay protected without spending a fortune is to use a Norton coupon code to get yourself a deal.
-
-While I’ve only ever used the Antivirus offering, the real way to save is to bundle several services and use a coupon code for the lot. With Norton, that means Norton 360, which gets you the Antivirus, malware, ransomware, and hacking protection, along with a VPN and dark web monitoring, for up to three devices. You also get a password manager and 2GB of online storage. With this Norton coupon code, you get all that for $40 for the first year, which is about the same as paying for a VPN alone. Norton 360 Deluxe gets you everything that comes with the regular version, but it works with five devices and gives you 50GB of online storage.
-
-LifeLock is Norton’s usual online protection suite, but adds up to $1 million in potential coverage if you experience financial loss due to identity theft. With this Norton coupon code, Norton 360 with LifeLock is just $8.33 per month.
-
-If you want to get (and stay) serious about your privacy and protection, and the overall health and longevity of your computer, I’d suggest investing in an antivirus protection plan for your whole setup. With Norton 360 Antivirus Plus, you’ll get powerful antivirus protection for your device, including AI-powered Scam Protection, Password Manager, and 2 GB Cloud Backup. And you can get even more peace of mind with a 60-day money-back guarantee. Best of all, Norton 360 Antivirus Plus is 50% off right now, taking it from $60 per year to only $30—which works out to just $2.50 per month—a small investment worth so much more in protection and peace of mind.
-
-If you want to protect more than a few devices, the small business plans are the way to go. These coupons will get you $100 off the Small Business Premium plan and $80 off the Small Business plan. These plans cover two devices per user and up to five users.
-
-Take Up to 25% Off Custom Prints with VistaPrint Promo Code
-
-Take 10% Off Legal Services with This LegalZoom Promo Code
 
 © 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
 
