@@ -1,0 +1,362 @@
+=== DAILY BRIEFING - 31.10.2026 ===
+Quellen: Tagesschau, Sportschau & Wired Tech
+
+
+>>> TAGESSCHAU TOP-NEWS <<<
+
+[1] CHIP IM KOPF: WENN COMPUTER GEDANKEN VERSTEHEN LERNEN
+
+Was lange wie Science-Fiction klang, ist inzwischen Realität: Chips im Gehirn helfen gelähmten Menschen, Computer mit ihren Gedanken zu steuern. Forscher hoffen auf neue Therapien, Ethiker warnen vor Risiken.
+
+Der 26-jährige Michael Mehringer sitzt in seinem Rollstuhl in einem Labor des Klinikums der Technischen Universität München. Aus seinem Hinterkopf lugt ein USB-Anschluss. Dieser Adapter soll Michael etwas zurückgeben, was er lange nicht hatte: Selbstständigkeit.
+
+"Ich bin jetzt schon zehn Jahre quasi in meinem eigenen Körper mehr oder weniger gefangen", beschreibt der junge Mann seine Situation. Mit 16 Jahren verunglückte Michael bei einem Motorradunfall so fatal, dass er seitdem vom Hals abwärts komplett gelähmt und auf die Hilfe seiner Eltern angewiesen ist.
+
+Als er im letzten Jahr auf eine Studie der Technischen Universität München aufmerksam wird, keimt in ihm Hoffnung auf: Hoffnung auf ein Stück Freiheit. Für die Studie werden ihm in einer komplexen Operation Elektrodenchips ins Gehirn implantiert. Damit beginnt für Michael ein langer beschwerlicher Weg und dennoch sagt er heute: "Ich bin froh, dass ich diesen Schritt gemacht habe.".
+
+Der Adapter an Michaels Hinterkopf ist Teil eines Brain-Computer-Interface, das sogenannte BCI. Die Schnittstelle zwischen Gehirn und Computer verarbeitet die Signale von 256 winzigen Elektroden aus Michaels motorischen Kortex, also dem Hirnbereich, der Bewegungen steuert.
+
+"Die sind so klein, dass jeder einzelne Mikrofühler die elektrischen Blitze von einer einzelnen Nervenzelle aufnehmen kann", erklärt Simon Jacob, Leiter der Arbeitsgruppe KI und Robotik in der Neurochirurgie an der TU München in der ARD-Wissen-Dokumentation "Chip im Kopf. Wie Gehirnimplantate die Medizin verändern".
+
+Diese Signale werden dann über den USB-Anschluss an einen Computer übertragen. Mithilfe einer speziell dafür entwickelten KI versuchen die Forschenden, die Nervenimpulse zu entschlüsseln. "Die künstliche Intelligenz lernt dieses Muster. Das heißt, sie kann vorhersagen, wenn sie ein elektrisches Signal im Gehirn sieht, was Michael sich dabei gedacht hat", beschreibt Jacob das System.
+
+Neue KI bestimmt den Schlaganfallzeitpunkt doppelt so präzise wie bisherige Methoden
+
+Nach und nach soll der Computer lernen, die Impulse aus Michaels motorischem Kortex zu deuten und in Bewegungen umzusetzen. Das Ziel: Michael soll künftig allein durch Gedanken einen Roboterarm steuern können.
+
+Menschen wie Michael würden mit ihrer Teilnahme einen entscheidenden Beitrag zur Grundlagenforschung leisten, ist Jacob überzeugt: "Das ist die Zukunftstechnologie für viele, viele Erkrankungen, für die wir bislang kein Angebot hatten."
+
+Noch stehen Brain-Computer-Interfaces am Anfang ihrer Entwicklung. Doch was wie Science-Fiction klingt, ist längst Realität und die Technologie entwickelt sich rasant. Die Freiburger Firma CorTec hat ein Implantat entwickelt, das nicht nur Signale auslesen, sondern auch ins Gehirn senden und so Nervenzellen stimulieren kann.
+
+"Wir bringen das Gehirn im Schlaganfallbereich dazu, lernfähiger zu sein, damit eine Physiotherapie besser anklingt", erklärt Mitbegründer Martin Schüttler. Die ersten Tests sind vielversprechend. In den USA konnte ein Schlaganfallpatient, dem 2025 in einer Studie ein CorTec-BCI implantiert wurde, seinen gelähmten Arm wieder bewegen.
+
+Die Gehirnchip-Firma Neuralink von Elon Musk verfolgt ein Ziel: die Symbiose von Mensch und KI.
+
+Diese bahnbrechenden Entwicklungen machen Hoffnung. Aber die Möglichkeiten der Neurotechnolgie werden längst nicht mehr nur im wissenschaftlichen Rahmen erkannt. Die Firma Neuralink von Elon Musk plant Hirnchips langfristig in die Massenproduktion zu überführen und laut Bloomberg ab 2031 jährlich 20.000 Implantationen durchzuführen. Musks Vision: eine Verschmelzung von Mensch und KI.
+
+Noch verfügt Neuralink allerdings nicht über eine Zulassung der US-Gesundheitsbehörden. Ein in China entwickeltes BCI wurde dagegen bereits offiziell für die kommerzielle Nutzung zugelassen. Das Implantat soll Gelähmten helfen, über ein Exoskelett - eine Art tragbare Stütze - eine Hand zu bewegen.
+
+Den aktuellen Entwicklungsschub führt Neurologe Jacob vor allem auf Fortschritte bei der Künstlichen Intelligenz zurück: "Der ganz große Shift, den wir gesehen haben, war tatsächlich in Software, also in künstlicher Intelligenz." Die KI lerne immer besser, aus großen Datenmengen sinnvolle Muster herauszulesen.
+
+Bereits 2023 - zeigen Studien der Universität Osaka und der Berkley-Universität - gelang es Forschenden, mit Hilfe von KI Bilder und Musik aus Hirndaten teilweise zu rekonstruieren. Forschende der Universität Stanford gelang zuletzt sogar in einem Versuch den inneren Monolog gelähmter Patienten teilweise zu dekodieren. Um unbeabsichtigtes Gedankenlesen zu verhindern, reagierte das System nur auf ein mentales Passwort.
+
+Dieser Versuch des Gedankenlesens kann Menschen, die nicht mehr kommunizieren können, helfen. Er wirft aber auch Fragen auf: Wie frei sind unsere Gedanken wirklich? "In dem Moment, in dem ich einerseits auslesen und zum anderen natürlich auch manipulieren kann, gibt es auch ein Riesenfeld für Missbrauch bei Dingen wie mentaler Privatheit", sagt die Professorin für Ethik der Informationstechnologien an der Universität Hamburg, Judith Simon.
+
+Der Neuroethiker Marcello Ienca ist Professor am Institut für Ethik der Medizin und Technologie der Technischen Universität München. Er sieht das derzeit größere Risiko nicht in implantierten Chips, sondern in Neurotechnologien für den Alltag, etwa Wearables wie Stirnbänder oder Kappen, die Hirnsignale messen können. Die könnten etwa in Bildung oder Arbeitswelt relevant werden: "Wenn neuronale Daten beispielsweise zur Messung von Aufmerksamkeit, Ermüdung oder Stress eingesetzt werden, stellt sich unmittelbar die Frage, ob Beschäftigte tatsächlich frei entscheiden können, solche Systeme abzulehnen“, so Ienca.
+
+Derzeit gebe es zwar noch keine Gehirnimplantate, die bei gesunden Menschen die allgemeine Intelligenz nachweislich steigern könnten. Sollten Technologien aber irgendwann kognitive Vorteile ermöglichen, stelle sich, laut Ienca, eine Gerechtigkeitsfrage: "Wer hat Zugang dazu? Eine Gesellschaft, in der kognitive Fähigkeiten zunehmend käuflich verbessert werden können, könnte bestehende soziale Ungleichheiten verstärken."
+
+An ein Wort denken und der Computer spricht es aus.
+
+Bislang sind diese Szenarien teils noch theoretisch. Dennoch müsse man sich schon heute fragen: "Wie wir die gemessenen Daten schützen, also wer Zugriff darauf hat und was damit gemacht wird", sagt der Neurologe Jacob. "Wir sollten diese Technologien also nicht blockieren, sondern ethisch verantwortlich entwickeln."
+
+Die Entwicklung geschähe so oder so, deshalb "müssen wir uns mit den Dingen anfreunden, die passieren", sagt Simon, die die EU-Kommission wissenschaftlich zu Fragen rund um KI berät. "Aber das entbindet uns nicht von der Verantwortung zu überlegen, wie man solche Sachen klug regulieren kann." Unsere mentale Privatsphäre gehöre geschützt: "Nicht ohne Grund heißt es, dass die Gedanken frei sind."
+
+Chile hat bereits Schutzrechte für Gehirndaten in seiner Verfassung verankert. In Europa wird noch darüber diskutiert, wie mentale Privatsphäre künftig geschützt werden kann. Die UN warnt in einem aktuellen Bericht vor den Risiken. Auch Neuroethiker Ienca gibt zu bedenken, dass technologische Entwicklungen Schutzlücken sichtbar machen können: "Unsere Gedanken und mentalen Prozesse sollten nicht zu einer weiteren Ressource werden, auf die Staaten oder Unternehmen ohne sehr strenge Voraussetzungen zugreifen können."
+
+Im Fall von Michael Mehringer stellt sich die Debatte anders dar. Die Forschenden an der TU München müssen wissen, was in seinem Kopf vorgeht, um ihm zu helfen. Und tatsächlich: Nach monatelangem Training gelingt Michael Erstaunliches. Er bewegt allein mit seinen Gedanken einen Cursor auf dem Bildschirm und kurz darauf sogar eine virtuelle Hand. "Wenn so etwas funktioniert, ist natürlich die Begeisterung hoch", freut sich Michael. Für Menschen wie ihn, bedeutet die neuartige Technologie schon heute vor allem eines: Hoffnung auf mehr Freiheit. "Wieder 100 Prozent Selbstständigkeit zu erlangen und meine Eltern zu entlasten, das wäre mein Traum."
+
+Dieses Thema im Programm: Das Erste | Chip im Kopf - Wie Gehirnimplantate die Medizin verändern | 26.10.2026 | 23:05 Uhr
+
+----------------------------------------
+
+[2] EVAKUIERUNGSAKTION IM UKRAINISCHEN OLESCHKY ABGESCHLOSSEN
+
+Es war die größte gemeinsame Aktion von Ukrainern und Russen seit Kriegsbeginn: Mit 25 Bussen wurden Menschen aus der Frontstadt Oleschky gebracht. Ein Teil von ihnen ist bereits in Belarus angekommen, um in die Ukraine weiterzureisen.
+
+Die Evakuierungsaktion in der von Russland besetzten südukrainischen Frontstadt Oleschky ist nach russischen Angaben abgeschlossen. "Wir haben unsere humanitäre Mission in Oleschky beendet", teilte die russische Menschenrechtsbeauftragte Jana Lantratowa gestern Abend mit.
+
+Die evakuierten Bewohnerinnen und Bewohner waren nach russischen Militärangaben zunächst mit Bussen in die Schwarzmeer-Stadt Anapa in der südrussischen Region Krasnodar gebracht worden. Anschließend seien diejenigen, die in Ukraine weiterreisen wollten, mit russischen Militärmaschinen ins belarussische Gomel ausgeflogen worden. Vom russischen Militär veröffentlichte Videos zeigten, wie Menschen in Flugzeuge einstiegen.
+
+Nach belarussischen Angaben sind die Flüge dort inzwischen gelandet. Über Gomel sollen die Menschen mit Bussen in die Ukraine gelangen. Mit ihnen reiste auch der ukrainische Menschenrechtsbeauftragte Dmytro Lubinez.
+
+Der ukrainische Ombdusmann für Menschenrechte Lubinez hofft auf eine Vorbildfunktion für weitere Städte.
+
+Lubinez hatte am Abend via Telegram von mehr als 750 Menschen gesprochen, die die Möglichkeit hätten, die Stadt zu verlassen. Hierfür waren 25 Busse zur Verfügung gestellt worden. Wie viele Bewohnerinnen und Bewohner tatsächlich aus Oleschky gebracht worden sind, ist allerdings bislang noch unklar.
+
+Russische Medien zitierten Lantratowa, wonach ein Teil der Bevölkerung "völlig ungehindert" nach Russland, der andere in Richtung Ukraine ausreisen konnte. Diejenigen, die die Stadt aus diversen Gründen nicht verlassen konnten oder wollten, seien mit humanitärer Hilfe versorgt worden. Ihren Worten nach seien die Menschen beiden Seiten sehr dankbar.
+
+Kremlsprecher Dmitri Peskow sprach von einem "guten Dialog", den Lantratowa und ihr ukrainischer Kollege Lubinez etabliert hätten. "Sie fangen langsam an, aneinander zu vertrauen." Für Menschenrechtsarbeit sei das gut und wichtig.
+
+Es war die größte gemeinsame Aktion von Ukrainern und Russen seit Kriegsbeginn im Februar 2022. Lantratowa und Lubinez dankten auch US-First-Lady Melania Trump für die Vermittlung einer mehrtägigen Waffenruhe und stellten mögliche weitere humanitäre Aktionen für notleidende Menschen in Frontstädten in Aussicht. Die Waffenruhe für das Gebiet Cherson, das teils von Russland, teils von der Ukraine kontrolliert wird, endet morgen Abend.
+
+Oleschky liegt am Ufer des Flusses Dnipro, der in dieser Region als Frontlinie gilt. Das Gebiet ist daher schwer umkämpft. Seit 2022 ist Oleschky von Russland besetzt. Vor Kriegsbeginn lebten etwa 24.000 Menschen hier, zuletzt waren es Medienberichten zufolge etwa 1.500 bis 2.000 Bewohnerinnen und Bewohner.
+
+In den vergangenen Monaten hatte sich in Oleschky eine humanitäre Katastrophe entwickelt. Denn die Stadt war monatelang weitgehend von der Außenwelt abgeschnitten. Laut dem UN-Menschenrechtsbüro fand der letzte regelmäßige Lebensmitteltransport dorthin im Mai statt. Den Sommer über zehrten die Menschen dann noch von dem, was sie in ihren Gärten angebaut hatten, wie ARD-Korrespondent Florian Kellermann berichtet. Nun seien die Vorräte weitgehend erschöpft gewesen.
+
+Dieses Thema im Programm: Das Erste | tagesthemen | 30.10.2026 | 22:15 Uhr
+
+----------------------------------------
+
+[3] ARABISCHE PARTEIEN IN ISRAEL STECKEN IN EINEM DILEMMA
+
+Die arabischen Listen in Israel haben bei der Parlamentswahl große Erfolge erzielt. Sie traten gemeinsam an, unterscheiden sich aber inhaltlich. Vor allem wollen sie nicht nur Mehrheitsbeschaffer sein.
+
+Die jüngste Parlamentswahl hat die politische Landschaft Israels in ihren Grundfesten erschüttert. Mit einem historischen Rekord von 19 Sitzen für arabische Listen ist der Minderheit, die gut ein Fünftel der israelischen Staatsbürger ausmacht, ein sensationeller Erfolg gelungen.
+
+Plötzlich blickt das ganze Land auf die arabischen Abgeordneten in der Knesset. Rechnerisch halten sie den Schlüssel zur Macht in den Händen. Sie könnten das chronische Patt zwischen den beiden großen jüdisch-zionistischen Lagern auflösen.
+
+Doch die politische Realität sieht ernüchternd aus. Im Lager der Opposition, dem sogenannten "Change-Block", regiert das Zaudern. Gadi Eisenkot, Benjamin Netanjahus schärfster Herausforderer, bemüht sich zwar nach Kräften, eine regierungsfähige Allianz gegen den langjährigen Premierminister zu zimmern. Den offiziellen Handschlag mit den arabischen Parlamentariern scheut er jedoch. Zu groß ist offenbar die Sorge vor dem Vorwurf der rechtsgerichteten Konkurrenz, mit "Nicht-Zionisten" zu paktieren.
+
+Diese anhaltende Ausgrenzung hinterlässt tiefe Spuren. Unter den arabischen Wählerinnen und Wählern, insbesondere im Norden des Landes, macht sich massive Enttäuschung breit. "Was Gadi Eisenkot derzeit daran hindert, eine Regierung zu bilden, ist die fehlende Beteiligung der arabischen Parteien", kritisiert der Wähler Adam Rabiea die Blockadehaltung des Oppositionsführers. Für ihn ist das Zögern des "Change-Blocks" ein strukturelles Problem: "Dies zeugt von Rassismus und Angst - beides wurzelt in der Hetze, die während des Wahlkampfs und im Vorfeld der Wahlen stattfand."
+
+Diese Angriffe und Delegitimierungsversuche werden vor allem von der politischen Rechten orchestriert. Die national-konservative Likud-Partei von Regierungschef Netanjahu überzieht die arabischen Listen seit dem Wahltag mit schweren Vorwürfen. Von angeblichen Unregelmäßigkeiten bei der Stimmabgabe ist die Rede - es ist ein gezielter Versuch, den historischen Erfolg der Minderheit moralisch und politisch zu entwerten.
+
+Doch die Front des Schweigens bröckelt an den Rändern. Einige prominente Stimmen innerhalb der jüdischen Opposition fordern ein radikales Umdenken. Yair Golan, der Vorsitzende der linksliberalen Demokraten, stellt sich offen gegen den anhaltenden Ausschluss. "Wenn die zionistische Mehrheit im Staate Israel eine Regierung des Wechsels will, dann muss sie eine Regierung des Wechsels bekommen", fordert Golan unmissverständlich. "Dieser allumfassende Boykott der arabischen Bevölkerung muss aufhören. Meiner Meinung nach ist das einfach inakzeptabel."
+
+Die vollständige Auszählung der Stimmen bestätigt, was sich schon abzeichnete: Die Regierungsbildung dürfte schwierig werden.
+
+Die Suche nach Gemeinsamkeiten wird allerdings auch dadurch erschwert, dass die arabischen Abgeordneten in der Knesset alles andere als einen homogenen Block bilden.
+
+Das Spektrum ist ideologisch tief gespalten. Da ist zum einen die islamische Ra'am-Partei. Sie agiert seit Jahren betont pragmatisch und konzentriert sich primär auf die konkreten Alltagssorgen der arabischen Community. So fordert sie etwa mehr finanzielle Mittel für marode kommunale Infrastrukturen, bessere Lebensbedingungen und ein entschlossenes staatliches Vorgehen gegen die grassierende Kriminalität in den arabisch-geprägten Städten.
+
+Ganz anders positionieren sich die säkularen Nationalisten der Balad-Partei. Ihr Ziel ist programmatischer Natur und rührt an den Kern des israelischen Selbstverständnisses: Sie fordern die grundlegende Transformation Israels hin zu einem "Staat aller seiner Bürger" - und stellen damit den explizit jüdischen Charakter des Staates offen infrage.
+
+Dazwischen bewegen sich die sozialistisch geprägte Hadash und die Ta'al-Partei. Beide Parteien signalisieren zwar Kompromissbereitschaft bei innenpolitischen Reformen, verknüpfen ihre Unterstützung jedoch mit klaren Kernforderungen: dem Kampf für echte Bürgerrechte und einem Ende der israelischen Besatzung im Westjordanland. Für weite Teile des jüdisch-zionistischen Oppositionsblocks ist Letzteres eine absolute Rote Linie.
+
+Israel hat gewählt - doch wer das Land künftig regiert, ist unklar.
+
+Trotz dieser Hürden gibt man sich an der Spitze der arabischen Listen kämpferisch und machtbewusst. Ahmad Tibi, der Vorsitzende der Ta'al-Partei, formuliert bereits konkrete machtpolitische Bedingungen für die kommende Legislaturperiode. "Der erste Schritt wird die Absetzung des Knesset-Vorsitzenden Amir Ohana sein und das wird ohne die Gemeinsame Liste nicht möglich sein." Tibi betont die Kooperationsbereitschaft seiner Fraktion, verknüpft sie jedoch mit einem klaren Ziel: "Unsere Hand ist ausgestreckt für Veränderung und für die Zusammenarbeit mit allen, die diese Regierung stürzen wollen."
+
+An der arabischen Basis ist von diesem strategischen Optimismus allerdings wenig zu spüren. Viele Menschen fühlen sich von den jüdischen Oppositionsparteien instrumentalisiert - missbraucht als rein rechnerisches Stimmvieh, um Netanjahu zu stürzen, ohne dass im Gegenzug echte politische Zugeständnisse oder eine gleichberechtigte Teilhabe winken.
+
+In Abu Ghosh, einer arabisch-geprägten Gemeinde westlich von Jerusalem, ist die Resignation besonders greifbar. Angesichts der aggressiven Kampagnen von rechts plädiert der Lehrer Wisam Ismaiel sogar für den vollständigen Rückzug aus dem parlamentarischen System. "Die arabischen Knesset-Abgeordneten sollten der Welt unmissverständlich klarmachen, dass diese Behauptungen falsch sind. Sie sollten zurücktreten und die anderen einfach sich selbst überlassen." Es sei an der Zeit, das System zu boykottieren.
+
+Ein solcher geschlossener Auszug aus der Knesset gilt unter Beobachtern als unwahrscheinlich, doch das strategische Dilemma bleibt bestehen. Solange das gegnerische Lager die arabische Minderheit nicht als legitimen und vollwertigen Partner auf Augenhöhe akzeptiert, verpufft das historische Wahlergebnis.
+
+Der arabische Politikberater Jalal Banna aus Akko sieht den Ball daher eindeutig im Feld der jüdischen Opposition: "Das Problem liegt nicht bei den Arabern. Der 'Change-Block' weigert sich, die Tatsache anzuerkennen, dass die Araber ein Teil einer möglichen zukünftigen Koalition sein müssen." Die Strategie der Opposition sei rein zweckorientiert: "Er will die Araber nur, um die Regierung zu stürzen, das war's. Damit soll die Rolle der Araber beendet sein."
+
+Die arabischen Parteien haben bei dieser Wahl so viel Macht erlangt wie noch nie zuvor in der Geschichte des Landes. Ob sie diese jedoch nutzen können, um das politische Patt dauerhaft zu brechen, entscheidet sich in diesen Tagen nicht bei ihnen - sondern in den Köpfen des zionistischen Oppositionsblocks.
+
+Dieses Thema im Programm: tagesschau.de | Brechen Israels arabische Listen das Patt? | 31.10.2026 | 08:03 Uhr
+
+----------------------------------------
+
+
+>>> SPORT (SPORTSCHAU) <<<
+
+[1] HANNOVER 96 TRENNT SICH VON SPORT-GESCHÄFTSFÜHRER BOLDT
+
+Fußball-Zweitligist Hannover 96 hat auf die sportliche Talfahrt reagiert und sich am Samstag mit sofortiger Wirkung von Sport-Geschäftsführer Jonas Boldt getrennt. Neu-Trainer Sandro Wagner wird dagegen am Sonntag im Kellerduell gegen Dynamo Dresden auf der Bank sitzen.
+
+Für Boldt endet damit trotz Vertrags bis Ende Mai 2029 nach nur fünf Monaten seine Zeit an der Leine. Der für die Bestellung der Geschäftsführung zuständige Aufsichtsrat der Hannover 96 Management GmbH habe sich einstimmig auf die Abberufung Boldts verständigt, hieß es am Samstagmorgen in einer etwas spärlichen Mitteilung. Alleiniger Geschäftsführer der Hannover 96 GmbH & Co. KGaA sei nun Henning Bindzus.
+
+Boldt war für die Kaderentwicklung und für die Entlassung des bei den Fans beliebten Christian Titz in die Kritik geraten - zuletzt kamen geplante Urlaubstage des Sport-Geschäftsführers unmittelbar vor dem Derby in Braunschweig hinzu.
+
+Sportlich befinden sich die "Roten" im Ab- statt im Aufwärtstrend: In der 2. Liga belegen die Niedersachsen Relegationsplatz 16, im DFB-Pokal folgte unter das Woche das Aus gegen Kaiserslautern (0:2).
+
+Ergebnisse, Tabellenstände und die Spieltage im Überblick.
+                                                ndr
+
+Aufsichtsrats-Chef und Mehrheitsgesellschafter Martin Kind hatte dem NDR gegenüber bereits am Freitag deutlich gemacht, was aus seiner Sicht bei 96 aktuell auf dem Spiel steht - und auch für ihn. Der stets meinungsstarke Club-Patron sieht sein sportsunternehmerisches "Lebenswerk" im Alter von 82 Jahren bedroht: "Wir haben die Arena gebaut, die Akademie - wenn wir in die 3. Liga absteigen, wäre das ganze Modell nicht finanzierbar. Das wäre abenteuerlich und das kann ich nicht akzeptieren."
+
+Hannover trifft am Sonntag (13.30 Uhr, im NDR Livecenter) in der Zweiten Liga auf Tabellennachbar Dynamo Dresden. Der von Boldt Mitte September geholte Sandro Wagner steht dann massiv unter Druck - in den bisherigen vier Spielen unter seiner Regie haben die Niedersachsen noch nicht gewonnen.
+
+Nach nur einem Punkt aus drei Partien ist Zweitligist Hannover 96 unter Trainer Sandro Wagner auf den Abstiegsrelegationsrang abgerutscht.
+                                                ndr
+
+Boldt hatte mit Titz von Beginn an keinen gemeinsamen Nenner gefunden, was Kaderplanung und Kaderkosten anging. Stimmung und Selbstvertrauen in Hannover waren zudem im Keller, seit die Mannschaft im Mai unter Titz den greifbaren Bundesliga-Aufstieg verspielte.
+
+Unter Wagner wird allerdings aktuell nichts besser, sondern vieles noch schlechter. Und den prominenten Trainer hatte Boldt allein geholt. Auch die Transferbilanz des 44-Jährigen fällt schwach aus.
+
+Vor dieser Saison verlor 96 gleich drei Spieler an namhafte Clubs: Noel Aseko (Eintracht Frankfurt), Enzo Leopold (Borussia Mönchengladbach), Daisuke Yokota (Glasgow Rangers). Der sportliche Verlust ist groß. Er zeigt aber auch, dass die Niedersachsen unter Boldts Vorvorgänger Marcus Mann erfolgreich auf Spieler mit Perspektive und Marktwert setzten.
+
+Für die Schlüsseltransfers dieses Sommers gilt das nicht: Marcel Hartel (30) und Emir Sahiti (27) enttäuschen bislang und haben aktuell keinerlei Weiterverkaufswert. Der neue Torwart Pascal Loretz flog schon nach dem ersten Spieltag aus der Startelf.
+
+----------------------------------------
+
+[2] DOPPELTER GRODOWSKI LÄSST BIELEFELD GEGEN BRAUNSCHWEIG JUBELN
+
+Dank Doppelpacker Joel Grodowski siegt Arminia Bielefeld am Freitagabend verdient gegen Eintracht Braunschweig und setzt sich in der oberen Tabellenhälfte der 2. Fußball-Bundesliga fest.
+
+Grodowski traf zwei Mal beim 3:1-Heimsieg (27. Minute/68.). Zuvor hatte Maximilian Großer die Führung erzielt (24.), Aaron Opoku traf für Braunschweig nur zum zwischenzeitlichen Anschluss (55.).
+
+"Als kleiner Junge träumt man davon, in so einem Stadion zu spielen. Wenn 28.000 deinen Namen rufen, das macht mich stolz", freute sich Matchwinner Grodowski im Sportschau-Interview.
+
+Die Bielefelder kletterten durch den Sieg mit nun 14 Punkten zumindest vorübergehend auf Rang sieben der Tabelle. "Wir haben das Gefühl, dass wir stabil sind", erklärte Coach Oliver Kirch.
+
+Braunschweig muss mit weiterhin 10 Punkten den Blick eher in Richtung Abstiegszone richten. "Vor allem mit dem Ball waren wir heute sehr schwach. In der ersten Halbzeit haben wir nichts entgegenzusetzen gehabt", ärgerte sich Braunschweigs Trainer Lars Kornetka.
+
+In der angesprochenen ersten Halbzeit übernahmen die Gastgeber nach verhaltenem Beginn nach rund 15 Minuten das Kommando. Jannik Rochelts erster aussichtsreicher Versuch wurde noch geblockt, bevor dann Großer per Flugkopfball nach Flanke von Arne Sicker zur Führung traf. Nur drei Minuten später war Rochelt der Assistent für Grodowski, der die Flanke am Elfmeterpunkt annahm, den Ball auf den starken rechten Fuß legte und mit eben jenem überlegt abschloss.
+
+Von Braunschweig kam im ersten Abschnitt kaum etwas, nur zwei Torschüsse und ein xGoals-Wert von 0,09 sprachen eine eindeutige Sprache.
+
+Im zweiten Abschnitt brachte Braunschweigs Coach Kornetka drei neue Spieler - zum Anschluss traf aber mit Opoku einer, der von Beginn an auf dem Platz gestanden hatte. Bielefelds Keeper Jonas Kersken machte dabei eine nur bedingt überzeugende Figur.
+
+Die Gäste waren nun besser im Spiel, den Bielefeldern war die Verunsicherung anzumerken. Doch Braunschweig konnte das Momentum nicht nutzen, stattdessen sorgte Grodowski mit seinem zweiten Treffer für Erleichterung auf der Alm und den Schlusspunkt der Partie.
+
+Bielefeld ist am Samstagmittag bei Holstein Kiel zu Gast (13 Uhr). Braunschweig empfängt am Freitagabend Energie Cottbus (18.30 Uhr).
+
+Dieses Thema im Programm: sportschau.de | Arminia Bielefeld gegen Eintracht Braunschweig - die Audio-Highlights | 30.10.2026 | 20:43 Uhr
+
+----------------------------------------
+
+[3] BOCHUM GEWINNT NACH POKAL-COUP AUCH IN COTTBUS
+
+Der VfL Bochum hat nach dem Pokal-Erfolg gegen Mainz auch in der 2. Fußball-Bundesliga nachgelegt und verschärft mit dem 2:1-Erfolg  bei Energie Cottbus die Krise bei den Lausitzern.
+
+Cottbus ist in der 2. Liga nun seit fünf Spielen sieglos. Die Bochumer beendeten dagegen ihre Durststrecke von fünf Spielen ohne Sieg in der Liga und durften nach dem Pokal-Coup unter der Woche gegen Mainz erneut jubeln.
+
+Tolcay Cigerci brachte Cottbus per Elfmeter in der 21. Minute in Führung. Philipp Hofmann mit dem Ausgleich (70.) und Christian Rasmussen (88.) mit dem Siegtreffer drehten die Partie für die Bochumer.
+
+Beide Teams waren nach den mageren Ergebnissen der vergangenen Wochen zunächst im Sicherheitsmodus unterwegs. Die Bochumer sorgten nach 15 Minuten für die erste gefährliche Strafraumszene: Berkan Taz legte von der linken Seite mit viel Übersicht zurück an die Strafraumgrenze, Koji Miyoshis Direktabnahme rauschte knapp am linken Pfosten vorbei.
+
+Ein Bochumer Geschenk brachte dann die Gastgeber ins Spiel: Philipp Hofmann fabrizierte einen folgenschweren Ballverlust in der Vorwärtsbewegung. Moritz Hannemann schickte einen Steilpass in den Strafraum, Bochums Keeper Timo Horn säbelte beim Klärungsversuch über den Ball und holte dann noch Lucas Copado von den Beinen - Schiedsrichter Florian Lechner blieb keine andere Wahl als auf Elfmeter zu entscheiden. Cigerci verwandelte sicher.
+
+Die glückliche Führung gab den Gastgebern mehr Sicherheit. Lukas Michelbrink hätte vier Minuten nach der Führung fast das zweite Tor nachgelegt. Sein Schuss von der Strafraumgrenze wurde abgefälscht und flog knapp an Horns Kasten vorbei. Kurz vor der Pause war es dann Bochums Keeper, der ein weiteres Gegentor verhinderte: Den ansatzlosen Schuss von Justin Butler wehrte Horn mit einer Flugeinlage ab.
+
+Bochums Coach Uwe Rösler musste reagieren, zur Pause kam Christian Rasmussen für den wirkungslosen Gerrit Holtmann. Und tatsächlich kam mehr Leben in die Bude: Erst setzte Hofmann einen Kopfball knapp neben das Tor (52.). Zwei Minuten später war es dann erneut Bochums Routinier, der nach Vorlage von Taz zum vermeintlichen Ausgleich traf - doch Lechner erkannte nach VAR-Check auf eine knappe Abseitsstellung.
+
+Keine 60 Sekunden später kassierte der VAR den nächsten Treffer ein - diesmal auf der Gegenseite: Butler jagte den Ball sehenswert aus 25 Metern unter die Latte, stand aber beim langen Ball nach vorne ebenfalls knapp im Abseits.
+
+In der Folge spielte aber nur noch Bochum, Cottbus geriet mehr und mehr ins Schwimmen: Den Kopfball von Rasmussen konnte Keeper Marcel Lotka noch über die Latte lenken (67.). Rasmussens Einwechslung machte sich dann aber drei Minuten später endgültig bezahlt: Der Däne brachte den Ball perfekt an den Fünfmeterraum, Hofmann schaltete schneller als seine Bewacher und drückte den Ball über die Linie.
+
+Der Ausgleich war längst verdient, und Bochum gelang fast der Doppelschlag: Jarne Steuckers wurde im Sechzehner nicht ernsthaft attackiert, der Pfosten verhinderte den zweiten Bochumer Treffer.
+
+Cottbus versuchte, in der Schlussphase noch einmal dagegenzuhalten: Der eingewechselte Christian Kinsombi hätte sein Team neun Minuten vor dem Ende beinahe wieder in Führung gebracht, aber Horn parierte ganz stark und machte damit seinen Blackout vor dem 0:1 wieder gut. Beim anschließenden Eckball kratzte Hofmann dann Leo Bittencourts Kopfball von der Linie.
+
+Dafür schlugen die Bochumer kurz vor Schluss entscheidend zu, mit einer ganz starken Einzelaktion: Mats Pannewig setzte Rasmussen in Szene, der schickte seinen Gegenspieler Luca Erling mit einer Täuschung ins Leere und jagte den Ball oben ins kurze Eck.
+
+Cottbus spielt am 11. Spieltag erneut am Freitagabend, diesmal auswärts bei Eintracht Braunschweig (18.30 Uhr). Bochum empfängt am Sonntag (13.30 Uhr) den Karlsruher SC.
+
+Dieses Thema im Programm: sportschau.de | Energie Cottbus gegen VfL Bochum - die Audio-Highlights | 20.44 Uhr
+
+----------------------------------------
+
+
+>>> TECH (WIRED) <<<
+
+[1] BEST SUNRISE ALARM CLOCK (2026): HATCH, LUMIE
+
+If you aren’t feeling rested when your alarm goes off, a sunrise alarm clock could change your life. The disruptive jolt of loud beeping and harsh tones isn't a fun way to start the day, nor is it a natural way to help your body rise. I’m a chronic snooze-button kind of gal, and I find a sunrise clock or wake-up light incredibly helpful for me to actually wake up when I need to and follow a healthier circadian rhythm, since the growing light helps tell my body it’s time to wake up. Plus, a bright light is much, much harder to ignore than a noise I can snooze.
+
+I've woken up to the bright hues of nearly a dozen different sunrise alarm clocks over the past two years, and it's a game changer. Here's what makes it work, and which ones I recommend the most.
+
+Your body is built to wake naturally with the sunrise and feel sleepy as the sun sets. The light at both the beginning and end of the day is a warm, golden tone, unlike the midday bright, slightly blue sunlight that keeps you wide awake. A sunrise alarm clock mimics this transition from morning to bright daytime light, helping to signal your body to wake up (or fall asleep, if the clock also has a sunset option).
+
+A sunrise alarm has a built-in light you can set to brighten at a certain time. It doesn't happen instantly; it will slowly transition over a period of anywhere from 10 minutes to an hour, and better sunrise alarms let you choose your exact brightening window. I usually choose a half-hour window for the light to start brightening, and let its brightening crescendo slowly wake me.
+
+There are also sound effects. Sunrise alarms have a mix of relaxing and classic sounds that will usually go off when the light starts to brighten, to also help rouse you. I'd actually prefer if the light went first and music activated later, but that isn't always an option for these lights.
+
+Some sunrise alarms also offer a sunset routine, meaning you can turn them on at night and they'll slowly dim into darkness to help you feel sleepy. It's another good visual cue for your brain and body to realize it's time for bed, and I prefer sunrise alarms like Hatch and Lumie that let you choose when to activate a routine (pushing a button starts the routine to happen over the course of 30 minutes, for example) versus needing to be in bed by a set time to use the routine.
+
+Ultimately, these lights can do a lot. They can double as a sound machine, help you wake up and fall asleep, and even act as a regular bedside lamp if they're bright enough. Not all sunrise alarms have all of these features, though, so you have to choose how much you want to spend and what features are most important to you.
+
+You might see a range of features listed for a sunrise alarm, and more expensive ones will include more of these than cheaper models. If you're not sure what features you want, try this series of questions to figure out what features you need.
+
+Do you struggle to fall asleep? Splurge on a sunrise alarm with a nighttime or wind-down routine. These help build a routine for you to fall asleep to.
+
+Do you need one device that doubles as an alarm and a bedside lamp? Get a brighter sunrise clock that has easy controls to switch it on as a bedside lamp. Not all sunrise clocks have these, so check the details carefully (and reviews like mine!) and note that cheaper, smaller sunrise alarm clocks usually won't brighten an entire bedroom.
+
+Are you picky about your alarm sounds? Check how many sounds are offered. Just about every sunrise clock has some sound machine features and options, but cheaper ones tend to only have a couple of sounds and might not have the sound you're looking for.
+
+Do you want app control? Some options in this guide don't have a partner app or Wi-Fi capabilities, especially some of my favorites. An app doesn't necessarily make it a better sunrise clock, but it can be convenient to use. If you prefer an app to set up your sunrise lamp, shop the Casper, Hatch, Loftie, and WiiM.
+
+This is my favorite sunrise alarm. It's big and bright with a stylish exterior, and it has a button for lamp mode so you can easily switch it on to use in the evening as a regular lamp, and it was bright enough to fill my bedroom like a normal lamp. It has a nice range of sounds and not only connects to the radio but also allows you to save five stations. There are both sunrise and sunset settings. The biggest downside is it only has a 24-hour clock, and it doesn't connect to Wi-Fi or an app, so you have to set the time manually (and change it manually for daylight saving). If you want to spend less, the Shine 300 ($169) is a little smaller and has fewer sounds, but otherwise is similarly great.
+
+The Hatch Restore 3 and its previous generations are probably the most popular sunrise alarm clocks. I constantly see the Restore 3 recommended online, from gift guides to TikTok videos, and it's understandable that it's so popular. It’s controlled by the Hatch app, which has a massive range of sounds, lights, and routines you can implement for both mornings and evenings. The Restore 3 came out in early 2025, and it has more buttons and controls, so once you set up your favorite settings, you can easily toggle them on with the press of a button. The Restore 3 isn't too large, which is nice for fitting onto bedside tables, but it's not quite as bright as I'd like to force me to wake up in the morning. There's also a paywall to get to all of Hatch's audio content, requiring a membership to Hatch+, but you can access plenty with the free content.
+
+If you want to spend less but don't want to lose out on sound and color options, WiiM's Wake-Up Light is the way to go. It's one of the smallest I've tried, but it was bright enough to still help rouse me, and it has a range of colors that look similar to a smart light bulb. It connects to the WiiMLight app, which has a huge range of sounds for free—my last count was 102 sounds and stations—and it can do both sunrise and sunset routines. It also promises to connect to Alexa, but that didn't work for me, and it is too small to use as a true bedside lamp. Even without that, the range of features you get for this price can't be beat.
+
+Blueair Mini Restful Air Purifier Sunrise Clock for $140: This is an air purifier and sunrise alarm clock blended into a single device. The Mini Restful is the smallest air purifier in Blueair’s Sleep Collection, and it promises to both gently wake you and to clean the air in your bedroom. You'll use Blueair's app, and it comes with nine sounds, and you can start your sunrise anywhere between 15 and 30 minutes before your alarm. You can read more in our guide to air purifiers.
+
+Casper Glow Light for $129: This light is cool because it responds to your touch and movement of the light. It turns on or off when you flip it over, and when you turn it, it will brighten or dim the light. There's no sound features, but it is battery powered and intuitive to use.
+
+Hatch Baby for $100: The updated version of the popular Hatch Rest is the Hatch Baby, with a new look and app options similar to the Hatch Restore 3 above. (Previously the app options were much simpler, even though the devices all share the same Hatch Sleep app.) This is a fun option for kids, though it doesn't do gradual sunrises. It does, however, turn on fun colors and play music at certain times and for certain lengths. My 3-year-old looks forward to the “green light” turning on every morning (but this does not, unfortunately, keep him from leaving his bed for mine at 4 in the morning). You'll also get a six-month subscription to Hatch+ content.
+
+Loftie Lamp for $280: Loftie's lamp is gorgeous, and it’s my favorite lamp to fill my bedroom. It has three different light colors and a handful of brightness settings for each. But for the high price, you need the Loftie Alarm to have sound features, and there's only a nine-minute brightening and dimming window, which doesn't help me much. It also syncs with Alexa, though.
+
+Yes! I'm a heavy sleeper in the morning, and these can still help me wake up. You might want to choose the most gradual increase of brightness on the sunrise lamp you choose, so that the slow brightening of the room can better slowly rouse you from that deep sleep.
+
+What’s the Difference Between a Sunrise Clock and a SAD Lamp?
+
+These two gadgets might look similar on the outside, but sunrise clocks and other wake-up style lights are for waking you up, while a SAD or seasonal affective disorder lamp is designed to simulate sunlight for you during the day. SAD lamps perform light therapy to help combat seasonal depression during darker times of the year, while sunrise alarms are just for making morning wake-up less rough. Both can help regulate your circadian rhythm, but in different ways. You could set a sunrise clock to stay on all day to help simulate sunlight, though these don't promise the same benefits, and you might not get the help you're looking for.
+
+We research all models in advance to see which ones are a fit for testing. We look to ensure they have wake-up features. (Some SAD lamps look similar to a sunrise alarm, for example, but if there's no gradual sunrise to wake up to, they don't qualify for testing with this guide.) And we look to test a variety of price points and additional features to see what's really worth buying. We make an effort to select both more affordable options with less features and high-end options to compare and contrast in our testing rounds.
+
+I tested each recommended sunrise clock on my bedside in a room with blackout curtains to see how much it could really brighten a room over the course of its sunrise routine. I slept with each model for anywhere between one and seven nights, depending on its performance. I also tried out the various sound options each machine had to offer to both test the speakers and see how pleasant the sounds were to wake up or fall asleep to. If there was a nighttime routine option, I tested that too.
+
+Power up with unlimited access to WIRED. Get best-in-class reporting and exclusive subscriber content that's too important to ignore. Subscribe Today.
+
+Take Up to 25% Off Custom Prints with VistaPrint Promo Code
+
+Take 10% Off Legal Services with This LegalZoom Promo Code
+
+© 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+----------------------------------------
+
+[2] WHITE DWARFS AREN’T JUST WHITE. SCIENTISTS DISCOVER DYING STARS TURNING PINK AND GREEN
+
+The realm of stars resembles a fairy tale. In it, we find giants, supergiants, and also many dwarfs. Rather like the flames of a fire, most stars’ colors are based on temperature. Cooler stars look orange, sun-like stars appear white, and the hottest ones shine light blue. However, there are exceptions, and astronomers have recently discovered some among the class of stars known as white dwarfs.
+
+At the end of their lives, stars with a mass similar to the sun expand and turn into red giants. Subsequently, they shed their gaseous envelope, creating a planetary nebula that we can admire through telescopes. In place of the star, a white dwarf remains—a highly condensed object the approximate volume of the Earth but the mass of the sun.
+
+Initially, white dwarfs have extremely high temperatures, and so the first ones discovered shone from white to light blue. That’s how they got their name. But according to a new study published in the journal RAS Techniques and Instruments, the world of white dwarfs is actually far more colorful—with some stars turning pink, green, and even purple.
+
+The researchers posit that density is the deciding factor. The atmospheres of the coolest white dwarfs can reach a density of approximately 1 gram per cubic centimeter. That’s roughly the same density as water, which may not sound like much, but it’s packed for a star, this being about a million times denser than the sun’s atmosphere. Under these conditions, any trace elements like carbon, calcium, and sodium interact with the surrounding dense helium plasma and absorb light across a wider range of colors.
+
+Material from ancient planetary systems also plays a role. The closest planets can perish in the fiery embrace of the red giant phase. Other planets, and especially asteroids, begin to collide and migrate toward the dead star. Fragments of these bodies then integrate into the white dwarf's atmosphere.
+
+Through a hobbyist’s telescope, a white dwarf looks just like any other faint star. However, if observed up close, their colors would be much more varied. Carbon-rich white dwarfs tend to be pink or purple. According to calculations, white dwarfs whose atmospheres have been enriched with material from shattered asteroids or other bodies will exhibit yellow and, in some cases, green shades. The coolest white dwarfs are often a baby blue, which is caused by hydrogen and helium atoms colliding in their extremely dense atmospheres.
+
+One example is the star WD J1330+6435. With a temperature of around 4,000 degrees Celsius, it has accumulated rocky material from its planetary system, enriching its atmosphere with calcium, lithium, and sodium. These elements give it a light chartreuse color, making it the first known green star in our galaxy.
+
+Another white dwarf, WD J1011+2845, has a massive amount of carbon in its atmosphere. Almost all of its radiation is concentrated at wavelengths exceeding 600 nanometers, giving it a salmon-pink color. Meanwhile, the white dwarf WD J902-2010 leans toward the more bubblegum end of the spectrum.
+
+However, there’s no reason to expect white dwarfs to start getting renamed, because most of these stars are, in fact, white. For this study, the authors examined 152 white dwarfs located within 65 light-years of Earth. Only five of them showed unusual coloration, suggesting that approximately one in thirty white dwarfs in the universe shines with unusually colored light.
+
+This might seem like an expected result, but scientists previously assumed that white dwarfs were predominantly blue. That assumption may reflect bias in sampling the night sky. The hottest white dwarfs are also typically the brightest and can, therefore, be seen from greater distances. Because they’re easier to observe, many studies end up over-representing blue stars.
+
+While you won’t be able to see the nearest white dwarf with the naked eye either, you can at least look in its direction. Sirius B is the companion to the brightest star in Earth’s night sky. During winter, Sirius is easy to spot shining brightly above the eastern horizon. Sirius B belongs to the group of “more boring” white dwarfs—its temperature hovers around 25,000 Kelvin, giving it a light blue color.
+
+This story originally appeared on WIRED Czech Republic and Slovakia and has been translated from Czech.
+
+In your inbox: For life-tested picks, sign up for our Gear newsletters
+
+Airbnb hosts are furious they can no longer make guests do their chores
+
+big story: cool kids write in all lowercase—does that make you mad?
+
+WIRED event: The technologies, people, and ideas transforming our world
+
+© 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+----------------------------------------
+
+[3] WAYFAIR COUPONS: UP TO 80% OFF NOVEMBER 2026
+
+Wayfair has become a staple of online furniture sales thanks to its wide selection of furniture and home goods, fast and free shipping on orders, and 24-hour flash sales. Save even more this month with Wayfair promo codes and coupons for up to 80% off pricey purchases like furniture. Wayfair carries almost everything needed to furnish a home, including pillows, mattresses, bedding, home goods, couches, office chairs, and so, so much more (even cat furniture), and we’ve rounded up the best ways to save from this often WIRED-tested and -reviewed brand.
+
+The temperatures are dropping, and you’ll be spending more time at home, making it a great time to upgrade your living space with discounted bedroom furniture, living room seating, dining furniture, and more when you shop the fall clearance section at Wayfair. In addition to the previously mentioned furniture discounts, there’s an entire surplus sale section with up to half off, as well as discounted home goods categories, like Christmas trees, seasonal decor, rugs, bedding, and more.
+
+Wayfair has become a staple of online furniture sales thanks to its wide selection of furniture and home goods, fast and free shipping on orders over $35, limited-time deals, and exclusive daily sales. There are tons of rotating Wayfair coupons and flash deals for up to 70% off pricey purchases like furniture. Since its founding 20 years ago, the Boston-based online retailer has grown steadily and now offers 14 million items from more than 11,000 global suppliers. Wayfair carries almost everything needed to furnish a home, including pillows, mattresses, bedding, home goods, couches, office chairs, and so, so much more (even cat furniture). We’ve rounded up the best ways to save from this often WIRED-tested and -reviewed brand.
+
+Spooky season is here, and Wayfair has the decorations to get your home into the spirit. With a wide selection of whimsical, Halloween-themed decorations and deals on both outdoor and indoor decor under $20, Wayfair may be your unexpected Halloween destination. Wayfair also breaks down its Halloween selections, making it easier to find what you’re looking for, with Halloween accents from $20, entryway essentials from $30, doormats from $25, lawn statues and props from $40, wreaths and garlands from $25, inflatables from $40, and more.
+
+The holiday season is quickly approaching, and now’s the time to get prepared. Save money while hosting this year by shopping Wayfair’s Thanksgiving section. With Wayfair’s Thanksgiving shop, you can find tons of discounted items ahead of the celebration marathon, including table linens and drinkware sets starting at $25, fall decor starting at $25, dining tables starting at $200, dining chairs at $150, cookware sets starting at $50, and more.
+
+Along with their already deeply discounted prices, Wayfair offers free shipping on orders over $35 (an almost guaranteed price you’ll meet) and 2-day shipping on tons of items. Even better, your order qualifies for free shipping when you shop during the Wayfair Black Friday sale, happening right now.
+
+Wayfair has daily sales and early Black Friday deals, with half off or more on bedroom, kitchen, dining room, and living room furniture, including tables and TV stands. There are also Wayfair flash sales, like rotating 24-hour Deals of the Day, which change daily and are heavily discounted, up to 80% off. There are also deeply discounted Closeout Deals on discontinued and overstocked products, with up to 70% off last-chance items. I’m taking advantage of these Wayfair Black Friday sales by nabbing an office desk for 50% off from the closeout deals page, and I’ll be investing in a Wayfair office chair to complete my new WFH setup (I'm currently working on one of my favorite Wayfair mattresses from my cheap mattresses guide, which isn't the most, ahem, professional).
+
+First-time users can get 10% off their first order with this Wayfair promo code when they sign up for email or text alerts. While Wayfair doesn’t always offer coupons, it will send personalized promo codes directly to you via email, along with other deals, promotions, and discounts.
+
+Wayfair knows you’re making an investment, not just buying home goods or furniture. These are items you’ll be sleeping on, eating on, and sitting on for years to come—they should be built to last. Wayfair has hundreds of items that have been hand-verified for quality by Wayfair’s own product specialists using a 10-point inspection system. The system measures material quality, ease of assembly, functionality and features, and ratings, so you don’t have to deal with returns and know it meets market-tested value. Wayfair product specialists go through each product category and identify which items meet key quality criteria—only 1% of items on Wayfair earn the Wayfair Verified stamp of approval, including many of their budget mattresses (which we’ve reviewed many of).
+
+Be sure to check out Wayfair Verified items here, which include goods across the bedroom, like down comforters, the living room, like couches, and other important spaces like the bathroom, office, storage, kitchen, and more.
+
+You can save and find even more items and exclusive deals in the Wayfair mobile app. You can get up to 20% off in the app. The app not only helps you save more, but it also uses technology to help you visualize items in your room and provides exclusive access to handpicked products and flash sales.
+
+If you own a business, you can join Wayfair Professional, which gives you access to exclusive discounted pricing of up to 15%, an additional 10% off specialty brands, a large selection of products across Wayfair’s brand network, 360-Degree Support, and fast, free shipping on select orders.
+
+Whether you’re overhauling your home for a full makeover or just need affordable, fast delivery for furniture, Wayfair has practically everything you need to live comfortably. Be sure to check back often for more Wayfair promo codes, flash-sale notifications, and additional ways to save on furniture and home goods.
+
+Take Up to 25% Off Custom Prints with VistaPrint Promo Code
+
+Take 10% Off Legal Services with This LegalZoom Promo Code
+
+© 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+----------------------------------------
+
