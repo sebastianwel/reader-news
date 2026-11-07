@@ -1,0 +1,380 @@
+=== DAILY BRIEFING - 07.11.2026 ===
+Quellen: Tagesschau, Sportschau & Wired Tech
+
+
+>>> TAGESSCHAU TOP-NEWS <<<
+
+[1] WELCHE FAKES RUND UM DIE MIDTERMS KURSIEREN
+
+Gefälschte Nachrichtenbeiträge, manipulierte Wahlmaschinen und erfundene Vorwürfe gegen Kandidaten: Rund um die US-Midterms verbreiten sich zahlreiche Falschbehauptungen. Dahinter stehen zum Teil russische Einflusskampagnen.
+
+"It's rigged", zu Deutsch "Das ist manipuliert", heißt es in einem Posting auf X zu einem viral gegangenen Video im Zusammenhang mit den Zwischenwahlen in den USA. Im Video zu sehen ist eine Frau in Cook County (US-Bundesstaat Illinois), die berichtet, dass eine Wahlmaschine sie nach ihrer Wahl darauf hingewiesen habe, dass andere Wähler den von ihr ausgewählten republikanischen Richterkandidaten normalerweise nicht wählen würden. "People are not typically choosing this person!" habe dort angeblich gestanden.
+
+Das Video wird in einem Posting auf X mehr als 1,4 Millionen Mal aufgerufen und als Beleg im Netz verbreitet, dass die elektronischen Wahlmaschinen zur Stimmabgabe in den USA manipuliert seien. Ein Narrativ, das bereits zur Präsidentschaftswahl 2024 verbreitet wurde.
+
+Doch die Beschreibungen der Frau halten einer Überprüfung nicht stand. Die Wahlverwaltung von Cook County erklärt, dass die Wahlmaschinen keine Informationen über die Beliebtheit von Kandidaten anzeigten. Sie zeigten einen Hinweis an, wenn bei einem Wahlgang weniger Stimmen abgegeben werden, als möglich: "This contest is undervoted!" Das solle sicherstellen, dass die Wähler ihre Auswahl vor der Abgabe noch einmal überprüfen.
+
+Zudem seien bei den Zwischenwahlen in Cook County gar keine republikanischen Richterkandidaten angetreten, wie das Büro von Cook Country Clerk gegenüber PolitiFact mitteilte.
+
+Das Rennen um Alaskas Sitze im US-Senat ist knapp. Donald Trump meint: Die Wahl sei nicht fair gewesen.
+
+Auch eine weitere Falschbehauptung, welche die Rechtmäßigkeit der Wahl anzweifelt, kursiert nach den US-Zwischenwahlen in den Sozialen Netzwerken. In mehreren Beiträgen auf X heißt es, das FBI habe bei einer Razzia in einem Lagerhaus in Houston mehr als 20.000 gefälschte Stimmzettel entdeckt. Dazu wurden Fotos eines FBI-Einsatzes, eines Lagerhauses und angeblicher Wahlunterlagen geteilt.
+
+Für die angebliche Razzia gibt es jedoch keine Belege. Das FBI dementierte gegenüber der dpa ausdrücklich einen Einsatz im Zusammenhang mit den Wahlen. Auch die Bilder führen in die Irre: Das FBI-Fahrzeug stammt von einem Einsatz in Atlanta im Januar 2026, das Foto des Lagerhauses ist älter. Bei den vermeintlichen gefälschten Stimmzettel handelt es sich um Stimmzettel, die im Rahmen der vorzeitigen Stimmabgabe am 21. Oktober in San Francisco sortiert wurden.
+
+In einem weiteren Beitrag auf X, der mehr als 760.000 Mal angesehen wurde, wurde dem texanischen Generalstaatsanwalt Ken Paxton eine Äußerung zugeschrieben, in der er den Wahlsieg des Demokraten James Talarico infrage stellte. "It is simply not possible for somebody with the radical ideology of James Talarico to win an election in Texas fairly", steht dort - es sei "schlichtweg unmöglich", dass Talarico mit seiner "radikalen Ideologie" eine Wahl in Texas mit fairen Mitteln gewinnen könne. Der Beitrag sah aus wie ein Standbild aus einer NBC-Sendung.
+
+Doch Paxton hat diese Äußerung nicht gemacht. Das vermeintliche NBC-Bild ist nicht authentisch. Stattdessen gratulierte der Republikaner seinem Kontrahenten öffentlich zum Wahlsieg und räumte seine Niederlage ein. Talarico gewann den Senatssitz für Texas. Erstmals seit mehr als 30 Jahren ging damit ein solcher Sitz in dem Bundesstaat an einen Demokraten.
+
+Falschbehauptungen wie diese stoßen bei einem großen Teil der US-Bevölkerung auf Resonanz. Laut einer repräsentativen Umfrage des Rechercheunternehmens NewsGuard glauben 54 Prozent der befragten US-Amerikaner mindestens eine von drei abgefragten Falschbehauptungen über die Integrität von Wahlen.
+
+Dazu gehörten Behauptungen über angeblichen Betrug bei der Briefwahl, die Beteiligung von Menschen ohne US-Staatsbürgerschaft an Wahlen und eine angebliche Manipulation von Wahlmaschinen über das Satellitennetzwerk Starlink. Nur 13 Prozent stuften alle drei Behauptungen korrekt als falsch ein.
+
+In einem laufend aktualisierten Tracker hat Newsguard bis zum 5. November 55 Falschbehauptungen rund um die Midterms dokumentiert. 26 davon drehten sich um vermeintlichen Wahlbetrug. NewsGuard dokumentierte insgesamt 611 einzelne Nennungen dieser Behauptungen auf zwölf Plattformen, in mehr als 392 verschiedenen Social-Media-Konten, auf 71 Webseiten und in 24 Beiträgen in nationalen Nachrichtensendern. 64 Prozent der erfassten Fälle entfielen auf Elon Musks Plattform X.
+
+Den Demokraten gelang bei den Midterms vielerorts Historisches - eine Auswahl.
+
+Ein möglicher Grund für die Verbreitung von Falschbehauptungen ist Wahlwerbung von den Parteien und ihren Unterstützungsorganisationen selbst. Nach Angaben des Faktencheckportals PolitiFact wurden Wahlwerbespots häufig nicht nur genutzt, um sich selbst zu präsentieren, sondern um den politischen Gegner zu diskreditieren - auch mit Hilfe von Falschbehauptungen.
+
+Hinter diesen Kampagnen stecken hohe Summen Geld. Landesweit gaben politische Kandidaten und externe Gruppen dem Werbe-Unternehmen AdImpact zufolge rund 12 Milliarden Dollar für Wahlwerbung im Vorfeld der Zwischenwahlen aus.
+
+Neben Falschbehauptungen, die aus unterschiedlichen politischen Motiven verbreitet werden, gibt es auch gezielte ausländische Einflussoperationen. Besonders russische Akteure versuchen seit Jahren, politische Debatten und Wahlkämpfe in westlichen Staaten zu beeinflussen.
+
+In den USA zeigen sich diese Aktivitäten derzeit unter anderem in manipulierten oder KI-generierten Videos, welche die demokratische Senatskandidaten in den umkämpfen Bundesstaaten Texas, Maine und Ohio diskreditieren sollten.
+
+Das Midterms-Ergebnis ist deutlich, die Gründe auch: ein unbeliebter Präsident und hohe Preise.
+
+Ein manipuliertes Video zeigte einen angeblichen Fernsehbericht des Senders Cleveland 19, in dem vier ehemalige Mitarbeiterinnen dem Abgeordneten Sherrod Brown aus Ohio sexuelle Übergriffe vorwarfen. Das Video verwendet zwar echtes Bildmaterial des Senders, die Stimme des Nachrichtensprechers wurde jedoch nachträglich eingefügt, und es finden sich beim Sender keinerlei Berichte über die Anschuldigungen. Einer der im Video genannten ehemaligen Mitarbeiterinnen Browns bezeichnete die Darstellung als frei erfunden.
+
+Ein weiteres gefälschtes Video erweckt den Eindruck, der Sender WABI habe über Vorwürfe gegen den demokratischen Senatskandidaten Troy Jackson aus Maine berichtet. Demnach soll Jackson Mitarbeiter mit einer Axt bedroht haben. Auch hier wurde nachträglich eine künstliche Tonspur über echtes Nachrichtenmaterial gelegt und es gibt bei offiziellen Kanälen des Senders keinerlei Berichte hierüber.
+
+In einem weiteren viral gegangenen Video ist ein Mann zu sehen, der sich als ehemaliger Schüler des texanischen Senatskandidaten der Demokraten, James Talarico, ausgibt. Er behauptet, Talarico habe ihn als Zwölfjährigen sexuell missbraucht. Doch bei dem Mann im Video handelt es sich um einen KI-generierten Deepfake, der auf dem Aussehen von Talaricos ehemaligen Schüler Zyon Lewis basiert. Lewis wies die Vorwürfe zurück und erklärte, das Video sei KI-generiert. Auch Talaricos Pressesprecherin bezeichnete die Anschuldigungen als haltlos und falsch.
+
+Nach Angaben von NewsGuard erreichten die drei gefälschten Videos zusammen rund 2,8 Millionen Aufrufe in 3.790 Social-Media-Beiträgen. Das Forschungskollektiv Gnida Project, das seit Jahren russische Desinformationskampagnen beobachtet sowie weitere Experten, ordnen die Videos der russischen Einflussoperation Storm-1516 zu. Trotz der weit verbreiteten Falschbehauptungen konnten alle drei Demokraten die Wahl für einen Sitz im Senat für sich entscheiden.
+
+Auch unter dem Hashtag #AllDemocratsAreCriminals verbreiten sich zahlreiche manipulierte Videos, in denen bekannte Schauspielerinnen und Schauspieler aus Hollywood und andere Personen des öffentlichen Lebens scheinbar gegen die Demokratische Partei Stellung beziehen.
+
+"Heute gibt es in Amerika kein einziges Kind, das nicht von den Demokraten bedroht wird", sagt in einem Video eine stimmlich geklonte Version von "How I Met Your Mother"-Schauspielerin Alyson Hannigan. In einem anderen Video bezeichnet Schaupielerin Sarah Jessica Parker vermeintlich den ukrainischen Präsidenten Wolodymyr Selenskyj als Nazi.
+
+Die Aufnahmen sind gefälscht. Experten bringen die Videos mit der russlandnahen Desinformationskampagne Matrjoschka in Verbindung.
+
+Russische Informationsmanipulation rund um Wahlen finde inzwischen in einem nahezu "industriellen Maßstab" statt, sagt Julia Smirnova, Senior Researcherin beim Center für Monitoring, Analyse und Strategie (CeMAS). Dies sei unter anderem durch den Einsatz von Künstlicher Intelligenz möglich. Von der Recherche bis zur massenhaften Erstellung von Websites und Inhalten, wie beispielsweise Deepfakes, werde KI genutzt. Dabei seien jedoch viele der Fälschungen qualitativ recht schlecht gemacht. "Entscheidend ist, dass sie plausibel genug erscheinen, um Zweifel zu wecken und von anderen Akteuren weiterverbreitet zu werden."
+
+Die Kampagnen und Beeinflussungsversuche durch Russland rund um Wahlen beträfen viele Länder weltweit. Alle folgten häufig einem wiederkehrenden Muster und liefen in mehreren Phasen ab, so Smirnova. Zunächst würden Netzwerke aus Webseiten und Social-Media-Konten aufgebaut. Oft würden Kandidaten und Regierungen diskreditiert, die eher als proeuropäisch gelten oder weniger russlandfreundlich seien. Zugleich griffen die Kampagnen polarisierende Themen auf, spitzten diese zu und verstärkten sie über koordinierte Netzwerke.
+
+Unmittelbar vor den Wahlen würden vermehrt Zweifel an der Integrität des Wahlprozesses gestreut. Die Themen und konkrete Behauptungen würden dabei häufig für die jeweiligen Länder angepasst, erläutert Smirnova. "In den USA geht es zum Beispiel darum, dass Nicht-US-Bürger angeblich widerrechtlich an Wahlen teilnehmen oder bestimmte Wahlmaschinen manipuliert seien, in Deutschland wird immer wieder die Briefwahl besonders angegriffen." In einer Untersuchung identifizierte das CeMAS zu den Landtagswahlen in Deutschland unter anderem die russischen Einflussoperationen Matrjoschka, Doppelgänger und Storm-1516.
+
+Zu den Wahlen in Mecklenburg-Vorpommern und Berlin verbreiten sich Videos, die angebliche Wahlmanipulation zeigen.
+
+Das übergeordnete Muster ähnele sich länderübergreifend: "Das wichtigste Ziel von diesen Versuchen ist, die betroffenen Länder zu destabilisieren und demokratische Institutionen sowie demokratische Prozesse in diesen Ländern zu untergraben, das Vertrauen in das politische System insgesamt zu schwächen."
+
+Wie stark solche Kampagnen tatsächlich Einstellungen oder Wahlentscheidungen beeinflussen, lässt sich nur schwer messen. Hohe Aufrufzahlen und viele Beiträge bedeuteten nicht automatisch, dass die Inhalte auch ein großes Publikum erreichten. "Künstliche Verstärkung kann die Reichweite verzerren", sagt Smirnova. Entscheidend sei deshalb auch, ob Inhalte von reichweitenstarken Accounts oder politischen Akteuren aufgegriffen und weiterverbreitet würden.
+
+----------------------------------------
+
+[2] KATASTROPHENÜBUNG: WAS WÄRE, WENN EINE DÜRRE DEUTSCHLAND LAHMLEGT?
+
+Jahrelang kaum Regen in Deutschland, heiße Sommer und dann seit Wochen eine extreme Hitzewelle. Das ist das Szenario von LÜKEX, einer Übung, die das Krisenmanagement von 180 beteiligten Organisationen verbessern soll.
+
+Angenommen, seit mehreren Jahren hat es in Deutschland stets zu wenig geregnet - die Flüsse führen kaum noch Wasser, der Grundwasserspiegel ist abgesunken und die Vorräte an Trinkwasser werden knapp. Seit einigen Wochen liegen die Temperaturen jeden Tag über vierzig Grad, bis zu 45 in der Spitze.
+
+In diesem Szenario haben 180 Behörden von Bund und Ländern, Hilfsorganisationen und Betreiber sogenannter Kritischer Infrastruktur (KRITIS) drei Tage lang dezentral, aber gemeinsam ihre Abläufe für den Katastrophenschutz erprobt, um für den Ernstfall vorbereitet zu sein.
+
+Doch kein überhitzter Patient wurde bei dieser Übung in die Notaufnahme eingeliefert, es wurden keine Tankwagen mit Trinkwasser angekarrt und keine zusätzlichen Lebensmittel aus Übersee eingekauft. Die Übung spielte sich ausschließlich an den Monitoren der beteiligten Organisationen ab - in ganz Deutschland.
+
+Deutschland ächzt unter Hitzerekorden - doch beim Schutz der Bevölkerung bleiben viele Maßnahmen Stückwerk.
+
+Drei Jahre lang hat das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK) gemeinsam mit dem Bundesinnenministerium LÜKEX vorbereitet. Ein Jahr wird es brauchen, um die Übung vollständig auszuwerten.
+
+Man will beim Katastrophenschutz nichts mehr dem Zufall überlassen: "In einer Zeit, in der Extremwetterereignisse wie Hitze und Dürren zunehmen, ist es entscheidend, dass wir gemeinsam an Lösungen arbeiten und die Strukturen stärken. Die diesjährige LÜKEX mit dem Schwerpunkt Dürre und Hitzewelle ist ein wichtiger Schritt in diese Richtung", so BBK-Präsidentin Grit Tüngler.
+
+Markus Reichstein, Direktor am Max-Planck-Institut für Biogeochemie in Jena, erforscht die Resilienz der Bevölkerung, aber auch der Biosphäre gegenüber Klimaextremen. Er weiß, wie Böden, Wasser und Vegetation darauf reagieren.
+
+Er sagt: "Wir haben in Deutschland bereits erlebt, dass sich Dürren über mehrere Jahre hinziehen können. In einigen Regionen waren die Böden nach 2018 über fünf Jahre hinweg bis in große Tiefen ungewöhnlich trocken. Wann die nächste mehrjährige Dürre kommt, können wir nicht vorhersagen - aber sie ist ein reales Risiko, auf das wir uns vorbereiten müssen."
+
+45 Grad im Schatten und das nach mehreren Dürrejahren. Dieses fiktive Szenario ist Grundlage für die Übung von Bund und Ländern.
+
+Die größte Gefahr liege in Kettenreaktionen. Hitze bewirke Trockenheit und diese begünstige Waldbrände. Der dann entstehende Rauch verschlechtere wiederum die Luftqualität, was die Gesundheit belaste und die Resilienz mindere. Damit einhergehende Dürre führe zu Ernteausfällen, welche die Lebensmittelpreise ansteigen ließen. Wasserknappheit und Niedrigwasser würden der Industrie Transportwege auf Flüssen nehmen und Energieunternehmen wegen fehlendem Kühlwasser zur Drosselung ihrer Produktion zwingen. So entstünde aus einem Klimaextrem eine systemische Krise, bei der sich die Folgen gegenseitig verstärken.
+
+Um die Folgen einer solchen Krise abzufedern, üben die Beteiligten aus Behörden und KRITIS, wozu Energie-, Wasser- und Lebensmittelversorger ebenso gehören wie Krankenhäuser, Telekommunikationsanbieter, Versicherer, Banken, Logistiker, die Müllentsorgung und die Medien.
+
+Der extrem heiße Sommer und verringerte Anbauflächen haben Folgen für die Kartoffelernte in Deutschland.
+
+Das Thema der diesjährigen LÜKEX wurde nicht erst nach, sondern bereits Jahre vor dem sehr heißen Sommer 2026 festgelegt. Dieser zeige allerdings eindrücklich die Relevanz, so die Veranstalter.
+
+BBK-Sprecherin Maren Kebbel betont, dass sich das gewählte Szenario an reale Gegebenheiten der Vergangenheit anlehne, allerdings zuspitze: "Diese Verschärfung ist in der Krisenmanagement-Übung nötig, damit alle übenden Organisationen ihre Reaktionsmechanismen testen und verbessern können. Das Bevölkerungsverhalten, das heißt Informationsbedarfe, Risikobewusstsein und -kompetenz, persönliche Notfallvorsorge und weitere Resilienz- und Vulnerabilitätsfaktoren sind ein wichtiges Element der Übungsdurchführung."
+
+Was auf die Teilnehmer zukomme, seien zum Beispiel Meldungen über warmgelaufene Server und IT-Ausfälle, Stromausfälle, Wassermangel, Engpässe in Krankenhäusern, aber auch der Umgang mit Falschmeldungen und bewusster Irreführung der Bevölkerung aus dem In- und Ausland.
+
+Damit geht auch der Puffer für Dürrejahre verloren - mit Folgen für Bevölkerung und Wirtschaft.
+
+Im vergangenen Sommer gab es in Deutschland 16.000 Hitzetote, im Jahr 2024 waren es in ganz Europa 50.000 Opfer. Zu den Gesundheitsrisiken kommen die schlechtere Versorgung mit allem Lebensnotwendigen und Probleme mit der Infrastruktur.
+
+Jeder einzelne Risikofaktor für sich wäre handhabbar, sagt Markus Reichstein. Ihr Zusammenwirken mache eine solche Krise so gefährlich. Vorhandenes Wissen über Einzelgefahren sei dann zu wenig: "Wenn Wasser-, Energieversorgung, Landwirtschaft und Gesundheitssystem gleichzeitig unter Druck geraten, reicht das nicht aus. Wir müssen stärker in systemischen Risiken denken und uns auf das Zusammenwirken verschiedener Krisen vorbereiten. Das Wissen ist in vielen Bereichen bereits vorhanden - entscheidend ist, ob wir rechtzeitig danach handeln."
+
+Übungen wie LÜKEX hält er für ausgesprochen wichtig, weil sie das Zusammenspiel verschiedener Krisenbereiche testen und man daraus Verbesserungen ableiten könne. Das könne ein Umdenken bei Klimatisierung von Wohn- und Arbeitsbereichen bewirken, aber auch städtebauliche Veränderungen wie Verschattung oder Begrünung. Im Ernstfall könne man als Entscheidungsträger nur dann richtig reagieren, wenn man sich und die Gesellschaft schon vorher widerstandsfähiger gemacht habe.
+
+Die Folgen der von Menschen gemachten Klimaerwärmung werden der Analyse zufolge immer deutlicher.
+
+In diesem Sinne spricht das BBK davon, dass die Teilnahme an LÜKEX für die teilnehmenden Organisationen zu einer Verbesserung der Handlungssicherheit und Strukturen des Krisenmanagements führen und Netzwerke auf fachlicher und persönlicher Ebene untereinander schaffen soll - wie schon alle vorangegangenen LÜKEX in den 20 Jahren, seit es sie gibt.
+
+Ob das gelingt, weiß man erst im nächsten Jahr. Im ersten Quartal 2027 soll es eine erste Auswertung aller mitübenden Organisationen geben. Darauf aufbauend wird das BBK bis zum dritten Quartal alle übergreifenden Erkenntnisse zusammenfassen.
+
+Dieses Thema im Programm: NDR Info | Nachrichten | 04.11.2026 | 08:30 Uhr
+
+----------------------------------------
+
+[3] HUBIG WILL GELEAKTE E-MAILS ZUR PRÜFUNG VON AFD-VERBOTSVERFAHREN NUTZEN
+
+Justizministerin Hubig wirbt dafür, ein AfD-Verbotsverfahren zu prüfen - gegebenenfalls auch mithilfe der von Hackern veröffentlichten Mails aus den Reihen der Partei. In der schwarz-roten Koalition ist ein Verbotsverfahren jedoch umstritten.
+
+Nach den jüngsten Erfolgen der AfD bei den Landtagswahlen in Sachsen-Anhalt und in Mecklenburg-Vorpommern spricht sich Bundesjustizministerin Stefanie Hubig dafür aus, ein mögliches Verbotsverfahren der Partei durch eine Arbeitsgruppe mit Vertretern aus Bund und Ländern prüfen zu lassen. Dafür sollten aus Sicht der SPD-Politikerin auch die E-Mails genutzt werden, die vor Kurzem im Internet geleakt wurden.
+
+"Ich bin überzeugt, dass wir jetzt ernsthaft und systematisch prüfen müssen, ob die Voraussetzungen für ein Verbotsverfahren vorliegen", betonte Hubig im Gespräch mit der Neuen Osnabrücker Zeitung. Die im Netz von Unbekannten veröffentlichten Mails sollten dann herangezogen werden, "wenn sie Belege für die Verfassungsfeindlichkeit der AfD liefern".
+
+Vor rund zwei Wochen hatten unbekannte Hacker das 281 Gigabyte Daten umfassende Leak veröffentlicht. Seitdem stehen rund 420.000 E-Mails und fast 50.000 Dokumente zum Download im Internet bereit. Die AfD hat Teile des Leaks bestätigt.
+
+Unterstützung bekommt der CDU-Ministerpräsident von den Grünen, die CSU ist skeptisch.
+
+Die Justizministerin verwies auf die politische Lage in Sachsen-Anhalt, wo nach dem deutlichen Wahlsieg der AfD im September vor rund einem Monat mit Tobias Rausch erstmals in Deutschland ein AfD-Politiker zum Landtagspräsidenten gewählt worden war. Mitte Dezember soll ein neuer Ministerpräsident gewählt werden, dafür tritt der Spitzenkandidat der AfD, Ulrich Siegmund, an.
+
+"Schon die Wahl eines AfD-Abgeordneten zum Landtagspräsidenten war eine Zäsur", hieß es von Hubig. Eine AfD-Regierung in Sachsen-Anhalt wäre, "nach allem, was sich ermessen lässt, eine harte Belastungsprobe für den Rechtsstaat".
+
+Doch Hubig betonte auch, dass die Bundesregierung über die Frage, ob ein Verbotsverfahren gegen die AfD eingeleitet werden soll, nur im Konsens entscheiden könne. Bislang scheint es dazu in der schwarz-roten Koalition keinen einheitlichen Standpunkt zu geben.
+
+Bundeskanzler Friedrich Merz hatte sich nach der Wahl in Sachsen-Anhalt zwar offen für die Prüfung eines Verbotsverfahrens gezeigt, gleichzeitig aber die hohen Hürden für den Erfolg eines möglichen Verfahrens betont. Auch für Hubig sind "konkrete Erfolgsaussichten" Voraussetzung für einen Antrag auf ein Verbotsverfahren. Doch wenn es diese geben sollte, dann müsse ein solcher Antrag auch gestellt werden.
+
+Dieses Thema im Programm: tagesschau24 | Nachrichten | 07.11.2026 | 09:00 Uhr
+
+----------------------------------------
+
+
+>>> SPORT (SPORTSCHAU) <<<
+
+[1] BAYERN UND BVB VOR STOLPERGEFAHR IN DER BUNDESLIGA
+
+Bayern München und Borussia Dortmund haben nach ihrem direkten Duell und ihren Champions-League-Siegen im Liga-Alltag unangenehme Pflichtaufgaben in Mainz und gegen Elversberg zu erledigen.
+
+Noch immer ist völlig offen, wann Bayern-Trainer Vincent Kompany auf die Trainerbank zurückkehrt. Eine genaue Prognose wollte und konnte sein Assistent Araon Danks vor dem Auswärtsspiel beim FSV Mainz 05 (Samstag 15.30 Uhr) nicht abgeben.
+
+"Ich hatte ein paar richtig gute Telefonate mit Vincent in den vergangenen Tagen. Er wirkt positiv. Er scheint auf einem guten Weg zur kompletten Erholung", sagte Danks, der weiter den Beschützer für den Chefcoach gibt. Der Belgier fehlt wegen seiner Hirnhautreizung bis auf Weiteres.
+
+Am Samstag soll unter dem 43 Jahre alten Engländer Danks noch ein weiterer Erfolg vor der Länderspielpause in Mainz folgen, wo die Bayern im Dezember 2024 beim 1:2 ihre bisher letzte Auswärtsniederlage kassierten.
+
+Es war zugleich die erste Niederlage in der Liga nach Kompanys Amtantritt im Sommer 2024. Seitdem sind die Münchner seit 30 Auswärtsspielen ungeschlagen. Detail am Rande: Torjäger Harry Kane wartet nach seiner Kür zum Weltfußballer noch auf seinen ersten Treffer.
+
+Stolz verkündet der FC Bayern die Verlängerung des Ballon-d'Or-Siegers Harry Kane bis 2029. Den Münchnern ist es gelungen, alle Leistungsträger langfristig zu binden. Die Mission der nächsten Jahre ist nun klar: Der Champions-League-Titel.
+
+Es entbehrt nicht einer gewissen Pikanterie, dass der punktgleiche Verfolger Borussia Dortmund nach dem 2:2 im Topspiel der Vorwoche bei den Bayern am neunten Spieltag zeitgleich gefordert ist. Dabei macht die grassierende Erkältungswelle auch vor Trainer Niko Kovac nicht halt. "Entschuldigt die Stimme, aber ich bin ein bisschen angekratzt", sagte der 55-Jährige am Ende der Pressekonferenz vor dem Heimspiel gegen den Aufsteiger SV Elversberg (Samstag 15.30 Uhr).
+
+Anschließend griff der BVB-Coach zum Wasserglas und nahm erst einmal einen kräftigen Schluck. Nach der Partie gegen die Saarländer dürfte dem Trainer die anschließende letzte Länderspielpause des Jahres damit gelegen kommen. Auch für Torjäger Serhou Guirassy, der sich am Dienstagabend beim 2:1 in der Champions League gegen Betis Sevilla eine Zerrung zugezogen hatte.
+
+Der Angreifer musste bereits in der ersten Halbzeit ausgewechselt werden, nachdem er sich an den Oberschenkel gegriffen hatte. Neun Spiele innerhalb von vier Wochen und tausende Reisekilometer fordern Tribut bei den Dortmundern, die sich mit einem Dreier in die letzte Unterbrechung vor Weihnachten verabschieden wollen.
+
+Der BVB zeigt beim FC Bayern, dass es schwierig ist, ihn zu schlagen. Trainer Niko Kovac stellt um und sein Plan geht auf.
+
+Denselben Auftrag gab es in München. "Wir wollen den Lauf mit einem guten Ergebnis abschließen. Aber das wird nicht einfach, das wissen wir", sagte Danks. Vier der jüngsten sechs Gastauftritte haben die Bayern beim FSV in Mainz verloren, zuletzt jedoch nach 0:3-Pausenrückstand noch 4:3 gewonnen.
+
+Vier Tage nach dem 2:0 im Champions-League-Spiel bei Atlético Madrid könnte es personelle Umstellungen in der Startelf geben. Die Mainzer stecken nach drei Pleiten selbst in Schwierigkeiten.
+
+Samstag trifft BVB-Sportdirektor Ole Book mit Elversberg auf eine Mannschaft, die er über Jahre maßgeblich zusammengestellt hat.
+
+"Der Lösungsansatz ist ganz einfach: Wir müssen es die nächsten Spiele besser machen", sagte Trainer Urs Fischer, der für seine Verhältnisse in der Pressekonferenz am Freitag ungewohnt laut sprach. Man habe auch mit den Spielern untereinander diskutiert, es sei wichtig, sich diesen negativen Trend einzugestehen. Der Schweizer forderte nach dem jüngsten Offenbarungseid in Elversberg (1:4) unmissverständlich: "Es gilt die Tugenden von Mainz 05 auf den Platz zu bringen."
+
+Als Beleg habe er Szenen gezeigt, wie sich seine Mannschaft im Dezember 2025 kratzbürstig ein Remis (2:2) bei den Bayern erkämpfte. Damals sei sein Ensemble 134 Kilometer gelaufen, "das hat es noch nie gegeben", erinnerte Fischer: "Du brauchst gegen die Bayern auch das Wettkampfglück, das sie nicht ihren besten Tag haben."
+
+Aufsteiger SV Elversberg überrascht weiter in der Fußball-Bundesliga und nimmt den 1. FSV Mainz 05 schon in Hälfte eins auseinander. Der Höhepunkt aber kommt erst in der Nachspielzeit der Partie.
+
+Ähnliches sagen sie sich auch bei der SV Elversberg. Der Neuling sammelte im Oberhaus mit erfrischendem Offensivfußball bereits 13 Punkte. Das sind gerade einmal fünf Zähler weniger als der Bayern-Jäger BVB, wo der Ex-Elversberger Ole Book inzwischen als Sportdirektor arbeitet.
+
+SVE-Trainer Vincent Wagner wahrte dabei gegenüber seinem Manager ein Geheimnis. "Mir war gar nicht so richtig bewusst, dass er BVB-Fan ist. Das war zwischen uns kein Thema", bekannte Book im Interview mit der "Saarbrücker Zeitung". "Natürlich habe ich eine Geschichte mit Elversberg und mag die Menschen dort sehr", sagte Book: "Aber es geht nicht darum, wie der Sportdirektor das sieht oder wo er einmal gearbeitet hat. Es ist ein Bundesligaspiel gegen einen guten Gegner vor 81.365 Zuschauern." Für die Elversberger wird es gar ein nie dagewesenes Highlight, über 8.000 Anhänger begleiten den Klub aus der 13.000-Seelen-Gemeinde nach Westfalen.
+
+Dieses Thema im Programm: sportschau.de | Stolpergefahr für BVB und Bayern | 06.11.2026 | 15.43 Uhr
+
+----------------------------------------
+
+[2] HAMBURGER SV SCHIESST GLADBACH ZURÜCK IN DIE KRISE
+
+Der HSV hat das ereignisreiche Kellerduell gegen Borussia Mönchengladbach in der Fußball-Bundesliga mit 3:1 (1:1) für sich entschieden - auch dank eines spektakulären Treffers von Miro Muheim.
+
+Der Hamburger SV und Borussia Mönchengladbach lieferten sich im Kellerduell von Beginn an einen offenen Schlagabtausch. Miro Muheim (11.) traf mit einem herrlichen Distanzschuss zum 1:0, Joe Scally (44.) glich kurz vor der Halbzeit aus. Shafiq Nandja (60.) holte die Führung zurück, Albert Grönbaek (70.) traf zum 3:1-Endstand. Die Gladbacher mussten fast die komplette zweite Halbzeit nach der Gelb-Roten Karte für Ko Itakura (49.) in Unterzahl spielen.
+
+Gladbach bleibt damit auch am neunten Spieltag auf dem letzten Platz, während die Hamburger über Nacht sogar in die obere Tabellenhälfte kletterten.
+
+Von der ersten Minute an hatte die Partie ordentlich was zu bieten - mit Chancen auf beiden Seiten. Gladbachs Shuto Machino (4.) setzte einen Schuss knapp übers Tor, Patson Daka (8.) scheiterte frei an Keeper Daniel Batz, auch der direkte Gegenangriff durch Lukas Ullrich war gefährlich.
+
+Viel mehr Chancen brauchte es aber nicht, ehe es etwas Zählbares gab: Knapp hinter der Mittellinie bekam Miro Muheim in der elften Minute den Ball, legte ihn sich vor und wuchtete ihn aus 30 Metern mit knapp 130 km/h ins rechte untere Eck. Ein Traumtor.
+
+Miro Muheim gelingt das nächste Traumtor aus der Distanz
+
+"Ich hatte viel Platz und dachte mir 'Wieso nicht?'. Ich treff ihn perfekt und er geht schön unten in die Ecke. War ein geiler Moment", sagte Muheim im Sportschau-Interview. Dieser Treffer beweist, warum er der beste Distanzschütze der aktuellen Bundesliga-Saison ist. "Im Moment scheint fast jeder aus der Distanz reinzugehen. Ich bin überglücklich", so der Torschütze.
+
+Es ging weiter hin und her: Beide Teams machten ordentlich Druck und zeigten Lücken in den gegnerischen Defensivreihen auf. Sowohl HSV-Keeper Daniel Heuer Fernandes als auch sein Gegenüber Daniel Batz verhinderten mehrfach, dass der Ball im Netz zappelte.
+
+Bis er es kurz vor dem Halbzeitpfiff doch tat: Der Hamburger Warmed Omari köpfte eine Flanke aus dem Strafraum, doch landete der Ball vor den Füßen von Joe Scally (44.). Sein Schuss kullerte abgefälscht von Robin Hack ins Hamburger Tor. Mit dem 1:1 ging es in die Kabine.
+
+Statt auf dem Ausgleichstreffer aufzubauen, schwächte sich Gladbach kurz nach Wiederanpfiff (49.) selbst. An der Seitenlinie verteidigte der vorbestrafte Ko Itakura gegen Albert Grönbaek etwas zu forsch und sah folgerichtig die Ampelkarte. "Ich bin mir sicher, dass ohne die Gelb-Rote Karte heute mehr drin gewesen wäre", sagte Gladbach-Kapitän Philipp Sander am Sportschau-Mikro. Auch sein Trainer Alexander Blessin war enttäuscht: "Wir waren in der ersten Halbzeit die klar bessere Mannschaft. Und wenn wir das Spiel mit elf Mann beenden, gewinnen wir wahrscheinlich hier."
+
+Die Unterzahl kam Gladbach aber teuer zu stehen. Die Hamburger spielten ihre Überzahl kaltschnäuzig aus. Albert Lokonga spielte Grönbaek frei, der wiederum hatte das Auge für Shafiq Nandja, der den Ball an Batz vorbei ins Gladbacher Tor zur 2:1-Führung setzte (60-). Zu sicher durfte sich der HSV aber nicht fühlen. Fast hätte ein Patzer von Sebastiaan Bornauw nur sechs Minuten später die Führung wieder gekostet.
+
+Der Fast-Ausgleich rüttelte den HSV nochmal auf. Die Antwort kam von Grönbaek (70.), der es Muheim nachmachte und einen Distanzschuss zum 3:1 ins Netz der Gäste hämmerte. "Zwei Tore aus 30 Metern, das tut brutal weh", so Sander, "jeden Distanzschuss kann man nicht verteidigen. In der Regel haben wir die Verantwortung den Sechszehner zu schützen. Am Ende ist es eine 50:50-Entscheidung. Heute zu unserem Nachteil."
+
+Die Gladbacher Versuche, noch irgendetwas auszurichten, blieben erfolglos. Es blieb beim 3:1 für die Hamburger. So zeigte sich HSV-Trainer Merlin Polzin in der Sportschau entsprechend "extrem zufrieden. WIr haben mit viel Power nach vorne gespielt und uns viele Chancen erarbeitet. Das stimmt den Trainer glücklich."
+
+In Gladbach ist man nach dem verpatzten Saisonstart mit sechs Niederlagen in Folge trotz den Lichtblicken gegen Stuttgart und im Pokal gegen Karlsruhe jetzt also wieder im Krisenmodus.
+
+Der HSV ist am Spieltag nach der Länderspielpause am Sonntagabend bei Werder Bremen zu Gast (17.30 Uhr). Mönchengladbach empfängt am Samstagnachmittag Borussia Dortmund (15.30 Uhr).
+
+Dieses Thema im Programm: sportschau.de | HSV distanziert sich vom Tabellenkeller - die Audio-Highlights | 06.11.2026 | 22:38 Uhr
+
+----------------------------------------
+
+[3] VOM PERLENTAUCHER ZUM BVB-SPORTDIREKTOR
+
+Am Samstag empfängt Borussia Dortmund Bundesliga-Aufsteiger Elversberg. BVB-Sportdirektor Ole Book trifft dabei auf eine Mannschaft, die er fast neun Jahre maßgeblich zusammengestellt hat.
+
+BVB-Sportdirektor Ole Book hat eine Gewohnheit. "Nach unserem Sieg gucke ich kurz, wie Elversberg gespielt hat", sagte der 40-Jährige nach der Partie gegen Hoffenheim. Am Samstag muss Book nicht aufs Smartphone schauen, wenn die SV Elversberg dem BVB in der Fußball-Bundesliga als Gegner gegenübersteht (Ab 15.20 Uhr live in der Radio-Reportage beim WDR).
+
+Dass Ole Book bei Elversberg mitfiebert, ist verständlich. Fast neun Jahre hat er in unterschiedlichen Rollen für die Saarländer gearbeitet und gemeinsam mit dem Verein einen bemerkenswerten Aufstieg hingelegt.
+
+Seit März ist Ole Book Sportdirektor in Dortmund. Geboren in Beckum, gerade einmal eine Autostunde vom Westfalenstadion entfernt, war er schon seit seiner Kindheit Fan von Borussia Dortmund. "Die Verbundenheit reicht so weit zurück, wie ich mich erinnern kann", sagte Book bei seiner Vorstellung.
+
+Doch den Grundstein dafür, eines Tages beim großen BVB zu arbeiten, legte Book bei der SV Elversberg. 2017 kam er als Scout ins Saarland. Damals spielte Elversberg noch in der Regionalliga Südwest.
+
+Schnell arbeitete sich Book die Karriereleiter hinauf und wurde erst Sportdirektor und anschließend Sportvorstand. Gemeinsam mit Horst Steffen und später Vincent Wagner formte er eine Mannschaft, die es aus der Regionalliga bis in die Bundesliga geschafft hat.
+
+Der rasante Aufstieg von Elversberg lässt sich auch mit Ole Books Gespür für Spieler erklären, deren Potenzial andernorts noch nicht vollständig erkannt worden war. Nick Woltemade etwa kam 2022 auf Leihbasis aus Bremen nach Elversberg.
+
+"Da waren immer wieder so Momente, Pässe, Dribblings, dass wir uns dachten: Wow, das ist ein ganz besonderes Talent", sagte er einmal über Woltemade, der heutzutage bei Juventus Turin kickt. Auch Fisnik Asllani nutzte seine Leihe von Hoffenheim, um sich in der 2. Bundesliga zu empfehlen.
+
+Genauso erging es Younes Ebnoutalib, der aus der Regionalliga nach Elversberg gewechselt war und dort mit seinen Toren auf sich aufmerksam gemacht hatte, ehe er den Sprung zu Eintracht Frankfurt und schließlich in die Nationalmannschaft schaffte.
+
+Genau diese Transferphilosophie soll Book auch bei Borussia Dortmund verfolgen. Hier hat er nun seinen ersten Transfersommer hinter sich. Trainer Niko Kovac lobt ihn als "Arbeiter", der praktisch nie eine Pause mache.
+
+Anders als sein Vorgänger Sebastian Kehl, der Neuzugänge meist aus der Bundesliga zum BVB lotste, schaut Book ins Ausland. Zum Beispiel nach Griechenland (Konstantelias), in die Niederlande (Veerman) oder Belgien (Karetsas). Vor allem der 18-jährige Konstantinos Karetsas entpuppte sich in der noch jungen Saison als ein möglicher Unterschiedsspieler mit enormem Entwicklungspotenzial.
+
+Dass Ole Book, damals mitten in der Saison, von Elversberg nach Dortmund wechseln konnte, lag an einem Vertragsdetail. Er hatte sich eine Ausstiegsklausel in seinen Vertrag schreiben lassen, die ausschließlich für Borussia Dortmund galt.
+
+"Es war ein berufliches Ziel, bei Borussia Dortmund zu arbeiten. Und ja, es war bestimmt ein Zeichen von Selbstvertrauen", so Book. BVB-Geschäftsführer Lars Ricken lobte Books Weitsicht und holte wenig später mit David Blacha einen zweiten Funktionär aus Elversberg.
+
+Bekannte Gesichter wird Book am Samstag aber sicher nicht nur auf dem Rasen sehen. Rund 8.000 Elversberger haben Tickets für das Duell in Dortmund, für den Klub ein Rekord.
+
+Trainer Vincent Wagner, selbst BVB-Fan, kannte das Stadion bisher nur von der Tribüne. "Jetzt kommt das Größte, was die Bundesliga zu bieten hat", sagt er. Auch Wagner trifft dabei auf seinen früheren Sportdirektor.
+
+Ole Book freut sich auf das Wiedersehen: "Ich sehe unheimlich viele Menschen wieder." Dass man bei einem Gegner so viele Leute kenne, sei selten. Sportlich traut Book seinem Ex-Verein übrigens eine Menge zu. Er sehe eine Mannschaft, die für jeden gefährlich sein könne – und somit auch für Borussia Dortmund.
+
+Hinzu kommt aus BVB-Sicht der Ausfall von Serhou Guirassy. Der Torjäger hatte sich im Champions-League-Spiel gegen Real Betis eine Zerrung zugezogen und muss vorerst pausieren.
+
+Sendung: WDR.de, "Book mit dem BVB gegen seinen Ex-Verein", 06.11.2026, 14:26 Uhr
+
+----------------------------------------
+
+
+>>> TECH (WIRED) <<<
+
+[1] THE CYBERTRUCK’S DEATH IS ACTUALLY GREAT NEWS FOR EVS
+
+Tesla will end production of the Cybertruck at its Texas Gigafactory next year.
+
+It’s a uniquely toxic electric vehicle, between its divisive design and Elon Musk’s embrace of you name it. That toxicity certainly contributed to subpar sales, along with a number of recalls.
+
+But the end of the Cybertruck is also another sign that the era of big EVs—particularly big trucks—is waning. That’s great news for pedestrian and biker safety, but also for the battery supply chain at a time when more people need to get behind the electric wheel.
+
+The Cybertruck uses a massive 123-kilowatt-hour battery that clocks in at around 1,600 pounds, or around a quarter of the vehicle's weight. That’s on par with the battery that powered Ford’s F-150 Lightning, another electric truck that was canceled late last year. (The company also killed a three-row EV in 2024.) Ford’s behemoth batteries ranged from 98 kilowatt-hours up to 131 kilowatt-hours.
+
+Seeing both trucks canceled within a year of each other, while automakers have announced a bevy of smaller EVs and gas-powered autos with electric motors that can extend range, indicates there may be a shift afoot. Ford is planning to launch the Fathom next year. The sub-$30,000 electric pickup is expected to be about the size of the automaker’s compact gas-powered Maverick pickup. Though Ford hasn’t announced the battery sizes available in various trims, it’s a safe bet they won’t be anywhere near the size of the F-150 Lightning's or Cybertruck's. The company is also planning to relaunch the Lightning as an extended-range model.
+
+Startup Slate is also launching a tiny electric pickup that can be converted to an SUV, with a bare-bones base model starting below $25,000. It also features a svelte battery and has seen a massive surge in preorders—though, to be fair, so did the Cybertruck, and we saw how that turned out.
+
+Then there’s the Rivian R2, which launched this year. While the SUV isn’t as tiny or cheap as Ford and Slate’s vehicles—its battery has 88 kilowatt-hours of capacity and weighs in at around 1,200 pounds—it’s still smaller than the company’s flagship R1S. Rivian has also teased the R3, an even more-slimmed down SUV, in the coming years.
+
+That’s not to say big EVs are dead. The Kia EV9, for example, is among the top 10 EVs by sales in the US, as is the R1S. There’s also a torrid resale market for the F-150 Lightning. But the rest of the top 10 new EV sales are all crossovers, sedans, or mid-sized SUVs with moderately sized batteries, and a number of newly announced EVs are trending on the smaller side or function as extended-range vehicles.
+
+Building smaller vehicles is, of course, one way to make EVs cheaper. With less weight to propel, you can rely on a smaller battery. And given that the battery pack is the most costly component of an EV, that can in turn help automakers offer more affordable vehicles at a time when the price of so many other consumer goods is skyrocketing. That includes the current crop of EVs: The average transaction price for a new model is now $55,800, according to Cox Automotive.
+
+Going small—or smaller, anyway—also means making the most of a limited battery supply chain. The vast majority of Cybertruck drivers are doing the same thing with their vehicles as Hyundai Ioniq 5 drivers: getting groceries, commuting, and driving kids to soccer games. But a standard-range Ioniq 5 driver is doing it with a battery about half the size.
+
+After President Donald Trump’s administration killed EV incentives last year, sales plummeted. The Iran War and rising gas prices have led to an uptick in interest, though sales still lag behind the global average. (Used hybrid sales have also picked up, reflecting the pain people have been feeling at the pump.) Even with a Democratic-controlled Congress, EV incentives coming back under Trump are about as likely as defense secretary Pete Hegseth putting pronouns in his email signature. But should Democrats take the White House in 2028, marking the culmination of Woke 2.0, support for would-be EV buyers becomes much more likely.
+
+Automakers pivoting to smaller cars could be much better positioned to meet pent-up demand if that happens, while also lowering the risks of delivery delays.
+
+Even Elon’s announcement killing the Cybertruck points to where the market is heading: He claims Tesla is ending production to make room for cranking out more Cybercabs. The battery size in those vehicles? Just 48 kilowatt-hours.
+
+In your inbox: Go inside the world of digital security with Kernel Panic
+
+We sexted with a Muse AI agent—and Meta says that’s totally fine
+
+Want better search results? Make WIRED a preferred source in Google
+
+© 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+----------------------------------------
+
+[2] HOW STEPHEN MILLER SCHEMED HIS WAY TO THE TOP
+
+President Donald Trump on Friday announced that Stephen Miller, one of his most powerful and politically aggressive aides, would be his next White House chief of staff following disastrous results for Republicans in the midterm elections.
+
+Miller, whose titles until now were deputy chief of staff for policy and homeland security adviser, has orchestrated the most polarizing policies of Trump’s second term—most notably a brutal crackdown on immigration that has claimed the lives of US citizens.
+
+Trump made the change public in a statement on his Truth Social platform, writing that Miller would take over from Susie Wiles on Monday—less than a week after Republicans lost the House and Senate in a searing rebuke of Trump’s policy agenda.
+
+In recent days, Trump has privately blamed Wiles for the worst Republican midterm performance in decades, according to two sources familiar with the matter. Wiles submitted her resignation on Thursday, the sources say.
+
+Trump broadly considered three candidates to replace Wiles, the sources say: special envoy Steve Witkoff, director of national intelligence Jay Clayton, and Miller.
+
+But with the looming threat of congressional investigations starting next year, Trump settled on Miller, seemingly because of his zeal in defending the president and his deep loyalty. Miller has been with Trump since his first campaign and stood by him through his political exile in 2021.
+
+Miller had made his interest in the job known inside the West Wing for weeks, ever since Wiles weathered a series of negative stories before the midterms that suggested her job was at risk, the sources say.
+
+In recent months, Trump also started cutting Wiles out of certain decisions, which contributed to the sense among her detractors that she was on shaky ground, sources say. For instance, Trump reportedly hired Katie Zacharia as press secretary without consulting Wiles, though the White House pushed back on the claim.
+
+With Wiles’ departure, White House aides were bracing for further personnel changes. Among other names, Wiles’ deputies James Blair, who put together the GOP midterm strategy, and Richard Walters are seen as vulnerable to being fired by Miller unless they resign first, sources say.
+
+The changing of the guard is also likely to bring respite to defense secretary Pete Hegseth, who has had a strained relationship with Wiles as of late but is seen as ideologically aligned with Miller, sources say.
+
+Hegseth and Miller worked closely last year when the Trump administration began a campaign of strikes against boats around Venezuela. Miller, who also leads the Homeland Security Council within the White House, orchestrated the campaign through the Pentagon.
+
+Wiles leaves the White House as arguably the most successful chief of staff to Trump, who infamously cycled through chiefs in his first term. By comparison, Wiles kept Trump’s confidence from the start of his second presidential campaign in 2021.
+
+Still, Wiles weathered a number of challenges in recent months. She underwent a successful course of chemotherapy, but also faced accusations that her daughter had received lucrative contracts in part because of the family’s connection to the president. (The White House and Wiles’ daughter’s firm pushed back on these claims.)
+
+“Serving President Trump in the White House has been the honor of a lifetime,” Wiles wrote on X. “I’m so proud to have been a part of what we’ve accomplished together from securing our border and cutting taxes to strengthening our economy and putting America First.”
+
+In your inbox: For life-tested picks, sign up for our Gear newsletters
+
+Airbnb hosts are furious they can no longer make guests do their chores
+
+big story: cool kids write in all lowercase—does that make you mad?
+
+WIRED event: The technologies, people, and ideas transforming our world
+
+© 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+----------------------------------------
+
+[3] ROCCO’S BLACK FRIDAY SALE: SMART FRIDGES HIT THEIR LOWEST PRICES OF 2026
+
+If you've been coveting one of Rocco’s smart designer minifridges, you might be interested to know the brand's biggest sale of 2026 starts today, featuring the brand-new Rocco Essential for under $1,000 and the OG Classic in this year’s new Beige colorway, as well as white and two rare blue colors, for $1,495—as low as the Classic ever gets.
+
+Today also marks the rerelease of the Classic's Icy Blue and Royal Blue, two rarely seen colors that Rocco says are not coming back after this year.
+
+The Essential was just released in August and just began shipping in September; I'm currently testing it now. It's only been about a week and a half, but early impressions are positive. It has the same smart sight system as the Classic, but the biggest difference is obviously the look. Vintage-inspired fluted glass and rounded edges are out; sleek minimalism is in. The tinted dark glass door takes up the entire front, with a color-matched metal handle you can swap out for midcentury-inspired oak for an extra $95.
+
+It's only got one temperature zone as opposed to the Classic's two, but my favorite part so far has been the interior—instead of the Classic's old-fashioned wire racks, the Essential sports smooth-glide drawers lined with a rubbery material and grip strips. This makes it much more accommodating to oddly shaped drinks and prevents cans (it can hold up to 77) from rolling around every time you open your Rocco. It also gets colder than the Classic model—down to 34 degrees Fahrenheit instead of 37. My main frustration so far is that the sight system has been a little spotty and slow to recognize when drinks have been removed, but I'm having that problem with the Classic as well, so it's not specific to this model. All colors (Cream, Sage, Graphite) of the Essential are currently discounted.
+
+The handsome, vintage-inspired model is the one that started it all. Its thick steel body comes in a range of fun colors, the fluted glass refracts potentially drink-damaging light, and it comes with a color-matched metal tray so it can double as a bar cart. It's got two isolated temperature zones for red and white wine (or extra-crispy Cokes), plus five full-sized racks and one half-rack—enough for 88 cans or 27 bottles of wine. The wire racks don't pull out as smoothly as the Essential's rubber-lined drawers, but this is otherwise a top-of-the-line beverage cooler with an impressive 10-year warranty.
+
+You can also control the interior lights from your phone. The sight system, however, is buggy—my Classic is currently displaying a rack of Dr. Pepper and Stella Artois bottles I had left over from a party in July (they were consumed not long after that), so I would not recommend buying one of these for the sight system alone. (Note this sale is on the Beige, White, Royal Blue, and Icy Blue Classic only.)
+
+I’m partial to the Classic’s forest green, but even I've got to admit the blue hues look pretty good. They sold out almost immediately around this time last year, so if you've been wanting one and you see this, I wouldn't wait to add it to your cart.
+
+Power up with unlimited access to WIRED. Get best-in-class reporting and exclusive subscriber content that's too important to ignore. Subscribe Today.
+
+Take Up to 25% Off Custom Prints with VistaPrint Promo Code
+
+Take 10% Off Legal Services with This LegalZoom Promo Code
+
+© 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+----------------------------------------
+

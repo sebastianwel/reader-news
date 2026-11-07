@@ -1,432 +1,372 @@
-=== DAILY BRIEFING - 06.11.2026 ===
+=== DAILY BRIEFING - 07.11.2026 ===
 Quellen: Tagesschau, Sportschau & Wired Tech
 
 
 >>> TAGESSCHAU TOP-NEWS <<<
 
-[1] WAS AIWANGERS TOD FÜR BAYERNS KOALITION BEDEUTET
+[1] WELCHE FAKES RUND UM DIE MIDTERMS KURSIEREN
 
-Mit Hubert Aiwanger verlieren die Freien Wähler ihr Zentrum und ihre Anziehungskraft. Das könnte die politischen Verhältnisse in Bayern nachhaltig verändern. Noch sind sie Regierungspartner der CSU.
+Gefälschte Nachrichtenbeiträge, manipulierte Wahlmaschinen und erfundene Vorwürfe gegen Kandidaten: Rund um die US-Midterms verbreiten sich zahlreiche Falschbehauptungen. Dahinter stehen zum Teil russische Einflusskampagnen.
 
-Die Flaggen an den staatlichen Dienstgebäuden in Bayern wehten am Donnerstag auf halbmast, auf Anordnung von Markus Söder. Er werde Hubert Aiwanger als Mensch vermissen, sagte der CSU-Chef, seinen Humor, die Gespräche. Aiwangers Tod reiße "eine tiefe Lücke in die bayerische Politik".
+"It's rigged", zu Deutsch "Das ist manipuliert", heißt es in einem Posting auf X zu einem viral gegangenen Video im Zusammenhang mit den Zwischenwahlen in den USA. Im Video zu sehen ist eine Frau in Cook County (US-Bundesstaat Illinois), die berichtet, dass eine Wahlmaschine sie nach ihrer Wahl darauf hingewiesen habe, dass andere Wähler den von ihr ausgewählten republikanischen Richterkandidaten normalerweise nicht wählen würden. "People are not typically choosing this person!" habe dort angeblich gestanden.
 
-Söder und Aiwanger, der Ministerpräsident und sein Stellvertreter. Seit 2018 regierten sie und ihre Parteien CSU und Freie Wähler Bayern gemeinsam. Obwohl beide für einen bürgerlich-konservativen Kurs stehen, war es keine politische Liebesheirat. Das mag auch an den sehr unterschiedlichen Ausgangspositionen liegen.
+Das Video wird in einem Posting auf X mehr als 1,4 Millionen Mal aufgerufen und als Beleg im Netz verbreitet, dass die elektronischen Wahlmaschinen zur Stimmabgabe in den USA manipuliert seien. Ein Narrativ, das bereits zur Präsidentschaftswahl 2024 verbreitet wurde.
 
-Der überraschende Tod des Freie-Wähler-Chefs Aiwanger hat parteiübergreifend Bestürzung ausgelöst.
+Doch die Beschreibungen der Frau halten einer Überprüfung nicht stand. Die Wahlverwaltung von Cook County erklärt, dass die Wahlmaschinen keine Informationen über die Beliebtheit von Kandidaten anzeigten. Sie zeigten einen Hinweis an, wenn bei einem Wahlgang weniger Stimmen abgegeben werden, als möglich: "This contest is undervoted!" Das solle sicherstellen, dass die Wähler ihre Auswahl vor der Abgabe noch einmal überprüfen.
 
-Als Aiwanger 2006 die Freien Wähler in Bayern übernahm, kam die Partei in Umfragen auf zwei Prozent. Söder war zu dieser Zeit Generalsekretär, seine CSU lag bei 53 Prozent. Im Lauf der Jahre hat sich das Kräfteverhältnis zwar nicht gedreht, aber die Freien Wähler machten den Christsozialen in ihrem Wählermilieu mehr und mehr Konkurrenz.
+Zudem seien bei den Zwischenwahlen in Cook County gar keine republikanischen Richterkandidaten angetreten, wie das Büro von Cook Country Clerk gegenüber PolitiFact mitteilte.
 
-Bei der Landtagswahl 2023 holte Aiwangers Partei mit 15,8 Prozent das beste Ergebnis ihrer Geschichte, die CSU mit 37 Prozent eines ihrer schwächsten. Bei der Frage, wem die Wähler eine Stärkung des ländlichen Raums am ehesten zutrauen, lagen beide Parteien fast gleichauf. Bei den Kommunalwahlen in diesem Jahr verlor die CSU etliche Landratsposten an die Freien Wähler.
+Das Rennen um Alaskas Sitze im US-Senat ist knapp. Donald Trump meint: Die Wahl sei nicht fair gewesen.
 
-Nur Mehrheitsbeschaffer für die große CSU? Das wollte Aiwanger nie sein. Wenn er es für nötig hielt, war er auch gern unbequemer Juniorpartner - beispielsweise bei den Coronamaßnahmen oder Söders Finanz- und Schuldenpolitik im Bund. Immer wieder stichelten die Parteichefs auch öffentlich gegeneinander.
+Auch eine weitere Falschbehauptung, welche die Rechtmäßigkeit der Wahl anzweifelt, kursiert nach den US-Zwischenwahlen in den Sozialen Netzwerken. In mehreren Beiträgen auf X heißt es, das FBI habe bei einer Razzia in einem Lagerhaus in Houston mehr als 20.000 gefälschte Stimmzettel entdeckt. Dazu wurden Fotos eines FBI-Einsatzes, eines Lagerhauses und angeblicher Wahlunterlagen geteilt.
 
-Nach dem überraschenden Tod von Aiwanger müssen sich die Freien Wähler neu aufstellen.
+Für die angebliche Razzia gibt es jedoch keine Belege. Das FBI dementierte gegenüber der dpa ausdrücklich einen Einsatz im Zusammenhang mit den Wahlen. Auch die Bilder führen in die Irre: Das FBI-Fahrzeug stammt von einem Einsatz in Atlanta im Januar 2026, das Foto des Lagerhauses ist älter. Bei den vermeintlichen gefälschten Stimmzettel handelt es sich um Stimmzettel, die im Rahmen der vorzeitigen Stimmabgabe am 21. Oktober in San Francisco sortiert wurden.
 
-Aiwanger hat die Interessen der Freien Wähler sehr pointiert vertreten, sagt Thomas M. Klotz von der Hochschule für Politik der TU München. "Er hat sie schon auch durchgesetzt in vielen Bereichen gegen die CSU." Ob ein neuer FW-Parteichef der CSU ebenso Paroli bieten werde können, müsse man sehen. Die Stabilität der bayerischen Regierungskoalition sieht der Politikwissenschaftler durch Aiwangers Tod nicht gefährdet.
+In einem weiteren Beitrag auf X, der mehr als 760.000 Mal angesehen wurde, wurde dem texanischen Generalstaatsanwalt Ken Paxton eine Äußerung zugeschrieben, in der er den Wahlsieg des Demokraten James Talarico infrage stellte. "It is simply not possible for somebody with the radical ideology of James Talarico to win an election in Texas fairly", steht dort - es sei "schlichtweg unmöglich", dass Talarico mit seiner "radikalen Ideologie" eine Wahl in Texas mit fairen Mitteln gewinnen könne. Der Beitrag sah aus wie ein Standbild aus einer NBC-Sendung.
 
-Söder wollte daran offenbar auch keine Zweifel aufkommen lassen. "Auch wenn wir manchmal anderer Meinung waren, haben wir doch immer wieder eng zusammengearbeitet", sagte der Ministerpräsident. Er und Aiwanger hätten im Kurs einer bürgerlichen, liberal-konservativen Politik übereingestimmt. "Wir werden das auch mit den Freien Wählern in seinem Sinne, in unserem Sinne fortsetzen."
+Doch Paxton hat diese Äußerung nicht gemacht. Das vermeintliche NBC-Bild ist nicht authentisch. Stattdessen gratulierte der Republikaner seinem Kontrahenten öffentlich zum Wahlsieg und räumte seine Niederlage ein. Talarico gewann den Senatssitz für Texas. Erstmals seit mehr als 30 Jahren ging damit ein solcher Sitz in dem Bundesstaat an einen Demokraten.
 
-Mittelfristig könnte sich in der bayerischen Politik aber doch etwas verändern. "Hubert Aiwanger war das Gesicht der Freien Wähler", sagt Politikwissenschaftler Klotz. "Er hat sie aufgebaut und prägte sie wie kein anderer." In der Wahrnehmung vieler waren die Freien Wähler gleich Aiwanger. Er führte sie nicht nur zu politischen Erfolgen, sondern entwickelte auch ein Markenversprechen, das vor allem er selbst verkörperte: bodenständig, direkt, unverstellt, glaubhaft für die Interessen des ländlichen Raums.
+Falschbehauptungen wie diese stoßen bei einem großen Teil der US-Bevölkerung auf Resonanz. Laut einer repräsentativen Umfrage des Rechercheunternehmens NewsGuard glauben 54 Prozent der befragten US-Amerikaner mindestens eine von drei abgefragten Falschbehauptungen über die Integrität von Wahlen.
 
-Die Freien Wähler verlieren mit Aiwanger ihr Zentrum plötzlich und ohne jede Vorbereitung. Könnte das ihre Existenz bedrohen? Politikwissenschaftler Klotz sieht die Partei kommunal gut verankert. Dort dürften die Auswirkungen überschaubar bleiben. Auf Landesebene könne "eine prominente Person wie Hubert Aiwanger an der Spitze" hingegen schon mal zwei bis fünf Prozentpunkte mehr bringen.
+Dazu gehörten Behauptungen über angeblichen Betrug bei der Briefwahl, die Beteiligung von Menschen ohne US-Staatsbürgerschaft an Wahlen und eine angebliche Manipulation von Wahlmaschinen über das Satellitennetzwerk Starlink. Nur 13 Prozent stuften alle drei Behauptungen korrekt als falsch ein.
 
-Auch Ursula Münch, Direktorin der Akademie für Politische Bildung in Tutzing, sieht die Gefahr eines möglichen Rückschritts in die "landespolitische Bedeutungslosigkeit".
+In einem laufend aktualisierten Tracker hat Newsguard bis zum 5. November 55 Falschbehauptungen rund um die Midterms dokumentiert. 26 davon drehten sich um vermeintlichen Wahlbetrug. NewsGuard dokumentierte insgesamt 611 einzelne Nennungen dieser Behauptungen auf zwölf Plattformen, in mehr als 392 verschiedenen Social-Media-Konten, auf 71 Webseiten und in 24 Beiträgen in nationalen Nachrichtensendern. 64 Prozent der erfassten Fälle entfielen auf Elon Musks Plattform X.
 
-Bierzelt, Bauernhof, klare Kante: Hubert Aiwanger stand wie kein anderer für die Freien Wähler. Ein Nachruf.
+Den Demokraten gelang bei den Midterms vielerorts Historisches - eine Auswahl.
 
-Aiwanger hatte für sich in Anspruch genommen, dass er mit seinem Politikstil die AfD in Bayern kleinhalten könne, zumindest kleiner als in anderen Bundesländern. Der ein oder andere populistische Vorstoß war dabei eingepreist.
+Ein möglicher Grund für die Verbreitung von Falschbehauptungen ist Wahlwerbung von den Parteien und ihren Unterstützungsorganisationen selbst. Nach Angaben des Faktencheckportals PolitiFact wurden Wahlwerbespots häufig nicht nur genutzt, um sich selbst zu präsentieren, sondern um den politischen Gegner zu diskreditieren - auch mit Hilfe von Falschbehauptungen.
 
-Doch diese Strategie schien zuletzt weniger gut aufzugehen. Aiwanger verlor an Strahlkraft. Laut BR24 BayernTrend war er im Freistaat zwar immer noch der zweitbeliebteste Politiker nach Söder - seine persönlichen Zufriedenheitswerte gingen zu Jahresbeginn aber um zehn Prozentpunkte nach unten und blieben seither bei 40 Prozent. Die Freien Wähler stehen in der aktuellen Umfrage nur noch bei 9 Prozent, die AfD hat mit 21 Prozent mehr als doppelt so viel.
+Hinter diesen Kampagnen stecken hohe Summen Geld. Landesweit gaben politische Kandidaten und externe Gruppen dem Werbe-Unternehmen AdImpact zufolge rund 12 Milliarden Dollar für Wahlwerbung im Vorfeld der Zwischenwahlen aus.
 
-Es gibt Vermutungen, die Freien Wähler könnten ohne Aiwanger nun Stimmen an die AfD verlieren. Bei der Landtagswahl 2023 stimmten 39 Prozent der FW-Wähler der Aussage zu: "Ohne die Freien Wähler würde ich in Bayern die AfD wählen." Nur gaben viele ihre Stimme eben nicht in erster Linie der Partei, sondern vor allem Hubert Aiwanger. Es wird sich zeigen, inwieweit die Freien Wähler ihre Anhänger mit einer neuen Führungsperson weiter erreichen können.
+Neben Falschbehauptungen, die aus unterschiedlichen politischen Motiven verbreitet werden, gibt es auch gezielte ausländische Einflussoperationen. Besonders russische Akteure versuchen seit Jahren, politische Debatten und Wahlkämpfe in westlichen Staaten zu beeinflussen.
 
-"Imitieren" werde man Aiwanger nicht können, sagt Politikwissenschaftler Klotz. "Jemand, der einen Hubert Aiwanger nachspielt, wird keinen Erfolg haben." Nötig sei eine Persönlichkeit, die sich selbst positioniere und eigene Themenschwerpunkte setze.
+In den USA zeigen sich diese Aktivitäten derzeit unter anderem in manipulierten oder KI-generierten Videos, welche die demokratische Senatskandidaten in den umkämpfen Bundesstaaten Texas, Maine und Ohio diskreditieren sollten.
 
-Im FW-Parteivorstand, in der Staatsregierung und der Landtagsfraktion gebe es viele kluge Köpfe, sagt Politikwissenschaftlerin Münch. Die Strahlkraft baue man allerdings "nicht so schnell auf". Bei denjenigen, die sie vor Augen habe, gebe es eine gewisse Austauschbarkeit. Und egal, ob man Aiwanger nun geschätzt oder sich an ihm gestört habe: "Austauschbar war er nicht."
+Das Midterms-Ergebnis ist deutlich, die Gründe auch: ein unbeliebter Präsident und hohe Preise.
 
-Dieses Thema im Programm: Das Erste | tagesthemen | 05.11.2026 | 22:15 Uhr
+Ein manipuliertes Video zeigte einen angeblichen Fernsehbericht des Senders Cleveland 19, in dem vier ehemalige Mitarbeiterinnen dem Abgeordneten Sherrod Brown aus Ohio sexuelle Übergriffe vorwarfen. Das Video verwendet zwar echtes Bildmaterial des Senders, die Stimme des Nachrichtensprechers wurde jedoch nachträglich eingefügt, und es finden sich beim Sender keinerlei Berichte über die Anschuldigungen. Einer der im Video genannten ehemaligen Mitarbeiterinnen Browns bezeichnete die Darstellung als frei erfunden.
 
-----------------------------------------
+Ein weiteres gefälschtes Video erweckt den Eindruck, der Sender WABI habe über Vorwürfe gegen den demokratischen Senatskandidaten Troy Jackson aus Maine berichtet. Demnach soll Jackson Mitarbeiter mit einer Axt bedroht haben. Auch hier wurde nachträglich eine künstliche Tonspur über echtes Nachrichtenmaterial gelegt und es gibt bei offiziellen Kanälen des Senders keinerlei Berichte hierüber.
 
-[2] PARAGUAY: DIE BANKENKRISE WIRD ZUR STAATSKRISE
+In einem weiteren viral gegangenen Video ist ein Mann zu sehen, der sich als ehemaliger Schüler des texanischen Senatskandidaten der Demokraten, James Talarico, ausgibt. Er behauptet, Talarico habe ihn als Zwölfjährigen sexuell missbraucht. Doch bei dem Mann im Video handelt es sich um einen KI-generierten Deepfake, der auf dem Aussehen von Talaricos ehemaligen Schüler Zyon Lewis basiert. Lewis wies die Vorwürfe zurück und erklärte, das Video sei KI-generiert. Auch Talaricos Pressesprecherin bezeichnete die Anschuldigungen als haltlos und falsch.
 
-In Paraguay zieht die Krise um die Ueno Bank immer weitere Kreise: Weil Präsident Peña die Risiken zu lange ignorierte, leitete das Parlament ein Amtsenthebungsverfahren ein. Auch die Staatsanwaltschaft ermittelt.
+Nach Angaben von NewsGuard erreichten die drei gefälschten Videos zusammen rund 2,8 Millionen Aufrufe in 3.790 Social-Media-Beiträgen. Das Forschungskollektiv Gnida Project, das seit Jahren russische Desinformationskampagnen beobachtet sowie weitere Experten, ordnen die Videos der russischen Einflussoperation Storm-1516 zu. Trotz der weit verbreiteten Falschbehauptungen konnten alle drei Demokraten die Wahl für einen Sitz im Senat für sich entscheiden.
 
-Um 13:16 Uhr Ortszeit stellt Paraguays Präsident Santiago Peña ein Video auf seine Social-Media-Kanäle - er bezeichnete dies später als einen der schwersten Momente seines Lebens.
+Auch unter dem Hashtag #AllDemocratsAreCriminals verbreiten sich zahlreiche manipulierte Videos, in denen bekannte Schauspielerinnen und Schauspieler aus Hollywood und andere Personen des öffentlichen Lebens scheinbar gegen die Demokratische Partei Stellung beziehen.
 
-"Ich habe die Entscheidung getroffen, von meinem Amt als Präsident der Republik zurückzutreten. Ich tue dies im Hinblick auf die Stabilität unseres Landes, den sozialen Frieden und die Notwendigkeit, unsere demokratischen Institutionen zu bewahren."
+"Heute gibt es in Amerika kein einziges Kind, das nicht von den Demokraten bedroht wird", sagt in einem Video eine stimmlich geklonte Version von "How I Met Your Mother"-Schauspielerin Alyson Hannigan. In einem anderen Video bezeichnet Schaupielerin Sarah Jessica Parker vermeintlich den ukrainischen Präsidenten Wolodymyr Selenskyj als Nazi.
 
-Paraguay wird von einem Finanzskandal erschüttert, in den auch Präsident Peña verwickelt ist.
+Die Aufnahmen sind gefälscht. Experten bringen die Videos mit der russlandnahen Desinformationskampagne Matrjoschka in Verbindung.
 
-Minuten nach seiner Ankündigung stimmten die Abgeordneten Paraguays einstimmig für die Einleitung des Amtsenthebungsverfahrens gegen ihn. Und vor dem Kongress protestierten wütende Bürger, die seit Dienstag keinen Zugang zu ihren Ersparnissen hatten.
+Russische Informationsmanipulation rund um Wahlen finde inzwischen in einem nahezu "industriellen Maßstab" statt, sagt Julia Smirnova, Senior Researcherin beim Center für Monitoring, Analyse und Strategie (CeMAS). Dies sei unter anderem durch den Einsatz von Künstlicher Intelligenz möglich. Von der Recherche bis zur massenhaften Erstellung von Websites und Inhalten, wie beispielsweise Deepfakes, werde KI genutzt. Dabei seien jedoch viele der Fälschungen qualitativ recht schlecht gemacht. "Entscheidend ist, dass sie plausibel genug erscheinen, um Zweifel zu wecken und von anderen Akteuren weiterverbreitet zu werden."
 
-"Es ist wirklich eine Schande", sagt eine Frau. "Wir müssen auf die Straße gehen und nicht nur fordern, dass Peña ins Gefängnis kommt, sondern auch der Zentralbankchef. Die gesamte Bande, die zugelassen hat, dass es so weit gekommen ist, muss ins Gefängnis!"
+Die Kampagnen und Beeinflussungsversuche durch Russland rund um Wahlen beträfen viele Länder weltweit. Alle folgten häufig einem wiederkehrenden Muster und liefen in mehreren Phasen ab, so Smirnova. Zunächst würden Netzwerke aus Webseiten und Social-Media-Konten aufgebaut. Oft würden Kandidaten und Regierungen diskreditiert, die eher als proeuropäisch gelten oder weniger russlandfreundlich seien. Zugleich griffen die Kampagnen polarisierende Themen auf, spitzten diese zu und verstärkten sie über koordinierte Netzwerke.
 
-Inmitten einer schweren Bankenkrise seines Landes hat Paraguays Präsident Peña seinen Rücktritt eingereicht.
+Unmittelbar vor den Wahlen würden vermehrt Zweifel an der Integrität des Wahlprozesses gestreut. Die Themen und konkrete Behauptungen würden dabei häufig für die jeweiligen Länder angepasst, erläutert Smirnova. "In den USA geht es zum Beispiel darum, dass Nicht-US-Bürger angeblich widerrechtlich an Wahlen teilnehmen oder bestimmte Wahlmaschinen manipuliert seien, in Deutschland wird immer wieder die Briefwahl besonders angegriffen." In einer Untersuchung identifizierte das CeMAS zu den Landtagswahlen in Deutschland unter anderem die russischen Einflussoperationen Matrjoschka, Doppelgänger und Storm-1516.
 
-Paraguay steckt in einer schweren Krise. Der Sturz des 47-jährigen Präsidenten, ein Ökonom, der seit 2023 im Amt ist, folgt auf den Zusammenbruch der Digitalbank Ueno.
+Zu den Wahlen in Mecklenburg-Vorpommern und Berlin verbreiten sich Videos, die angebliche Wahlmanipulation zeigen.
 
-Innerhalb von drei Jahren war sie von einem einfachen Geldverleiher zu einer der bedeutendsten Banken in Paraguay aufgestiegen, modern, digital, mit bedienungsfreundlicher App. 2023 wurde Ueno Sponsor der paraguayischen Fußball-Nationalmannschaft. Heute zählt sie 2,9 Millionen Kunden, mehr als die Hälfte der erwachsenen Bevölkerung Paraguays - auch Rentenzahlungen wurden über sie abgewickelt.
+Das übergeordnete Muster ähnele sich länderübergreifend: "Das wichtigste Ziel von diesen Versuchen ist, die betroffenen Länder zu destabilisieren und demokratische Institutionen sowie demokratische Prozesse in diesen Ländern zu untergraben, das Vertrauen in das politische System insgesamt zu schwächen."
 
-Außenminister Wadephul beginnt heute einen mehrtägigen Besuch in Südamerika.
-
-Vermutungen, dass diesem Aufstieg durch öffentliche Gelder und einflussreiche Kontakte nachgeholfen wurde, gibt es schon lange. Präsident Peña ernannte den ehemaligen Präsidenten von Ueno, Carlos Carvallo, zum Leiter der Zentralbank.
-
-Bis März vergangenen Jahres war Peña selbst noch Anteilseigner der Unternehmensgruppe, wie Luis Ortiz, Soziologe von der Nationalen Universität in Asunción, erklärt. "Er hat Gesetze erlassen und Maßnahmen ergriffen, die letztendlich den Eigentümern, Direktoren und Aktionären der Bank zugute kamen."
-
-Lokale Medien berichteten über Ungereimtheiten bei der Kreditvergabe. Peña wies Vorwürfe möglicher Interessenkonflikte stets zurück. Doch die Nähe der Bank zur Politik weckte Misstrauen, das durch einen Machtkampf um die Führung der Colorado-Partei, die in Paraguay seit fast 80 Jahren - mit kurzer Unterbrechung - an der Macht ist, zusätzlich befeuert wurde.
-
-Abgeordnete um den einflussreichen Ex-Präsidenten und aktuellen Parteichef Horacio Cartes forderten eine Überprüfung durch die Aufsichtsbehörden. Es stellte sich heraus: Die Bank verfügt nicht über das vorgeschriebene Eigenkapital - darauf leitete die Zentralbank ein Abwicklungsverfahren ein.
-
-Peña erklärte bei seiner Rücktrittsankündigung, das Ersparte der Bürger sei sicher, das Finanzsystem stabil: "Ich habe heute nur eine Priorität: den Frieden unserer Bürger, die ihr Erspartes unserem Finanzsystem anvertraut haben."
-
-Nach dem Kollaps einer Digitalbank fürchten Millionen Paraguayer um ihre Ersparnisse.
-
-Doch die Verunsicherung ist groß. Die Krise ist ein Rückschlag für ein Land, das zuletzt immer attraktiver für Investoren wurde. Geprägt von großer Armut und Korruption, erhielt Paraguay erst kürzlich Lob für seine Reformen, die Wirtschaft wuchs 2025 um mehr als sechs Prozent. Am Donnerstagabend erklärte der Kongress, er werde Peñas Rücktritt nicht annehmen, denn dadurch würde er parlamentarische Immunität erhalten und wäre vor Strafverfolgung geschützt.
-
-Wird er des Amtes enthoben, sieht das anders aus, erklärt Myrian Gonzalez von Paraguays Nationaler Universität. "Sollte es jedoch zu einem Verfahren gegen ihn kommen - etwa weil er infolge eines politischen Urteils seines Amtes enthoben wird -, dann ist er in einer ähnlichen Lage wie jeder andere Bürger auch: Er ist für sein Fehlverhalten zur Rechenschaft zu ziehen und kann schneller vor Gericht gestellt werden."
-
-Gerüchte, dass Pena vorhabe, das Land zu verlassen, wurden laut der New York Times vom Büro des Präsidenten dementiert.
-
-Dieses Thema im Programm: Das Erste | tagesschau | 06.11.2026 | 04:54 Uhrtagesschau24 | Nachrichten | 06.11.2026 | 10:00 Uhr
+Wie stark solche Kampagnen tatsächlich Einstellungen oder Wahlentscheidungen beeinflussen, lässt sich nur schwer messen. Hohe Aufrufzahlen und viele Beiträge bedeuteten nicht automatisch, dass die Inhalte auch ein großes Publikum erreichten. "Künstliche Verstärkung kann die Reichweite verzerren", sagt Smirnova. Entscheidend sei deshalb auch, ob Inhalte von reichweitenstarken Accounts oder politischen Akteuren aufgegriffen und weiterverbreitet würden.
 
 ----------------------------------------
 
-[3] MARKTBERICHT: DAX FÄLLT IM SOG DER NASDAQ
+[2] KATASTROPHENÜBUNG: WAS WÄRE, WENN EINE DÜRRE DEUTSCHLAND LAHMLEGT?
 
-Der DAX kann sich dem Abwärtssog der Wall Street nicht entziehen. Der deutsche Leitindex stürzt zurück unter die Marke von 26.000 Punkten. Wie könnte es am Markt jetzt weitergehen?
+Jahrelang kaum Regen in Deutschland, heiße Sommer und dann seit Wochen eine extreme Hitzewelle. Das ist das Szenario von LÜKEX, einer Übung, die das Krisenmanagement von 180 beteiligten Organisationen verbessern soll.
 
-Der deutsche Leitindex knickt im frühen Handel um rund 1,5 Prozent auf 25.920 Punkte ein. Am Donnerstag war der DAX erst auf ein Rekordhoch bei knapp 26.693 Punkte gestiegen, dann ging es bergab: Im Sog der Turbulenzen an den US-Börsen schloss er schließlich 0,4 Prozent leichter auf 26.325 Zählern.
+Angenommen, seit mehreren Jahren hat es in Deutschland stets zu wenig geregnet - die Flüsse führen kaum noch Wasser, der Grundwasserspiegel ist abgesunken und die Vorräte an Trinkwasser werden knapp. Seit einigen Wochen liegen die Temperaturen jeden Tag über vierzig Grad, bis zu 45 in der Spitze.
 
-Der DAX fällt also im Sog der Wall Street ebenfalls weit zurück. Der Sieg der Demokraten hat die Furcht vor einer strengeren Regulierung von Künstlicher Intelligenz (KI) geschürt und US-Technologiewerte auf Talfahrt geschickt.
+In diesem Szenario haben 180 Behörden von Bund und Ländern, Hilfsorganisationen und Betreiber sogenannter Kritischer Infrastruktur (KRITIS) drei Tage lang dezentral, aber gemeinsam ihre Abläufe für den Katastrophenschutz erprobt, um für den Ernstfall vorbereitet zu sein.
 
-In New York hatte der Technologie-Auswahlindex Nasdaq 100 den stärksten Tagesverlust seit dem Corona-Crash im März 2020 verzeichnet. Letztlich verlor er 6,4 Prozent. Der breiter gefasste S&P 500 verlor 4,4 Prozent, der US-Leitindex Dow Jones gab 3,4 Prozent nach. Die Vortagesgewinne der US-Indizes sind damit verdampft.
+Doch kein überhitzter Patient wurde bei dieser Übung in die Notaufnahme eingeliefert, es wurden keine Tankwagen mit Trinkwasser angekarrt und keine zusätzlichen Lebensmittel aus Übersee eingekauft. Die Übung spielte sich ausschließlich an den Monitoren der beteiligten Organisationen ab - in ganz Deutschland.
 
-Im Mittelpunkt stünden die Sorgen um die Zukunft des KI-Booms, stellt Marktbeobachter Salah-Eddine Bouhmidi vom Broker IG fest. Anleger würden befürchten, dass nach dem Wahlsieg der Demokraten strengere Auflagen den Ausbau von Rechenzentren bremsen und Projekte verzögern könnten.
+Deutschland ächzt unter Hitzerekorden - doch beim Schutz der Bevölkerung bleiben viele Maßnahmen Stückwerk.
 
-"Diese politischen Risiken treffen auf die ohnehin schwelende Unsicherheit, wann sich die milliardenschweren Investitionen in Künstliche Intelligenz ausreichend auszahlen", so Bouhmidi. "Verzögerungen beim Ausbau könnten die Geduld der Investoren zusätzlich strapazieren. Die Börse bewertet damit zunehmend auch die möglichen wirtschaftlichen Nebenwirkungen der neuen politischen Mehrheitsverhältnisse", erklärt der Experte.
+Drei Jahre lang hat das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK) gemeinsam mit dem Bundesinnenministerium LÜKEX vorbereitet. Ein Jahr wird es brauchen, um die Übung vollständig auszuwerten.
 
-Der Sieg der US-Demokraten bei den Midterms könnte für die Tech-Industrie höhere Hürden bedeuten.
+Man will beim Katastrophenschutz nichts mehr dem Zufall überlassen: "In einer Zeit, in der Extremwetterereignisse wie Hitze und Dürren zunehmen, ist es entscheidend, dass wir gemeinsam an Lösungen arbeiten und die Strukturen stärken. Die diesjährige LÜKEX mit dem Schwerpunkt Dürre und Hitzewelle ist ein wichtiger Schritt in diese Richtung", so BBK-Präsidentin Grit Tüngler.
 
-Marktanalyst Jochen Stanzl von der Consorsbank weist noch auf einen weiteren Umstand hin: "An der Wall Street ist genau das eingetreten, was Anleger seit Monaten befürchten: Dass sich das Klumpenrisiko aus wenigen Tech-Schwergewichten rächt und die großen Indizes mit in die Tiefe reißt, wenn sie einmal stärker fallen sollten", kommentiert er.
+Markus Reichstein, Direktor am Max-Planck-Institut für Biogeochemie in Jena, erforscht die Resilienz der Bevölkerung, aber auch der Biosphäre gegenüber Klimaextremen. Er weiß, wie Böden, Wasser und Vegetation darauf reagieren.
 
-Die Frage ist, wie es jetzt weitergeht. Handelt es sich nur um eine kurzfristige Reaktion oder dreht sich der Trend dauerhaft? Einige Anleger könnten die gesunkenen Kurse zum Wiedereinstieg in den Markt nutzen. Am Terminmarkt deuten sich zu dieser frühen Stunde Kursgewinne bei den US-Technologiewerten an.
+Er sagt: "Wir haben in Deutschland bereits erlebt, dass sich Dürren über mehrere Jahre hinziehen können. In einigen Regionen waren die Böden nach 2018 über fünf Jahre hinweg bis in große Tiefen ungewöhnlich trocken. Wann die nächste mehrjährige Dürre kommt, können wir nicht vorhersagen - aber sie ist ein reales Risiko, auf das wir uns vorbereiten müssen."
 
-Ein weltweiter Abverkauf von Chip- und Techaktien schickt wichtige Aktienindizes auf Talfahrt.
+45 Grad im Schatten und das nach mehreren Dürrejahren. Dieses fiktive Szenario ist Grundlage für die Übung von Bund und Ländern.
 
-"Die weiterhin schwächeren Dow-Futures zeigen allerdings, dass sich bislang keine breite Stabilisierung abzeichnet", meint Bouhmidi. Ob die Investoren ausgerechnet vor dem Wochenende größere Risiken eingehen möchten, ist ohnehin fraglich.
+Die größte Gefahr liege in Kettenreaktionen. Hitze bewirke Trockenheit und diese begünstige Waldbrände. Der dann entstehende Rauch verschlechtere wiederum die Luftqualität, was die Gesundheit belaste und die Resilienz mindere. Damit einhergehende Dürre führe zu Ernteausfällen, welche die Lebensmittelpreise ansteigen ließen. Wasserknappheit und Niedrigwasser würden der Industrie Transportwege auf Flüssen nehmen und Energieunternehmen wegen fehlendem Kühlwasser zur Drosselung ihrer Produktion zwingen. So entstünde aus einem Klimaextrem eine systemische Krise, bei der sich die Folgen gegenseitig verstärken.
 
-"Langfristig orientierte Anleger sollten sich vom gestrigen Rücksetzer nicht verunsichern lassen", rät Ulrich Stephan, Chefanlagestratege für Privat- und Firmenkunden bei der Deutschen Bank. Wahlausgänge hätten die Börsen in der Vergangenheit selten nachhaltig geprägt, ergänzt der Fachmann.
+Um die Folgen einer solchen Krise abzufedern, üben die Beteiligten aus Behörden und KRITIS, wozu Energie-, Wasser- und Lebensmittelversorger ebenso gehören wie Krankenhäuser, Telekommunikationsanbieter, Versicherer, Banken, Logistiker, die Müllentsorgung und die Medien.
 
-Eine wichtige Rolle für den Verlauf des Handelstages könnte heute der monatliche US-Arbeitsmarktbericht spielen, der um 14:30 Uhr veröffentlicht wird. "Die Vorgaben dafür sind freundlich, wenn auch nicht überbordend gut", schreiben die Helaba-Experten in ihrem Morgenkommentar.
+Der extrem heiße Sommer und verringerte Anbauflächen haben Folgen für die Kartoffelernte in Deutschland.
 
-Auch die Analysten der Commerzbank sprechen in ihrem Morgen-Briefing vom "großen Datenhighlight aus den USA". Üblicherweise gebe dies einen Hinweis auf die weitere Geldpolitik der US-Notenbank Federal Reserve (Fed).
+Das Thema der diesjährigen LÜKEX wurde nicht erst nach, sondern bereits Jahre vor dem sehr heißen Sommer 2026 festgelegt. Dieser zeige allerdings eindrücklich die Relevanz, so die Veranstalter.
 
-Dieser Report könne entscheidend sein für den Dezember-Zinskurs der US-Notenbank, unterstreicht auch Frank Sohlleder, Analyst beim Broker ActivTrades. "Ein schwacher Wert könnte die grassierenden Zinssorgen zwar dämpfen, birgt nach dem gestrigen Tech-Crash jedoch die akute Gefahr, handfeste Rezessionsängste zu entfachen."
+BBK-Sprecherin Maren Kebbel betont, dass sich das gewählte Szenario an reale Gegebenheiten der Vergangenheit anlehne, allerdings zuspitze: "Diese Verschärfung ist in der Krisenmanagement-Übung nötig, damit alle übenden Organisationen ihre Reaktionsmechanismen testen und verbessern können. Das Bevölkerungsverhalten, das heißt Informationsbedarfe, Risikobewusstsein und -kompetenz, persönliche Notfallvorsorge und weitere Resilienz- und Vulnerabilitätsfaktoren sind ein wichtiges Element der Übungsdurchführung."
 
-Dieses Thema im Programm: tagesschau.de | Börse 9:45: DAX-Start, Tech-Crash zieht DAX nach unten | 06.11.26 | 09:29 Uhr
+Was auf die Teilnehmer zukomme, seien zum Beispiel Meldungen über warmgelaufene Server und IT-Ausfälle, Stromausfälle, Wassermangel, Engpässe in Krankenhäusern, aber auch der Umgang mit Falschmeldungen und bewusster Irreführung der Bevölkerung aus dem In- und Ausland.
+
+Damit geht auch der Puffer für Dürrejahre verloren - mit Folgen für Bevölkerung und Wirtschaft.
+
+Im vergangenen Sommer gab es in Deutschland 16.000 Hitzetote, im Jahr 2024 waren es in ganz Europa 50.000 Opfer. Zu den Gesundheitsrisiken kommen die schlechtere Versorgung mit allem Lebensnotwendigen und Probleme mit der Infrastruktur.
+
+Jeder einzelne Risikofaktor für sich wäre handhabbar, sagt Markus Reichstein. Ihr Zusammenwirken mache eine solche Krise so gefährlich. Vorhandenes Wissen über Einzelgefahren sei dann zu wenig: "Wenn Wasser-, Energieversorgung, Landwirtschaft und Gesundheitssystem gleichzeitig unter Druck geraten, reicht das nicht aus. Wir müssen stärker in systemischen Risiken denken und uns auf das Zusammenwirken verschiedener Krisen vorbereiten. Das Wissen ist in vielen Bereichen bereits vorhanden - entscheidend ist, ob wir rechtzeitig danach handeln."
+
+Übungen wie LÜKEX hält er für ausgesprochen wichtig, weil sie das Zusammenspiel verschiedener Krisenbereiche testen und man daraus Verbesserungen ableiten könne. Das könne ein Umdenken bei Klimatisierung von Wohn- und Arbeitsbereichen bewirken, aber auch städtebauliche Veränderungen wie Verschattung oder Begrünung. Im Ernstfall könne man als Entscheidungsträger nur dann richtig reagieren, wenn man sich und die Gesellschaft schon vorher widerstandsfähiger gemacht habe.
+
+Die Folgen der von Menschen gemachten Klimaerwärmung werden der Analyse zufolge immer deutlicher.
+
+In diesem Sinne spricht das BBK davon, dass die Teilnahme an LÜKEX für die teilnehmenden Organisationen zu einer Verbesserung der Handlungssicherheit und Strukturen des Krisenmanagements führen und Netzwerke auf fachlicher und persönlicher Ebene untereinander schaffen soll - wie schon alle vorangegangenen LÜKEX in den 20 Jahren, seit es sie gibt.
+
+Ob das gelingt, weiß man erst im nächsten Jahr. Im ersten Quartal 2027 soll es eine erste Auswertung aller mitübenden Organisationen geben. Darauf aufbauend wird das BBK bis zum dritten Quartal alle übergreifenden Erkenntnisse zusammenfassen.
+
+Dieses Thema im Programm: NDR Info | Nachrichten | 04.11.2026 | 08:30 Uhr
+
+----------------------------------------
+
+[3] HUBIG WILL GELEAKTE E-MAILS ZUR PRÜFUNG VON AFD-VERBOTSVERFAHREN NUTZEN
+
+Justizministerin Hubig wirbt dafür, ein AfD-Verbotsverfahren zu prüfen - gegebenenfalls auch mithilfe der von Hackern veröffentlichten Mails aus den Reihen der Partei. In der schwarz-roten Koalition ist ein Verbotsverfahren jedoch umstritten.
+
+Nach den jüngsten Erfolgen der AfD bei den Landtagswahlen in Sachsen-Anhalt und in Mecklenburg-Vorpommern spricht sich Bundesjustizministerin Stefanie Hubig dafür aus, ein mögliches Verbotsverfahren der Partei durch eine Arbeitsgruppe mit Vertretern aus Bund und Ländern prüfen zu lassen. Dafür sollten aus Sicht der SPD-Politikerin auch die E-Mails genutzt werden, die vor Kurzem im Internet geleakt wurden.
+
+"Ich bin überzeugt, dass wir jetzt ernsthaft und systematisch prüfen müssen, ob die Voraussetzungen für ein Verbotsverfahren vorliegen", betonte Hubig im Gespräch mit der Neuen Osnabrücker Zeitung. Die im Netz von Unbekannten veröffentlichten Mails sollten dann herangezogen werden, "wenn sie Belege für die Verfassungsfeindlichkeit der AfD liefern".
+
+Vor rund zwei Wochen hatten unbekannte Hacker das 281 Gigabyte Daten umfassende Leak veröffentlicht. Seitdem stehen rund 420.000 E-Mails und fast 50.000 Dokumente zum Download im Internet bereit. Die AfD hat Teile des Leaks bestätigt.
+
+Unterstützung bekommt der CDU-Ministerpräsident von den Grünen, die CSU ist skeptisch.
+
+Die Justizministerin verwies auf die politische Lage in Sachsen-Anhalt, wo nach dem deutlichen Wahlsieg der AfD im September vor rund einem Monat mit Tobias Rausch erstmals in Deutschland ein AfD-Politiker zum Landtagspräsidenten gewählt worden war. Mitte Dezember soll ein neuer Ministerpräsident gewählt werden, dafür tritt der Spitzenkandidat der AfD, Ulrich Siegmund, an.
+
+"Schon die Wahl eines AfD-Abgeordneten zum Landtagspräsidenten war eine Zäsur", hieß es von Hubig. Eine AfD-Regierung in Sachsen-Anhalt wäre, "nach allem, was sich ermessen lässt, eine harte Belastungsprobe für den Rechtsstaat".
+
+Doch Hubig betonte auch, dass die Bundesregierung über die Frage, ob ein Verbotsverfahren gegen die AfD eingeleitet werden soll, nur im Konsens entscheiden könne. Bislang scheint es dazu in der schwarz-roten Koalition keinen einheitlichen Standpunkt zu geben.
+
+Bundeskanzler Friedrich Merz hatte sich nach der Wahl in Sachsen-Anhalt zwar offen für die Prüfung eines Verbotsverfahrens gezeigt, gleichzeitig aber die hohen Hürden für den Erfolg eines möglichen Verfahrens betont. Auch für Hubig sind "konkrete Erfolgsaussichten" Voraussetzung für einen Antrag auf ein Verbotsverfahren. Doch wenn es diese geben sollte, dann müsse ein solcher Antrag auch gestellt werden.
+
+Dieses Thema im Programm: tagesschau24 | Nachrichten | 07.11.2026 | 09:00 Uhr
 
 ----------------------------------------
 
 
 >>> SPORT (SPORTSCHAU) <<<
 
-[1] EUROPA LEAGUE: BAYER LEVERKUSEN VERLIERT VOR DEM DERBY GEGEN MARSEILLE
+[1] BAYERN UND BVB VOR STOLPERGEFAHR IN DER BUNDESLIGA
 
-Nach zwei Niederlagen in der Bundesliga hat Leverkusen auch in der Europa League die erste Pleite kassiert. Bayer unterlag am Donnerstag Olympique Marseille mit 0:1 (0:0).
+Bayern München und Borussia Dortmund haben nach ihrem direkten Duell und ihren Champions-League-Siegen im Liga-Alltag unangenehme Pflichtaufgaben in Mainz und gegen Elversberg zu erledigen.
 
-Die ersten drei Partien auf internationaler Bühne hatte Leverkusen alle gewonnen, Olympique dagegen alle verloren. Beide Serien endeten, weil Amine Gouiri in der 77. Minute in einem sonst schwachen Spiel für Marseille ein Traumtor erzielte.
+Noch immer ist völlig offen, wann Bayern-Trainer Vincent Kompany auf die Trainerbank zurückkehrt. Eine genaue Prognose wollte und konnte sein Assistent Araon Danks vor dem Auswärtsspiel beim FSV Mainz 05 (Samstag 15.30 Uhr) nicht abgeben.
 
-In der Tabelle der Europa League rutscht die Werkself mit weiter neun Punkten auf Rang sieben ab. Marseille, sechster der französischen Liga, hat nun drei Punkte auf dem Konto und klettert auf Rang 31.
+"Ich hatte ein paar richtig gute Telefonate mit Vincent in den vergangenen Tagen. Er wirkt positiv. Er scheint auf einem guten Weg zur kompletten Erholung", sagte Danks, der weiter den Beschützer für den Chefcoach gibt. Der Belgier fehlt wegen seiner Hirnhautreizung bis auf Weiteres.
 
-"Ich glaube schon, dass wir uns Sorgen machen müssen", sagte Robert Andrich nach Abpfiff bei RTL: "Jetzt musst du ins Derby rein, und da brennt es". Leverkusen spielt am Sonntag beim Rivalen 1. FC Köln (Ab 15.20 Uhr live in der Radio-Reportage bei der Sportschau).
+Am Samstag soll unter dem 43 Jahre alten Engländer Danks noch ein weiterer Erfolg vor der Länderspielpause in Mainz folgen, wo die Bayern im Dezember 2024 beim 1:2 ihre bisher letzte Auswärtsniederlage kassierten.
 
-Unabhängig vom Derby sei "bei uns Druck drauf, wenn wir drei Spiele nicht punkten", sagte Torhüter Mark Flekken: "Wir müssen jetzt sehr schnell den Schalter finden."
+Es war zugleich die erste Niederlage in der Liga nach Kompanys Amtantritt im Sommer 2024. Seitdem sind die Münchner seit 30 Auswärtsspielen ungeschlagen. Detail am Rande: Torjäger Harry Kane wartet nach seiner Kür zum Weltfußballer noch auf seinen ersten Treffer.
 
-Vor dem entscheidenden Gegentreffer gegen Marseille hatte Leverkusens Aleix Garcia vergeblich versucht, einen Pass abzufangen. Anschließend lief er dem Konter im mäßigen Tempo hinterher. "Fehler passieren. Einfach stehenbleiben - das ist eine Sache, die darf nie passieren", schimpfte Andrich: "Das hat ein Stück weit mit Einstellung zu tun."
+Stolz verkündet der FC Bayern die Verlängerung des Ballon-d'Or-Siegers Harry Kane bis 2029. Den Münchnern ist es gelungen, alle Leistungsträger langfristig zu binden. Die Mission der nächsten Jahre ist nun klar: Der Champions-League-Titel.
 
-Leverkusens Sportdirektor Simon Rolfes musste die verdiente Niederlage eingestehen: "Heute hatten wir nicht die Energie, um einfach durchzukommen. Dann musst du über Ruhe und Geduld gehen. Das ist nichts Ungewöhnliches gegen Mannschaften wie Marseille. Das hätten wir besser machen können."
+Es entbehrt nicht einer gewissen Pikanterie, dass der punktgleiche Verfolger Borussia Dortmund nach dem 2:2 im Topspiel der Vorwoche bei den Bayern am neunten Spieltag zeitgleich gefordert ist. Dabei macht die grassierende Erkältungswelle auch vor Trainer Niko Kovac nicht halt. "Entschuldigt die Stimme, aber ich bin ein bisschen angekratzt", sagte der 55-Jährige am Ende der Pressekonferenz vor dem Heimspiel gegen den Aufsteiger SV Elversberg (Samstag 15.30 Uhr).
 
-Das Spiel habe sich "hauptsächlich im Mittelfeld abgespielt", sagte Leverkusens Torwart Mark Flekken. "Leider gibt es dann am Ende die eine Situation, wo die sich durchwurschteln und wo wir nicht nah genug dran sind, um das Tor verhindern zu können."
+Anschließend griff der BVB-Coach zum Wasserglas und nahm erst einmal einen kräftigen Schluck. Nach der Partie gegen die Saarländer dürfte dem Trainer die anschließende letzte Länderspielpause des Jahres damit gelegen kommen. Auch für Torjäger Serhou Guirassy, der sich am Dienstagabend beim 2:1 in der Champions League gegen Betis Sevilla eine Zerrung zugezogen hatte.
 
-Es dauerte nur sechs Minuten, da hätten die Gäste eigentlich in Führung gehen müssen. Gouiri nahm einen langen Ball im Strafraum mit dem Rücken zum Tor mit der Brust und an und spielte ihn dann elegant Jarell Quansah durch die Beine. So stand der Stürmer frei vor Bayer-Torwart Mark Flekken, zog im Eins-gegen-Eins-Duell aber den Kürzeren.
+Der Angreifer musste bereits in der ersten Halbzeit ausgewechselt werden, nachdem er sich an den Oberschenkel gegriffen hatte. Neun Spiele innerhalb von vier Wochen und tausende Reisekilometer fordern Tribut bei den Dortmundern, die sich mit einem Dreier in die letzte Unterbrechung vor Weihnachten verabschieden wollen.
 
-Der Startschuss für eine packende erste Halbzeit war das aber nicht. Stattdessen verlagerte sich das Geschehen ins Mittelfeld. Marseille war das aktivere Team, Leverkusen konzentrierte sich erfolgreich auf die Defensive.
+Der BVB zeigt beim FC Bayern, dass es schwierig ist, ihn zu schlagen. Trainer Niko Kovac stellt um und sein Plan geht auf.
 
-Mitte der ersten Hälfte fand die Werkself dann öfter den Weg nach vorne und verlagerte das Spiel in die französische Hälfte. Bis zur ersten gefährlichen Torchance dauerte es eine Weile, die hatte es dann aber in sich: Ein abgefälschter Schuss von Miguel Gutiérrez klatschte auf die Latte (42.). In der Nachspielzeit schoss Quansah noch aus 15 Metern knapp am Tor vorbei, dann war Pause.
+Denselben Auftrag gab es in München. "Wir wollen den Lauf mit einem guten Ergebnis abschließen. Aber das wird nicht einfach, das wissen wir", sagte Danks. Vier der jüngsten sechs Gastauftritte haben die Bayern beim FSV in Mainz verloren, zuletzt jedoch nach 0:3-Pausenrückstand noch 4:3 gewonnen.
 
-Leverkusen nahm dem Schwung aus der ersten Halbzeit zunächst mit in Halbzeit zwei. In der 54. Minute kam Patrik Schick zu seinem ersten Abschluss, ihm sprang der Ball vom Knie aber deutlich über das Tor.
+Vier Tage nach dem 2:0 im Champions-League-Spiel bei Atlético Madrid könnte es personelle Umstellungen in der Startelf geben. Die Mainzer stecken nach drei Pleiten selbst in Schwierigkeiten.
 
-Das war aber auch schon wieder das Ende der Leverkusener Druckphase. Fast im direkten Gegenzug meldete sich Marseille zurück: Erst schoss Igor Paixao aus 18 Metern knapp am Tor vorbei, dann scheiterte Gouiri zum zweiten Mal an Flekken (57.), Geoffrey Kondogbia verzog knapp aus der Distanz (64.).
+Samstag trifft BVB-Sportdirektor Ole Book mit Elversberg auf eine Mannschaft, die er über Jahre maßgeblich zusammengestellt hat.
 
-Wirklich gefährliche Szenen blieben weiter Mangelware, beide Teams scheuten das Risiko und warteten auf den Fehler des Gegners.
+"Der Lösungsansatz ist ganz einfach: Wir müssen es die nächsten Spiele besser machen", sagte Trainer Urs Fischer, der für seine Verhältnisse in der Pressekonferenz am Freitag ungewohnt laut sprach. Man habe auch mit den Spielern untereinander diskutiert, es sei wichtig, sich diesen negativen Trend einzugestehen. Der Schweizer forderte nach dem jüngsten Offenbarungseid in Elversberg (1:4) unmissverständlich: "Es gilt die Tugenden von Mainz 05 auf den Platz zu bringen."
 
-Der kam in der 77. Minute - und zwar von Bayer Leverkusen. Miguel zog auf der rechten Seite in Höhe der Mittellinie im Duell mit Gouiri den Kürzeren. Der Franzose hatte plötzlich viel Wiese vor sich und dribbelte Richtung Strafraum. Im Duell mit Edmond Tapsoba zog Gouri nach innen und versenkte den Ball aus 16 Metern im langen Eck. Flekken hatte keine Abwehrchance.
+Als Beleg habe er Szenen gezeigt, wie sich seine Mannschaft im Dezember 2025 kratzbürstig ein Remis (2:2) bei den Bayern erkämpfte. Damals sei sein Ensemble 134 Kilometer gelaufen, "das hat es noch nie gegeben", erinnerte Fischer: "Du brauchst gegen die Bayern auch das Wettkampfglück, das sie nicht ihren besten Tag haben."
 
-Wie reagierte Bayer Leverkusen? Fast mit dem Ausgleich: Nach einer Ecke köpfte Tapsoba den Ball nur knapp am am rechten Pfosten vorbei. Bayer drückte in der Schlussphase noch auf den Ausgleich und hatte auch mehrere Standardsituationen. Die Punkte gingen am Ende trotzdem nach Frankreich.
+Aufsteiger SV Elversberg überrascht weiter in der Fußball-Bundesliga und nimmt den 1. FSV Mainz 05 schon in Hälfte eins auseinander. Der Höhepunkt aber kommt erst in der Nachspielzeit der Partie.
 
-In der Bundesliga geht es für Bayer Leverkusen am kommenden Sonntag mit dem Nachbarschaftsduell beim 1. FC Köln weiter. In der Europa League reist die Werkself als nächstes am 26. November zu Dinamo Zagreb (18.45 Uhr). Olympique Marseille tritt am Sonntag bei RC Lens an (20.45 Uhr). Der nächste Gegner in der Europa League heißt Levksi Sofia (26.11, 18.45 Uhr).
+Ähnliches sagen sie sich auch bei der SV Elversberg. Der Neuling sammelte im Oberhaus mit erfrischendem Offensivfußball bereits 13 Punkte. Das sind gerade einmal fünf Zähler weniger als der Bayern-Jäger BVB, wo der Ex-Elversberger Ole Book inzwischen als Sportdirektor arbeitet.
 
-Sendung: Bayer Leverkusen unterliegt Olympique Marseille in der Europa League", WDR.de, 05.11.2026, 23.08 Uhr
+SVE-Trainer Vincent Wagner wahrte dabei gegenüber seinem Manager ein Geheimnis. "Mir war gar nicht so richtig bewusst, dass er BVB-Fan ist. Das war zwischen uns kein Thema", bekannte Book im Interview mit der "Saarbrücker Zeitung". "Natürlich habe ich eine Geschichte mit Elversberg und mag die Menschen dort sehr", sagte Book: "Aber es geht nicht darum, wie der Sportdirektor das sieht oder wo er einmal gearbeitet hat. Es ist ein Bundesligaspiel gegen einen guten Gegner vor 81.365 Zuschauern." Für die Elversberger wird es gar ein nie dagewesenes Highlight, über 8.000 Anhänger begleiten den Klub aus der 13.000-Seelen-Gemeinde nach Westfalen.
 
-----------------------------------------
-
-[2] TROTZ ÜBERZAHL: HOFFENHEIM VERGIBT SIEG BEI CRYSTAL PALACE
-
-Am 4. Spieltag der Europa League hat die TSG Hoffenheim bei Crystal Palace unentschieden gespielt. Trotz Überzahl und einer guten Leistung kassierten die Kraichgauer den Ausgleichstreffer in der Nachspielzeit.
-
-1:1 (0:1) hieß es am Ende zwischen Crystal Palace und der TSG Hoffenheim. Dabei ging die TSG im Londoner Selhurst Park bereits nach sieben Minuten durch Alexander Prass in Führung. Ab der 77. Minute spielten die Kraichgauer nach einer Gelb-Roten Karte gegen Adam Wharton in Überzahl, kassierten in der Nachspielzeit aber dennoch den 1:1-Ausgleichstreffer durch Daichi Kamada (90.+1). Damit verpasste das Team von Christian Ilzer den zweiten Sieg im vierten Europa-League-Spiel der Saison.
-
-Im Vergleich zur 0:2-Niederlage in Bremen veränderte Ilzer sein verletzungsgebeuteltes Team auf zwei Positionen. Prass und Tim Lemperle rückten für Adam Hlozek (Wadenprobleme) und Adam Daghim in die Startformation.
-
-In einer munteren Anfangsphase waren die Londoner bereits nach vier Minuten ganz nah dran am Führungstreffer. Aber Glück für Hoffenheim: Kamada stand beim vermeintlichen 1:0 im Abseits. Crystal Palace drückte weiter, aber Hoffenheim eroberte den Ball am eigenen Sechzehner. Dann ging es ganz schnell und die TSG bewies ihre Umschalt-Qualitäten. Andrej Kramaric schickte Tim Lemperle über rechts. Der spielte den Ball in den freien Raum, wo Prass aus halblinker Position aus vollem Lauf abschließen konnte und zur frühen Führung für die Gäste traf (7.).
-
-Hoffenheim war nun voll da und bestimmte das Spiel. In der 23. Minute hatte Kramaric die große Chance, auf 2:0 für Hoffenheim zu erhöhen, aber Keeper Dean Henderson hielt stark aus kurzer Distanz. Vier Minuten später wurde dann aber auch mal Crystal Palace gefährlich. Doch Kamadas Schuss ging ganz knapp am langen Pfosten vorbei, wenige Augenblicke später scheiterte Jean-Philippe Mateta am Hoffenheimer Torhüter Oliver Baumann (30.).
-
-Die "Eagles" wurden nun immer aktiver und hatten mehr Ballbesitz, die TSG aber agierte abgezockt und ließ nichts anbrennen. So blieb es bei der knappen, aber hochverdienten Führung für die Kraichgauer.
-
-Nach dem Seitenwechsel starteten beide Teams personell unverändert. Auch am Spielgeschehen ändere sich nicht viel. Hoffenheim war weiter die spielbestimmende Mannschaft und hatte mit Fisnik Asllani (52.) und Wouter Burger (54.) die ersten nennenswerten Chancen des zweiten Durchgangs. Noch gefährlicher wurde es in der 64. Minute, aber auch Kramaric brachte den Ball unter Bedrängnis nicht entscheidend aufs Tor.
-
-Die Kraichgauer arbeiteten gut gegen den Ball, kämpften und kreierten viele Torchancen. In der Chancenverwertung ließ die TSG allerdings zu viel liegen. Das hätte Londons Yéremy Pino in der 67. Minute beinahe bestraft, aber Baumann reagierte blitzschnell und rettete mit einer Großtat die Hoffenheimer Führung.
-
-Die Schluss-Viertelstunde bestritt die TSG nach einer Gelb-Roten Karte für Wharton dann in Überzahl. Der Mittelfeldmann von Crystal Palace arbeitete im Kopfballduell gegen Wouter Burger mit dem rechten Ellbogen und sah dafür seine zweite Gelbe Karte.
-
-In Überzahl schaffte es Hoffenheim aber nicht, die Führung über die Zeit zu bringen und sich für eine starke Leistung mit drei Punkten zu belohnen. In der Nachspielzeit traf Kamada für die Hausherren - der bittere späte Ausgleichstreffer für aufopferungsvoll kämpfende Hoffenheimer (90.+1).
-
-Weiter geht's für die TSG in der Bundesliga am Sonntag (8.11., 19:30 Uhr/ live im Audiostream bei sportschau.de). Dann empfängt das Ilzer-Team Aufsteiger Schalke. Crystal Palace muss am selben Tag (15 Uhr) gegen Liverpool ran.
-
-Die personell wie sportlich arg gebeutelte TSG Hoffenheim peilt die Trendwende im Europacup an. Gegen Crystal Palace soll endlich wieder gejubelt werden.
-                                                swr
-
-In der Europa League ist Hoffenheim bei Crystal Palace gefordert. Zwei Titel in zwei Jahren, Tristesse in der Liga und die Rückkehr des Stars - der TSG-Gegner im Check.
-                                                swr
-
-Nach dem DFB-Pokal-Aus in Kiel verlor die TSG Hoffenheim auch das Bundesligaspiel bei Werder Bremen. Den Kraichgauern fehlte dabei hinten und vorne die nötige Konsequenz, die bei den Bremern einmal mehr Niclas Füllkrug zeigte.
-                                                swr
-
-Dieses Thema im Programm: Sendung am Do., 5.11.2026 20:50 Uhr, swr.de/sport: TSG Hoffenheim mit spätem Remis bei Chrystal Palace
+Dieses Thema im Programm: sportschau.de | Stolpergefahr für BVB und Bayern | 06.11.2026 | 15.43 Uhr
 
 ----------------------------------------
 
-[3] SC FREIBURG GEWINNT AUSWÄRTSSPIEL BEI TRABZONSPOR DANK STARKER NERVEN
+[2] HAMBURGER SV SCHIESST GLADBACH ZURÜCK IN DIE KRISE
 
-Der SC Freiburg gewinnt im Nordosten der Türkei in der Ligaphase der UEFA Conference League. Gegen Trabzonspor beweist das Team von Trainer Julian Schuster starke Nerven.
+Der HSV hat das ereignisreiche Kellerduell gegen Borussia Mönchengladbach in der Fußball-Bundesliga mit 3:1 (1:1) für sich entschieden - auch dank eines spektakulären Treffers von Miro Muheim.
 
-Der SC Freiburg hat sein Conference-League-Auswärtsspiel bei Trabzonspor mit 1:0 (1:0) gewonnen. In der Arena am Schwarzen Meer sorgte Lukas Kübler (14. Spielminute) für den SC-Treffer. Damit klettert die Mannschaft von Julian Schuster in der Ligaphasen-Tabelle vorerst auf den 11. Platz.
+Der Hamburger SV und Borussia Mönchengladbach lieferten sich im Kellerduell von Beginn an einen offenen Schlagabtausch. Miro Muheim (11.) traf mit einem herrlichen Distanzschuss zum 1:0, Joe Scally (44.) glich kurz vor der Halbzeit aus. Shafiq Nandja (60.) holte die Führung zurück, Albert Grönbaek (70.) traf zum 3:1-Endstand. Die Gladbacher mussten fast die komplette zweite Halbzeit nach der Gelb-Roten Karte für Ko Itakura (49.) in Unterzahl spielen.
 
-Die Breisgauer kamen bereits besser ins Spiel als die Gastgeber. Der Sport-Club lief ein hohes Pressing und dominierte dadurch die Anfangsphase. Nach zwölf Spielminuten sorgte Maximilian Eggestein erstmals für Torgefahr, sein Abschluss aus rund 18 Metern verfehlte aber das Tor von Keeper André Onana. Nur zwei Minuten später zappelte der Ball dann aber im türkischen Netz. Nach einer Ecke ließ Onana einen Kopfball von Freiburgs Igor Matanovic prallen, Lukas Kübler staubte zum 1:0 für Freiburg ab.
+Gladbach bleibt damit auch am neunten Spieltag auf dem letzten Platz, während die Hamburger über Nacht sogar in die obere Tabellenhälfte kletterten.
 
-Die Antwort der Hausherren ließ erstmal auf sich warten. Stattdessen vergab Stürmer Matanovic die Chance zum 2:0, als er von Philipp Lienhart im gegnerischen Strafraum frei gespielt wurde. Verteidiger Chibuike Nwaiwu warf sich aber in den Abschluss des Kroaten und blockte den Ball (21.).
+Von der ersten Minute an hatte die Partie ordentlich was zu bieten - mit Chancen auf beiden Seiten. Gladbachs Shuto Machino (4.) setzte einen Schuss knapp übers Tor, Patson Daka (8.) scheiterte frei an Keeper Daniel Batz, auch der direkte Gegenangriff durch Lukas Ullrich war gefährlich.
 
-Trabzonspor kam in den nächsten Minuten etwas besser in die Partie, ein Freistoß von Star-Stürmer Mohamed Salah, der über das Tor von SC-Schlussmann Mio Backhaus segelte, war die erste echte Torchance der Hausherren (26.).
+Viel mehr Chancen brauchte es aber nicht, ehe es etwas Zählbares gab: Knapp hinter der Mittellinie bekam Miro Muheim in der elften Minute den Ball, legte ihn sich vor und wuchtete ihn aus 30 Metern mit knapp 130 km/h ins rechte untere Eck. Ein Traumtor.
 
-Die bis dahin größte Möglichkeit für das Team vom Schwarzen Meer vergab erneut Salah in der 40. Spielminute. Der Ägypter gelangte am Strafraum der Freiburger an den Ball, setzte sich gegen Jordy Makengo durch und schoss aus etwa elf Metern über das Tor. Aber auch Freiburg lauerte auf einen weiteren Treffer. Unter anderem hatte Vincenzo Grifo die Chance zum 2:0, sein Schlenzer verfehlte das Tor aber um Zentimeter (43.).
+Miro Muheim gelingt das nächste Traumtor aus der Distanz
 
-Die zweite Hälfte begann mit intensiven Zweikämpfen, klare Torchancen blieben aber vorerst aus. Nach einer guten Stunde hatten dann aber die von Thomas Reis trainierten Türken die große Chance zum Ausgleich. Nach einer Ecke verlängerte Mittelstürmer Paul Onuachu den Ball in den Fünfmeterraum zu Salah, der aus kürzester Distanz an Backhaus scheiterte (61.).
+"Ich hatte viel Platz und dachte mir 'Wieso nicht?'. Ich treff ihn perfekt und er geht schön unten in die Ecke. War ein geiler Moment", sagte Muheim im Sportschau-Interview. Dieser Treffer beweist, warum er der beste Distanzschütze der aktuellen Bundesliga-Saison ist. "Im Moment scheint fast jeder aus der Distanz reinzugehen. Ich bin überglücklich", so der Torschütze.
 
-In der Schlussphase ließ sich Freiburg immer weiter in die eigene Hälfte drängen. Trabzon hatte nun die Spielkontrolle. Doch die Freiburger Defensive hielt Stand, ließ keine weiteren klaren Torchance zu und feierte beim Abpfiff durch Schiedsrichter Kristo Tohver einen wichtigen Auswärtserfolg in der Türkei.
+Es ging weiter hin und her: Beide Teams machten ordentlich Druck und zeigten Lücken in den gegnerischen Defensivreihen auf. Sowohl HSV-Keeper Daniel Heuer Fernandes als auch sein Gegenüber Daniel Batz verhinderten mehrfach, dass der Ball im Netz zappelte.
 
-Für den SC Freiburg geht es in der Conference League am 26.11. um 21 Uhr zu Hause gegen Twente Enschede weiter (live im Audiostream auf swr.de/sport). Am Sonntag (8.11., 17:30 Uhr, live im Audiostream auf Sportschau.de) trifft die Mannschaft von Trainer Julian Schuster in der Bundesliga auf Union Berlin.
+Bis er es kurz vor dem Halbzeitpfiff doch tat: Der Hamburger Warmed Omari köpfte eine Flanke aus dem Strafraum, doch landete der Ball vor den Füßen von Joe Scally (44.). Sein Schuss kullerte abgefälscht von Robin Hack ins Hamburger Tor. Mit dem 1:1 ging es in die Kabine.
 
-Auf den SC Freiburg wartet in der Conference League eine anspruchsvolle und stimmungsvolle Aufgabe. Doch die Breisgauer sehen sich gerüstet.
-                                                swr
+Statt auf dem Ausgleichstreffer aufzubauen, schwächte sich Gladbach kurz nach Wiederanpfiff (49.) selbst. An der Seitenlinie verteidigte der vorbestrafte Ko Itakura gegen Albert Grönbaek etwas zu forsch und sah folgerichtig die Ampelkarte. "Ich bin mir sicher, dass ohne die Gelb-Rote Karte heute mehr drin gewesen wäre", sagte Gladbach-Kapitän Philipp Sander am Sportschau-Mikro. Auch sein Trainer Alexander Blessin war enttäuscht: "Wir waren in der ersten Halbzeit die klar bessere Mannschaft. Und wenn wir das Spiel mit elf Mann beenden, gewinnen wir wahrscheinlich hier."
 
-Der SC Freiburg trifft am dritten Spieltag der Conference League auswärts auf Trabzonspor. Beide Teams sind gut in Form, die Breisgauer kommen mit einem Pokalerfolg im Rücken.
-                                                swr
+Die Unterzahl kam Gladbach aber teuer zu stehen. Die Hamburger spielten ihre Überzahl kaltschnäuzig aus. Albert Lokonga spielte Grönbaek frei, der wiederum hatte das Auge für Shafiq Nandja, der den Ball an Batz vorbei ins Gladbacher Tor zur 2:1-Führung setzte (60-). Zu sicher durfte sich der HSV aber nicht fühlen. Fast hätte ein Patzer von Sebastiaan Bornauw nur sechs Minuten später die Führung wieder gekostet.
 
-Beim SC Freiburg läuft es sportlich sehr gut, der Klub schreibt zudem Rekordzahlen. Einer der Baumeister des Erfolges ist Vorstand Oliver Leki. In SWR Sport sprach der 53-Jährige über die Entwicklung in den letzten Jahren, die aktuelle sportliche Situation und über langfristige Ziele.
-                                                swr
+Der Fast-Ausgleich rüttelte den HSV nochmal auf. Die Antwort kam von Grönbaek (70.), der es Muheim nachmachte und einen Distanzschuss zum 3:1 ins Netz der Gäste hämmerte. "Zwei Tore aus 30 Metern, das tut brutal weh", so Sander, "jeden Distanzschuss kann man nicht verteidigen. In der Regel haben wir die Verantwortung den Sechszehner zu schützen. Am Ende ist es eine 50:50-Entscheidung. Heute zu unserem Nachteil."
 
-Dieses Thema im Programm: Sendung am Do., 5.11.2026 20:47 Uhr, swr.de/sport "Das 1:0 für den SC Freiburg durch Lukas Kübler"
+Die Gladbacher Versuche, noch irgendetwas auszurichten, blieben erfolglos. Es blieb beim 3:1 für die Hamburger. So zeigte sich HSV-Trainer Merlin Polzin in der Sportschau entsprechend "extrem zufrieden. WIr haben mit viel Power nach vorne gespielt und uns viele Chancen erarbeitet. Das stimmt den Trainer glücklich."
+
+In Gladbach ist man nach dem verpatzten Saisonstart mit sechs Niederlagen in Folge trotz den Lichtblicken gegen Stuttgart und im Pokal gegen Karlsruhe jetzt also wieder im Krisenmodus.
+
+Der HSV ist am Spieltag nach der Länderspielpause am Sonntagabend bei Werder Bremen zu Gast (17.30 Uhr). Mönchengladbach empfängt am Samstagnachmittag Borussia Dortmund (15.30 Uhr).
+
+Dieses Thema im Programm: sportschau.de | HSV distanziert sich vom Tabellenkeller - die Audio-Highlights | 06.11.2026 | 22:38 Uhr
+
+----------------------------------------
+
+[3] VOM PERLENTAUCHER ZUM BVB-SPORTDIREKTOR
+
+Am Samstag empfängt Borussia Dortmund Bundesliga-Aufsteiger Elversberg. BVB-Sportdirektor Ole Book trifft dabei auf eine Mannschaft, die er fast neun Jahre maßgeblich zusammengestellt hat.
+
+BVB-Sportdirektor Ole Book hat eine Gewohnheit. "Nach unserem Sieg gucke ich kurz, wie Elversberg gespielt hat", sagte der 40-Jährige nach der Partie gegen Hoffenheim. Am Samstag muss Book nicht aufs Smartphone schauen, wenn die SV Elversberg dem BVB in der Fußball-Bundesliga als Gegner gegenübersteht (Ab 15.20 Uhr live in der Radio-Reportage beim WDR).
+
+Dass Ole Book bei Elversberg mitfiebert, ist verständlich. Fast neun Jahre hat er in unterschiedlichen Rollen für die Saarländer gearbeitet und gemeinsam mit dem Verein einen bemerkenswerten Aufstieg hingelegt.
+
+Seit März ist Ole Book Sportdirektor in Dortmund. Geboren in Beckum, gerade einmal eine Autostunde vom Westfalenstadion entfernt, war er schon seit seiner Kindheit Fan von Borussia Dortmund. "Die Verbundenheit reicht so weit zurück, wie ich mich erinnern kann", sagte Book bei seiner Vorstellung.
+
+Doch den Grundstein dafür, eines Tages beim großen BVB zu arbeiten, legte Book bei der SV Elversberg. 2017 kam er als Scout ins Saarland. Damals spielte Elversberg noch in der Regionalliga Südwest.
+
+Schnell arbeitete sich Book die Karriereleiter hinauf und wurde erst Sportdirektor und anschließend Sportvorstand. Gemeinsam mit Horst Steffen und später Vincent Wagner formte er eine Mannschaft, die es aus der Regionalliga bis in die Bundesliga geschafft hat.
+
+Der rasante Aufstieg von Elversberg lässt sich auch mit Ole Books Gespür für Spieler erklären, deren Potenzial andernorts noch nicht vollständig erkannt worden war. Nick Woltemade etwa kam 2022 auf Leihbasis aus Bremen nach Elversberg.
+
+"Da waren immer wieder so Momente, Pässe, Dribblings, dass wir uns dachten: Wow, das ist ein ganz besonderes Talent", sagte er einmal über Woltemade, der heutzutage bei Juventus Turin kickt. Auch Fisnik Asllani nutzte seine Leihe von Hoffenheim, um sich in der 2. Bundesliga zu empfehlen.
+
+Genauso erging es Younes Ebnoutalib, der aus der Regionalliga nach Elversberg gewechselt war und dort mit seinen Toren auf sich aufmerksam gemacht hatte, ehe er den Sprung zu Eintracht Frankfurt und schließlich in die Nationalmannschaft schaffte.
+
+Genau diese Transferphilosophie soll Book auch bei Borussia Dortmund verfolgen. Hier hat er nun seinen ersten Transfersommer hinter sich. Trainer Niko Kovac lobt ihn als "Arbeiter", der praktisch nie eine Pause mache.
+
+Anders als sein Vorgänger Sebastian Kehl, der Neuzugänge meist aus der Bundesliga zum BVB lotste, schaut Book ins Ausland. Zum Beispiel nach Griechenland (Konstantelias), in die Niederlande (Veerman) oder Belgien (Karetsas). Vor allem der 18-jährige Konstantinos Karetsas entpuppte sich in der noch jungen Saison als ein möglicher Unterschiedsspieler mit enormem Entwicklungspotenzial.
+
+Dass Ole Book, damals mitten in der Saison, von Elversberg nach Dortmund wechseln konnte, lag an einem Vertragsdetail. Er hatte sich eine Ausstiegsklausel in seinen Vertrag schreiben lassen, die ausschließlich für Borussia Dortmund galt.
+
+"Es war ein berufliches Ziel, bei Borussia Dortmund zu arbeiten. Und ja, es war bestimmt ein Zeichen von Selbstvertrauen", so Book. BVB-Geschäftsführer Lars Ricken lobte Books Weitsicht und holte wenig später mit David Blacha einen zweiten Funktionär aus Elversberg.
+
+Bekannte Gesichter wird Book am Samstag aber sicher nicht nur auf dem Rasen sehen. Rund 8.000 Elversberger haben Tickets für das Duell in Dortmund, für den Klub ein Rekord.
+
+Trainer Vincent Wagner, selbst BVB-Fan, kannte das Stadion bisher nur von der Tribüne. "Jetzt kommt das Größte, was die Bundesliga zu bieten hat", sagt er. Auch Wagner trifft dabei auf seinen früheren Sportdirektor.
+
+Ole Book freut sich auf das Wiedersehen: "Ich sehe unheimlich viele Menschen wieder." Dass man bei einem Gegner so viele Leute kenne, sei selten. Sportlich traut Book seinem Ex-Verein übrigens eine Menge zu. Er sehe eine Mannschaft, die für jeden gefährlich sein könne – und somit auch für Borussia Dortmund.
+
+Hinzu kommt aus BVB-Sicht der Ausfall von Serhou Guirassy. Der Torjäger hatte sich im Champions-League-Spiel gegen Real Betis eine Zerrung zugezogen und muss vorerst pausieren.
+
+Sendung: WDR.de, "Book mit dem BVB gegen seinen Ex-Verein", 06.11.2026, 14:26 Uhr
 
 ----------------------------------------
 
 
 >>> TECH (WIRED) <<<
 
-[1] GREENLIGHT FAMILY HUB DIGITAL WALL CALENDAR BLACK FRIDAY SALE (2026)
+[1] THE CYBERTRUCK’S DEATH IS ACTUALLY GREAT NEWS FOR EVS
 
-I've tried almost every digital wall calendar available (as is my job as WIRED's resident calendar tester), and the model that I've found increasingly impressive as time goes on is the Greenlight Hub.
+Tesla will end production of the Cybertruck at its Texas Gigafactory next year.
 
-Greenlight has a different premise than other digital wall calendars. The brand started as a debit card for kids before branching into more app-based categories: chores to attach to allowance distribution, family location tracking, and more. Greenlight launched its own Family Hub device to bring these features together and add a few more, like the digital calendar function, seen in popular tools like Skylight.
+It’s a uniquely toxic electric vehicle, between its divisive design and Elon Musk’s embrace of you name it. That toxicity certainly contributed to subpar sales, along with a number of recalls.
 
-Now, Greenlight's Family Hub is at its best price, already on sale ahead of Black Friday. The 15.6-inch version I tested has a $100 discount, totaling $199 right now (significantly less than every other digital wall calendar I recommend, all of which usually retail for at least $300). There's also a smaller 10.1-inch model available for $30 off, currently selling for $169, if you want something a bit cheaper.
+But the end of the Cybertruck is also another sign that the era of big EVs—particularly big trucks—is waning. That’s great news for pedestrian and biker safety, but also for the battery supply chain at a time when more people need to get behind the electric wheel.
 
-The Greenlight Hub leads with its family calendar tool that lets you see everyone's schedules in one place, but it also has tabs for chores, family locations, and even doubles as a digital photo frame at no extra cost. You'll have to subscribe to Greenlight's Family Hub+ plan to get family location sharing. That subscription also grants access to Greenlight's voice assistant, which allows you to ask the hub questions.
+The Cybertruck uses a massive 123-kilowatt-hour battery that clocks in at around 1,600 pounds, or around a quarter of the vehicle's weight. That’s on par with the battery that powered Ford’s F-150 Lightning, another electric truck that was canceled late last year. (The company also killed a three-row EV in 2024.) Ford’s behemoth batteries ranged from 98 kilowatt-hours up to 131 kilowatt-hours.
 
-The Greenlight Family Hub is overall a great device, particularly for parents who want to track how well their kids complete chores. (Conveniently, you also have the option to attach an allowance, if you'd like.) I've been enjoying it just fine with a 4-year-old whose only chore is to brush his teeth at night.
+Seeing both trucks canceled within a year of each other, while automakers have announced a bevy of smaller EVs and gas-powered autos with electric motors that can extend range, indicates there may be a shift afoot. Ford is planning to launch the Fathom next year. The sub-$30,000 electric pickup is expected to be about the size of the automaker’s compact gas-powered Maverick pickup. Though Ford hasn’t announced the battery sizes available in various trims, it’s a safe bet they won’t be anywhere near the size of the F-150 Lightning's or Cybertruck's. The company is also planning to relaunch the Lightning as an extended-range model.
 
-But no matter whether you have kids, the Hub is a worthy addition to any home. I like the modern, stylish icons that feel cooler and more gender-neutral than the bubbly, pastel interface featured on the Skylight and similar tools. The Greenlight also doesn't share the decidedly Android feel of some cheaper models, despite being less expensive than those other options right now.
+Startup Slate is also launching a tiny electric pickup that can be converted to an SUV, with a bare-bones base model starting below $25,000. It also features a svelte battery and has seen a massive surge in preorders—though, to be fair, so did the Cybertruck, and we saw how that turned out.
 
-Ultimately, I'm impressed with how well the Hub performs as a digital photo frame, calendar, and even voice assistant. The sale is a big one—the perfect opportunity to get a handy, stylish digital wall calendar for your family ahead of the holidays, or perhaps a gift for your mom or another family you know would love it.
+Then there’s the Rivian R2, which launched this year. While the SUV isn’t as tiny or cheap as Ford and Slate’s vehicles—its battery has 88 kilowatt-hours of capacity and weighs in at around 1,200 pounds—it’s still smaller than the company’s flagship R1S. Rivian has also teased the R3, an even more-slimmed down SUV, in the coming years.
 
-Power up with unlimited access to WIRED. Get best-in-class reporting and exclusive subscriber content that's too important to ignore. Subscribe Today.
+That’s not to say big EVs are dead. The Kia EV9, for example, is among the top 10 EVs by sales in the US, as is the R1S. There’s also a torrid resale market for the F-150 Lightning. But the rest of the top 10 new EV sales are all crossovers, sedans, or mid-sized SUVs with moderately sized batteries, and a number of newly announced EVs are trending on the smaller side or function as extended-range vehicles.
 
-Take Up to 25% Off Custom Prints with VistaPrint Promo Code
+Building smaller vehicles is, of course, one way to make EVs cheaper. With less weight to propel, you can rely on a smaller battery. And given that the battery pack is the most costly component of an EV, that can in turn help automakers offer more affordable vehicles at a time when the price of so many other consumer goods is skyrocketing. That includes the current crop of EVs: The average transaction price for a new model is now $55,800, according to Cox Automotive.
 
-Take 10% Off Legal Services with This LegalZoom Promo Code
+Going small—or smaller, anyway—also means making the most of a limited battery supply chain. The vast majority of Cybertruck drivers are doing the same thing with their vehicles as Hyundai Ioniq 5 drivers: getting groceries, commuting, and driving kids to soccer games. But a standard-range Ioniq 5 driver is doing it with a battery about half the size.
+
+After President Donald Trump’s administration killed EV incentives last year, sales plummeted. The Iran War and rising gas prices have led to an uptick in interest, though sales still lag behind the global average. (Used hybrid sales have also picked up, reflecting the pain people have been feeling at the pump.) Even with a Democratic-controlled Congress, EV incentives coming back under Trump are about as likely as defense secretary Pete Hegseth putting pronouns in his email signature. But should Democrats take the White House in 2028, marking the culmination of Woke 2.0, support for would-be EV buyers becomes much more likely.
+
+Automakers pivoting to smaller cars could be much better positioned to meet pent-up demand if that happens, while also lowering the risks of delivery delays.
+
+Even Elon’s announcement killing the Cybertruck points to where the market is heading: He claims Tesla is ending production to make room for cranking out more Cybercabs. The battery size in those vehicles? Just 48 kilowatt-hours.
+
+In your inbox: Go inside the world of digital security with Kernel Panic
+
+We sexted with a Muse AI agent—and Meta says that’s totally fine
+
+Want better search results? Make WIRED a preferred source in Google
 
 © 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
 
 ----------------------------------------
 
-[2] 6 BEST VPN SERVICES (2026), TESTED AND REVIEWED
+[2] HOW STEPHEN MILLER SCHEMED HIS WAY TO THE TOP
 
-Hundreds of VPNs are at your disposal. They all want you to believe they’re the best VPN you can buy. All of them claim to have the biggest network or a no-logging policy. And they all promise your internet traffic is safe on the network of servers they’ve rented. Only some of them are telling the truth.
+President Donald Trump on Friday announced that Stephen Miller, one of his most powerful and politically aggressive aides, would be his next White House chief of staff following disastrous results for Republicans in the midterm elections.
 
-VPNs are only growing in popularity due to age-verification laws in the UK and in several states in the US. Even if you don’t want a VPN, you might need one. If you’re hesitant, I get it. VPN providers have been deep in murky waters for years, constantly caught lying about their practices, handing over user data that was never supposed to be logged, and serving as safe havens for large cybercriminal organizations.
+Miller, whose titles until now were deputy chief of staff for policy and homeland security adviser, has orchestrated the most polarizing policies of Trump’s second term—most notably a brutal crackdown on immigration that has claimed the lives of US citizens.
 
-I wanted to find the VPN services that actually work; the ones that keep their promises even in the face of potential prosecution, and the ones that have a proven track record of reliable performance. Some of the picks in this guide aren’t conventional, and some of the services I suggest you avoid might be controversial. But these are the top VPNs I’d use day to day.
+Trump made the change public in a statement on his Truth Social platform, writing that Miller would take over from Susie Wiles on Monday—less than a week after Republicans lost the House and Senate in a searing rebuke of Trump’s policy agenda.
 
-Read our other VPN guides, including how to set up a VPN on your router and how to use a VPN to watch Netflix when you travel abroad.
+In recent days, Trump has privately blamed Wiles for the worst Republican midterm performance in decades, according to two sources familiar with the matter. Wiles submitted her resignation on Thursday, the sources say.
 
-If your looking to get a VPN deal, Proton, our top VPN pick (read more below), is running an early Black Friday sale: 75 percent off the regular price for two years. You can get Proton VPN Plus for $2.49 a month (regularly $10 a month); billed at $60 for 24 months. VPN Plus protects up to 10 devices and gives you access to more than 20,000 servers, plus it blocks ads, trackers, and malware. You can also snag one year of Proton Unlimited for $6.50 a month (regularly $13 a month); billed at $78 for 12 months, which adds Proton’s mail, calendar, and password manager software, plus 500 GB of cloud storage. We don’t know when this deal expires, but we imagine it will last through Cyber Monday.
+Trump broadly considered three candidates to replace Wiles, the sources say: special envoy Steve Witkoff, director of national intelligence Jay Clayton, and Miller.
 
-VPN stands for virtual private network. A VPN provides a tunnel through which all of your internet traffic passes. Instead of connecting to your internet service provider's servers, you connect to a VPN's server before connecting to the broader internet. Because most VPN services operate this way, your browsing data isn't stored, essentially making you anonymous online.
+But with the looming threat of congressional investigations starting next year, Trump settled on Miller, seemingly because of his zeal in defending the president and his deep loyalty. Miller has been with Trump since his first campaign and stood by him through his political exile in 2021.
 
-The linchpin in this system is a VPN protocol. Today, nearly all internet traffic is encrypted, but that encryption happens only after you've established a connection with a website. A VPN protocol encrypts traffic before it reaches the VPN server, adding extra security on untrusted networks like public Wi-Fi at a coffee shop or airport. It doesn't help much on your personal network unless there is an intruder.
+Miller had made his interest in the job known inside the West Wing for weeks, ever since Wiles weathered a series of negative stories before the midterms that suggested her job was at risk, the sources say.
 
-Although VPNs are often marketed as security tools, they serve a better purpose for privacy and bypassing geo-restrictions. By anonymizing your traffic through a VPN server, your browsing can't be traced back to you. The internet is full of cookies, and you might be surprised by how much of your traffic online is tracked via browser fingerprinting. That includes hiding what sites you visit (and what you do on those sites) from your internet service provider (ISP).
+In recent months, Trump also started cutting Wiles out of certain decisions, which contributed to the sense among her detractors that she was on shaky ground, sources say. For instance, Trump reportedly hired Katie Zacharia as press secretary without consulting Wiles, though the White House pushed back on the claim.
 
-By routing your traffic through a server in another location, you can also bypass geo-restrictions online, such as the content libraries available in different countries on Netflix or checking product availability in other regions of the world.
+With Wiles’ departure, White House aides were bracing for further personnel changes. Among other names, Wiles’ deputies James Blair, who put together the GOP midterm strategy, and Richard Walters are seen as vulnerable to being fired by Miller unless they resign first, sources say.
 
-VPNs can also be important when connecting to public Wi-Fi. If you're doing anything remotely sensitive on your computer at a coffee shop, a VPN is a good idea to protect your personal data.
+The changing of the guard is also likely to bring respite to defense secretary Pete Hegseth, who has had a strained relationship with Wiles as of late but is seen as ideologically aligned with Miller, sources say.
 
-VPN prices vary widely, but most providers cost around $10 per month for a monthly plan. Pricing changes if you buy several months at once, and it gets even more complicated with full security suites, such as those offered by Nord Security and Proton.
+Hegseth and Miller worked closely last year when the Trump administration began a campaign of strikes against boats around Venezuela. Miller, who also leads the Homeland Security Council within the White House, orchestrated the campaign through the Pentagon.
 
-Most prominent VPN services offer multi-month or even multiyear discounts. These plans are often the best way to get your foot in the door, but some VPNs have recently faced class-action lawsuits over their auto-renewal practices. Although a handful of lawsuits have been filed, that doesn't mean these services necessarily engaged in illegal practices.
+Wiles leaves the White House as arguably the most successful chief of staff to Trump, who infamously cycled through chiefs in his first term. By comparison, Wiles kept Trump’s confidence from the start of his second presidential campaign in 2021.
 
-Free VPNs exist, as well, but you should avoid most of them. Some restrictive free plans from Proton and Windscribe are useful, but you should approach most free VPNs with skepticism.
+Still, Wiles weathered a number of challenges in recent months. She underwent a successful course of chemotherapy, but also faced accusations that her daughter had received lucrative contracts in part because of the family’s connection to the president. (The White House and Wiles’ daughter’s firm pushed back on these claims.)
 
-You'll come across a few of these terms in this guide as you generally shop for a VPN. Here's what they mean.
+“Serving President Trump in the White House has been the honor of a lifetime,” Wiles wrote on X. “I’m so proud to have been a part of what we’ve accomplished together from securing our border and cutting taxes to strengthening our economy and putting America First.”
 
-Double-hop: Connecting to two (or more) VPN servers in succession. This provides an extra layer of privacy if someone traces your network path, but it will vastly reduce speeds.
+In your inbox: For life-tested picks, sign up for our Gear newsletters
 
-Split tunneling: Allows you to choose which apps use the VPN tunnel. Useful if you want some apps (like your browser) to use the VPN tunnel but not others.
+Airbnb hosts are furious they can no longer make guests do their chores
 
-Kill switch: A security feature in VPNs that will disable your internet connection if the VPN connection drops. A kill switch can prevent internet traffic from leaking if the VPN fails.
+big story: cool kids write in all lowercase—does that make you mad?
 
-IP and domain block list: A list of IP addresses or domain names that are blocked inside the VPN tunnel. Some VPNs offer Domain Name System (DNS) blocking, too, which can block ads served from particular DNS servers.
-
-Static IP: Most VPNs assign you a random IP address, or even rotate the IP address while you’re connected. If you need external access to your network with a network-wide VPN, you'll need a static IP address.
-
-Port forwarding: Allows you to forward a port on your private network, bypassing the VPN tunnel. Useful when you need external network access with a network-wide VPN, such as running a media server.
-
-NetShield: A feature specific to Proton VPN that blocks ads and trackers while connected to the VPN. Other services, such as Windscribe and NordVPN, offer similar features.
-
-Dark web monitoring: A feature available in some VPNs, such as NordVPN and ProtonVPN, that will monitor the dark web for your email address or other personal information. You'll be notified if the information shows up on the dark web or as part of a breach.
-
-DAITA: A feature of Mullvad VPN that will introduce background noise to your connection, combating AI-assisted network analysis. Windscribe, NordVPN, and ProtonVPN offer similar features.
-
-Short of a few exceptions, VPNs are legal around the world. That includes the US, UK, Canada, Australia, the EU, South Africa, and many countries in Central and South America. Places such as North Korea and Turkmenistan have VPN bans in place, but due to the extreme censorship in those countries, it's hard to verify what laws are on the books (and how they're enforced). You can probably guess the North Korean government's stance on bypassing censorship, though.
-
-For everyone else, VPN legality only comes into play based on which VPN you use and what you use it for. Countries such as India and Russia call for compliance with the government, forcing providers like NordVPN to shut down servers in those regions. And, regardless of what country you're in, engaging in illegal activity while connected to a VPN is still illegal.
-
-Update November 2026: We’ve added a mention of an early Black Friday deal for Proton VPN.
-
-Proton VPN (9/10, WIRED Recommends) is the best VPN you can buy. Its Plus service was the fastest I tested across the US and UK. It has a generous free plan if you'd like to try it out first. The features are unmatched, and the pricing is excellent, especially if you bundle Proton VPN with the company's other software (Proton Unlimited). After testing all of these services, Proton is what I personally use now.
-
-What sent Proton over the edge was its commitment to transparency. It has maintained a transparency report since 2017, undergone third-party audits annually since 2022, and open-sourced its applications five years ago. That last bit is huge, as bugs within the application can pose a security risk, and handing those applications over to the open-source community can surface those bugs much faster. There are no real compromises here, with features like split tunneling, port forwarding, and double-hop connections.
-
-Proton is a rare example of a VPN service that gets it. Every VPN engages in the same marketing practices, touting their security, speed, and privacy. But Proton puts its money where its mouth is, all while offering a remarkably easy-to-use and feature-rich VPN application.
-
-Black Friday is a good time to sign up for Proton VPN. The company is offering 75 percent off the regular price for two years.
-
-NordVPN has a long history, and it's one of the most prominent VPN services on the market. It comes with one of the largest VPN networks available, enough features to make Surfshark blush, and decent (though not the best) speeds. It's a little more expensive than I'd hoped for, but that's the price you pay for such an extensive network and feature set.
-
-That feature set is where NordVPN stands apart. Its Basic plan will get you access to the VPN, but I recommend going with at least the Plus plan. It opens up an ad blocker and gives you access to one of the best password managers around, NordPass.
-
-Nord backs up security and privacy credentials with independent audits of the company’s no-log policy and the service’s security. Like Proton, Nord lets you scale up your protection with encrypted cloud storage, but Nord leans further into security while Proton focuses on privacy-focused productivity. With NordVPN, you can upgrade to unlock NordProtect, an identity theft protection service, as well as Incogni to remove your data online.
-
-These extras wouldn't mean much on their own, but the core of NordVPN is still an excellent VPN service. It's been on the bleeding edge of VPN security and features for years, and that hasn't changed.
-
-You should generally avoid free VPNs, but Windscribe is one of the few worth considering. You get 10 GB of data across 10 server locations and unlimited connections, and you can even unlock more data if you refer friends or post on social media about Windscribe. There are a few similar offers from services like Proton, but Windscribe provides a pleasant on-ramp for subscribing.
-
-If you do decide to pay, you can build your own plan. Unlimited data runs an extra $3 per month, and you can add server locations for an extra $1 per server per month. It's fantastic. Most people don't need VPN servers in Ghana, Cambodia, and Peru, so rather than charge for all those locations, you can pick out your locations piecemeal. If you want everything, that's available at a discounted rate, too.
-
-The pricing model is what sets Windscribe apart, but it's an excellent VPN in its own right. It offers additional packet obfuscation to combat network analysis, and it's loaded with features like split tunneling and port forwarding. It's fast, too, dropping just 15.6 percent of my speed when connected in the US.
-
-Like the other providers I've included, Windscribe has undergone a third-party audit. But unlike the other options, it's also been taken to court. Windscribe CEO Yegor Sak was personally charged with a crime in Greece in relation to a user's activity on Windscribe-operated servers, essentially tying activity on the network to Sak personally. It was dismissed. VPNs are subpoenaed all the time, but the fact that Windscribe wasn't able to produce logs even when the CEO of the company was facing criminal prosecution speaks volumes.
-
-Windscribe added random hashed login in December 2025, which makes it possible to create an anonymous account. Windscribe doesn’t record the random hash, so if you lose it, you’ll also lose account access—but it can help to keep your identity private. This is similar to how Mullvad and IVPN handle accounts. Windscribe accepts cryptocurrency payments as well.
-
-Any VPN worth its salt claims a no-logs policy, but almost all of them keep some logs. Those logs shouldn't have anything to do with your browsing data, and they should be anonymized, but most VPNs need to at least keep logs of information like your email and payment method. But not Mullvad.
-
-Mullvad doesn't do multi-year subscriptions, referral links, or social sign-on. You generate an account number to sign up, and you add time to that account with the payment method of your choice, including a credit card, PayPal, crypto, or cold, hard cash (via mail). If you want to go through the hassle, you can stay fully anonymous in the eyes of Mullvad. If that wasn't enough, Mullvad even claims it was raided by Swedish police and still didn't produce logs.
-
-It's not as fast as Proton, Windscribe, or Surfshark, but it's not bad, either—around a 24 percent drop in the US compared to 19 percent with Surfshark—and it lacks some features like port forwarding. But the pricing is good at roughly $6 a month, depending on exchange rates (Mullvad charges a flat €5 regardless of location).
-
-Mullvad is on the cutting edge of privacy, too, building RAM-only servers starting in 2022 and introducing defense against AI-guided traffic analysis (DAITA) last year. DAITA protects against AI traffic analysis, introducing network noise and sending consistent packet sizes to obfuscate your encrypted traffic further.
-
-While the built-in, free Bitdefender VPN is usable, it's too limited for what most people will want. The company's paid option, Bitdefender VPN Premium, gets you support for up to 10 devices, and it's plenty reliable and fast—without the data restrictions. Its biggest draw is its first-year price: it's only $30, which is a great value for a VPN like this. It goes up to $70 after the first year, though, which is a bit more expensive than ProtonVPN. But that first-year price comes out to just $2.92 per month, making it an especially good VPN for beginners to try.
-
-Our VPN reviewer, Matthew Smith, was also impressed by the app experience, which is supported on Windows, Mac, iOS, and Android. It's clean, and all the important information is right up front—including the kill switch. A couple of platforms are missing, such as TVs and Linux, so be aware of that. So, while Bitdefender VPN Premium might not be the ultimate privacy tool, as it's missing some more of the advanced features, it's a user-friendly and dependable VPN with a killer first-year price. —Luke Larsen
-
-ExpressVPN has had a rough few years, but it finally seems to be on solid footing. It was purchased a few years back for almost $1 billion by Kape Technologies, a firm that owns several VPNs, including CyberGhost and Private Internet Access. A revolving door of executives followed the sale, but ExpressVPN's leadership is solid enough now that it's worth recommending.
-
-That's because the service itself hasn't degraded in the past few years. ExpressVPN is still insanely fast, packed with features, and dead-simple to use across desktop and mobile. It can go toe-to-toe with the top dogs, and it's always been able to. That hasn't changed.
-
-However, I'm recommending it here due to recent changes ExpressVPN made to its membership options. Its core service is still intact, offering 10 simultaneous connections and full access to the ExpressVPN network. You can push higher, though, with the Advanced plan offering 12 connections and the Pro plan offering 14. The Advanced plan is best for most people, not only due to the higher connection limit but also because it comes with a password manager and 50 percent off one of ExpressVPN’s AirCove routers.
-
-Surfshark: I've used Surfshark personally for a few years, and I'd still be using it if Proton didn't impress me so much. Surfshark is dead simple to use. It pops up and connects before swiftly getting out of my way so I can get on with my day. If you spring for a two-year plan, it's cheap. You can score over two years for around $54 with the Starter plan.
-
-If you want to dig in deeper, you can. Surfshark is one of the most feature-rich VPNs I've used, sporting the basics like a double-hop connection and split tunneling, as well as an ad blocker and email masking. Like Proton, Surfshark offers other security tools like antivirus and dark web monitoring if you pick up a more expensive plan. Surfshark loses out just a bit when it comes to privacy, however. It has a no-logs policy, and it maintains a transparency report and a warrant canary, so it’s not bad in this regard. However, it doesn't have open-source applications, so you’ll need a bit more faith in Surfshark’s app security than with some other VPN services.
-
-EventVPN: This is a free, ad-supported VPN from ExpressVPN. Ads and VPNs don't really mix, but EventVPN says it's able to offer a free service via Apple's App Tracking Transparency (ATT) and Identifier for Advertisers (IDFA), basically allowing it to serve ads without harvesting your personal data. The problem is the pervasiveness of ads. A banner lives at the top of the app at all times, and you'll need to sit through a 30-second ad each time you connect or disconnect; a big problem when some servers post unreasonably slow speeds. I'll admit EventVPN is a unique concept, but I see nothing better than ProtonVPN or Windscribe for a free VPN service. And when it comes to the inconvenience of sitting through ads, it's straight-up worse.
-
-IVPN: This privacy-focused VPN provider is similar to Mullvad. It does not ask you to create an account with a username, password, and email, but instead generates a random ID, which you use to log in. That helps preserve your anonymity, since that information can’t be tied to your usage even if IVPN suffered a security incident. IVPN also accepts cryptocurrency payments (Bitcoin and Monero). Unlike Mullvad, IVPN offers one-year, two-year, and three-year plan options, as well as an unusual weekly option, which might be nice if you want a VPN while on vacation (IVPN standard is $2 per week). These can be more affordable than Mullvad’s monthly fee. However, IVPN lacks some privacy features you will find with Mullvad, such as RAM-less servers. IVPN scheduled a security audit for 2025, but as of January 2026, the results have not been posted. IVPN also has a tight two-device limit on the Standard plan. The Pro plan raises that to seven, but the Pro plan’s price is $10 per month, so it’s more expensive than Mullvad, which has a five-device limit. That remains true even if you go with a multi-year IVPN plan. Still, IVPN is a fine alternative if you want annual plan options. And while most VPN apps serve their purpose, I do think IVPN’s app is both more attractive and easier to use than Mullvad’s. —Matthew S. Smith
-
-Private Internet Access (PIA): With its long history in the VPN space, PIA has maintained a track record of defending user privacy—even in the face of actual criminal activity. In 2016, a criminal complaint was filed in Florida against Preston Alexander McWaters for threats made online. McWaters was eventually convicted and sentenced to 42 months in prison. Investigators traced the online threats back to PIA's servers and subpoenaed the company. As the complaint reads, “A subpoena was sent to [Private Internet Access], and the only information they could provide is that the cluster of IP addresses being used was from the east coast of the United States.” According to the complaint, McWaters engaged in several other identifying activities, but PIA wasn't among them. Despite such a clear view of a VPN provider upholding its no-logging policy, PIA didn't impress me during my tests. It delivered the worst speeds out of any VPN I tested, with more than a 50 percent drop on the closest US server. (Windscribe, for context, only dropped 15.6 percent of my speed.)
-
-MysteriumVPN: This is the go-to dVPN, or decentralized VPN, as far as I can tell. The concept of a decentralized VPN has existed for a while, but it's really gained traction over the last couple of years. The idea is to have a network of residential IP addresses that make up the network, routing your traffic through normal IP addresses to get around the increasingly common block lists for VPN servers. Mysterium accomplishes this network with MystNodes. It's a crypto node. People buy the node to earn crypto, and they're put into the Mysterium network. It's not inherently bad, but routing your traffic through a single residential IP is a little worrisome. Even without the decentralized kick, Mysterium was slow, and it doesn't maintain any sort of privacy materials, be it a third-party audit, warranty canary, or transparency report.
-
-PrivadoVPN: A popular option to recommend as a free VPN, offering a decent free service, with a handful of full-speed servers and 10 GB of data per month. You'll have to suffer through four—yes, four—redirects begging you to pay for a subscription before signing up, but the free plan works. The problem is how new PrivadoVPN is. There's no transparency report or audit available, and although the speeds are decent, they aren't as good as Proton, Windscribe, or Surfshark. PrivadoVPN isn't bad, but it's hard to recommend when Proton and Windscribe exist with free plans that are equally as good.
-
-You'll find dozens of free VPNs all claiming to protect your privacy. Most of them don't. There are plenty of VPNs I don’t recommend, but these are a few I've tested that are worth mentioning.
-
-Hola is an infamous name in the VPN industry, but it's been close to a decade since its very public debacle. Hola is free, and it's able to stay free because it uses a peer-to-peer network. Hola also owns Bright Data (formerly Luminati), which is a data collection company. In 2015, Hola sold access to the network of its free users (via Luminati), which was used in a distributed denial-of-service attack on 8chan. It's been a decade since that incident, but Hola still operates in a similar way. If you don't pay, you could be used as an exit node in Bright Data's network, and the privacy policy makes it clear that Hola logs data about your usage, including your IP address, the pages you visit, and timestamps.
-
-X-VPN is available on desktop, but it primarily shows up in results on the Apple App Store and Google Play, targeting mobile users with a free offering. X-VPN hasn't done anything explicitly wrong like Hola, but it has way too many inconsistencies to recommend. For starters, it uses a proprietary VPN protocol, which it obfuscates within the app. Proprietary protocols like NordVPN's NordLynx and ExpressVPN's Lightway are based on existing, open-source protocols. Further, X-VPN was highlighted in a Tech Transparency Project report about free VPNs with links to the Chinese government; X-VPN is based in Hong Kong. There's no smoking gun with X-VPN, but there doesn't need to be. The speeds aren't the best, the app lacks basic features like split tunneling, and the pricing for a paid plan is in line with top providers.
-
-Functionally, a VPN should do two things: keep your internet speed reasonably fast, and actually protect your browsing data. That's where I focused my testing. Extra features, a comfy UI, and customization settings are great, but they don't matter if the core service is broken.
-
-Speed testing requires spot-checking, as the time of day, the network you're connected to, and the specific VPN server you're using can all influence speeds. Because of that, I always set a baseline speed on my unprotected connection directly before recording results, and I ran the test three times across both US and UK servers. With those baseline drops, I spot-checked at different times of the day over the course of a week to see if the speed decrease was similar.
-
-Security is a bit more involved. For starters, I checked for DNS, WebRTC, and IP leaks every time I connected to a server using Browser Leaks. I also ran brief tests sniffing my connection with Wireshark to ensure all of the packets being sent were secured with the VPN protocol in use.
-
-On the privacy front, the top-recommended services included on this list have been independently audited, and they all maintain some sort of transparency report. In most cases, there's a proper report, but in others, such as Windscribe, that transparency is exposed through legal proceedings.
-
-Power up with unlimited access to WIRED. Get best-in-class reporting and exclusive subscriber content that's too important to ignore. Subscribe Today.
-
-Take Up to 25% Off Custom Prints with VistaPrint Promo Code
-
-Take 10% Off Legal Services with This LegalZoom Promo Code
+WIRED event: The technologies, people, and ideas transforming our world
 
 © 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
 
 ----------------------------------------
 
-[3] THE 7 BEST EARLY BLACK FRIDAY TV DEALS (2026)
+[3] ROCCO’S BLACK FRIDAY SALE: SMART FRIDGES HIT THEIR LOWEST PRICES OF 2026
 
-You should never buy a TV at full price. This is a hill I will die on, and I am proven right every year when I see 20-, 30-, and even 50-percent-off deals on some of the best TVs. Even though Black Friday is weeks away, I'm already seeing some great TV deals available now.
+If you've been coveting one of Rocco’s smart designer minifridges, you might be interested to know the brand's biggest sale of 2026 starts today, featuring the brand-new Rocco Essential for under $1,000 and the OG Classic in this year’s new Beige colorway, as well as white and two rare blue colors, for $1,495—as low as the Classic ever gets.
 
-If you're in the market for a new screen, now is a smart time to shop options of all sizes, from big, premium OLED TVs for a home theater to small art TVs for the bedroom. Because you'll be ahead of the deal-hunting masses, you probably won't have to worry about shipping delays or out-of-stock notifications. A WIRED reviewer has tried every TV featured below (with one exception, the LG C6, which is currently in testing).
+Today also marks the rerelease of the Classic's Icy Blue and Royal Blue, two rarely seen colors that Rocco says are not coming back after this year.
 
-For more great discounts, check out our Best Early Black Friday Deals, as well as early discounts on smart bird feeders, mattresses, and espresso machines.
+The Essential was just released in August and just began shipping in September; I'm currently testing it now. It's only been about a week and a half, but early impressions are positive. It has the same smart sight system as the Classic, but the biggest difference is obviously the look. Vintage-inspired fluted glass and rounded edges are out; sleek minimalism is in. The tinted dark glass door takes up the entire front, with a color-matched metal handle you can swap out for midcentury-inspired oak for an extra $95.
 
-This is the lowest price I've ever seen for the 65-inch LG C6, a fantastic deal on an excellent OLED TV. LG's C-Series TVs are consistently among our top picks due to their high brightness, uniform blacks, and vivid, natural colors. Add in their ample connectivity, which makes them versatile enough for gamers, and it's clear why this is a top OLED pick.
+It's only got one temperature zone as opposed to the Classic's two, but my favorite part so far has been the interior—instead of the Classic's old-fashioned wire racks, the Essential sports smooth-glide drawers lined with a rubbery material and grip strips. This makes it much more accommodating to oddly shaped drinks and prevents cans (it can hold up to 77) from rolling around every time you open your Rocco. It also gets colder than the Classic model—down to 34 degrees Fahrenheit instead of 37. My main frustration so far is that the sight system has been a little spotty and slow to recognize when drinks have been removed, but I'm having that problem with the Classic as well, so it's not specific to this model. All colors (Cream, Sage, Graphite) of the Essential are currently discounted.
 
-The premium 2026 Samsung S95H OLED TV is now at its lowest price yet. WIRED reviewer John Brandon praised the TV for its accurate color and deep blacks. New to the latest S95H model is a silver bezel that’s recessed behind the main OLED panel, making the TV look like a metal picture frame.
+The handsome, vintage-inspired model is the one that started it all. Its thick steel body comes in a range of fun colors, the fluted glass refracts potentially drink-damaging light, and it comes with a color-matched metal tray so it can double as a bar cart. It's got two isolated temperature zones for red and white wine (or extra-crispy Cokes), plus five full-sized racks and one half-rack—enough for 88 cans or 27 bottles of wine. The wire racks don't pull out as smoothly as the Essential's rubber-lined drawers, but this is otherwise a top-of-the-line beverage cooler with an impressive 10-year warranty.
 
-I understand wanting a nice OLED TV but not wanting to pay premium OLED prices. That's where budget OLEDs like the LG B6 shine—especially when steeply discounted. The 48-inch version, in particular, is 50 percent off at Best Buy right now, which is such a good deal, I thought it was a typo. (I won’t be surprised if the price mysteriously goes up.) Brandon praised the TV's thin size, simple setup, and deep and rich blacks.
+You can also control the interior lights from your phone. The sight system, however, is buggy—my Classic is currently displaying a rack of Dr. Pepper and Stella Artois bottles I had left over from a party in July (they were consumed not long after that), so I would not recommend buying one of these for the sight system alone. (Note this sale is on the Beige, White, Royal Blue, and Icy Blue Classic only.)
 
-This isn’t a huge discount, and I wouldn’t be surprised if the price went down closer to Black Friday. Even so, the TCL QM6K is one of the best TVs for most people, according to former WIRED reviewer Ryan Waniata, because of its well-rounded picture and reasonable price (even when not on sale).
-
-Again, this isn’t the biggest discount I’ve seen for this TV, but 33 percent off is nothing to sneeze at for an already good-value television. In his U7SG review, Waniata called this a near-premium model with a new-and-improved stand and an anti-reflective matte screen reminiscent of high-end Samsung models.
-
-The best art TV is Samsung's Frame Pro (2026) thanks to its excellent image quality, contrast, color depth, and anti-glare technology that far outshines competition, says Brandon. The only problem is that it's historically been high-priced. While 17 percent off may not sound that impressive, it’s actually matching the Prime Day low I saw earlier this year for the same model.
-
-This discount isn't as low as its Prime Day price (yet), but 50 percent off is still great and makes this budget-friendly art TV even more appealing—especially for secondary rooms. It's not as bright as Samsung's art TVs, but it does come with a far broader free art library, no subscription fee needed.
+I’m partial to the Classic’s forest green, but even I've got to admit the blue hues look pretty good. They sold out almost immediately around this time last year, so if you've been wanting one and you see this, I wouldn't wait to add it to your cart.
 
 Power up with unlimited access to WIRED. Get best-in-class reporting and exclusive subscriber content that's too important to ignore. Subscribe Today.
 
