@@ -1,344 +1,332 @@
-=== DAILY BRIEFING - 07.11.2026 ===
+=== DAILY BRIEFING - 09.11.2026 ===
 Quellen: Tagesschau, Sportschau & Wired Tech
 
 
 >>> TAGESSCHAU TOP-NEWS <<<
 
-[1] WELCHE FAKES RUND UM DIE MIDTERMS KURSIEREN
+[1] TRUMP BEZEICHNET SPRECHER-ANGEBOT AN DANA WHITE ALS "SCHERZ"
 
-Gefälschte Nachrichtenbeiträge, manipulierte Wahlmaschinen und erfundene Vorwürfe gegen Kandidaten: Rund um die US-Midterms verbreiten sich zahlreiche Falschbehauptungen. Dahinter stehen zum Teil russische Einflusskampagnen.
+US-Präsident Trump ist weiter auf der Suche nach einem Pressesprecher. Mit dem Boss der Kampfsportliga UFC hatte er einen ungewöhnlichen Kandidaten genannt - jetzt spricht er von einem "Scherz".
 
-"It's rigged", zu Deutsch "Das ist manipuliert", heißt es in einem Posting auf X zu einem viral gegangenen Video im Zusammenhang mit den Zwischenwahlen in den USA. Im Video zu sehen ist eine Frau in Cook County (US-Bundesstaat Illinois), die berichtet, dass eine Wahlmaschine sie nach ihrer Wahl darauf hingewiesen habe, dass andere Wähler den von ihr ausgewählten republikanischen Richterkandidaten normalerweise nicht wählen würden. "People are not typically choosing this person!" habe dort angeblich gestanden.
+Donald Trumps Ankündigung, dass er den Kampfsport-Unternehmer Dana White gern zum neuen Sprecher des Weißen Hauses machen würde, hatte übers Wochenende für mehr als Erstaunen gesorgt - jetzt hat der US-Präsident von einem "Scherz" gesprochen.
 
-Das Video wird in einem Posting auf X mehr als 1,4 Millionen Mal aufgerufen und als Beleg im Netz verbreitet, dass die elektronischen Wahlmaschinen zur Stimmabgabe in den USA manipuliert seien. Ein Narrativ, das bereits zur Präsidentschaftswahl 2024 verbreitet wurde.
+"Ich sage Ihnen, ich habe nur Spaß gemacht", sagte Trump vor Journalisten. Er habe den Vorschlag nicht ernst gemeint, es sei "nur ein kleiner Scherz" gewesen.
 
-Doch die Beschreibungen der Frau halten einer Überprüfung nicht stand. Die Wahlverwaltung von Cook County erklärt, dass die Wahlmaschinen keine Informationen über die Beliebtheit von Kandidaten anzeigten. Sie zeigten einen Hinweis an, wenn bei einem Wahlgang weniger Stimmen abgegeben werden, als möglich: "This contest is undervoted!" Das solle sicherstellen, dass die Wähler ihre Auswahl vor der Abgabe noch einmal überprüfen.
+Ein Personalvorschlag von US-Präsident Trump löst Rätselraten aus: ernst gemeint, Kampagne oder Verwechselung?
 
-Zudem seien bei den Zwischenwahlen in Cook County gar keine republikanischen Richterkandidaten angetreten, wie das Büro von Cook Country Clerk gegenüber PolitiFact mitteilte.
+White sei von der Idee, den Posten zu übernehmen, jedoch begeistert gewesen, erklärte der Präsident. Der Nachrichtensender CNN berichtete dagegen, White habe den Posten abgelehnt. Trump sagte, White werde am Montag im Weißen Haus erwartet - jedoch "aus anderen Gründen".
 
-Das Rennen um Alaskas Sitze im US-Senat ist knapp. Donald Trump meint: Die Wahl sei nicht fair gewesen.
+White ist seit Jahren mit Trump befreundet. Er ist Boss der Profi-Kampfsportliga Ultimate Fighting Championship (UFC). Trump ist regelmäßig Gast bei den oft blutigen Kampfabenden der UFC. Zu Trumps 80. Geburtstag traten Kämpfer auf dem Rasen des Weißen Hauses im Käfig gegeneinander an.
 
-Auch eine weitere Falschbehauptung, welche die Rechtmäßigkeit der Wahl anzweifelt, kursiert nach den US-Zwischenwahlen in den Sozialen Netzwerken. In mehreren Beiträgen auf X heißt es, das FBI habe bei einer Razzia in einem Lagerhaus in Houston mehr als 20.000 gefälschte Stimmzettel entdeckt. Dazu wurden Fotos eines FBI-Einsatzes, eines Lagerhauses und angeblicher Wahlunterlagen geteilt.
+Der Sprecher-Posten ist bis auf ein kurzes Zwischenspiel seit Monaten unbesetzt. Die erste Sprecherin des Weißen Hauses unter Trump, Karoline Leavitt, war im August zurückgetreten.
 
-Für die angebliche Razzia gibt es jedoch keine Belege. Das FBI dementierte gegenüber der dpa ausdrücklich einen Einsatz im Zusammenhang mit den Wahlen. Auch die Bilder führen in die Irre: Das FBI-Fahrzeug stammt von einem Einsatz in Atlanta im Januar 2026, das Foto des Lagerhauses ist älter. Bei den vermeintlichen gefälschten Stimmzettel handelt es sich um Stimmzettel, die im Rahmen der vorzeitigen Stimmabgabe am 21. Oktober in San Francisco sortiert wurden.
+Die im Oktober von Trump eingesetzte Nachfolgerin Katie Zacharia warf nach nur wenigen Tagen das Handtuch. Sie hatte nur eine kurze Pressekonferenz gegeben, in der ihr unsicheres Auftreten auffiel.
 
-In einem weiteren Beitrag auf X, der mehr als 760.000 Mal angesehen wurde, wurde dem texanischen Generalstaatsanwalt Ken Paxton eine Äußerung zugeschrieben, in der er den Wahlsieg des Demokraten James Talarico infrage stellte. "It is simply not possible for somebody with the radical ideology of James Talarico to win an election in Texas fairly", steht dort - es sei "schlichtweg unmöglich", dass Talarico mit seiner "radikalen Ideologie" eine Wahl in Texas mit fairen Mitteln gewinnen könne. Der Beitrag sah aus wie ein Standbild aus einer NBC-Sendung.
+Die Juristin war wegen falscher Angaben zu ihrem Lebenslauf unter Druck geraten.
 
-Doch Paxton hat diese Äußerung nicht gemacht. Das vermeintliche NBC-Bild ist nicht authentisch. Stattdessen gratulierte der Republikaner seinem Kontrahenten öffentlich zum Wahlsieg und räumte seine Niederlage ein. Talarico gewann den Senatssitz für Texas. Erstmals seit mehr als 30 Jahren ging damit ein solcher Sitz in dem Bundesstaat an einen Demokraten.
+Nach den drastischen Verlusten der Republikaner bei den Zwischenwahlen hatte Trump am Freitag bereits einen Umbau seiner Regierung angekündigt.
 
-Falschbehauptungen wie diese stoßen bei einem großen Teil der US-Bevölkerung auf Resonanz. Laut einer repräsentativen Umfrage des Rechercheunternehmens NewsGuard glauben 54 Prozent der befragten US-Amerikaner mindestens eine von drei abgefragten Falschbehauptungen über die Integrität von Wahlen.
+Er ernannte seinen langjährigen Berater Stephen Miller zum neuen Stabschef und ersetzte damit Susie Wiles. Miller gilt als Architekt der restriktiven Einwanderungspolitik der Regierung.
 
-Dazu gehörten Behauptungen über angeblichen Betrug bei der Briefwahl, die Beteiligung von Menschen ohne US-Staatsbürgerschaft an Wahlen und eine angebliche Manipulation von Wahlmaschinen über das Satellitennetzwerk Starlink. Nur 13 Prozent stuften alle drei Behauptungen korrekt als falsch ein.
-
-In einem laufend aktualisierten Tracker hat Newsguard bis zum 5. November 55 Falschbehauptungen rund um die Midterms dokumentiert. 26 davon drehten sich um vermeintlichen Wahlbetrug. NewsGuard dokumentierte insgesamt 611 einzelne Nennungen dieser Behauptungen auf zwölf Plattformen, in mehr als 392 verschiedenen Social-Media-Konten, auf 71 Webseiten und in 24 Beiträgen in nationalen Nachrichtensendern. 64 Prozent der erfassten Fälle entfielen auf Elon Musks Plattform X.
-
-Den Demokraten gelang bei den Midterms vielerorts Historisches - eine Auswahl.
-
-Ein möglicher Grund für die Verbreitung von Falschbehauptungen ist Wahlwerbung von den Parteien und ihren Unterstützungsorganisationen selbst. Nach Angaben des Faktencheckportals PolitiFact wurden Wahlwerbespots häufig nicht nur genutzt, um sich selbst zu präsentieren, sondern um den politischen Gegner zu diskreditieren - auch mit Hilfe von Falschbehauptungen.
-
-Hinter diesen Kampagnen stecken hohe Summen Geld. Landesweit gaben politische Kandidaten und externe Gruppen dem Werbe-Unternehmen AdImpact zufolge rund 12 Milliarden Dollar für Wahlwerbung im Vorfeld der Zwischenwahlen aus.
-
-Neben Falschbehauptungen, die aus unterschiedlichen politischen Motiven verbreitet werden, gibt es auch gezielte ausländische Einflussoperationen. Besonders russische Akteure versuchen seit Jahren, politische Debatten und Wahlkämpfe in westlichen Staaten zu beeinflussen.
-
-In den USA zeigen sich diese Aktivitäten derzeit unter anderem in manipulierten oder KI-generierten Videos, welche die demokratische Senatskandidaten in den umkämpfen Bundesstaaten Texas, Maine und Ohio diskreditieren sollten.
-
-Das Midterms-Ergebnis ist deutlich, die Gründe auch: ein unbeliebter Präsident und hohe Preise.
-
-Ein manipuliertes Video zeigte einen angeblichen Fernsehbericht des Senders Cleveland 19, in dem vier ehemalige Mitarbeiterinnen dem Abgeordneten Sherrod Brown aus Ohio sexuelle Übergriffe vorwarfen. Das Video verwendet zwar echtes Bildmaterial des Senders, die Stimme des Nachrichtensprechers wurde jedoch nachträglich eingefügt, und es finden sich beim Sender keinerlei Berichte über die Anschuldigungen. Einer der im Video genannten ehemaligen Mitarbeiterinnen Browns bezeichnete die Darstellung als frei erfunden.
-
-Ein weiteres gefälschtes Video erweckt den Eindruck, der Sender WABI habe über Vorwürfe gegen den demokratischen Senatskandidaten Troy Jackson aus Maine berichtet. Demnach soll Jackson Mitarbeiter mit einer Axt bedroht haben. Auch hier wurde nachträglich eine künstliche Tonspur über echtes Nachrichtenmaterial gelegt und es gibt bei offiziellen Kanälen des Senders keinerlei Berichte hierüber.
-
-In einem weiteren viral gegangenen Video ist ein Mann zu sehen, der sich als ehemaliger Schüler des texanischen Senatskandidaten der Demokraten, James Talarico, ausgibt. Er behauptet, Talarico habe ihn als Zwölfjährigen sexuell missbraucht. Doch bei dem Mann im Video handelt es sich um einen KI-generierten Deepfake, der auf dem Aussehen von Talaricos ehemaligen Schüler Zyon Lewis basiert. Lewis wies die Vorwürfe zurück und erklärte, das Video sei KI-generiert. Auch Talaricos Pressesprecherin bezeichnete die Anschuldigungen als haltlos und falsch.
-
-Nach Angaben von NewsGuard erreichten die drei gefälschten Videos zusammen rund 2,8 Millionen Aufrufe in 3.790 Social-Media-Beiträgen. Das Forschungskollektiv Gnida Project, das seit Jahren russische Desinformationskampagnen beobachtet sowie weitere Experten, ordnen die Videos der russischen Einflussoperation Storm-1516 zu. Trotz der weit verbreiteten Falschbehauptungen konnten alle drei Demokraten die Wahl für einen Sitz im Senat für sich entscheiden.
-
-Auch unter dem Hashtag #AllDemocratsAreCriminals verbreiten sich zahlreiche manipulierte Videos, in denen bekannte Schauspielerinnen und Schauspieler aus Hollywood und andere Personen des öffentlichen Lebens scheinbar gegen die Demokratische Partei Stellung beziehen.
-
-"Heute gibt es in Amerika kein einziges Kind, das nicht von den Demokraten bedroht wird", sagt in einem Video eine stimmlich geklonte Version von "How I Met Your Mother"-Schauspielerin Alyson Hannigan. In einem anderen Video bezeichnet Schaupielerin Sarah Jessica Parker vermeintlich den ukrainischen Präsidenten Wolodymyr Selenskyj als Nazi.
-
-Die Aufnahmen sind gefälscht. Experten bringen die Videos mit der russlandnahen Desinformationskampagne Matrjoschka in Verbindung.
-
-Russische Informationsmanipulation rund um Wahlen finde inzwischen in einem nahezu "industriellen Maßstab" statt, sagt Julia Smirnova, Senior Researcherin beim Center für Monitoring, Analyse und Strategie (CeMAS). Dies sei unter anderem durch den Einsatz von Künstlicher Intelligenz möglich. Von der Recherche bis zur massenhaften Erstellung von Websites und Inhalten, wie beispielsweise Deepfakes, werde KI genutzt. Dabei seien jedoch viele der Fälschungen qualitativ recht schlecht gemacht. "Entscheidend ist, dass sie plausibel genug erscheinen, um Zweifel zu wecken und von anderen Akteuren weiterverbreitet zu werden."
-
-Die Kampagnen und Beeinflussungsversuche durch Russland rund um Wahlen beträfen viele Länder weltweit. Alle folgten häufig einem wiederkehrenden Muster und liefen in mehreren Phasen ab, so Smirnova. Zunächst würden Netzwerke aus Webseiten und Social-Media-Konten aufgebaut. Oft würden Kandidaten und Regierungen diskreditiert, die eher als proeuropäisch gelten oder weniger russlandfreundlich seien. Zugleich griffen die Kampagnen polarisierende Themen auf, spitzten diese zu und verstärkten sie über koordinierte Netzwerke.
-
-Unmittelbar vor den Wahlen würden vermehrt Zweifel an der Integrität des Wahlprozesses gestreut. Die Themen und konkrete Behauptungen würden dabei häufig für die jeweiligen Länder angepasst, erläutert Smirnova. "In den USA geht es zum Beispiel darum, dass Nicht-US-Bürger angeblich widerrechtlich an Wahlen teilnehmen oder bestimmte Wahlmaschinen manipuliert seien, in Deutschland wird immer wieder die Briefwahl besonders angegriffen." In einer Untersuchung identifizierte das CeMAS zu den Landtagswahlen in Deutschland unter anderem die russischen Einflussoperationen Matrjoschka, Doppelgänger und Storm-1516.
-
-Zu den Wahlen in Mecklenburg-Vorpommern und Berlin verbreiten sich Videos, die angebliche Wahlmanipulation zeigen.
-
-Das übergeordnete Muster ähnele sich länderübergreifend: "Das wichtigste Ziel von diesen Versuchen ist, die betroffenen Länder zu destabilisieren und demokratische Institutionen sowie demokratische Prozesse in diesen Ländern zu untergraben, das Vertrauen in das politische System insgesamt zu schwächen."
-
-Wie stark solche Kampagnen tatsächlich Einstellungen oder Wahlentscheidungen beeinflussen, lässt sich nur schwer messen. Hohe Aufrufzahlen und viele Beiträge bedeuteten nicht automatisch, dass die Inhalte auch ein großes Publikum erreichten. "Künstliche Verstärkung kann die Reichweite verzerren", sagt Smirnova. Entscheidend sei deshalb auch, ob Inhalte von reichweitenstarken Accounts oder politischen Akteuren aufgegriffen und weiterverbreitet würden.
+Dieses Thema im Programm: tagesschau24 | Nachrichten | 09.11.2026 | 09:00 Uhr
 
 ----------------------------------------
 
-[2] KATASTROPHENÜBUNG: WAS WÄRE, WENN EINE DÜRRE DEUTSCHLAND LAHMLEGT?
+[2] DAS IST DER WEG ZUM NEUEN STAATSOBERHAUPT
 
-Jahrelang kaum Regen in Deutschland, heiße Sommer und dann seit Wochen eine extreme Hitzewelle. Das ist das Szenario von LÜKEX, einer Übung, die das Krisenmanagement von 180 beteiligten Organisationen verbessern soll.
+Es soll eine Frau werden - und sie kommt aus der CSU: Ilse Aigner wäre in mehrfacher Hinsicht eine Premiere für Deutschland. Aber gewählt ist das neue Staatsoberhaupt noch nicht. Wer wählt da überhaupt und könnte es noch weitere Kandidaten geben?
 
-Angenommen, seit mehreren Jahren hat es in Deutschland stets zu wenig geregnet - die Flüsse führen kaum noch Wasser, der Grundwasserspiegel ist abgesunken und die Vorräte an Trinkwasser werden knapp. Seit einigen Wochen liegen die Temperaturen jeden Tag über vierzig Grad, bis zu 45 in der Spitze.
+Mit Spannung erwartet wurde die Entscheidung des Kanzlers für Ilse Aigner längst nicht mehr. Doch nun liegt auch das offizielle Ja von Friedrich Merz für die CSU-Politikerin vor und aus der wochenlang ungekürten Kandidatin ist nun die gekürte Kandidatin der Union für das Bundespräsidentenamt geworden. Bei aller Kanzlerkritik am zähen Entscheidungsprozess: Auch frühere CDU-Kanzler wie Helmut Kohl oder Kanzlerin Angela Merkel taten sich schwer mit den Nominierungen.
 
-In diesem Szenario haben 180 Behörden von Bund und Ländern, Hilfsorganisationen und Betreiber sogenannter Kritischer Infrastruktur (KRITIS) drei Tage lang dezentral, aber gemeinsam ihre Abläufe für den Katastrophenschutz erprobt, um für den Ernstfall vorbereitet zu sein.
+Die Wahl Aigners in der Bundesversammlung dürfte angesichts der breiten Unterstützung als nahezu sicher gelten. Die Koalitionsparteien CDU, CSU und SPD haben hier eine Mehrheit von etwa 50 Stimmen. Auch die Grünen signalisierten Sympathie für Aigner.
 
-Doch kein überhitzter Patient wurde bei dieser Übung in die Notaufnahme eingeliefert, es wurden keine Tankwagen mit Trinkwasser angekarrt und keine zusätzlichen Lebensmittel aus Übersee eingekauft. Die Übung spielte sich ausschließlich an den Monitoren der beteiligten Organisationen ab - in ganz Deutschland.
+Lange hatte er sich zurückgehalten - nun sprach sich der CDU-Chef für Aigner als Bundespräsidentin aus.
 
-Deutschland ächzt unter Hitzerekorden - doch beim Schutz der Bevölkerung bleiben viele Maßnahmen Stückwerk.
+Sie ist das größte parlamentarische Gremium der Bundesrepublik Deutschland - und sie hat nur eine einzige Aufgabe: den Bundespräsidenten oder die Bundespräsidentin zu wählen. Die Versammlung tritt in der Regel nur alle fünf Jahre zusammen. Im kommenden Jahr ist es der 30. Januar, an diesem Tag wählt das Gremium die Nachfolge von Frank-Walter Steinmeier, der nach zehn Jahren als Bundespräsident aus dem Amt scheidet. Debattiert wird in der Bundesversammlung nicht, gewählt wird ohne Aussprache.
 
-Drei Jahre lang hat das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK) gemeinsam mit dem Bundesinnenministerium LÜKEX vorbereitet. Ein Jahr wird es brauchen, um die Übung vollständig auszuwerten.
+Die Bundesversammlung besteht aus allen Bundestagsabgeordneten und der gleichen Anzahl von Mitgliedern, die von den Volksvertretungen der Länder gewählt werden. Danach umfasst die Versammlung insgesamt 1.260 Mitglieder, also 630 Abgeordnete des Bundestages und 630 von den Landesparlamenten bestimmte Mitglieder.
 
-Man will beim Katastrophenschutz nichts mehr dem Zufall überlassen: "In einer Zeit, in der Extremwetterereignisse wie Hitze und Dürren zunehmen, ist es entscheidend, dass wir gemeinsam an Lösungen arbeiten und die Strukturen stärken. Die diesjährige LÜKEX mit dem Schwerpunkt Dürre und Hitzewelle ist ein wichtiger Schritt in diese Richtung", so BBK-Präsidentin Grit Tüngler.
+Das ist nicht festgelegt. Die Bundesländer benennen zurzeit ihre Wahlleute. Wie viele Vertreter die einzelnen Länder in die Bundesversammlung entsenden dürfen, errechnet sich anhand ihrer Bevölkerungszahlen. Benannt werden sie nach den Mehrheitsverhältnissen der Fraktionen in den jeweiligen Landtagen. Meist sind es Landtagsabgeordnete, es können aber auch Kommunalpolitiker und Persönlichkeiten aus anderen Bereichen des öffentlichen Lebens ein Mandat erhalten, zum Beispiel Sportler oder Schauspieler.
 
-Markus Reichstein, Direktor am Max-Planck-Institut für Biogeochemie in Jena, erforscht die Resilienz der Bevölkerung, aber auch der Biosphäre gegenüber Klimaextremen. Er weiß, wie Böden, Wasser und Vegetation darauf reagieren.
+Ja. Die CDU in Schleswig-Holstein will die frühere Kanzlerin Angela Merkel zur Bundesversammlung zur Wahl des Bundespräsidenten im kommenden Jahr entsenden. Merkel kennt das Prozedere bereits: Die CDU-Politikerin war 2022 noch von Mecklenburg-Vorpommern ins Rennen geschickt worden.
 
-Er sagt: "Wir haben in Deutschland bereits erlebt, dass sich Dürren über mehrere Jahre hinziehen können. In einigen Regionen waren die Böden nach 2018 über fünf Jahre hinweg bis in große Tiefen ungewöhnlich trocken. Wann die nächste mehrjährige Dürre kommt, können wir nicht vorhersagen - aber sie ist ein reales Risiko, auf das wir uns vorbereiten müssen."
+Daneben sollen für die CDU unter anderem Bundesbildungsministerin Karin Prien und Ministerpräsident Daniel Günther sowie Ex-Handballstar Patrick Wiencek das nächste Staatsoberhaupt wählen.
 
-45 Grad im Schatten und das nach mehreren Dürrejahren. Dieses fiktive Szenario ist Grundlage für die Übung von Bund und Ländern.
+Für Sachsen soll unter anderem die Holocaust-Überlebende Renate Aris, Landtagspräsident Alexander Dierks und Ministerpräsident Michael Kretschmer (beide CDU) sowie Sozialministerin Petra Köpping und Wirtschaftsminister Dirk Panter (beide SPD) teilnehmen. Auch die Leipziger Schriftstellerin Martina Hefter wird dabei sein. Die sächsische BSW-Fraktion nominierte den Journalisten und früheren tagesschau-Sprecher Constantin Schreiber.
 
-Die größte Gefahr liege in Kettenreaktionen. Hitze bewirke Trockenheit und diese begünstige Waldbrände. Der dann entstehende Rauch verschlechtere wiederum die Luftqualität, was die Gesundheit belaste und die Resilienz mindere. Damit einhergehende Dürre führe zu Ernteausfällen, welche die Lebensmittelpreise ansteigen ließen. Wasserknappheit und Niedrigwasser würden der Industrie Transportwege auf Flüssen nehmen und Energieunternehmen wegen fehlendem Kühlwasser zur Drosselung ihrer Produktion zwingen. So entstünde aus einem Klimaextrem eine systemische Krise, bei der sich die Folgen gegenseitig verstärken.
+Bislang nicht. Damit ist aber zu rechnen. Die AfD will einen eigenen Kandidaten aufstellen, einen Mann "aus der Mitte der Gesellschaft", wie es aus der Partei heißt. Er gilt wegen der klaren Mehrheitsverhältnisse in der Bundesversammlung aber als chancenlos.
 
-Um die Folgen einer solchen Krise abzufedern, üben die Beteiligten aus Behörden und KRITIS, wozu Energie-, Wasser- und Lebensmittelversorger ebenso gehören wie Krankenhäuser, Telekommunikationsanbieter, Versicherer, Banken, Logistiker, die Müllentsorgung und die Medien.
+Die Linkspartei hat sich noch nicht für oder gegen eine eigene Kandidatur entschieden.
 
-Der extrem heiße Sommer und verringerte Anbauflächen haben Folgen für die Kartoffelernte in Deutschland.
+Ilse Aigner hat beste Chancen, die erste Bundespräsidentin Deutschlands zu werden. Ein Porträt.
 
-Das Thema der diesjährigen LÜKEX wurde nicht erst nach, sondern bereits Jahre vor dem sehr heißen Sommer 2026 festgelegt. Dieser zeige allerdings eindrücklich die Relevanz, so die Veranstalter.
+Gute Frage. Zwölf Männer in 77 Jahren Bundesrepublik gab es bislang, aber noch nie eine Frau im höchsten deutschen Staatsamt. Zuletzt mehrten sich daher Forderungen, hier jetzt endlich einmal etwas zu ändern. Kanzler Merz legte sich Anfang November fest, als er sich für eine Frau als Steinmeier-Nachfolge aussprach - zu diesem Zeitpunkt lief es auch schon auf Ilse Aigner hinaus.
 
-BBK-Sprecherin Maren Kebbel betont, dass sich das gewählte Szenario an reale Gegebenheiten der Vergangenheit anlehne, allerdings zuspitze: "Diese Verschärfung ist in der Krisenmanagement-Übung nötig, damit alle übenden Organisationen ihre Reaktionsmechanismen testen und verbessern können. Das Bevölkerungsverhalten, das heißt Informationsbedarfe, Risikobewusstsein und -kompetenz, persönliche Notfallvorsorge und weitere Resilienz- und Vulnerabilitätsfaktoren sind ein wichtiges Element der Übungsdurchführung."
+Eine Frau soll es werden - so weit hat sich Kanzler Merz in der Bundespräsidenten-Frage festgelegt.
 
-Was auf die Teilnehmer zukomme, seien zum Beispiel Meldungen über warmgelaufene Server und IT-Ausfälle, Stromausfälle, Wassermangel, Engpässe in Krankenhäusern, aber auch der Umgang mit Falschmeldungen und bewusster Irreführung der Bevölkerung aus dem In- und Ausland.
+Ja, an interessanten Kandidatinnen hat es in der Geschichte der Bundesrepublik nicht gemangelt. Eines aber war ihnen gemein: Sie wurden immer nur von Parteien ins Rennen geschickt, die keine Aussicht auf eine Mehrheit in der Bundesversammlung hatten. Eine Auswahl: Annemarie Renger (SPD, 1979), Luise Rinser (Grüne, 1984), Hildegard Hamm-Brücher (FDP, 1994), Dagmar Schipanski (CDU, 1999) oder Beate Klarsfeld (parteilos, 2012). Gleich zweimal trat Gesine Schwan an, die SPD-Politikerin unterlag 2004 und 2009.
 
-Damit geht auch der Puffer für Dürrejahre verloren - mit Folgen für Bevölkerung und Wirtschaft.
+Die Amtszeit beginnt am 19. März. Steinmeier ist dann noch bis zum 18. März im Amt. Sollte Aigner am 30. Januar tatsächlich gewählt werden, hat sie also noch einige Wochen Vorbereitungszeit, bevor sie als erste Frau das Amt übernimmt.
 
-Im vergangenen Sommer gab es in Deutschland 16.000 Hitzetote, im Jahr 2024 waren es in ganz Europa 50.000 Opfer. Zu den Gesundheitsrisiken kommen die schlechtere Versorgung mit allem Lebensnotwendigen und Probleme mit der Infrastruktur.
+In Schloss Bellevue einziehen wird sie jedoch erstmal nicht: Das ist Baustelle. Noch-Bundespräsident Steinmeier residiert seit Sommer in einem Ausweichquartier.
 
-Jeder einzelne Risikofaktor für sich wäre handhabbar, sagt Markus Reichstein. Ihr Zusammenwirken mache eine solche Krise so gefährlich. Vorhandenes Wissen über Einzelgefahren sei dann zu wenig: "Wenn Wasser-, Energieversorgung, Landwirtschaft und Gesundheitssystem gleichzeitig unter Druck geraten, reicht das nicht aus. Wir müssen stärker in systemischen Risiken denken und uns auf das Zusammenwirken verschiedener Krisen vorbereiten. Das Wissen ist in vielen Bereichen bereits vorhanden - entscheidend ist, ob wir rechtzeitig danach handeln."
+Ilse Aigner hat aus Sicht von Politologin Münch genug Erfahrung. Das werde auch dringend gebraucht.
 
-Übungen wie LÜKEX hält er für ausgesprochen wichtig, weil sie das Zusammenspiel verschiedener Krisenbereiche testen und man daraus Verbesserungen ableiten könne. Das könne ein Umdenken bei Klimatisierung von Wohn- und Arbeitsbereichen bewirken, aber auch städtebauliche Veränderungen wie Verschattung oder Begrünung. Im Ernstfall könne man als Entscheidungsträger nur dann richtig reagieren, wenn man sich und die Gesellschaft schon vorher widerstandsfähiger gemacht habe.
-
-Die Folgen der von Menschen gemachten Klimaerwärmung werden der Analyse zufolge immer deutlicher.
-
-In diesem Sinne spricht das BBK davon, dass die Teilnahme an LÜKEX für die teilnehmenden Organisationen zu einer Verbesserung der Handlungssicherheit und Strukturen des Krisenmanagements führen und Netzwerke auf fachlicher und persönlicher Ebene untereinander schaffen soll - wie schon alle vorangegangenen LÜKEX in den 20 Jahren, seit es sie gibt.
-
-Ob das gelingt, weiß man erst im nächsten Jahr. Im ersten Quartal 2027 soll es eine erste Auswertung aller mitübenden Organisationen geben. Darauf aufbauend wird das BBK bis zum dritten Quartal alle übergreifenden Erkenntnisse zusammenfassen.
-
-Dieses Thema im Programm: NDR Info | Nachrichten | 04.11.2026 | 08:30 Uhr
+Dieses Thema im Programm: tagesschau24 | Nachrichten | 09.11.2026 | 10:00 Uhr,Das Erste | tagesschau |  09.11.2026 | 12:00 Uhr,
 
 ----------------------------------------
 
-[3] HUBIG WILL GELEAKTE E-MAILS ZUR PRÜFUNG VON AFD-VERBOTSVERFAHREN NUTZEN
+[3] MINDESTENS 20 TOTE BEI SCHIFFSUNGLÜCKEN VOR KRETA
 
-Justizministerin Hubig wirbt dafür, ein AfD-Verbotsverfahren zu prüfen - gegebenenfalls auch mithilfe der von Hackern veröffentlichten Mails aus den Reihen der Partei. In der schwarz-roten Koalition ist ein Verbotsverfahren jedoch umstritten.
+Sie brachen in Libyen auf und zahlten Tausende Euro für die Überfahrt Richtung EU: Bei mehreren Bootsunglücken sind in den vergangenen Tagen mindestens 20 Menschen ums Leben gekommen.
 
-Nach den jüngsten Erfolgen der AfD bei den Landtagswahlen in Sachsen-Anhalt und in Mecklenburg-Vorpommern spricht sich Bundesjustizministerin Stefanie Hubig dafür aus, ein mögliches Verbotsverfahren der Partei durch eine Arbeitsgruppe mit Vertretern aus Bund und Ländern prüfen zu lassen. Dafür sollten aus Sicht der SPD-Politikerin auch die E-Mails genutzt werden, die vor Kurzem im Internet geleakt wurden.
+Bei insgesamt vier Unglücken mit Migrantenbooten sind am Wochenende südlich von Kreta mindestens 20 Menschen ums Leben gekommen. 133 Menschen konnten bislang gerettet werden, mindestens zwei gelten als vermisst, berichtete der Nachrichtensender ERTnews. Die Such- und Rettungsarbeiten dauerten an.
 
-"Ich bin überzeugt, dass wir jetzt ernsthaft und systematisch prüfen müssen, ob die Voraussetzungen für ein Verbotsverfahren vorliegen", betonte Hubig im Gespräch mit der Neuen Osnabrücker Zeitung. Die im Netz von Unbekannten veröffentlichten Mails sollten dann herangezogen werden, "wenn sie Belege für die Verfassungsfeindlichkeit der AfD liefern".
+Im ersten Fall, der sich bereits Samstagabend nur wenige Seemeilen vor dem südkretischen Küstenort Kali Limenes ereignete, rettete die griechische Küstenwache 28 Sudanesen und barg acht Tote. Nach zwei Menschen wird der Behörde zufolge weiterhin gesucht. Laut Aussagen Überlebender waren die Migranten bereits Tage zuvor von Libyen aus in See gestochen und hatten für die gefährliche Fahrt zwischen 1.000 und 2.500 Euro gezahlt. Zwei Männer im Alter von 16 und 28 Jahren wurden als mutmaßliche Schleuser festgenommen.
 
-Vor rund zwei Wochen hatten unbekannte Hacker das 281 Gigabyte Daten umfassende Leak veröffentlicht. Seitdem stehen rund 420.000 E-Mails und fast 50.000 Dokumente zum Download im Internet bereit. Die AfD hat Teile des Leaks bestätigt.
+In derselben Region entdeckte die Besatzung eines vorbeifahrenden Containerschiffs ein weiteres Flüchtlingsboot und alarmierte die Behörden. Ein Patrouillenboot der griechischen Küstenwache rettete 18 Menschen, zwölf Passagiere konnten nur tot geborgen werden. In diesem Fall habe es noch keine Informationen zur Nationalität oder dem Abfahrtsort der Migranten gegeben, berichteten griechische Medien.
 
-Unterstützung bekommt der CDU-Ministerpräsident von den Grünen, die CSU ist skeptisch.
+Die Grenzschutzagentur erhält mehr Personal, Befugnisse und eine schnelle Eingreiftruppe.
 
-Die Justizministerin verwies auf die politische Lage in Sachsen-Anhalt, wo nach dem deutlichen Wahlsieg der AfD im September vor rund einem Monat mit Tobias Rausch erstmals in Deutschland ein AfD-Politiker zum Landtagspräsidenten gewählt worden war. Mitte Dezember soll ein neuer Ministerpräsident gewählt werden, dafür tritt der Spitzenkandidat der AfD, Ulrich Siegmund, an.
+Bei zwei weiteren Rettungseinsätzen wurden darüber hinaus 87 Menschen gerettet. Beide Boote wurden von der Luftüberwachung der EU-Grenzschutzagentur Frontex entdeckt, eines mit 47 Passagieren an Bord und eines mit 40. Frontex-Einsatzkräfte nahmen die Menschen auf und brachten sie in den Küstenort Kali Limenes.
 
-"Schon die Wahl eines AfD-Abgeordneten zum Landtagspräsidenten war eine Zäsur", hieß es von Hubig. Eine AfD-Regierung in Sachsen-Anhalt wäre, "nach allem, was sich ermessen lässt, eine harte Belastungsprobe für den Rechtsstaat".
+Zwar sind die Flüchtlingsankünfte in Griechenland 2026 im Vergleich zum Vorjahr insgesamt zurückgegangen, doch auf Kreta stark gestiegen. Immer mehr Menschen stechen von Libyen aus in See - und Kreta liegt mit 350 Kilometern Luftlinie am nächsten. Fast zwei Drittel der Flüchtlinge kommen aus dem Sudan und Bangladesch, heißt es beim UN-Flüchtlingshilfswerk UNHCR.
 
-Doch Hubig betonte auch, dass die Bundesregierung über die Frage, ob ein Verbotsverfahren gegen die AfD eingeleitet werden soll, nur im Konsens entscheiden könne. Bislang scheint es dazu in der schwarz-roten Koalition keinen einheitlichen Standpunkt zu geben.
+Stand 1. November kamen auf Kreta dieses Jahr bislang mehr als 22.500 Menschen an - bereits jetzt mehr als im gesamten Vorjahr mit rund 20.200 Ankünften. Griechenlandweit hingegen verzeichnet das UNHCR bislang rund 37.500 Ankünfte nach 42.000 im gesamten Vorjahr.
 
-Bundeskanzler Friedrich Merz hatte sich nach der Wahl in Sachsen-Anhalt zwar offen für die Prüfung eines Verbotsverfahrens gezeigt, gleichzeitig aber die hohen Hürden für den Erfolg eines möglichen Verfahrens betont. Auch für Hubig sind "konkrete Erfolgsaussichten" Voraussetzung für einen Antrag auf ein Verbotsverfahren. Doch wenn es diese geben sollte, dann müsse ein solcher Antrag auch gestellt werden.
-
-Dieses Thema im Programm: tagesschau24 | Nachrichten | 07.11.2026 | 09:00 Uhr
+Dieses Thema im Programm: tagesschau.de I Kreta: Mindestens 20 Tote und mehr als einhundert Gerettete I 09.11.2026 I 10:15 Uhr
 
 ----------------------------------------
 
 
 >>> SPORT (SPORTSCHAU) <<<
 
-[1] BAYERN UND BVB VOR STOLPERGEFAHR IN DER BUNDESLIGA
+[1] BUNDESLIGA UPDATE: WANN LÄUFT MANUEL NEUERS ZEIT IM BAYERN-TRIKOT AB?
 
-Bayern München und Borussia Dortmund haben nach ihrem direkten Duell und ihren Champions-League-Siegen im Liga-Alltag unangenehme Pflichtaufgaben in Mainz und gegen Elversberg zu erledigen.
+Manuel Neuer ist bei Bayerns 2:1 Erfolg verletzt ausgewechselt worden. Mal wieder. Das befeuert die Debatte rund um den Weltmeister. Stehen wir vor einer Wachablösung im Tor der Bayern?
 
-Noch immer ist völlig offen, wann Bayern-Trainer Vincent Kompany auf die Trainerbank zurückkehrt. Eine genaue Prognose wollte und konnte sein Assistent Araon Danks vor dem Auswärtsspiel beim FSV Mainz 05 (Samstag 15.30 Uhr) nicht abgeben.
+Manuel Neuer ist im Spiel gegen Mainz zum ältesten Bundesliga-Spieler des FC Bayern geworden. Für den 40-Jährigen endeten die Partie vorzeitig. Nach dem Bundesliga-Spieltag ist klar: Manuel Neuer hat sich am rechten Fuß verletzt. Diagnose: Sehnenteilriss. In diesem Jahr wird Neuer kein Spiel mehr für die Bayern machen.
 
-"Ich hatte ein paar richtig gute Telefonate mit Vincent in den vergangenen Tagen. Er wirkt positiv. Er scheint auf einem guten Weg zur kompletten Erholung", sagte Danks, der weiter den Beschützer für den Chefcoach gibt. Der Belgier fehlt wegen seiner Hirnhautreizung bis auf Weiteres.
+"Es ist das, was schon vorher am Fuß war. Das ist jetzt wieder aufgetreten. Wir hoffen, dass es nicht so schlimm ist", sagte Sportvorstand Max Eberl nach dem Abpfiff. Wegen einer Sehnenreizung hatte Neuer schon drei Spiele verpasst, war aber in der Champions League in Madrid diese Woche wieder im Einsatz.
 
-Am Samstag soll unter dem 43 Jahre alten Engländer Danks noch ein weiterer Erfolg vor der Länderspielpause in Mainz folgen, wo die Bayern im Dezember 2024 beim 1:2 ihre bisher letzte Auswärtsniederlage kassierten.
+Insgesamt ist das Jahr 2026 nicht das von Manuel Neuer. Es steht im Zeichen der Verletzungen und Schwankungen. "In diesem Kalenderjahr ist Neuer schon vier Mal wegen einer Verletzung ausgewechselt worden", sagt Sportschau-Bundesliga-Update-Host Tobi Schäfer.
 
-Es war zugleich die erste Niederlage in der Liga nach Kompanys Amtantritt im Sommer 2024. Seitdem sind die Münchner seit 30 Auswärtsspielen ungeschlagen. Detail am Rande: Torjäger Harry Kane wartet nach seiner Kür zum Weltfußballer noch auf seinen ersten Treffer.
+Neuer hatte jüngst nach dem Champions-League-Spiel bei Atlético Madrid zugegeben, dass er "jeden Tag Schmerzen beim Gehen" habe. Deshalb seien die vergangenen Tage und Wochen "keine leichte Situation" gewesen. "Sein Körper neigt sich dem Ende zu", vermutet Tobi.
 
-Stolz verkündet der FC Bayern die Verlängerung des Ballon-d'Or-Siegers Harry Kane bis 2029. Den Münchnern ist es gelungen, alle Leistungsträger langfristig zu binden. Die Mission der nächsten Jahre ist nun klar: Der Champions-League-Titel.
+Die nächsten Spiele bei den Bayern wird aller Voraussicht nach Jonas Urbig im Tor stehen. Schon im Spiel gegen Mainz ist der Keeper - wie gewohnt - für Neuer eingewechselt worden. Nach der Länderspielpause bis zum Jahresende warten in der Bundesliga, Champions League und DFB-Pokal acht Spiele auf den Rekordmeister. "Was Besseres kann dem FC Bayern eigentlich nicht passieren", findet Tobi. Urbig könne jetzt viele Spiele machen, ohne das eine große Diskussion rund um die Position zwischen den Pfosten geführt würde.
 
-Es entbehrt nicht einer gewissen Pikanterie, dass der punktgleiche Verfolger Borussia Dortmund nach dem 2:2 im Topspiel der Vorwoche bei den Bayern am neunten Spieltag zeitgleich gefordert ist. Dabei macht die grassierende Erkältungswelle auch vor Trainer Niko Kovac nicht halt. "Entschuldigt die Stimme, aber ich bin ein bisschen angekratzt", sagte der 55-Jährige am Ende der Pressekonferenz vor dem Heimspiel gegen den Aufsteiger SV Elversberg (Samstag 15.30 Uhr).
+"Ich würde mir wünschen, dass Jonas Urbig jetzt als Nummer 1 für den Rest der Saison ins Tor gestellt wird", sagt Sportschau-Bundesliga-Update-Host Luise Kropff. Der so talentierte Urbig habe sich eh schon gut in das Spiel der Bayern integriert und mache einen sehr guten Eindruck im Bayern-Gefüge.
 
-Anschließend griff der BVB-Coach zum Wasserglas und nahm erst einmal einen kräftigen Schluck. Nach der Partie gegen die Saarländer dürfte dem Trainer die anschließende letzte Länderspielpause des Jahres damit gelegen kommen. Auch für Torjäger Serhou Guirassy, der sich am Dienstagabend beim 2:1 in der Champions League gegen Betis Sevilla eine Zerrung zugezogen hatte.
+In der Vergangenheit hat Manuel Neuer allerdings auch eindrucksvoll gezeigt, dass er sich zurückkämpfen kann. Vor der WM 2014 war der Keeper angeschlagen. Immer wieder den eigenen Körper überlisten zu können, ist kein Naturgesetz, sondern zeigt, wie gut Neuer in dieser Disziplin ist. Deswegen könnte die Torwart-Diskussion bei den Bayern im neuen Jahr, wenn Neuer wieder fit ist, wieder Fahrt aufnehmen - dann vermutlich auch pünktlich zu den großen Spielen in der Champions League.
 
-Der Angreifer musste bereits in der ersten Halbzeit ausgewechselt werden, nachdem er sich an den Oberschenkel gegriffen hatte. Neun Spiele innerhalb von vier Wochen und tausende Reisekilometer fordern Tribut bei den Dortmundern, die sich mit einem Dreier in die letzte Unterbrechung vor Weihnachten verabschieden wollen.
+Das Bundesliga Update gibt es bei ARD Sounds, überall wo es Podcasts gibt und auf dem Sportschau-Fußball-Kanal bei Youtube. Neue Folgen erscheinen donnerstagnachmittags und montagmorgens.
 
-Der BVB zeigt beim FC Bayern, dass es schwierig ist, ihn zu schlagen. Trainer Niko Kovac stellt um und sein Plan geht auf.
+Das Sportschau-Team versorgt dich mit allem Wichtigen zur Bundesliga. Immer Donnerstags und Montags.
 
-Denselben Auftrag gab es in München. "Wir wollen den Lauf mit einem guten Ergebnis abschließen. Aber das wird nicht einfach, das wissen wir", sagte Danks. Vier der jüngsten sechs Gastauftritte haben die Bayern beim FSV in Mainz verloren, zuletzt jedoch nach 0:3-Pausenrückstand noch 4:3 gewonnen.
-
-Vier Tage nach dem 2:0 im Champions-League-Spiel bei Atlético Madrid könnte es personelle Umstellungen in der Startelf geben. Die Mainzer stecken nach drei Pleiten selbst in Schwierigkeiten.
-
-Samstag trifft BVB-Sportdirektor Ole Book mit Elversberg auf eine Mannschaft, die er über Jahre maßgeblich zusammengestellt hat.
-
-"Der Lösungsansatz ist ganz einfach: Wir müssen es die nächsten Spiele besser machen", sagte Trainer Urs Fischer, der für seine Verhältnisse in der Pressekonferenz am Freitag ungewohnt laut sprach. Man habe auch mit den Spielern untereinander diskutiert, es sei wichtig, sich diesen negativen Trend einzugestehen. Der Schweizer forderte nach dem jüngsten Offenbarungseid in Elversberg (1:4) unmissverständlich: "Es gilt die Tugenden von Mainz 05 auf den Platz zu bringen."
-
-Als Beleg habe er Szenen gezeigt, wie sich seine Mannschaft im Dezember 2025 kratzbürstig ein Remis (2:2) bei den Bayern erkämpfte. Damals sei sein Ensemble 134 Kilometer gelaufen, "das hat es noch nie gegeben", erinnerte Fischer: "Du brauchst gegen die Bayern auch das Wettkampfglück, das sie nicht ihren besten Tag haben."
-
-Aufsteiger SV Elversberg überrascht weiter in der Fußball-Bundesliga und nimmt den 1. FSV Mainz 05 schon in Hälfte eins auseinander. Der Höhepunkt aber kommt erst in der Nachspielzeit der Partie.
-
-Ähnliches sagen sie sich auch bei der SV Elversberg. Der Neuling sammelte im Oberhaus mit erfrischendem Offensivfußball bereits 13 Punkte. Das sind gerade einmal fünf Zähler weniger als der Bayern-Jäger BVB, wo der Ex-Elversberger Ole Book inzwischen als Sportdirektor arbeitet.
-
-SVE-Trainer Vincent Wagner wahrte dabei gegenüber seinem Manager ein Geheimnis. "Mir war gar nicht so richtig bewusst, dass er BVB-Fan ist. Das war zwischen uns kein Thema", bekannte Book im Interview mit der "Saarbrücker Zeitung". "Natürlich habe ich eine Geschichte mit Elversberg und mag die Menschen dort sehr", sagte Book: "Aber es geht nicht darum, wie der Sportdirektor das sieht oder wo er einmal gearbeitet hat. Es ist ein Bundesligaspiel gegen einen guten Gegner vor 81.365 Zuschauern." Für die Elversberger wird es gar ein nie dagewesenes Highlight, über 8.000 Anhänger begleiten den Klub aus der 13.000-Seelen-Gemeinde nach Westfalen.
-
-Dieses Thema im Programm: sportschau.de | Stolpergefahr für BVB und Bayern | 06.11.2026 | 15.43 Uhr
+Dieses Thema im Programm: sportschau.de | Kader-Stimmung: Klopp nominiert Füllkrug und Mohya | 05.11.2026 | 14:57 Uhr
 
 ----------------------------------------
 
-[2] HAMBURGER SV SCHIESST GLADBACH ZURÜCK IN DIE KRISE
+[2] EINTRACHT FRANKFURTS STURMDUO - JOBSHARING IM ANGRIFF
 
-Der HSV hat das ereignisreiche Kellerduell gegen Borussia Mönchengladbach in der Fußball-Bundesliga mit 3:1 (1:1) für sich entschieden - auch dank eines spektakulären Treffers von Miro Muheim.
+Nationalmannschaftsnominierung oder Startelfnominierung in der Bundesliga – beides ist für Eintracht Frankfurts Stürmer Jonathan Burkardt und Younes Ebnoutalib aktuell eine Wundertüte. Das führt zu kuriosen Begebenheiten.
 
-Der Hamburger SV und Borussia Mönchengladbach lieferten sich im Kellerduell von Beginn an einen offenen Schlagabtausch. Miro Muheim (11.) traf mit einem herrlichen Distanzschuss zum 1:0, Joe Scally (44.) glich kurz vor der Halbzeit aus. Shafiq Nandja (60.) holte die Führung zurück, Albert Grönbaek (70.) traf zum 3:1-Endstand. Die Gladbacher mussten fast die komplette zweite Halbzeit nach der Gelb-Roten Karte für Ko Itakura (49.) in Unterzahl spielen.
+Neun Pflichtspiele, 17 Tore, sechs Vorlagen – es ist wahrscheinlich keine Übertreibung, wenn man Eintracht Frankfurts Sturmduo als mit das Spannendste bezeichnet, was die Liga derzeit zu bieten hat. Erstaunlich dabei: Sonderlich oft stehen die beiden aktuell gar nicht gemeinsam auf dem Platz. Viel eher betreiben sie Jobsharing. Mit teils kuriosen Begleiterscheinungen.
 
-Gladbach bleibt damit auch am neunten Spieltag auf dem letzten Platz, während die Hamburger über Nacht sogar in die obere Tabellenhälfte kletterten.
+Etwa in der vergangenen Woche. Da erhielt Ebnoutalib am Freitag eine Einladung des neuen Bundestrainers - saß einen Tag später in Paderborn aber zunächst nur auf der Bank. Burkardt wiederum wurde, anders als im Oktober, im Nationalteam nicht berücksichtigt - erhielt dafür aber bei der Eintracht den Vorzug.
 
-Von der ersten Minute an hatte die Partie ordentlich was zu bieten - mit Chancen auf beiden Seiten. Gladbachs Shuto Machino (4.) setzte einen Schuss knapp übers Tor, Patson Daka (8.) scheiterte frei an Keeper Daniel Batz, auch der direkte Gegenangriff durch Lukas Ullrich war gefährlich.
+Der 26-Jährige schoss das 1:0 in der 23. Minute und den Ausgleich in der Nachspielzeit (90.+3). Ein spektakulärer Treffer: Die Hessen spielten nach der Gelb-Roten Karte für Elias Baum (75.) nur noch zu zehnt. Die Vorlage gab der aufgerückte Torwart Noah Atubolu. Und Burkardt traf am Ende per Hacke. "Ich weiß auch nicht, wieso ich mich für die Hacke entschieden habe. Aber zum Glück war es die richtige Entscheidung", sagte Burkardt nach dem Spiel.
 
-Viel mehr Chancen brauchte es aber nicht, ehe es etwas Zählbares gab: Knapp hinter der Mittellinie bekam Miro Muheim in der elften Minute den Ball, legte ihn sich vor und wuchtete ihn aus 30 Metern mit knapp 130 km/h ins rechte untere Eck. Ein Traumtor.
+Zwei Fragen drängten sich danach auf: Wie enttäuscht war Burkardt über den Korb von Klopp? Und was bedeutet die Konkurrenzsituation ihrer beiden Stürmer für die Eintracht: einen Leistungsschub oder irgendwann vielleicht sogar ein atmosphärisches Problem?
 
-Miro Muheim gelingt das nächste Traumtor aus der Distanz
+"Ich war natürlich ein bisschen traurig. Das ist logisch, denn man hofft ja immer, dass man dabei ist", so Burkardt. Der Bundestrainer habe ihm aber "wertschätzende Worte mitgegeben. Ich werde weiter arbeiten und versuchen, bei Eintracht Frankfurt die bestmögliche Performance zu bringen."
 
-"Ich hatte viel Platz und dachte mir 'Wieso nicht?'. Ich treff ihn perfekt und er geht schön unten in die Ecke. War ein geiler Moment", sagte Muheim im Sportschau-Interview. Dieser Treffer beweist, warum er der beste Distanzschütze der aktuellen Bundesliga-Saison ist. "Im Moment scheint fast jeder aus der Distanz reinzugehen. Ich bin überglücklich", so der Torschütze.
+Was sein Stürmerduell mit Ebnoutalib angeht, möchte Burkardt mit niemandem tauschen: mit Jürgen Klopp nicht und mit Eintracht-Trainer Adi Hütter schon gar nicht. "Das ist schwierig für den Trainer, weil einfach zwei sehr, sehr gute Stürmer da sind", meinte der ehemalige Mainzer. "Younes ist ein absoluter Top-Stürmer, und ich bin auch ein Top-Stürmer. Deswegen ist es wirklich schwer, beide spielen zu lassen."
 
-Es ging weiter hin und her: Beide Teams machten ordentlich Druck und zeigten Lücken in den gegnerischen Defensivreihen auf. Sowohl HSV-Keeper Daniel Heuer Fernandes als auch sein Gegenüber Daniel Batz verhinderten mehrfach, dass der Ball im Netz zappelte.
+In der Liga setzte Hütter bislang fünfmal auf die Doppelspitze, in den vergangenen drei Pflichtspielen bot er aber nur noch einen Stürmer auf – zunächst Burkardt im Pokal gegen den HSV, dann Ebnoutalib gegen den HSV in der Liga, nun wieder Burkardt. Mit Erfolg. Aber womöglich ist der aktuelle Ein-Mann-Sturm auch der Kaderplanung geschuldet. Der Wechsel von Arnaud Kalimuendo zerschlug sich am Deadline Day. Mit Nachwuchsspieler Malik Pimpong steht so nur noch ein weiterer Stürmer im Kader, Hütter hat also nur überschaubare Wechseloptionen.
 
-Bis er es kurz vor dem Halbzeitpfiff doch tat: Der Hamburger Warmed Omari köpfte eine Flanke aus dem Strafraum, doch landete der Ball vor den Füßen von Joe Scally (44.). Sein Schuss kullerte abgefälscht von Robin Hack ins Hamburger Tor. Mit dem 1:1 ging es in die Kabine.
+"Ich habe die glückliche Situation, zwei Stürmer zu haben, die treffen", sagte Hütter und möchte es weiterhin vom Gegner und von der Taktik abhängig machen, ob er Burkardt, Ebnoutalib oder beide zusammen aufstellt. "Ich bin mit beiden sehr, sehr glücklich und sehr, sehr happy." Die Entscheidung für den einen oder den anderen sei immer auch "ein bisschen eine Gefühlssache".
 
-Statt auf dem Ausgleichstreffer aufzubauen, schwächte sich Gladbach kurz nach Wiederanpfiff (49.) selbst. An der Seitenlinie verteidigte der vorbestrafte Ko Itakura gegen Albert Grönbaek etwas zu forsch und sah folgerichtig die Ampelkarte. "Ich bin mir sicher, dass ohne die Gelb-Rote Karte heute mehr drin gewesen wäre", sagte Gladbach-Kapitän Philipp Sander am Sportschau-Mikro. Auch sein Trainer Alexander Blessin war enttäuscht: "Wir waren in der ersten Halbzeit die klar bessere Mannschaft. Und wenn wir das Spiel mit elf Mann beenden, gewinnen wir wahrscheinlich hier."
-
-Die Unterzahl kam Gladbach aber teuer zu stehen. Die Hamburger spielten ihre Überzahl kaltschnäuzig aus. Albert Lokonga spielte Grönbaek frei, der wiederum hatte das Auge für Shafiq Nandja, der den Ball an Batz vorbei ins Gladbacher Tor zur 2:1-Führung setzte (60-). Zu sicher durfte sich der HSV aber nicht fühlen. Fast hätte ein Patzer von Sebastiaan Bornauw nur sechs Minuten später die Führung wieder gekostet.
-
-Der Fast-Ausgleich rüttelte den HSV nochmal auf. Die Antwort kam von Grönbaek (70.), der es Muheim nachmachte und einen Distanzschuss zum 3:1 ins Netz der Gäste hämmerte. "Zwei Tore aus 30 Metern, das tut brutal weh", so Sander, "jeden Distanzschuss kann man nicht verteidigen. In der Regel haben wir die Verantwortung den Sechszehner zu schützen. Am Ende ist es eine 50:50-Entscheidung. Heute zu unserem Nachteil."
-
-Die Gladbacher Versuche, noch irgendetwas auszurichten, blieben erfolglos. Es blieb beim 3:1 für die Hamburger. So zeigte sich HSV-Trainer Merlin Polzin in der Sportschau entsprechend "extrem zufrieden. WIr haben mit viel Power nach vorne gespielt und uns viele Chancen erarbeitet. Das stimmt den Trainer glücklich."
-
-In Gladbach ist man nach dem verpatzten Saisonstart mit sechs Niederlagen in Folge trotz den Lichtblicken gegen Stuttgart und im Pokal gegen Karlsruhe jetzt also wieder im Krisenmodus.
-
-Der HSV ist am Spieltag nach der Länderspielpause am Sonntagabend bei Werder Bremen zu Gast (17.30 Uhr). Mönchengladbach empfängt am Samstagnachmittag Borussia Dortmund (15.30 Uhr).
-
-Dieses Thema im Programm: sportschau.de | HSV distanziert sich vom Tabellenkeller - die Audio-Highlights | 06.11.2026 | 22:38 Uhr
+Dieses Thema im Programm: Sendung: Sportschau, 07.11.26, 18:30 Uhr
 
 ----------------------------------------
 
-[3] VOM PERLENTAUCHER ZUM BVB-SPORTDIREKTOR
+[3] RÖNNOW UND DIE EINSAMKEIT DES TORHÜTERS
 
-Am Samstag empfängt Borussia Dortmund Bundesliga-Aufsteiger Elversberg. BVB-Sportdirektor Ole Book trifft dabei auf eine Mannschaft, die er fast neun Jahre maßgeblich zusammengestellt hat.
+Frederik Rönnow hält Union Berlin in Freiburg lange im Spiel. Doch seine Mitspieler lassen den Torhüter immer wieder im Stich. Nach der Niederlage schlägt der Däne Alarm.
 
-BVB-Sportdirektor Ole Book hat eine Gewohnheit. "Nach unserem Sieg gucke ich kurz, wie Elversberg gespielt hat", sagte der 40-Jährige nach der Partie gegen Hoffenheim. Am Samstag muss Book nicht aufs Smartphone schauen, wenn die SV Elversberg dem BVB in der Fußball-Bundesliga als Gegner gegenübersteht (Ab 15.20 Uhr live in der Radio-Reportage beim WDR).
+Torhüter haben die undankbarste Position im Fußball. Sie sind Einzelkämpfer in einem Mannschaftssport. Das sieht man schon an der Trainersprache. 4-4-2, 3-5-2, 4-3-2-1 heißen die gängigen Formationen einer Startelf und wer das mal zusammenzählt, kommt nur auf zehn Spieler in der Mannschaft. Die Torhüter fehlen, als wären sie kein Teil des Teams. Wenn sie gerade nicht die Nummer eins sind, warten sie manchmal Monate auf der Bank auf ihren Moment. Wenn sie dann im Tor stehen, wird am meisten über ihre Fehler gesprochen. Torhüter spielen, um die besten Momente im Fußball zu verhindern. Und sie sind die Spieler auf dem Platz, die am meisten auf ihre Mitspieler angewiesen sind. Diese Erfahrung machte Union Berlins Frederik Rönnow in Freiburg.
 
-Dass Ole Book bei Elversberg mitfiebert, ist verständlich. Fast neun Jahre hat er in unterschiedlichen Rollen für die Saarländer gearbeitet und gemeinsam mit dem Verein einen bemerkenswerten Aufstieg hingelegt.
+Nach der 0:2-Niederlage beschrieb er im Interview mit DAZN eine seiner Heldentaten. Rönnow hatte einen wuchtigen Elfmeter gehalten, indem er mit einem Seitenschritt richtig spekulierte und kraftvoll in die Ecke hechtete. "Ich weiß, dass Grifo überragend schießt, da muss man dann ein bisschen früher gehen", so Rönnow. Und trocken hinterher: "Aber am Ende bringt's nichts."
 
-Seit März ist Ole Book Sportdirektor in Dortmund. Geboren in Beckum, gerade einmal eine Autostunde vom Westfalenstadion entfernt, war er schon seit seiner Kindheit Fan von Borussia Dortmund. "Die Verbundenheit reicht so weit zurück, wie ich mich erinnern kann", sagte Book bei seiner Vorstellung.
+Genau so war es am Sonntag. Rönnow ist zwar schon seit Jahren ein sicherer Rückhalt im Berliner Tor, aber in diesem Spiel zeigte er mal wieder, warum er zu den besten Torhütern in der ganzen Bundesliga gehört. Insgesamt acht Paraden lassen erahnen, dass der Torhüter beim 0:2 ein weiteres Union-Debakel verhinderte. Schon das 0:0 zur Pause war Rönnows Verdienst, fand auch Innenverteidiger Zeno van den Bosch: "Dass wir ohne Gegentor geblieben sind, hatten wir vor allem Freddy zu verdanken, der ein starkes Spiel gemacht hat."
 
-Doch den Grundstein dafür, eines Tages beim großen BVB zu arbeiten, legte Book bei der SV Elversberg. 2017 kam er als Scout ins Saarland. Damals spielte Elversberg noch in der Regionalliga Südwest.
+Union gelang am Sonntag kein einziger Schuss auf das gegnerische Tor. Aber nicht die Offensive war harmlos, auch in den Zweikämpfen waren die Köpenicker zu zahm. Bezeichnend eine Situation in der 53. Spielminute, als ein Freiburger ohne Mühe durch eine Lücke zwischen Jannik Haberer und András Schäfer schlüpfte. Der Schuss danach ging neben sein Tor, aber Rönnow schrie mit wutverzerrtem Gesicht seine passiven Mitspieler an, um sie irgendwie noch aufzuwecken.
 
-Schnell arbeitete sich Book die Karriereleiter hinauf und wurde erst Sportdirektor und anschließend Sportvorstand. Gemeinsam mit Horst Steffen und später Vincent Wagner formte er eine Mannschaft, die es aus der Regionalliga bis in die Bundesliga geschafft hat.
+Freiburg hatte keine Mühe, immer wieder in den Strafraum zu kommen. "Ob das der Worst-Case-Gegner war, sei jetzt mal dahingestellt", antwortete der verdutzte Freiburger Igor Matanović nach dem Spiel im Fernsehinterview und man konnte es ihm noch nicht mal als Provokation auslegen. "Die waren in allen Phasen einfach besser", schimpfte Rönnow. "Für mich reicht das nicht, ich will punkten."
 
-Der rasante Aufstieg von Elversberg lässt sich auch mit Ole Books Gespür für Spieler erklären, deren Potenzial andernorts noch nicht vollständig erkannt worden war. Nick Woltemade etwa kam 2022 auf Leihbasis aus Bremen nach Elversberg.
+Kein Wunder. Rönnow ist einer der letzten im Kader, die mit Union in der Champions League gespielt haben und nach Jahren des langsamen Verlusts individueller Qualität definitiv der letzte, der heute noch in die Königsklasse gehört. Das sah man auch gegen Matanović, als Rönnow abtauchte, um einen Kopfball, den der Kroate aus wenigen Metern lehrbuchartig flach aufs Tor geköpft hatte, von der Linie zu wischen.
 
-"Da waren immer wieder so Momente, Pässe, Dribblings, dass wir uns dachten: Wow, das ist ein ganz besonderes Talent", sagte er einmal über Woltemade, der heutzutage bei Juventus Turin kickt. Auch Fisnik Asllani nutzte seine Leihe von Hoffenheim, um sich in der 2. Bundesliga zu empfehlen.
+Seine Vertragsverlängerung vor einem Jahr war einer der größeren Coups des Sportgeschäftsführers Horst Heldt, der nach dem Spiel einmal mehr beteuerte, dass er Vertrauen in den Kader habe. Sein erneuertes Versprechen, die Klasse zu halten, hängt maßgeblich von der Form seines "Klasse-Torhüters" ab.
 
-Genauso erging es Younes Ebnoutalib, der aus der Regionalliga nach Elversberg gewechselt war und dort mit seinen Toren auf sich aufmerksam gemacht hatte, ehe er den Sprung zu Eintracht Frankfurt und schließlich in die Nationalmannschaft schaffte.
+Aber Heldt ergänzte auch eine der abgedroschenen Phrasen der Fußballersprache, die tatsächlich wahr sind: "Wenn der Torhüter dein bester Spieler war, dann ist das bezeichnend." In diesem Fall hat er die volle Unterstützung seines Torhüters, der im Interview nach dem Spiel mit weit aufgerissenen Augen Alarm schlug. Frust und Sorge standen dem Torhüter ins Gesicht geschrieben. Sein Satz: "Wir müssen es einfach besser machen", fasst den Tenor der Wutrede zusammen.
 
-Genau diese Transferphilosophie soll Book auch bei Borussia Dortmund verfolgen. Hier hat er nun seinen ersten Transfersommer hinter sich. Trainer Niko Kovac lobt ihn als "Arbeiter", der praktisch nie eine Pause mache.
+Vor allem sprach er über die leichten Fehler seiner Vorderleute, die ihm immer wieder das Leben schwer machten. "Nach einer Situation, in der wir lange verteidigt haben, kriegen wir keine Pause, weil wir den Ball zu schnell verlieren", erklärte Rönnow. So war es vor dem letztlich vorentscheidenden 0:1 in der 55. Spielminute, als ein Angriff nach dem anderen auf Unions Tor zurollte, weil der Ball ständig im Spielaufbau verloren ging. Nach wie vor fehlt im Ballbesitz die Bewegung ohne Ball und die Präzision im Passspiel. In der Folge schlägt Union viele lange Bälle und läuft immer wieder in Konter. Mit 65 Prozent angekommenen Pässen war Rönnow sogar in dieser Statistik besser als die Offensivspieler Andrej Ilic, Oliver Burke, Livan Burcu und Kastriot Imeri.
 
-Anders als sein Vorgänger Sebastian Kehl, der Neuzugänge meist aus der Bundesliga zum BVB lotste, schaut Book ins Ausland. Zum Beispiel nach Griechenland (Konstantelias), in die Niederlande (Veerman) oder Belgien (Karetsas). Vor allem der 18-jährige Konstantinos Karetsas entpuppte sich in der noch jungen Saison als ein möglicher Unterschiedsspieler mit enormem Entwicklungspotenzial.
-
-Dass Ole Book, damals mitten in der Saison, von Elversberg nach Dortmund wechseln konnte, lag an einem Vertragsdetail. Er hatte sich eine Ausstiegsklausel in seinen Vertrag schreiben lassen, die ausschließlich für Borussia Dortmund galt.
-
-"Es war ein berufliches Ziel, bei Borussia Dortmund zu arbeiten. Und ja, es war bestimmt ein Zeichen von Selbstvertrauen", so Book. BVB-Geschäftsführer Lars Ricken lobte Books Weitsicht und holte wenig später mit David Blacha einen zweiten Funktionär aus Elversberg.
-
-Bekannte Gesichter wird Book am Samstag aber sicher nicht nur auf dem Rasen sehen. Rund 8.000 Elversberger haben Tickets für das Duell in Dortmund, für den Klub ein Rekord.
-
-Trainer Vincent Wagner, selbst BVB-Fan, kannte das Stadion bisher nur von der Tribüne. "Jetzt kommt das Größte, was die Bundesliga zu bieten hat", sagt er. Auch Wagner trifft dabei auf seinen früheren Sportdirektor.
-
-Ole Book freut sich auf das Wiedersehen: "Ich sehe unheimlich viele Menschen wieder." Dass man bei einem Gegner so viele Leute kenne, sei selten. Sportlich traut Book seinem Ex-Verein übrigens eine Menge zu. Er sehe eine Mannschaft, die für jeden gefährlich sein könne – und somit auch für Borussia Dortmund.
-
-Hinzu kommt aus BVB-Sicht der Ausfall von Serhou Guirassy. Der Torjäger hatte sich im Champions-League-Spiel gegen Real Betis eine Zerrung zugezogen und muss vorerst pausieren.
-
-Sendung: WDR.de, "Book mit dem BVB gegen seinen Ex-Verein", 06.11.2026, 14:26 Uhr
+Sendung: rbb|24, 08.11.2026, 21:41 Uhr Audio: rbb|24, 08.11.2026, Jens Jörg Rieck
 
 ----------------------------------------
 
 
 >>> TECH (WIRED) <<<
 
-[1] THE CYBERTRUCK’S DEATH IS ACTUALLY GREAT NEWS FOR EVS
+[1] SCIENTISTS MAY HAVE DISCOVERED A MASSIVE STARLESS GALAXY
 
-Tesla will end production of the Cybertruck at its Texas Gigafactory next year.
+Some galaxies appear to contain all the ingredients needed to make stars, yet have failed to produce almost any.
 
-It’s a uniquely toxic electric vehicle, between its divisive design and Elon Musk’s embrace of you name it. That toxicity certainly contributed to subpar sales, along with a number of recalls.
+Scientists have puzzled over why for years. Recent findings suggest that these “dark galaxies”—that is, galaxies that contain gas and dark matter but few or no stars—may be lurking throughout the cosmos. Finding them could help astronomers understand why some galaxies form stars while others remain dark, and test the best models of galaxy formation.
 
-But the end of the Cybertruck is also another sign that the era of big EVs—particularly big trucks—is waning. That’s great news for pedestrian and biker safety, but also for the battery supply chain at a time when more people need to get behind the electric wheel.
+Researchers’ most successful model of the cosmos, known as Lambda-CDM, assumes the existence of two invisible ingredients: dark energy, the mysterious property thought to be driving the accelerating expansion of the universe, as well as cold dark matter, a hypothetical substance that physicists think makes up about 85 percent of the universe’s matter.
 
-The Cybertruck uses a massive 123-kilowatt-hour battery that clocks in at around 1,600 pounds, or around a quarter of the vehicle's weight. That’s on par with the battery that powered Ford’s F-150 Lightning, another electric truck that was canceled late last year. (The company also killed a three-row EV in 2024.) Ford’s behemoth batteries ranged from 98 kilowatt-hours up to 131 kilowatt-hours.
+Clumps of dark matter, called haloes, provide the gravitational scaffolding for galaxies to form and grow, according to the model. Gas collects inside these haloes, eventually cooling and collapsing to form stars. But astronomers are still trying to understand why this process appears to happen in some haloes but not others.
 
-Seeing both trucks canceled within a year of each other, while automakers have announced a bevy of smaller EVs and gas-powered autos with electric motors that can extend range, indicates there may be a shift afoot. Ford is planning to launch the Fathom next year. The sub-$30,000 electric pickup is expected to be about the size of the automaker’s compact gas-powered Maverick pickup. Though Ford hasn’t announced the battery sizes available in various trims, it’s a safe bet they won’t be anywhere near the size of the F-150 Lightning's or Cybertruck's. The company is also planning to relaunch the Lightning as an extended-range model.
+One possibility is that some contain vast quantities of hydrogen gas, yet form very few stars. That would make them extremely difficult to spot.
 
-Startup Slate is also launching a tiny electric pickup that can be converted to an SUV, with a bare-bones base model starting below $25,000. It also features a svelte battery and has seen a massive surge in preorders—though, to be fair, so did the Cybertruck, and we saw how that turned out.
+Now, researchers have found a promising candidate for such a dark galaxy and published their findings in the Monthly Notices of the Royal Astronomical Society. The object, known as AGC 322753, contains roughly 2 billion times the sun's mass in hydrogen, yet appears to have no stars, though the researchers note that it is too big to be totally starless. However, if confirmed, it would be an unusually massive example of a starless galaxy.
 
-Then there’s the Rivian R2, which launched this year. While the SUV isn’t as tiny or cheap as Ford and Slate’s vehicles—its battery has 88 kilowatt-hours of capacity and weighs in at around 1,200 pounds—it’s still smaller than the company’s flagship R1S. Rivian has also teased the R3, an even more-slimmed down SUV, in the coming years.
+Researchers at Swinburne University of Technology in Australia made the discovery by comparing observations from two existing radio surveys, one conducted by the Arecibo Observatory in Puerto Rico and the other by China's Five-Hundred-Meter Aperture Spherical Radio Telescope. Both telescopes had picked up a massive cloud of hydrogen.
 
-That’s not to say big EVs are dead. The Kia EV9, for example, is among the top 10 EVs by sales in the US, as is the R1S. There’s also a torrid resale market for the F-150 Lightning. But the rest of the top 10 new EV sales are all crossovers, sedans, or mid-sized SUVs with moderately sized batteries, and a number of newly announced EVs are trending on the smaller side or function as extended-range vehicles.
+Although other researchers have identified several dark galaxy candidates over the past decade, this one stands out for another reason: It may be rotating.
 
-Building smaller vehicles is, of course, one way to make EVs cheaper. With less weight to propel, you can rely on a smaller battery. And given that the battery pack is the most costly component of an EV, that can in turn help automakers offer more affordable vehicles at a time when the price of so many other consumer goods is skyrocketing. That includes the current crop of EVs: The average transaction price for a new model is now $55,800, according to Cox Automotive.
+Hydrogen gas emits radio waves at a signature wavelength, which shortens when the gas moves toward Earth and stretches when it moves away. The signal from AGC 322753 shows two distinct peaks, suggesting that one side of the gas cloud is moving towards us while the other is receding.
 
-Going small—or smaller, anyway—also means making the most of a limited battery supply chain. The vast majority of Cybertruck drivers are doing the same thing with their vehicles as Hyundai Ioniq 5 drivers: getting groceries, commuting, and driving kids to soccer games. But a standard-range Ioniq 5 driver is doing it with a battery about half the size.
+This could mean that the gas has settled into an organized, rotating structure, much like the discs in ordinary galaxies, despite apparently having formed no stars.
 
-After President Donald Trump’s administration killed EV incentives last year, sales plummeted. The Iran War and rising gas prices have led to an uptick in interest, though sales still lag behind the global average. (Used hybrid sales have also picked up, reflecting the pain people have been feeling at the pump.) Even with a Democratic-controlled Congress, EV incentives coming back under Trump are about as likely as defense secretary Pete Hegseth putting pronouns in his email signature. But should Democrats take the White House in 2028, marking the culmination of Woke 2.0, support for would-be EV buyers becomes much more likely.
+"The theoretical models and the simulations show us that dark galaxies shouldn't rotate, so this is extremely interesting," says Marco Monaci, an author of the study at Swinburne University of Technology.
 
-Automakers pivoting to smaller cars could be much better positioned to meet pent-up demand if that happens, while also lowering the risks of delivery delays.
+If AGC 322753 really is a rotating disc with no stars, astronomers will have to explain how the gas organized into such a structure without producing them.
 
-Even Elon’s announcement killing the Cybertruck points to where the market is heading: He claims Tesla is ending production to make room for cranking out more Cybercabs. The battery size in those vehicles? Just 48 kilowatt-hours.
+That isn’t the only puzzle. Most models of galaxy formation predict that a cloud holding this much hydrogen should have formed at least a few stars, as its densest patches collapse under their own gravity and ignite.
 
-In your inbox: Go inside the world of digital security with Kernel Panic
+The paper’s coauthors suggest it may be very unlikely that AGC 322753 contains absolutely no stars. So, instead, they think it may contain stars too faint to see–an “almost dark” galaxy. If so, they must be very faint indeed, because even deep optical images from the DESI Legacy Imaging Surveys, which search for starlight rather than the hydrogen gas detected by radio telescopes, reveal none.
 
-We sexted with a Muse AI agent—and Meta says that’s totally fine
+From this, the team estimates that AGC322753 contains at least 40 times more mass in hydrogen than in stars, raising questions about what exactly suppressed stars from forming.
 
-Want better search results? Make WIRED a preferred source in Google
+But further observations, such as ones made by the Very Large Array, a network of radio antennas in New Mexico, will be needed to confirm whether AGC 322573 is truly a dark—or almost dark—galaxy.
+
+"Finding out more about it really is an essential next step at the moment. It's intriguing, and I want to know more," says Robert Minchin at the National Radio Astronomy Observatory.
+
+Minchin knows how misleading such signals can be. He was involved in the discovery of VIRGOHI21, a dark galaxy candidate found in the early 2000s that was later reinterpreted as a long stream of hydrogen gas pulled from a nearby galaxy by gravity, known as a tidal tail.
+
+Gas torn away like this can keep some of its original motion and mimic the signature of rotation, so Minchin says more observations are needed to rule out the same explanation for AGC 322753. Yet there is no obvious nearby galaxy it could have come from.
+
+Rhys Taylor, an astronomer at the Astronomical Institute of the Czech Academy of Sciences in Prague, says tidal debris is unlikely to explain the observations. Reproducing the candidate dark galaxy’s distinctive double-peaked profile through such a process “is technically possible, but it’s fantastically unlikely,” Taylor says.
+
+Taylor and Minchin both flag another concern, though. The two radio surveys that the researchers used placed the hydrogen at noticeably different positions in the sky. That suggests AGC 322753 may be an extended cloud of gas rather than a compact galaxy, another possibility that follow-up observations could help untangle.
+
+Whether AGC 322753 turns out to be completely dark or merely exceptionally faint, understanding objects like it could still help astronomers work out why some galaxies form stars while others apparently do not, says Elisabeth Adams at the Planetary Science Institute.
+
+One possible reason is a galaxy that spins so fast that its gas stays too spread out to collapse. Another is that ultraviolet light from the universe’s earliest stars heated the gas, keeping it too warm to condense. Studying such almost-dark galaxies could help tell these phenomena apart, revealing how the conditions of the early universe shaped the galaxies we see today.
+
+“Once it’s no longer a dark galaxy, people seem to stop caring, and I actually think that’s not the right approach,” says Adams.
+
+But if AGC 322753 truly is starless, it would be one of the most massive dark galaxies ever identified, potentially helping explain where the missing galaxies predicted by Lambda-CDM have been hiding. It could even help astronomers understand why some gas-rich galaxies form stars while others don't, providing a valuable test for models of galaxy formation—and perhaps even offering new clues about the nature of dark matter itself.
+
+In your inbox: Inside WIRED’s newsroom with Katie Drummond
+
+They war-gamed dimming the sun—it went worse than you think
+
+The Big Interview: Nathan Fielder tells us everything
+
+Live tracker: Elon Musk’s America PAC is spending big on the midterms
+
+Introducing the app: More ways to make the most of WIRED
 
 © 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
 
 ----------------------------------------
 
-[2] HOW STEPHEN MILLER SCHEMED HIS WAY TO THE TOP
+[2] AUDIOENGINE COLOR OF THE YEAR KIT REVIEW: BRIGHT LOOK, GOOD SOUND
 
-President Donald Trump on Friday announced that Stephen Miller, one of his most powerful and politically aggressive aides, would be his next White House chief of staff following disastrous results for Republicans in the midterm elections.
+The artist Wassily Kandinsky said, “Color is a power that directly influences the soul.” But in the realm of home stereo gear, the color wheel gets minimal airtime, with equipment typically available in scant options: silver-faced classics, wood-grain boxes, all manner of modern reflective piano black, and not a whole lot else.
 
-Miller, whose titles until now were deputy chief of staff for policy and homeland security adviser, has orchestrated the most polarizing policies of Trump’s second term—most notably a brutal crackdown on immigration that has claimed the lives of US citizens.
+Not so with Audioengine, which has painted a neat little world with its annual Color of the Year kit: a suite of home audio components, including laptop speakers, a subwoofer, a turntable, and speaker stands. Each year, the brand drops a new edition of the series in a different color; in the launch year of 2024, a dusky matte blue; in 2025, a subtle metallic green; and now in 2026, a lustrous and smooth egg-yolk yellow.
 
-Trump made the change public in a statement on his Truth Social platform, writing that Miller would take over from Susie Wiles on Monday—less than a week after Republicans lost the House and Senate in a searing rebuke of Trump’s policy agenda.
+Having a home audio system in such an unusual color palette is, to me, irresistibly joyful; whenever I look at these stereo components, I can’t help but smile. And the tech holds up, too. After months of testing the suite, I was colored impressed. Straight out of the box, it's a great option for music lovers who value the look and sound of their home stereo setup.
 
-In recent days, Trump has privately blamed Wiles for the worst Republican midterm performance in decades, according to two sources familiar with the matter. Wiles submitted her resignation on Thursday, the sources say.
+The anchoring component of the Color of the Year suite are the A2+ Gen 3 Wireless Speakers. At 6 inches tall by 4 inches wide, they’re sized like laptop speakers—and get high marks for that purpose as WIRED’s top pick for computer speakers—but that’s really just the start of what they can do. Alone, the speakers pack enough power for a small home theater. They're also easy to integrate into a bigger system, thanks to their included stereo mini-jack inputs, USB inputs, and both stereo RCA inputs and outputs. To make the sound quality more targeted, place the A2+ speakers atop the included DS1M Desktop Stands, and angle them 15 degrees up toward your ears.
 
-Trump broadly considered three candidates to replace Wiles, the sources say: special envoy Steve Witkoff, director of national intelligence Jay Clayton, and Miller.
+This year, Audioengine expanded its Color of the Year suite to include a color-matched Bluetooth turntable in collaboration with Crosley. Called the C6, it's a manual two-speed machine with a nice, heavy steel platter and medium-density fiberboard (MDF) plinth. It's Bluetooth-enabled and features a built-in preamp that lets you directly connect your A2+ speakers—wired or wireless—without a need for additional components.
 
-But with the looming threat of congressional investigations starting next year, Trump settled on Miller, seemingly because of his zeal in defending the president and his deep loyalty. Miller has been with Trump since his first campaign and stood by him through his political exile in 2021.
+My favorite part of the Color of the Year suite is the S6 Powered Subwoofer. At 10 inches by 8.7 inches, the compact, front-firing form factor lets you snuggle it into various spaces that wouldn't work for a larger, bottom-firing subwoofer. This is a class D sub with a frequency response down to 33 Hz and an adjustable crossover down to 40 Hz that helps your system sound complete, lifting the bass and rounding out the listening experience.
 
-Miller had made his interest in the job known inside the West Wing for weeks, ever since Wiles weathered a series of negative stories before the midterms that suggested her job was at risk, the sources say.
+The ease of setup is one of the major draws for the Audioengine suite. Plug in the A2+ speakers, link them together using the provided stereo cables, and turn them on. You can connect the speakers via Bluetooth, or plug in other components via the stereo inputs. It’s as basic as home hi-fi gets.
 
-In recent months, Trump also started cutting Wiles out of certain decisions, which contributed to the sense among her detractors that she was on shaky ground, sources say. For instance, Trump reportedly hired Katie Zacharia as press secretary without consulting Wiles, though the White House pushed back on the claim.
+Linking the Crosley C6 turntable using Bluetooth is similarly seamless. The A2+s have an intuitive Bluetooth pairing mode that starts up when you turn on the speakers, indicated by a flashing Pair button on the back. From there, turn on the turntable, make sure it’s in the “line” position (by using the turntable’s built-in preamp), and the C6 instantly searches for the A2+s. Once the two units connect, the flashing button on the back of the speakers will turn blue, as will the Bluetooth indicator on the turntable.
 
-With Wiles’ departure, White House aides were bracing for further personnel changes. Among other names, Wiles’ deputies James Blair, who put together the GOP midterm strategy, and Richard Walters are seen as vulnerable to being fired by Miller unless they resign first, sources say.
+Connecting the subwoofer was likewise a cinch: Connect an RCA cable to the back of the A2+s in the RCA output, then run that to the audio input on the back of the S6 subwoofer. Once you connect, you’ll want to tweak the sound and presence of the subwoofer, and once you’re happy with the dial-in, the subwoofers will go up and down in volume, in lockstep with the A2+ speakers.
 
-The changing of the guard is also likely to bring respite to defense secretary Pete Hegseth, who has had a strained relationship with Wiles as of late but is seen as ideologically aligned with Miller, sources say.
+Each Audioengine product also came with a QR code that launched a step-by-step setup process, which I found especially helpful for dialing in the sound for the woofer. (The Audioengine YouTube channel is also a wealth of information.)
 
-Hegseth and Miller worked closely last year when the Trump administration began a campaign of strikes against boats around Venezuela. Miller, who also leads the Homeland Security Council within the White House, orchestrated the campaign through the Pentagon.
+After several colorful, music-filled months of testing the Audioengine kit, I found the system to be versatile, though not without its limitations or opportunities for upgrades and tweaks. Right out of the box, the speakers, subwoofer, and turntable looked fantastic and sounded pretty nice. The A2+ speakers were shockingly nuanced and detailed, considering their small size, with Primus and Frank Zappa records showcasing slashing guitars and Paul Chambers and Bill Evans jazz albums providing a sophisticated soundstage. These speakers also worked great for home gaming and laptop use. The subwoofer did wonders when connected to the A2+ for elevating the home-theater experience. The growling lion and car-chasing monkeys in 1995's Jumanji were vivid and lifelike.
 
-Wiles leaves the White House as arguably the most successful chief of staff to Trump, who infamously cycled through chiefs in his first term. By comparison, Wiles kept Trump’s confidence from the start of his second presidential campaign in 2021.
+Being able to transition from home stereo to computer to home theater is versatile and fun. It means there’s always a way to incorporate these products into your home.
 
-Still, Wiles weathered a number of challenges in recent months. She underwent a successful course of chemotherapy, but also faced accusations that her daughter had received lucrative contracts in part because of the family’s connection to the president. (The White House and Wiles’ daughter’s firm pushed back on these claims.)
+If there’s a weak link in the Color of the Year kit, it’s the turntable—but even that is pretty strong. The aluminum tonearm leaves something to be desired if you’re accustomed to higher-end units, but the C6 worked well for me and will suit the needs of most casual listeners. There are several similarly priced Bluetooth-enabled turntables on the market, so out of curiosity I swapped in a Sony PS-LX3BT and noticed no significant difference in terms of sound. What those other turntables lack is the aesthetic unity and the satisfaction of having your entire system kitted out in a unique colorway.
 
-“Serving President Trump in the White House has been the honor of a lifetime,” Wiles wrote on X. “I’m so proud to have been a part of what we’ve accomplished together from securing our border and cutting taxes to strengthening our economy and putting America First.”
+Mostly, I just love how this canary-yellow gear looks together. It offers equal parts interior-design pleasure and home audio performance. The price is incredibly competitive across the entry-level home stereo space, and the ease of use and setup feels intuitive and user-friendly for novices. If color influences the soul, then the union of color and music stands to be a source of deep satisfaction—and I’ve found it here.
+
+(If you don't want the entire suite, you can buy the components à la carte without a penalty—there's no price break for the bundled suite.)
+
+Power up with unlimited access to WIRED. Get best-in-class reporting and exclusive subscriber content that's too important to ignore. Subscribe Today.
+
+© 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+----------------------------------------
+
+[3] AUTHORS CAN DEFEND AGAINST AI ALLEGATIONS WITH ‘PAPER TRAIL’ TOOLS. IS IT ENOUGH?
+
+Andrea Bartz is a prolific novelist with an impressive résumé. Since 2019, she has published five thrillers, become a New York Times bestselling author, had her work optioned by the likes of Netflix and Hulu, and picked up an endorsement from Reese Witherspoon’s influential book club.
+
+She also has a legal claim to fame: Bartz was the lead plaintiff in a class-action suit against Anthropic that alleged the company had downloaded millions of copyrighted books from pirate sites to use as training data for its models. Anthropic last year agreed to pay $1.5 billion in the largest copyright settlement in US history.
+
+But while Bartz and many other writers were on guard against this plunder of their work, another AI threat was brewing. What happens when authors are accused of relying on artificial intelligence themselves?
+
+This past March, the publishing industry found out: Following widespread speculation on social media that a horror novel titled Shy Girl was largely AI-generated, and a Times article about those claims, Hachette Book Group canceled an upcoming US publication run for the novel and discontinued it in the UK, where it had already been released. According to Pangram, a robust but by no means infallible AI detection tool, some 78 percent of the text was AI-generated.
+
+Mia Ballard, the author of Shy Girl, has denied allegations that she used AI to write the novel, claiming that an editor was responsible for AI-assisted changes to a previously self-published version of the book. She has also said that she is pursuing legal action. Since that scandal broke, several more fiction authors have run afoul of AI suspicions, one after winning a short story prize, another after publishers bid into the millions for his crime novel. Both have denied these allegations as well.
+
+But Bartz notes that once the accusations start, the damage is done. As the Shy Girl scandal erupted, she says, “I kind of immediately felt like this was going to lead to a potential witch hunt.” The unavoidable emergence of AI in publishing, she explains, will “have the unintended effect of leading anyone to be able to accuse anyone of using AI,” and at the moment, authors have little recourse in defending themselves against these charges. “There’s no agreed upon standard,” Bartz says, in proving human authorship.
+
+The developers of a host of new software tools hope to change that. Platforms including Workings, Blindproof, Wintertext, Human Ink, and ObraVera promise the means to track and document an author’s writing process, in some cases encrypting and fingerprinting the written work or typing rhythms with unique codes, in order to produce a record of authorship (whether entirely human or AI-assisted). The idea is not just to create a paper trail that writers can point to if someone questions whether they used an LLM but to demonstrate provenance when, for example, text is scraped into AI training sets without attribution or other identifying metadata.
+
+Mary Rasenberger, CEO of the Authors Guild, a professional organization focused on free expression and copyright protection, says that the guild can’t recommend any one of these tools over another but wants writers to know they exist as something of a security net. (Many of the companies have approached the Authors Guild to pitch their services, according to Umair Kazi, the guild’s director of policy and advocacy.)
+
+At the same time, Rasenberger tells WIRED, it’s “insulting” and a “burden” to have to jump through this hoop, and “we don't feel it should be required” for authors to preserve receipts.
+
+“If what you're selling are your words and your voice and your imagination, your creativity, using AI doesn't make sense,” Rasenberger says, noting that authors’ pride in their own work means AI slop is far less common in publishing than one might think. “I've talked to editors, particularly editors of literary nonfiction and fiction,” Rasenberger says, “and some of them will say, ‘I never see AI-generated submissions, I'd know it if I did.’”
+
+Rasenberger worries that authors are up against a climate of distrust—they should “refrain from accusations of other authors because it just does not support a healthy literary community,” she says—and overconfidence in AI detection tools, which can be fooled and have been known to produce false positives. While Pangram claims an “industry-leading” false positive rate of 0.01 percent when used on creative writing, Rasenberger said the Authors Guild has “heard of lots of instances where people have put their own human-authored work in Pangram and gotten a result back saying it was AI-generated.” There are a variety of factors, she adds, that can “make an AI detector think something's AI-generated when it's not.”
+
+By the same token, a process-tracking app isn’t foolproof; the AI arms race means there’s an ongoing cycle of vulnerabilities and fixes on both sides.
+
+“We offer a product that [tracks writing] in Google Docs, and many users find it helpful,” says Max Spero, cofounder and CEO of Pangram. “With that said, ‘paper trail’ tools are not a perfect catch-all. For example, someone could hand-type AI text, or use an auto-typer.” Spero points out that the messiness of writing itself creates further problems. “The average writer doesn't just sit down and type out a book,” he says. “They work with multiple files, send drafts back and forth, use voice notes while on the go. Not all of this gets captured in writing process tools.”
+
+The tools, meanwhile, may be more geared toward copyright concerns than confirmation of human or AI authorship. Brady Ridgway, technical founder of ObraVera—which can cryptographically “fingerprint” patterns in writing as well as audio voice recordings—says his platform is designed to trace reuse of material you have stored in their database as a registered human user. With a time stamp and a crypto hash, he explains, if the content “crops up later somewhere it's not supposed to be, or somebody else claims it as theirs, we can search the database and say, ‘These words were created at this time, by this person.’”
+
+That may demonstrate provenance and ownership, Ridgway says, yet it’s up to the registered individual to declare whether they used AI or not in the creation of the text. He refers to the kerfuffle in May over the writer who was accused of winning a Commonwealth Short Story Prize with an AI-generated submission. “Everybody seems to agree that he's the person who submitted the short story,” Ridgway says. “That's all that the software would do. It would say that somebody on this day made a declaration that it was human only or not AI-assisted.” It can’t confirm whether that’s a true statement or not.
+
+Some argue that trying to institutionalize vetting systems for human authorship is simply impractical—and may soon be a moot point anyway. Jane Friedman, an author and publishing business expert, recently argued in her industry newsletter The Bottom Line, that the era of AI scandals is likely to be short-lived, given the improvements of Pangram and similar detectors. Moreover, she wrote, authors have now seen what may happen if they attempt to pass off AI-generated writing as their own.
+
+Friedman tells WIRED that agents and publishers are unlikely to implement any method of verifying human authorship that “costs extra money or extra time,” not least because it would be impossible to get them to commit to a shared standard. She predicts that “it will be like herding cats to get agreement on this, because publishing is slow to adopt new technologies, especially new technologies developed by industry outsiders.”
+
+Even if diverse publishers with highly variable needs and resources were to coalesce around some theoretical form of authentication, hurdles remain. Friedman alludes to the logistical problems of integrating this benchmark into existing production models, not to mention the lingering problem of “faked or manipulated” certification. “If any of this costs extra money or extra time, forget it,” she concludes. And while authors may be willing to pay for peace of mind, Friedman says, they won’t be able to trust that agents and publishers will accept proof of authorship from any given app.
+
+In the absence of a clear solution, writers are left to fend for themselves. Bartz says that she’s alarmed by how zealous readers are responding to the prospect of being deceived by AI. “I have heard of people getting review-bombed on Goodreads because some stranger felt that the book sounded like AI to them, and everyone else piled on,” she says. “I've seen readers saying, ‘I'm not gonna read anything published after 2022, because then I can be sure that it doesn't have generative AI in it.’ That's a great way to tank an entire industry all at once.”
+
+It so happens that Bartz’s forthcoming 2027 book, Delete Your Account, tackles generative artificial intelligence head-on. Her protagonist is a blocked writer who opts for an unfortunate shortcut, prompting an AI chatbot to imitate her favorite thriller—only to find herself trapped in that original story, facing certain death.
+
+Bartz wonders if the very choice to satirize AI has put her in a precarious spot. “I've written portions that are very much meant to sound like LLMs,” she says. “Transcripts I made up, and annoying, AI-sounding marketing materials from this made-up AI company. And I don't know—if any of that comes back as AI-written, what will I do?”
 
 In your inbox: For life-tested picks, sign up for our Gear newsletters
 
@@ -347,32 +335,6 @@ Airbnb hosts are furious they can no longer make guests do their chores
 big story: cool kids write in all lowercase—does that make you mad?
 
 WIRED event: The technologies, people, and ideas transforming our world
-
-© 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
-
-----------------------------------------
-
-[3] ROCCO’S BLACK FRIDAY SALE: SMART FRIDGES HIT THEIR LOWEST PRICES OF 2026
-
-If you've been coveting one of Rocco’s smart designer minifridges, you might be interested to know the brand's biggest sale of 2026 starts today, featuring the brand-new Rocco Essential for under $1,000 and the OG Classic in this year’s new Beige colorway, as well as white and two rare blue colors, for $1,495—as low as the Classic ever gets.
-
-Today also marks the rerelease of the Classic's Icy Blue and Royal Blue, two rarely seen colors that Rocco says are not coming back after this year.
-
-The Essential was just released in August and just began shipping in September; I'm currently testing it now. It's only been about a week and a half, but early impressions are positive. It has the same smart sight system as the Classic, but the biggest difference is obviously the look. Vintage-inspired fluted glass and rounded edges are out; sleek minimalism is in. The tinted dark glass door takes up the entire front, with a color-matched metal handle you can swap out for midcentury-inspired oak for an extra $95.
-
-It's only got one temperature zone as opposed to the Classic's two, but my favorite part so far has been the interior—instead of the Classic's old-fashioned wire racks, the Essential sports smooth-glide drawers lined with a rubbery material and grip strips. This makes it much more accommodating to oddly shaped drinks and prevents cans (it can hold up to 77) from rolling around every time you open your Rocco. It also gets colder than the Classic model—down to 34 degrees Fahrenheit instead of 37. My main frustration so far is that the sight system has been a little spotty and slow to recognize when drinks have been removed, but I'm having that problem with the Classic as well, so it's not specific to this model. All colors (Cream, Sage, Graphite) of the Essential are currently discounted.
-
-The handsome, vintage-inspired model is the one that started it all. Its thick steel body comes in a range of fun colors, the fluted glass refracts potentially drink-damaging light, and it comes with a color-matched metal tray so it can double as a bar cart. It's got two isolated temperature zones for red and white wine (or extra-crispy Cokes), plus five full-sized racks and one half-rack—enough for 88 cans or 27 bottles of wine. The wire racks don't pull out as smoothly as the Essential's rubber-lined drawers, but this is otherwise a top-of-the-line beverage cooler with an impressive 10-year warranty.
-
-You can also control the interior lights from your phone. The sight system, however, is buggy—my Classic is currently displaying a rack of Dr. Pepper and Stella Artois bottles I had left over from a party in July (they were consumed not long after that), so I would not recommend buying one of these for the sight system alone. (Note this sale is on the Beige, White, Royal Blue, and Icy Blue Classic only.)
-
-I’m partial to the Classic’s forest green, but even I've got to admit the blue hues look pretty good. They sold out almost immediately around this time last year, so if you've been wanting one and you see this, I wouldn't wait to add it to your cart.
-
-Power up with unlimited access to WIRED. Get best-in-class reporting and exclusive subscriber content that's too important to ignore. Subscribe Today.
-
-Take Up to 25% Off Custom Prints with VistaPrint Promo Code
-
-Take 10% Off Legal Services with This LegalZoom Promo Code
 
 © 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
 
