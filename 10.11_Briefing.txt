@@ -1,0 +1,363 @@
+=== DAILY BRIEFING - 10.11.2026 ===
+Quellen: Tagesschau, Sportschau & Wired Tech
+
+
+>>> TAGESSCHAU TOP-NEWS <<<
+
+[1] MASCHINENBAU WILL MIT KÜNSTLICHER INTELLIGENZ AUS DER KRISE
+
+Der deutsche Maschinenbau steckt in seinem vierten Krisenjahr. Die Branche leidet unter hohen Energiekosten und zu viel Bürokratie. Beim Maschinenbaugipfel gibt es aber auch Hoffnungssignale - etwa die Künstliche Intelligenz.
+
+"Bei uns würde es ohne Künstliche Intelligenz wohl auch noch gehen. Aber für die Zukunft ist Digitalisierung entscheidend. Ohne wird es nicht mehr gehen." Das sagt Herbert Zahnen. Er ist Geschäftsführer des Maschinenbauers "Zahnen-Technik", der Anlagen zur Wasseraufbereitung herstellt.
+
+Der 57-Jährige ist im Werk gerade bei einigen Azubis im sogenannten "Innovation-Lab". Die jungen Leute sitzen hier vor Bildschirmen und tüfteln an Programmiercodes. Früher haben die Azubis an riesigen Anlagen geschraubt. Das machen sie in ihrer Ausbildung auch heute noch. Heute kommt dazu aber auch die Fertigkeit, betriebseigene KI programmieren zu können.
+
+Der Maschinenbauerverband VDMA drängt die Europäische Union im Zollstreit mit den USA zu Nachverhandlungen.
+
+Zahnen ist seit 35 Jahren Geschäftsführer des Unternehmens in der Eifel. Der mittelständische Betrieb beliefert etwa Wasserwerke oder Kläranlagen. Neben Maschinen entwickelt die Firma auch passende digitale Produkte zur Abwasserreinigung. "Stadtwerke haben zum Beispiel immer wieder das Problem, dass Feuchttücher Abwasserpumpen im Kanalnetz verstopfen", erklärt Zahnen. "Unsere KI erkennt potenzielle Verstopfungen schon zwei Wochen vorher. So kann die Pumpe vorab gespült und gesäubert werden - mit deutlich weniger Aufwand."
+
+Künstliche Intelligenz ist seit mehr als fünf Jahren Thema im Betrieb. Das sei zunächst eine Herausforderung für die Belegschaft gewesen, erinnert sich Zahnen. "Anfangs haben wir auch nur ein bisschen herumexperimentiert." Inzwischen sei KI fester Bestandteil in dem Unternehmen.
+
+Auch die Ausbildungs- und Fachkräftestrategie wurde daran ausgerichtet. Die Firma schult das eigene Personal, auch um am Standort in der Eifel wettbewerbsfähig zu bleiben. In der grenznahen Region locken vor allem in Luxemburg einige Unternehmen mit guten Gehältern. "Wir versuchen alles zu digitalisieren und zu automatisieren, was möglich ist. Ein Jobkiller ist das nicht. Im Gegenteil: KI macht die Arbeit der Fachkräfte, die sowieso nicht mehr zu finden sind", sagt Zahnen.
+
+Das führe dann sogar zu neuen Arbeitsplätzen. "Ein Beispiel: Für einen Schaltschrank brauchten wir bislang einen Elektriker. Mit KI können jetzt auch Seiteneinsteiger solche Anlagen verdrahten. Es wird neue Chancen für Quereinsteiger ohne spezielle Ausbildung geben."
+
+Deutschland will beim KI-Boom mitwirken - die Bundesregierung hat offenbar einen Deal mit Chiphersteller Nvidia eingefädelt.
+
+Der Maschinenbau ist weiter in einer strukturellen Krise - auch wenn es etwas Hoffnung auf Besserung gibt. Die Branche muss laut Branchenverband VDMA das vierte Rückgangsjahr in Folge verkraften: Die Produktion in Deutschland schrumpft in diesem Jahr voraussichtlich um rund zwei Prozent. Die Ursachen sind unter anderem hohe Kosten für Energie, Rohstoffe und Personal. Dazu kommen die Schwäche der Automobilindustrie als Hauptabnehmer sowie globale politische Unsicherheiten.
+
+Aber der Verband Deutscher Maschinen- und Anlagenbauer (VDMA) hat im Spätsommer einen überraschend deutlichen Auftragsanstieg von 14 Prozent im Vergleich zum Vorjahr gemeldet. Neben dem Exportgeschäft sorgt auch der Ausbau von KI-Rechenzentren und der damit verbundenen Energie-, Kühl- und Automatisierungstechnik für ein deutliches Plus. Auch die Verteidigungsindustrie sorgt für mehr Aufträge. Die Kapazitätsauslastung der Anlagen und Werke hat sich deshalb stabilisiert und kletterte zuletzt auf 85 Prozent - immer noch ein niedriger Wert, aber immerhin der beste seit zwei Jahren.
+
+In der schwarz-roten Koalition wird über eine Steuer auf Umsätze diskutiert, die durch KI erwirtschaftet wurden.
+
+KI gilt in der Branche inzwischen als wichtige Zukunftstechnologie - vor allem, um Personal zu halten und Kosten zu senken. Nach VDMA-Daten nutzen 31 Prozent der Maschinenbauer bereits KI, weitere 37 Prozent führen Pilotprojekte durch. Im Mittelstand liegt die KI-Quote noch niedriger als bei Großkonzernen, wächst aber deutlich.
+
+Im globalen Wettbewerb liegen deutsche Unternehmen aber insgesamt zurück. So investieren US-Industriefirmen 2026 durchschnittlich 2,9 Prozent ihres Umsatzes in Künstliche Intelligenz - deutsche Industrieunternehmen lediglich 0,6 Prozent. Zu diesen Ergebnissen kommt die Managementberatung Horváth.
+
+Laut Branchenverband Bitkom haben sie aber gute Chancen für eine Aufholjagd: Gerade deutsche "Hidden Champions" besitzen jahrzehntelanges, hochkomplexes Spezialwissen, das reine Software-Konzerne nicht einfach kopieren können.
+
+Damit verfügen sie über exklusives Wissen über reale Maschinendaten. Die Hersteller haben also direkten Zugriff auf hochspezifische Betriebs- und Sensordaten - die Basis für industrielle KI. Aus den Maschinenbewegungen können die Daten direkt in Software übersetzt werden. Zudem gibt es in Deutschland traditionell eine enge Verzahnung mit Forschungsunternehmen und Universitäten.
+
+Junge Menschen haben zunehmend Probleme, Einstiegsjobs zu finden. Ein Grund: Künstliche Intelligenz.
+
+"Der Wettbewerb wird härter. Das bekommen auch wir zu spüren", bilanziert Herbert Zahnen das bisherige Geschäftsjahr. Da die Geschäftskunden von Zahnen-Technik vor allem öffentliche Auftraggeber seien, blieben die Zahlen bislang gut. "In diesem Bereich gibt es keine Einbrüche. Das ist in Teilen der Industrie leider ganz anders", so der Geschäftsführer.
+
+Allerdings leidet auch der Betrieb an den bekannten Standortnachteilen in Deutschland - vor allem unter der zunehmenden Bürokratie. Die Vorschriften würden immer mehr und immer detaillierter, so Zahnen. "Die Auflagen für den Bau von Anlagen werden immer komplexer. Das verzögert und blockiert Investitionen und kommt am Ende bei uns an." Er beobachte, dass das auch immer mehr Behörden in Kommunen vor Probleme stelle. Auch dort fehle zunehmend das Personal, um die Verfahren schnell zu prüfen.
+
+Beim Blick auf die nahe Zukunft ist Zahnen optimistisch - auch wegen der künstlichen Intelligenz. Vor allem der Preisdruck internationaler Wettbewerber auf die deutsche Konkurrenz werde zunehmen. "Ich kann sagen, dass wir weltweit in der Wasserwirtschaft an der Spitze dabei sind", so der Geschäftsführer. "Die Konkurrenz schläft nicht. KI wird die Produktivität erhöhen und damit die Preise im internationalen Wettbewerb drücken. Hier können wir mithalten - dank unserer eigenen KI."
+
+Dieses Thema im Programm: tagesschau24 | Nachrichten | 10.11.2026 | 11:00 UhrWDR 5 Morgenecho | Interview | 10.11.2026 | 05:00 Uhr Das Erste | tagesschau | 10.11.2026 | 10:40 Uhr
+
+----------------------------------------
+
+[2] VIELE DEUTSCHE UNTERNEHMEN BAUEN DIE KI-INFRASTRUKTUR MIT AUF
+
+US-Tech-Giganten investieren Milliarden in Künstliche Intelligenz. Anleger werden vorsichtiger mit Blick auf die Kosten. Warum deutsche und europäische Unternehmen davon profitieren könnten.
+
+Künstliche Intelligenz (KI) ist seit einiger Zeit der Kurstreiber an der Börse - mit dazugehörenden Aufs und Abs. Die Stimmung an den Finanzmärkten wird derzeit mit dem großen Goldrausch im Wilden Westen verglichen: Alles scheint möglich. Doch während damals nur wenige Goldgräber reich wurden, waren es vor allem die Schaufelhersteller, die sich eine goldene Nase verdienten.
+
+Ähnlich sei das mit Blick auf KI, sagt Christian Röhl von Scalable Capital. Viele der heutigen Schaufelhersteller seien europäische Unternehmen. "Ohne beispielsweise ASML aus den Niederlanden oder die deutschen - leider nicht börsennotierten Firmen - Carl Zeiss und Trumpf könnte TSCM in Taiwan keine Mikrochips für Nvidia produzieren. Europa ist sozusagen das Rückgrat des Datacenter-Booms", so der Marktkenner im Gespräch mit der ARD-Finanzredaktion.
+
+Techwerte unter Druck: Zahlt sich der KI-Boom aus - und ist Anthropics Billionenbewertung gerechtfertigt?
+
+Allen voran sind es die großen US-Tech-Konzerne, die sagenhafte Summen in den Ausbau von KI investieren. Das Flossbach von Storch Research Institute sieht eine Abschreibungswelle auf die Unternehmen zurollen.
+
+Die billionenschweren KI-Investitionen seien längst keine bloße Ankündigung mehr, sondern veränderten die Bilanzen der sogenannten Hyperscaler Alphabet, Amazon, Meta, Microsoft und Oracle rasant, schreibt Analyst Christof Schürmann. "Atemberaubend hoch sind die Zusagen der fünf Tech-Konzerne für Infrastruktur, die sich zukünftig in den Bilanzen niederschlagen werden."
+
+Hyperscaler heißen sie deshalb, weil sie weit über das übliche Maß hinaus investieren, mit dem Ziel, künftig Erträge aus ihren Geschäften mit KI-Angeboten zu skalieren. Nach Ansicht des Flossbach von Storch Research Institutes passiere dies in einem Tempo, das vor wenigen Jahren kaum vorstellbar war.
+
+"Aus einst vergleichsweise kapitalarmen Plattform- und Softwarekonzernen bilden sich nun kapitalintensive Betreiber von Infrastrukturen, die hohe Fixkosten verursachen." Die Hyperscaler seien deshalb "die neue Schwerindustrie".
+
+Deutschland will beim KI-Boom mitwirken - die Bundesregierung hat offenbar einen Deal mit Chiphersteller Nvidia eingefädelt.
+
+Während Anlegerinnen und Anleger zunehmend skeptisch auf die Milliarden-Investitionen der Tech-Giganten schauen, verdienen viele Unternehmen schon jetzt am Ausbau der KI-Infrastruktur: sei es als Zulieferer für Rechenzentren, Stromnetzbetreiber oder Chipausrüster.
+
+Darunter gebe es zahlreiche deutsche und europäische Konzerne, so Experte Röhl von Scalable Capital. "Beispielsweise Baukonzern Hochtief, sehr aktiv in den USA, Siemens Energy mit allen Stromnetz- und Energielösungen, aber auch Siemens selbst, die mit der digitalen Fabrik den Link zwischen Software und KI auf der einen Seite und der physischen Welt auf der anderen Seite legen."
+
+Ob Samsung, Apple oder Nvidia - alle großen Halbleiterhersteller sind Kunden beim Maschinenbauer ASML.
+
+Auch ein Blick in den MDAX lohne sich, wenn man nach deutschen Profiteuren des KI-Booms Ausschau hält, meint Anlagestratege Stephan Kemper von der BNP Paribas gegenüber der ARD-Finanzredaktion. "Im MDAX finden wir viele Spezialhersteller, die Teile oder Maschinen produzieren, die zur Herstellung von Halbleitern benötigt werden. Aixtron ist da ein Beispiel, die stellen Anlagen her, um Verbindungshalbleiter zu produzieren und sind damit ein struktureller Profiteur."
+
+Kemper geht sogar noch einen Schritt weiter: Ohne europäische Firmen und Anlagen, mit denen man die Halbleiter überhaupt erst bauen kann, würde weltweit nicht ein KI-Server laufen. Neben dem großen Chip-Anlagenbauer aus den Niederlanden, ASML, lieferten deutsche Unternehmen wie Jenoptik wichtige Komponenten. Dazu zähle auch der DAX-Konzern Infineon, der mit seinen Chips ursprünglich aus dem Automobilbereich kommt.
+
+"Infineon ist mittlerweile sehr wichtig, weil deren Chips erfolgreich eingesetzt werden im Bereich Energie-Management. Das wird bei Datencentern immer wichtiger. Denn die Chips von Nvidia und Co. brauchen sehr viel Energie," so Anlagestratege Kemper.
+
+Den KI-Boom treiben einige wenige US-Konzerne voran, aber auch in Deutschland gibt es Profiteure.
+
+Die Bedeutung belegen auch die jüngsten Quartalszahlen des Münchner Chipherstellers. Infineon hat im abgelaufenen Geschäftsjahr deutlich mehr verdient: Ein Gewinn von 1,51 Milliarden Euro nach Steuern bedeutet ein Plus von 49 Prozent im Vergleich zum Vorjahr.
+
+Vor allem Datencenter haben Infineons Geschäfte beflügelt - und sollen das weiter tun. Der Konzern mit Sitz in Neubiberg nahe München liefert hier Leistungshalbleiter für die Stromversorgung.
+
+Die Erwartungen an die künftigen Gewinne seien enorm, schreibt Analyst Pascal Kielkopf vom Vermögensverwalter HQ Trust. Gleichzeitig wachse die Unsicherheit darüber, wann und in welchem Umfang sich die Milliardeninvestitionen in der Branche tatsächlich auszahlen werden.
+
+"Schließlich investieren die großen US-Technologiekonzerne derzeit so viel Geld wie nie zuvor in den Ausbau der Künstlichen Intelligenz. Allein Alphabet, Amazon, Meta und Microsoft dürften in diesem Jahr rund 740 Milliarden US-Dollar für Hochleistungschips, Rechenzentren und andere Infrastruktur ausgeben", so Branchenkenner Kielkopf.
+
+Der jüngste Ausverkauf an der Nasdaq nach dem Sieg der Demokraten bei den US-Zwischenwahlen zeigt, wie sensibel die Märkte inzwischen auf Nachrichten rund um den KI-Investitionsboom reagieren. Auch das ist aus Sicht von Marktkenner Robert Halver von der Baader Bank ein Argument für eine stärkere Gewichtung von deutschen und europäischen Aktien.
+
+"Das könnte ein Argument für den DAX sein, dass die großen Kapitalsammelstellen sagen, KI ist eine attraktive Langfristbranche, aber im Augenblick wollen wir den Fokus auf die Werte setzen aus dem Konjunkturbereich, auf Maschinenbau, Zulieferer, die von KI profitieren. Also haben wir eine gewisse Sektor-Rotation weg von der New Economy hin zu der Old Economy."
+
+Ein weltweiter Abverkauf von Chip- und Techaktien schickt wichtige Aktienindizes auf Talfahrt.
+
+Viele Analysten glauben nach wie vor daran, dass sich die gigantischen Investitionen in den Ausbau von Künstlicher Intelligenz mittelfristig auszahlen werden. "Die Erwartungen an das Ende des Jahrzehnts sind entsprechend hoch", schreibt Analyst Pascal Kielkopf von HQ Trust.
+
+"Die zusätzlichen Einnahmen sollen vor allem aus Cloud-Dienstleistungen, KI-Anwendungen und Softwarelizenzen kommen." Allerdings dürften die Kosten für den Ausbau der Infrastruktur weiterhin immens hoch bleiben.
+
+Dieses Thema im Programm: tagesschau.de | ARD-Börse: Wer in Deutschland vom KI-Boom profitiert | 09.11.2026 | 14:33 Uhr
+
+----------------------------------------
+
+[3] BÖRSENGANG VON ANTHROPIC - UMSTRITTENER GOLDRAUSCH IN SAN FRANCISCO
+
+Der KI-Gigant Anthropic will an die Börse. Und damit könnten Tausende Mitarbeiter und Investoren zu Millionären werden. In San Francisco, dem Konzernsitz, werden explodierende Häuserpreise befürchtet.
+
+Ursprünglich war erwartet worden, dass der KI-Konzern Anthropic in dieser Woche seine Roadshow vor dem Börsengang startet, also seine Pläne potenziellen Investoren präsentiert. Bis Monatsende sollte dann der Schritt an die Börse erfolgen. Doch nach dem Abrauschen der Tech-Werte an den Börsen, nach dem Sieg der Demokraten bei den Midterms, wird spekuliert, dass sich Anthropics Zeitplan verzögern könnte.
+
+Denn potenzielle Investoren drängen bei Anthropic inzwischen auf eine deutlich niedrigere Bewertung. Statt der ursprünglich angepeilten Höchstbewertung von bis zu zwei Billionen Dollar rechnen Insider "nur" noch mit einer Bewertung um rund 1,2 Billionen Dollar. So oder so, der Goldrausch in San Francisco, wo Anthropic sitzt, wird kommen. Und er wird erhofft und gefürchtet. Denn die Preise für Häuser und Mieten könnten weiter in die Höhe getrieben werden.
+
+KI-Firmen haben Interesse an Australien, etwa um Rechenzentren zu bauen. Ein Übergriff auf ein Regierungsportal wirft Fragen auf.
+
+Anthropic ist der erste reine KI-Konzern, der mit Claude eins der weltweit renommierten großen Sprachmodelle entwickelt hat, und jetzt den Börsengang wagt. Sobald das Unternehmen an der Börse notiert ist, können Beschäftigte und Investoren ihren bislang nur auf dem Papier existierenden Reichtum in echtes Bargeld verwandeln.
+
+Schon vor der Sperrfrist für den Aktienverkauf können sie Kredite aufnehmen. Entsprechend stellt sich die San Francisco Bay Area auf einen Goldrausch ein, wenn Tausende über Nacht zu Millionären werden.
+
+Der Chefökonom der Stadt San Francisco, Ted Egan, sieht in Anthropics Schritt an die Börse einen Wendepunkt für die lokale Wirtschaft, wie ihn die Region seit dem Börsengang des Transportdienstleisters Uber 2019 nicht mehr erlebt habe. In den kommenden Monaten werde in San Francisco und der Bay Area ein enormes Vermögen geschaffen.
+
+Und obwohl die Stadt Vermögen oder Einkünfte aus Aktienverkäufen nicht direkt besteuern kann, wird sie über den Immobilienhandel auf ihre Kosten kommen, erklärt Egan. Denn bei Immobilienverkäufen fällt eine Transaktionssteuer an, die die Verkäuferin oder der Verkäufer an die Stadt entrichtet. Bei hochpreisigen Immobilien, die für mehr als zehn Millionen Dollar verkauft werden, liegt dieser Satz bei 5,5 Prozent - ​​es geht also um beträchtliche Summen.
+
+Die Chefs der größten US-amerikanischen KI-Firmen OpenAI und Anthropic warnen weiter vor ihrer eigenen Technologie.
+
+Das Immobilienunternehmen Red Fin Homes in San Francisco hat schon im September errechnet, dass die Immobilienpreise dort die derzeit höchsten in den ganzen USA sind. Laut der "San Francisco Association of Realtors" liegt der durchschnittliche Preis für ein Einfamilienhaus in San Francisco bei etwa drei Millionen Dollar - wobei sich die Nachfrage zunehmend auf das höhere Preissegment konzentriert, schildert Verbandsvertreter Jay Cheng im Sender ABC. Im Vergleich zwischen dem ersten Quartal 2025 und 2026 sei die Zahl der Verkäufe von Häusern im Wert von über fünf Millionen Dollar um 69 Prozent gestiegen.
+
+Immobilienmakler wie Austin Klar beobachten steigendes Kaufinteresse bei gleichzeitig knappem Angebot. Die Situation sei so extrem wie seit vielen Jahren nicht mehr. Viele Verkäufer würden sich derzeit zurückhalten, weil sie nach dem Anthropic-Börsengang mit einer regelrechten Explosion der Preise rechnen und ihre Immobilien noch nicht auf den Markt bringen. Es gebe weniger Verkäuferinnen und Verkäufer, aber immer mehr Kaufinteressenten.
+
+Das Vorgehen der US-Regierung bei Anthropic hat weltweit Verunsicherung ausgelöst - was sind die Folgen?
+
+Bei dieser Preisspirale bleiben Menschen mit normalem Einkommen, die nicht in der lukrativen Tech-Branche arbeiten, natürlich auf der Strecke. Wegen des hohen Preisgefüges ist Bauen in San Francisco vergleichsweise teuer. Laut städtischen Vorgaben müssten bis zum Jahr 2031 rund 82.000 neue Wohnungen entstehen, doch die Stadt hinkt im Zeitplan hinterher.
+
+Auch Sam Moss, Geschäftsführer der gemeinnützigen Wohnungsbaugesellschaft Mission Housing Development Corporation befürchtet, dass sich die Situation für Einwohnende mit Durchschnittsgehältern weiter verschärfen könnte. Es sei ohnehin schon traurig, dass die meisten Menschen sich gar kein Wohneigentum mehr leisten könnten.
+
+Die Genehmigungsverfahren in San Francisco gelten als die langsamsten im ganzen Land. Das lokale System erlaubt es Anwohnern, Bauprojekte über Einsprüche und öffentliche Debatten jahrelang zu blockieren oder erheblich zu verkleinern, meist aus Sorge um den Charakter des Viertels.
+
+Insofern sieht Sam Moss die politischen Entscheidungsträger auf kommunaler, Landes- und Bundeebene in der Pflicht: Es sei wohl einfacher, Softwareentwickler zu verteufeln, als Gesetze kritisch zu hinterfragen, die den Bau bezahlbarer Wohnungen in San Francisco über Generationen hinweg erschwert hätten.
+
+Dieses Thema im Programm: tagesschau.de | Vor Anthropics geplantem Börsengang – Goldrausch in San Francisco | 09.11.2026 | 00:43 Uhr
+
+----------------------------------------
+
+
+>>> SPORT (SPORTSCHAU) <<<
+
+[1] NÄHE ZU EVANGELIKALEN NETZWERKEN? NMECHA WEIST KRITIK ZURÜCK
+
+Felix Nmecha hat seinen Torjubel verteidigt und erklärt, in seinem Glauben niemanden ausgrenzen zu wollen.
+
+"Mit meinem Jubel möchte ich weder mich selbst noch irgendeine Organisation in den Vordergrund stellen. Vielmehr geht es darum, meine 'Krone' vor dem bald kommenden König niederzulegen und auf Jesus hinzuweisen, meine Hoffnung und meine Stärke", schrieb Nmecha in einer Instagram-Story. "Meine Botschaft war niemals darauf ausgerichtet, Intoleranz, Diskriminierung oder Hass in irgendeiner Form zu fördern."
+
+Nmecha zeigte zum wiederholten Male einen Jubel, bei dem er sich eine imaginäre Krone abnimmt und diese auf den Knien vor sich auf den Rasen legt. Die Geste ist der Kampagne "The King's Return" zuzuordnen, die dem evangelikalen Netzwerk "Ballers in God" nahesteht.
+
+"Ballers in God" ist ein 2015 gegründetes Netzwerk christlicher Fußballer, das viele solcher Aktionen in den sozialen Medien aufnimmt und verbreitet. Die Organisation gilt als christlich-fundamentalistisch, homophob und queerfeindlich.
+
+Am Sonntag hatte die Fan- und Förderabteilung von Borussia Dortmund Nmecha und das Netzwerk "Ballers in God" kritisiert, da der Profi die Geste nach seinen Toren beim 2:1-Sieg gegen die SV Elversberg erneut gezeigt hatte. Gegenstand der Kritik war ausdrücklich nicht Nmechas christlicher Glaube. "Unsere Kritik richtet sich gegen religiöse Netzwerke, die unter dem Deckmantel des Glaubens ein Weltbild verbreiten, in dem Menschen aufgrund ihrer sexuellen Orientierung, ihrer geschlechtlichen Identität, ihrer Lebensweise oder ihrer persönlichen Entscheidungen abgewertet oder ausgegrenzt werden", teilte die Fanabteilung mit.
+
+Die Kampagnen-Webseite verlinkte auf ein Chat-Angebot der US-Organisation Groundwire. In einem Chat mit MONITOR-Reportern wurde Abtreibung als "Satans Plan" bezeichnet. In einem Muster-Chat für die Beratung wurde die Frage bejaht, ob es eine Sünde sei, lesbisch zu sein.
+
+Die Fanabteilung betonte, man dürfe es nicht als "bloße private Religionsausübung" abtun, wenn die Reichweite eines Profis "gezielt für Missionierung" eingesetzt werde. "Wo religiöse Überzeugungen dazu benutzt werden, Menschen ihre Würde oder Gleichwertigkeit abzusprechen, endet für uns die Toleranz gegenüber Intoleranz", hieß es.
+
+Borussia Dortmund kündigte als Reaktion auf die Stellungnahme der Fanabteilung ein Gespräch mit Nmecha an. Bundestrainer Jürgen Klopp sprach nach Informationen der Deutschen Presse-Agentur im Teamquartier der Nationalmannschaft in Herzogenaurach bereits mit dem 26-Jährigen. Inhalte oder Details über die Unterredung sind bislang nicht bekannt.
+
+Der 26-Jährige betonte in seiner Mitteilung: "Als Christen ist unsere Botschaft eine Botschaft der Liebe und des Respekts gegenüber jedem Menschen, unabhängig davon, woher er kommt, woran er glaubt oder welche Weltanschauung er vertritt."
+
+Schon in der Vergangenheit wurde Nmecha für evangelikale Inhalte in sozialen Netzwerken kritisiert, die als homophob oder queerfeindlich bewertet wurden. Diese Vorwürfe hatte er bereits zuvor zurückgewiesen. Auch bei der WM im Sommer 2026 hatte Nmecha den Jubel beim 7:1-Sieg der DFB-Elf gegen Curaçao gezeigt und damit eine Debatte ausgelöst. Nach dem Spiel in Houston betete er mit mehreren Spielern beider Teams auf dem Platz.
+
+Dieses Thema im Programm: sportschau.de | Nmecha äußert sich ohne klare Abgrenzung | 10.11.2026 | 8.07 Uhr
+
+----------------------------------------
+
+[2] DFB SUCHT GESPRÄCH MIT NMECHA
+
+Nicht nur Borussia Dortmund, sondern auch der DFB will nach der scharfen Kritik aus der BVB Fan- und Förderabteilung klären, wie weit Fußball-Nationalspieler Felix Nmecha in seinem religiösen Werben gehen darf.
+
+Der "Home Ground" in Herzogenaurach verbindet Behaglichkeit mit Abgeschiedenheit. Niemand stört die deutsche Nationalmannschaft in diesem Camp wirklich. Mittendrin auch wieder Felix Nmecha, der vielleicht ganz froh sein könnte, bei der DFB-Auswahl der Aufregung um seine Person bei Borussia Dortmund für die nächsten Tage zu entfliehen.
+
+Die BVB Fan- und Förderabteilung hatte nach dem Bundesligaspiel gegen die SV Elversberg (2:1) mit einer langen Stellungnahme erneut kritisiert, dass der Matchwinner eine enge Verbindung zum evangelikalen Netzwerk "Ballers in God" pflegt. Beide Treffer bejubelte der 26-Jährige vor der Südtribüne mit der Kronen-Geste. Das Symbol der aktuellen Kampagne "The King’s Return".
+
+Nmecha unterstützt die umstrittene "King's Return Kampagne".
+                                                tagesschau
+
+DFB-Sportdirektor Rudi Völler hat am Montag (09.11.2016) nun ein Gespräch mit dem in die Kritik geratenen Nmecha angekündigt, gleichwohl aber auch Verständnis für den streng gläubigen Nationalspieler geäußert. "Wir werden es ähnlich machen wie die Dortmunder, mit denen wir auch im Austausch sind", sagte Völler im Podcast "Kerners 11:" "Wir wollen das nicht so hochhängen. Wir werden sicherlich mit ihm darüber reden." Auch die BVB-Geschäftsführung will das Gespräch suchen, hieß es.
+
+"Das Wichtigste bei so einem Thema ist eben auch, dieses genau zu verstehen. Der Ablauf von vielen Dingen hier muss gewährleistet sein", sagte Völler: "Bisher kann ich nur positive Dinge über Felix Nmecha sagen. (...) Er ist total beliebt bei seinen Mitspielern. Ich kann die Diskussion verstehen, dass das nicht jedem gefällt."
+
+Der Fall ist delikat. "Dieses Netzwerk steht für ein Weltbild, das mit den oben genannten Werten des BVB nicht vereinbar ist. Einem 26 Jahre alten Fußball-Nationalspieler ist zuzutrauen, dass er um seine Vorbildfunktion weiß und sich dessen bewusst ist, was er macht und für wen er da wirbt", kommentierte der Sport-Informations-Dienst.
+
+Und das führt unweigerlich zu einem Dilemma, in dem nun BVB und DFB stecken, die auf Nmecha bauen. Jürgen Klopp hält viel von dem Dortmunder Dampfmacher, der bei der WM 2026 im ersten Vorrundenspiel gegen Außenseiter Curaçao in Houston (7:1) den Torreigen eröffnete. Damals hatte er es nach Außenbandverletzung gerade in den Kader geschafft, galt auf einmal als Hoffnungsträger, ehe er beim Ausscheiden gegen Paraguay (3:4 i. E.) saft- und kraftlos wirkte.
+
+Mittlerweile geht Nmecha wieder als spielintelligenter Antreiber für die Schwarz-Gelben voran, der Energie und Esprit kombiniert. Bundestrainer Jürgen Klopp hob im Nominierungsvideo hervor, was der einstige Wolfsburger alles beherrscht. "Felix Nmecha ist einfach jemand, der unglaublich viel Fantasie hat. Er ist eine Maschine. Er ist physisch unglaublich stark und fußballerisch wahnsinnig talentiert.“ Er sehe bei dem gebürtigen Hamburger noch erhebliches Entwicklungspotenzial: "Es ist schon spannend. Es gibt so ein paar Dinge, wo man sich wirklich Gedanken machen kann: Wo kann das noch hinführen?"
+
+Bei so viel Lob ist gar nicht sicher, dass der Bundestrainer für die Nations-League-Partien gegen Serbien in Belgrad (Freitag 20.45 Uhr/RTL) und gegen die Niederlande in Berlin (Montag 20.45 Uhr/ARD) fest mit einem Münchner Mittelfeldgespann plant, das aus Kapitän Joshua Kimmich und Aleksandar Pavlovic oder Tom Bischof besteht. Auch Nmecha hat reelle Einsatzchancen; vielleicht bekommt er aufgrund seiner Torgefahr beim Geisterspiel in Belgrad den Vorzug vor Pavlovic und Bischof.
+
+Bundestrainer Jürgen Klopp hat seinen Kader für die Länderspiele im November bekannt gegeben. Dabei sind auch Teenager Wael Mohya und Rückkehrer Niclas Füllkrug.
+
+Ähnlich wie Klopp hörte sich auch Vereinstrainer Niko Kovac an, wenn es um seinen fußballerischen Einfluss geht. "Mit seiner Präsenz, seiner Technik und seiner Dynamik kann er viele Situationen schnell lösen, kann mit seinen Körperdrehungen beschleunigen. Das macht seine Mitspieler um ihn herum sehr viel besser", erklärte der BVB-Coach. Doch sobald der Spieler seine Tore nutzt, um religiöse Werbung zu betreiben, wandelt er auf einem schmalen Grat.
+
+"Unsere Kritik richtet sich gegen religiöse Netzwerke, die unter dem Deckmantel des Glaubens ein Weltbild verbreiten, in dem Menschen aufgrund ihrer sexuellen Orientierung, ihrer geschlechtlichen Identität, ihrer Lebensweise oder ihrer persönlichen Entscheidungen abgewertet oder ausgegrenzt werden", kritisierte die Fan- und Förderabteilung in ihrer Stellungnahme. Besonders problematisch sei dabei die enorme Reichweite, die professionelle Fußballspieler besitzen.
+
+Dass der Verband mit Nmecha hart ins Gericht geht, ist nicht zu erwarten. Dafür spricht ein Interview von DFB-Präsident Bernd Neuendorf bei "RTL" nach dem WM-Auftaktspiel im Sommer, als er Nmecha in Schutz nahm. "Er hat das zurechtgerückt, auch sich klar positioniert und distanziert von solchen Vorwürfen der Homophobie", sagte der Verbandsboss damals im Quartier in Winston-Salem.
+
+"Das ist vielleicht in einer säkularisierten Welt für einige Menschen auch etwas ungewöhnlich, dass man das tut", sagte Neuendorf zu der Sequenz, dass auf Initiative Nmechas mehrere Spieler einen Gebetskreis auf dem Platz gebildet hatten. "Die Intention, die er damit verfolgt, ist ja positiv, nämlich dass man über das Fußballspielen hinaus für ganz bestimmte Dinge steht, für Menschlichkeit und für Respekt. Er ist wirklich, glaube ich, ein sehr sensibler Mensch und steht für diese christlichen Werte."
+
+Nmecha hatte sich damals gegen die Vorwürfe gewehrt und betont, dass er weder homophob noch transphob sei.
+
+Dieses Thema im Programm: sportschau.de | DFB kündigt Gespräch mit Felix Nmecha an | 09.11.2026 | 16.41 Uhr
+
+----------------------------------------
+
+[3] NATIONS LEAGUE MIT TUCHEL UND CO.: DIESE TOPSPIELE STEHEN JETZT AN
+
+In der Nations League stehen neben den Partien des DFB-Teams gegen Serbien (Freitag, 13.11.) und Niederlande (Montag, 16.11.) einige weitere echte Topspiele an.
+
+Los geht es in der A-Liga schon am Donnerstag (12.11.), wenn erst die Türkei auf Belgien (18 Uhr) und dann Italien auf Frankreich trifft (20.45 Uhr). In dieser Gruppe A sind natürlich alle Konstellationen irgendwie echte Topspiele, aber vor allem auf den Auftritt der Türken dürften viele Fans gespannt sein.
+
+Es ist die erste Partie nach der Entlassung von Trainer Vincenzo Montella, der die Türken zwar nach langer Durststrecke zur WM und zuvor eben auch in die Nations-League-A-Liga geführt hatte, dort aber mit der Mannschaft nicht überzeugen konnte. Nach null Punkten aus den ersten vier Partien hatte der Verband die Reißleine gezogen und Sergen Yalcin als Nachfolger verpflichtet. Der hat in seinem ersten Kader ordentlich umgebaut - prominente "Opfer", die gegen Belgien und am Sonntag gegen Frankreich nicht dabei sein werden, sind unter anderem Kerem Aktürkoglu, Mert Müldür und Irfan Can Kahveci von Fenerbahce sowie Torwart Altay Bayindir.
+
+Der türkische Fußballverband hat Sergen Yalcin als Nachfolger des entlassenen Ex-Nationaltrainers Vincenzo Montella vorgestellt.
+
+Die beste Mannschaft der bisherigen Nations-League-Saison ist die Schweiz. Zumindest in Sachen Punkten und Tordifferenz. 12 Punkte aus vier Spielen, 11:1 Tore - die Auswahl von Murat Yakin knüpft nahtlos an die starke Performance bei der Weltmeisterschaft an, in der erst in der Verlängerung des Viertelfinales gegen Argentinien Schluss war.
+
+Die Schweizer Fußball-Nationalmannschaft plant nach der Corona-Affäre um Kapitän Granit Xhaka und Stürmerstar Breel Embolo wieder mit dem Duo. Das bestätigte der Schweizer Verband SFV am Dienstag.
+
+Besonders beeindruckend: Diese vier überzeugenden Siege gegen Schottland, Normazedonien (2x) und Slowenien gelangen alle ohne die Topstars Granit Xhaka und Breel Embolo. Nach Bekanntwerden von Fehlverhalten der beiden im Rahmen der Corona-Pandemie in den Jahren 2021 und 22 hatte Yakin auf seine Routiniers verpflichtet. Jetzt sind beide wieder im Kader, doch gerade im Sturm muss sich Embolo erst einmal an Mohamed Zeki Amdouni vorbeispielen, der Stürmer vom FC Burnley erzielte in Embolos Abwesenheit drei Tore und legte ein weiteres auf. Gegen Slowenien reicht den Eidgenossen am Freitag (13.11., 20.45 Uhr) bereits ein Punkt, um den Aufstieg zurück in die A-Liga zu sichern.
+
+Cristiano Ronaldo ist nach seinem Rücktritt in Portugals Nationalteam "nur" noch ein Geist der Vergangenheit. Zwar der wohl größtmögliche überhaupt, aber sportlich blickt man auf der iberischen Halbinsel nun nach vorn. Gesucht werden aber nicht unbedingt die neuen sportlichen Leistungsträger, denn "CR7" war schon in den vergangenen Jahren nicht mehr der sportlich beste Spieler in Portugals Kader. Vitinha, Joao Neves, Nuno Mendes - allein das Trio von Doppel-Champions-League-Sieger Paris Saint-Germain hat schon länger einen legitimen Anspruch auf diesen inoffiziellen Posten. Talent ist genug da, es braucht "nur" einen neuen Anführer und einen neuen treffsicheren Stürmer. Denn bei allen berechtigten Kritik-Ansätzen: In seinen letzten 16 Länderspielen gelangen Ronaldo trotzdem noch stolze elf Treffer.
+
+Cristiano Ronaldos Länderspielkarriere ist vorbei und sucht ihresgleichen. Sie hinterlässt unfassbare Zahlen, ikonische Bewegungen und ein unrühmliches Ende.
+
+Neuer offizieller Anführer ist Real-Madrid-Star Bernardo Silva, der das Kapitänsamt bekleiden wird. Heißester Kandidat auf den Job des Goalgetters ist Goncalo Ramos, der Mittelstürmer von der AC Milan traf in den jüngsten drei Partien, in denen Ronaldo ja schon nicht mehr eingesetzt wurde, jeweils einmal. Generell gilt aber: Portugal hat so viel Talent im Kader, dass das Team gar nicht mehr auf den einen großen Ausnahmekönner im Sturmzentrum angewiesen ist. Im Duell mit Dänemark (14.11., 20.45 Uhr) reicht den bisher makellosen Portugiesen bereits ein Punkt zum Gruppensieg - das Hinspiel war spektakulär, es endete 4:2 (2:1).
+
+In einem mitreißenden Nations-League-Spiel schlug Spanien Ende September die Engländer mit 3:2 (1:2) - nun folgt das Rückspiel. Nach der Partie hielten sich beide in ihrer Gruppe schadlos, gewannen jeweils die anderen drei Spiele und stehen auf Platz eins und zwei der Gruppe. Sollte England am Donnerstag erwartungsgemäß gegen Kroatien gewinnen - das Hinspiel gegen die Kroaten endete 7:0 - steht an diesem Sonntagabend um 20.45 Uhr also das große Finale um den Gruppensieg an.
+
+Thomas Tuchel hat erstmals beide Bellingham-Brüder in die englische A-Nationalmannschaft berufen. Auch dabei ist natürlich Harry Kane, der vor einem Rekord steht.
+
+Dass Jude Bellingham dann auf dem Rasen stehen wird, scheint so gut wie sicher - sein Bruder Jobe wird vermutlich erst einmal auf der Bank Platz nehmen. Aber allein das ist für den jungen Dortmunder, der zum ersten Mal nominiert wurde, schon eine gigantische Ehre. Und wenn es mit gemeinsamen Einsatzminuten klappt, wären die Bellinghams das erste Brüderpaar seit Gary und Phil Neville in den 90ern, das gemeinsam für England aufläuft.
+
+Dieses Thema im Programm: sportschau.de | Topspiele in der Nations League stehen an  | 09.11.2026 | 21.03 Uhr
+
+----------------------------------------
+
+
+>>> TECH (WIRED) <<<
+
+[1] HUUPE MINI 2 REVIEW: MORE GAME THAN IT CAN HANDLE
+
+If your mom was one of those who always said, “Don’t play ball in the house,” well, she’s going to absolutely hate the Huupe Mini 2.
+
+Huupe manufactures smart basketball hoops and add-on kits for existing setups that track shots, light up the board when a point is registered, and include social features like global challenges and leaderboards. The Huupe Mini 2 is the pint-sized, indoor version of that idea, clipping over the top of a door so you can shoot hoops without ever having to leave the room.
+
+I’ve been testing one out for weeks, and while it’s a fun diversion, some of its features overreach beyond its core functionality, resulting in an experience that bricks as much as it dunks.
+
+The Huupe Mini 2 is, effectively, a smart television with a basketball hoop mounted to it. Or rather, a smart TV that comes with a basketball hoop that you have to mount yourself, courtesy of four screws and a little elbow grease. The LCD screen measures 19 inches diagonally, plus a hefty border that includes stereo speakers and a camera used to track you and your b-ball prowess. (Total size of the backboard is 25 inches diagonally, which fits comfortably within a door frame.)
+
+A 5-inch inflatable rubber basketball is included, along with a small hand pump and needle. Also in the box are a small but otherwise traditional remote control—required to do anything with the Huupe—and a USB-C charger and lengthy cable so you can top up the battery without removing it from the door.
+
+After a quick charge, the unit is ready to set up. I was surprised to discover there’s no app for the device; while larger Huupe hardware works with one, the Mini 2 is completely self-contained and web-based. Just connect the backboard to your Wi-Fi network through a process that you step through with the remote, just like you would on any modern television.
+
+What’s new vs. the original Huupe Mini? According to the company, most of the upgrades are behind the scenes: a faster CPU, a larger battery (rated lifespan is now four hours), better display quality, and “significantly” better shot tracking. New games are also included, which I’ll cover in the sections to come.
+
+Once connected to the web, the Huupe Mini 2 opens up a world of entertainment to you, and, to my great surprise, not all of it is basketball-related. At first blush, the options available are actually quite daunting. It’s all arranged into traditional tiles on the home screen, which you scroll through with the remote.
+
+Just Huupe is the board’s most basic scoring system, tracking shots and recording your shooting percentage in an untimed session. If you want to get competitive, Huupe Live and the Daily Prize Challenge are social games where you challenge players worldwide to score the most points in a given time frame. The winner gets a nominal prize—10 bucks for the daily challenge, a “cozy sweatsuit” for a monthlong challenge. Other games are fairly self-explanatory, like Most 3 Pointers in 90 Seconds and Family Mode (basically Horse).
+
+Many of the games require online friends to play against; if you don’t have pals with their own Huupe Minis, you’ll probably be locked out of these modes—not that they add much beyond their multiplayer features.
+
+Things get a little kookier—and buggier—from there. For example, Huupe Flyers is designed to be played without a ball. It’s a gesture-based version of Flappy Bird, wherein you literally flap your arms around to keep a basketball in the air, tracking your movements via the camera much like an Xbox Kinect. Unfortunately, unlike the ball-based games, I was never able to play it, as it failed the calibration process every time I tried to fire it up.
+
+The system also works as a fairly straightforward streaming platform. Included are apps for YouTube, HBO Max, ESPN, Disney+, Prime Video, Hulu, Spotify, and more. There’s one glaring omission in that list, of course, and I’m not talking about Paramount+ but rather Netflix. Without Netflix support, can you even call yourself a streaming device? It’s also worth noting that the built-in speakers are surprisingly weak. On some apps the audio is OK; on others it’s nearly inaudible.
+
+The Huupe Mini 2 includes not just a sensor that can detect when a basket is successfully made; it also includes a camera to track how far the shooter is from the backboard. This is used to assign point values to various shots (depending on the specific game you’re playing), with more points earned the farther away you are from the hoop.
+
+The good news is that in weeks of playing on the Huupe Mini 2, I never noticed a time when a successful basket was recorded as a miss or vice versa. The distance calculation, however, is another thing. I’ve shot from across the room and had it count as 1 point, while some shots from just a few feet away ring up as 3 points. I could never figure out much rhyme or reason for this variability, except that shots straight-on to the backboard generally registered as lower point values, even if they were distant, while shots from the wings earned more. Of course, navigating all of this is highly dependent on the geometry of your room. Unless you have the Huupe Mini 2 set up in an empty garage, you are probably, like me, going to have plenty of obstacles that get in the way of a lot of your shots—and plenty of crawling under furniture to retrieve wayward balls.
+
+I can say with authority that it is harder to make a basket on the Huupe Mini 2 than on a regulation basketball goal, even at a very close distance. The hoop is small, and the ball tends to rebound wildly off the springy backboard. It’s quite unforgiving, and it didn’t really make me want to spend a lot of time playing, chasing balls that bounced into the corner or rolled under the bed.
+
+The other big problem: When the included inflatable ball hits the Huupe Mini 2, the impact is extremely loud, to the point where I was promptly informed by my wife that it was not appropriate for use when anyone else was in the house. While Huupe says the device is intended solely for use with the included ball, I found a workaround by purchasing a 5-inch foam basketball from Amazon, which makes a bit less noise on impact and also softens the rebound a bit. It has had zero trouble registering baskets.
+
+Battery life is another issue. While four hours is plenty of playing time, the battery continues to drain when the Huupe is in standby mode, which meant I would play a few games in the morning, ostensibly shut the Huupe off, then come back in the afternoon to a completely dead device. The Huupe can run with the power cord attached, but only once the battery has charged to at least about 5 percent.
+
+Unfortunately, even turning the power off is puzzlingly difficult. The power button on my remote control did nothing; I ultimately had to turn the system on and off with the physical button on the bottom of the backboard.
+
+At $429 (on deep discount from a hefty list price of $799), the Huupe Mini 2 sits perhaps just over the edge of what might pass for a quirky holiday gift—and I think it’s safe to say no one is buying this device for themselves. You’d have to be a huge basketball nut to get enough mileage out of the device to make it worthwhile. I expect you would also have to loathe leaving your room. With today’s kids, who knows.
+
+Power up with unlimited access to WIRED. Get best-in-class reporting and exclusive subscriber content that's too important to ignore. Subscribe Today.
+
+© 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+----------------------------------------
+
+[2] HERE’S WHAT WE KNOW ABOUT THE X-70 FRACTAL, NASA’S EXPERIMENTAL NEW PLANE
+
+NASA has unveiled a new experimental vehicle, the X-70 Fractal, although many of its features remain a mystery. The agency describes it as a research platform designed to conduct advanced aeronautical tests, but so far it has released only computer-generated images and some technical specifications regarding its capabilities.
+
+Despite the secrecy, it is possible to get some idea of what the new vehicle is like. First of all, it’s not a spacecraft, meaning it is not designed to reach Earth’s orbit or operate outside the atmosphere. However, this crewed, subsonic aircraft is capable of flying far above commercial jets, reaching altitudes over 45,000 feet, well into the stratosphere. Other specs released include the plane’s max speed of Mach 0.75—about 575 miles per hour—and that it can travel nearly 1,700 miles in a single flight.
+
+According to NASA, the X-70 Fractal will enable research into maneuver capabilities never before demonstrated in crewed aircraft, although the agency has not specified what types of maneuvers it intends to perform. The plane will also be capable of carrying up to one ton of experimental equipment and is expected to make its first flight under the NASA banner within the next two years.
+
+One of the key features of the craft will be its modular design, allowing for the rapid installation and replacement of experimental equipment both inside and outside the aircraft. This is largely why it is referred to as an “experimental platform.” It will also feature reconfigurable flight control systems so that NASA can study different ways of steering an aircraft without having to develop a separate platform for each research project.
+
+Although NASA is best known for its space missions, it’s long been dedicated to aeronautical research. That’s what the first A stands for. The agency also traces its origins to the creation of the National Advisory Committee for Aeronautics, which was founded in 1915 and was folded into the newly formed NASA in 1958.
+
+Since then, the space agency has developed numerous experimental aircraft to test technologies that range from supersonic flight and propulsion systems to new aerodynamic configurations. Not all of these prototypes go on to become operational aircraft, but the knowledge gained contributes to the development of future commercial and military aircraft as well as space vehicles.
+
+Among its most recent projects is the X-59, developed in collaboration with aerospace and defense company Lockheed Martin to investigate ways to reduce the noise produced by supersonic aircraft. The X-70 Fractal will join this tradition of pioneers in the sky.
+
+The development of these technologies also has a strategic dimension. In its budget documents for 2027, NASA identifies aeronautical research as a tool for maintaining US technological leadership in the face of growing international competition. The agency also plans to collaborate with the Department of Defense to advance new flight capabilities, although it has not yet announced any military applications for the X-70 Fractal.
+
+During the unveiling of the new aircraft, NASA Administrator Jared Isaacman noted that the project represents only one part of a new era for federal aeronautical research and hinted that more announcements are coming. For now, the agency has not provided details on what those initiatives might be, nor has it specified when it will release more information about the X-70 Fractal.
+
+This story originally appeared on WIRED en Español and has been translated from Spanish.
+
+In your inbox: For life-tested picks, sign up for our Gear newsletters
+
+Airbnb hosts are furious they can no longer make guests do their chores
+
+big story: cool kids write in all lowercase—does that make you mad?
+
+WIRED event: The technologies, people, and ideas transforming our world
+
+© 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+----------------------------------------
+
+[3] SECURITY FLAWS ACROSS UK GOVERNMENT SITES EXPOSED ‘GOD-TIER’ INFORMATION
+
+A security researcher has found more than 100 serious vulnerabilities in publicly available UK government code, putting sensitive data at risk as a result of poor cyber hygiene.
+
+The UK government has defaulted to openly publishing code it produces with public money for around a decade because it’s transparent, and making it easier for code to be reused is cost-efficient. This includes within the Department of Health and Social Care, and the Home Office, as well as local authorities.
+
+But funding squeezes have left departments neglecting maintenance and improvement of their technology estate. While ControlPlane security researcher Chris Nesbitt-Smith found the vulnerabilities using Claude’s Opus and Sonnet AI models, he says that he used consumer-grade models on a laptop and that many of the issues could have been caught by a routine IT health check. “None of this is the level of sophistication that general media is worried about in terms of cyber attacks,” he tells WIRED. “It’s all daft stuff.”
+
+In the most serious case he identified, the Planning Inspectorate, which handles land-use matters across England, had failed to fully remove a login after it accidentally committed them to public repository GitHub. The fact the credentials gave such wide access—and seemingly didn’t expire—compounded with the agency’s accidental publication of them, “made it particularly dangerous for them.”
+
+The complete Microsoft Entra ID would have given “god-tier” read and write access to all SharePoint sites and private employee OneDrive accounts, according to Nesbitt-Smith, including HR records. It also would have given access to sensitive libraries which safeguard evidence under legal hold for statutory planning inquiries and appeals, according to the security researcher who found it. “The option for ransomwaring them, for encrypting all the data, or just stealing all the data, was abundantly there,” Nesbitt-Smith says.
+
+A spokesperson for the Planning Inspectorate told WIRED its cyber monitoring tools immediately detected Nesbitt-Smith’s activity in August and that it had already been handling this as a cyber incident when ControlPlane made contact. The agency identified and fixed this vulnerability within 20 minutes of the report and verified that no data breach occurred. “We have reviewed and strengthened our systems and processes to prevent this type of issue recurring and we are grateful for the researcher’s work and for alerting us to it,” they told WIRED.
+
+The Planning Inspectorate issue “isn’t about open source but internal housekeeping when using public tools,” Amanda Brock, chief executive officer of nonprofit industry group OpenUK. “That data was exposed because of a failure not to follow good process,” she adds. “That’s not an open source security issue.”
+
+In around two-thirds of the 349 public sector codebases across 33 organizations Nesbitt-Smith scanned, he said he found vulnerabilities. Several of these were found in the Department of Education’s code, including in a procurement service used by schools, in a teacher application service containing personal details, qualifications, employment history and identity documents, and England’s main register of government-funded training providers and apprenticeships. He also found a vulnerability in a Scottish Government open data portal which would have allowed any visitor to read administrative account information and to change site configuration. The organizations have since dealt with the issues.
+
+Recently, there have been arguments for public sector departments to stop publishing source code in the open, now that AI has accelerated vulnerability discovery. The NHS reportedly ordered technology teams to transition away from open source code in May amid security concerns about the impact of AI models.
+
+Doing this without immediately fixing the underlying issues would be the “worst case scenario,” according to Nesbitt-Smith, as it prevents researchers like him from finding them, and it’s likely that an adversary has already mirrored these repositories and so will maintain access to them. “Unless you’re going to go and fix all of the problems, if anything, you’re probably drawing more attention to it by closing it,” says Nesbitt-Smith, “because you’re like, ‘Here be dragons over this space. Don’t look here though, please.’”
+
+In your inbox: For life-tested picks, sign up for our Gear newsletters
+
+Airbnb hosts are furious they can no longer make guests do their chores
+
+big story: cool kids write in all lowercase—does that make you mad?
+
+WIRED event: The technologies, people, and ideas transforming our world
+
+© 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+----------------------------------------
+

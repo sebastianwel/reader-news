@@ -1,282 +1,291 @@
-=== DAILY BRIEFING - 09.11.2026 ===
+=== DAILY BRIEFING - 10.11.2026 ===
 Quellen: Tagesschau, Sportschau & Wired Tech
 
 
 >>> TAGESSCHAU TOP-NEWS <<<
 
-[1] TRUMP BEZEICHNET SPRECHER-ANGEBOT AN DANA WHITE ALS "SCHERZ"
+[1] MASCHINENBAU WILL MIT KÜNSTLICHER INTELLIGENZ AUS DER KRISE
 
-US-Präsident Trump ist weiter auf der Suche nach einem Pressesprecher. Mit dem Boss der Kampfsportliga UFC hatte er einen ungewöhnlichen Kandidaten genannt - jetzt spricht er von einem "Scherz".
+Der deutsche Maschinenbau steckt in seinem vierten Krisenjahr. Die Branche leidet unter hohen Energiekosten und zu viel Bürokratie. Beim Maschinenbaugipfel gibt es aber auch Hoffnungssignale - etwa die Künstliche Intelligenz.
 
-Donald Trumps Ankündigung, dass er den Kampfsport-Unternehmer Dana White gern zum neuen Sprecher des Weißen Hauses machen würde, hatte übers Wochenende für mehr als Erstaunen gesorgt - jetzt hat der US-Präsident von einem "Scherz" gesprochen.
+"Bei uns würde es ohne Künstliche Intelligenz wohl auch noch gehen. Aber für die Zukunft ist Digitalisierung entscheidend. Ohne wird es nicht mehr gehen." Das sagt Herbert Zahnen. Er ist Geschäftsführer des Maschinenbauers "Zahnen-Technik", der Anlagen zur Wasseraufbereitung herstellt.
 
-"Ich sage Ihnen, ich habe nur Spaß gemacht", sagte Trump vor Journalisten. Er habe den Vorschlag nicht ernst gemeint, es sei "nur ein kleiner Scherz" gewesen.
+Der 57-Jährige ist im Werk gerade bei einigen Azubis im sogenannten "Innovation-Lab". Die jungen Leute sitzen hier vor Bildschirmen und tüfteln an Programmiercodes. Früher haben die Azubis an riesigen Anlagen geschraubt. Das machen sie in ihrer Ausbildung auch heute noch. Heute kommt dazu aber auch die Fertigkeit, betriebseigene KI programmieren zu können.
 
-Ein Personalvorschlag von US-Präsident Trump löst Rätselraten aus: ernst gemeint, Kampagne oder Verwechselung?
+Der Maschinenbauerverband VDMA drängt die Europäische Union im Zollstreit mit den USA zu Nachverhandlungen.
 
-White sei von der Idee, den Posten zu übernehmen, jedoch begeistert gewesen, erklärte der Präsident. Der Nachrichtensender CNN berichtete dagegen, White habe den Posten abgelehnt. Trump sagte, White werde am Montag im Weißen Haus erwartet - jedoch "aus anderen Gründen".
+Zahnen ist seit 35 Jahren Geschäftsführer des Unternehmens in der Eifel. Der mittelständische Betrieb beliefert etwa Wasserwerke oder Kläranlagen. Neben Maschinen entwickelt die Firma auch passende digitale Produkte zur Abwasserreinigung. "Stadtwerke haben zum Beispiel immer wieder das Problem, dass Feuchttücher Abwasserpumpen im Kanalnetz verstopfen", erklärt Zahnen. "Unsere KI erkennt potenzielle Verstopfungen schon zwei Wochen vorher. So kann die Pumpe vorab gespült und gesäubert werden - mit deutlich weniger Aufwand."
 
-White ist seit Jahren mit Trump befreundet. Er ist Boss der Profi-Kampfsportliga Ultimate Fighting Championship (UFC). Trump ist regelmäßig Gast bei den oft blutigen Kampfabenden der UFC. Zu Trumps 80. Geburtstag traten Kämpfer auf dem Rasen des Weißen Hauses im Käfig gegeneinander an.
+Künstliche Intelligenz ist seit mehr als fünf Jahren Thema im Betrieb. Das sei zunächst eine Herausforderung für die Belegschaft gewesen, erinnert sich Zahnen. "Anfangs haben wir auch nur ein bisschen herumexperimentiert." Inzwischen sei KI fester Bestandteil in dem Unternehmen.
 
-Der Sprecher-Posten ist bis auf ein kurzes Zwischenspiel seit Monaten unbesetzt. Die erste Sprecherin des Weißen Hauses unter Trump, Karoline Leavitt, war im August zurückgetreten.
+Auch die Ausbildungs- und Fachkräftestrategie wurde daran ausgerichtet. Die Firma schult das eigene Personal, auch um am Standort in der Eifel wettbewerbsfähig zu bleiben. In der grenznahen Region locken vor allem in Luxemburg einige Unternehmen mit guten Gehältern. "Wir versuchen alles zu digitalisieren und zu automatisieren, was möglich ist. Ein Jobkiller ist das nicht. Im Gegenteil: KI macht die Arbeit der Fachkräfte, die sowieso nicht mehr zu finden sind", sagt Zahnen.
 
-Die im Oktober von Trump eingesetzte Nachfolgerin Katie Zacharia warf nach nur wenigen Tagen das Handtuch. Sie hatte nur eine kurze Pressekonferenz gegeben, in der ihr unsicheres Auftreten auffiel.
+Das führe dann sogar zu neuen Arbeitsplätzen. "Ein Beispiel: Für einen Schaltschrank brauchten wir bislang einen Elektriker. Mit KI können jetzt auch Seiteneinsteiger solche Anlagen verdrahten. Es wird neue Chancen für Quereinsteiger ohne spezielle Ausbildung geben."
 
-Die Juristin war wegen falscher Angaben zu ihrem Lebenslauf unter Druck geraten.
+Deutschland will beim KI-Boom mitwirken - die Bundesregierung hat offenbar einen Deal mit Chiphersteller Nvidia eingefädelt.
 
-Nach den drastischen Verlusten der Republikaner bei den Zwischenwahlen hatte Trump am Freitag bereits einen Umbau seiner Regierung angekündigt.
+Der Maschinenbau ist weiter in einer strukturellen Krise - auch wenn es etwas Hoffnung auf Besserung gibt. Die Branche muss laut Branchenverband VDMA das vierte Rückgangsjahr in Folge verkraften: Die Produktion in Deutschland schrumpft in diesem Jahr voraussichtlich um rund zwei Prozent. Die Ursachen sind unter anderem hohe Kosten für Energie, Rohstoffe und Personal. Dazu kommen die Schwäche der Automobilindustrie als Hauptabnehmer sowie globale politische Unsicherheiten.
 
-Er ernannte seinen langjährigen Berater Stephen Miller zum neuen Stabschef und ersetzte damit Susie Wiles. Miller gilt als Architekt der restriktiven Einwanderungspolitik der Regierung.
+Aber der Verband Deutscher Maschinen- und Anlagenbauer (VDMA) hat im Spätsommer einen überraschend deutlichen Auftragsanstieg von 14 Prozent im Vergleich zum Vorjahr gemeldet. Neben dem Exportgeschäft sorgt auch der Ausbau von KI-Rechenzentren und der damit verbundenen Energie-, Kühl- und Automatisierungstechnik für ein deutliches Plus. Auch die Verteidigungsindustrie sorgt für mehr Aufträge. Die Kapazitätsauslastung der Anlagen und Werke hat sich deshalb stabilisiert und kletterte zuletzt auf 85 Prozent - immer noch ein niedriger Wert, aber immerhin der beste seit zwei Jahren.
 
-Dieses Thema im Programm: tagesschau24 | Nachrichten | 09.11.2026 | 09:00 Uhr
+In der schwarz-roten Koalition wird über eine Steuer auf Umsätze diskutiert, die durch KI erwirtschaftet wurden.
 
-----------------------------------------
+KI gilt in der Branche inzwischen als wichtige Zukunftstechnologie - vor allem, um Personal zu halten und Kosten zu senken. Nach VDMA-Daten nutzen 31 Prozent der Maschinenbauer bereits KI, weitere 37 Prozent führen Pilotprojekte durch. Im Mittelstand liegt die KI-Quote noch niedriger als bei Großkonzernen, wächst aber deutlich.
 
-[2] DAS IST DER WEG ZUM NEUEN STAATSOBERHAUPT
+Im globalen Wettbewerb liegen deutsche Unternehmen aber insgesamt zurück. So investieren US-Industriefirmen 2026 durchschnittlich 2,9 Prozent ihres Umsatzes in Künstliche Intelligenz - deutsche Industrieunternehmen lediglich 0,6 Prozent. Zu diesen Ergebnissen kommt die Managementberatung Horváth.
 
-Es soll eine Frau werden - und sie kommt aus der CSU: Ilse Aigner wäre in mehrfacher Hinsicht eine Premiere für Deutschland. Aber gewählt ist das neue Staatsoberhaupt noch nicht. Wer wählt da überhaupt und könnte es noch weitere Kandidaten geben?
+Laut Branchenverband Bitkom haben sie aber gute Chancen für eine Aufholjagd: Gerade deutsche "Hidden Champions" besitzen jahrzehntelanges, hochkomplexes Spezialwissen, das reine Software-Konzerne nicht einfach kopieren können.
 
-Mit Spannung erwartet wurde die Entscheidung des Kanzlers für Ilse Aigner längst nicht mehr. Doch nun liegt auch das offizielle Ja von Friedrich Merz für die CSU-Politikerin vor und aus der wochenlang ungekürten Kandidatin ist nun die gekürte Kandidatin der Union für das Bundespräsidentenamt geworden. Bei aller Kanzlerkritik am zähen Entscheidungsprozess: Auch frühere CDU-Kanzler wie Helmut Kohl oder Kanzlerin Angela Merkel taten sich schwer mit den Nominierungen.
+Damit verfügen sie über exklusives Wissen über reale Maschinendaten. Die Hersteller haben also direkten Zugriff auf hochspezifische Betriebs- und Sensordaten - die Basis für industrielle KI. Aus den Maschinenbewegungen können die Daten direkt in Software übersetzt werden. Zudem gibt es in Deutschland traditionell eine enge Verzahnung mit Forschungsunternehmen und Universitäten.
 
-Die Wahl Aigners in der Bundesversammlung dürfte angesichts der breiten Unterstützung als nahezu sicher gelten. Die Koalitionsparteien CDU, CSU und SPD haben hier eine Mehrheit von etwa 50 Stimmen. Auch die Grünen signalisierten Sympathie für Aigner.
+Junge Menschen haben zunehmend Probleme, Einstiegsjobs zu finden. Ein Grund: Künstliche Intelligenz.
 
-Lange hatte er sich zurückgehalten - nun sprach sich der CDU-Chef für Aigner als Bundespräsidentin aus.
+"Der Wettbewerb wird härter. Das bekommen auch wir zu spüren", bilanziert Herbert Zahnen das bisherige Geschäftsjahr. Da die Geschäftskunden von Zahnen-Technik vor allem öffentliche Auftraggeber seien, blieben die Zahlen bislang gut. "In diesem Bereich gibt es keine Einbrüche. Das ist in Teilen der Industrie leider ganz anders", so der Geschäftsführer.
 
-Sie ist das größte parlamentarische Gremium der Bundesrepublik Deutschland - und sie hat nur eine einzige Aufgabe: den Bundespräsidenten oder die Bundespräsidentin zu wählen. Die Versammlung tritt in der Regel nur alle fünf Jahre zusammen. Im kommenden Jahr ist es der 30. Januar, an diesem Tag wählt das Gremium die Nachfolge von Frank-Walter Steinmeier, der nach zehn Jahren als Bundespräsident aus dem Amt scheidet. Debattiert wird in der Bundesversammlung nicht, gewählt wird ohne Aussprache.
+Allerdings leidet auch der Betrieb an den bekannten Standortnachteilen in Deutschland - vor allem unter der zunehmenden Bürokratie. Die Vorschriften würden immer mehr und immer detaillierter, so Zahnen. "Die Auflagen für den Bau von Anlagen werden immer komplexer. Das verzögert und blockiert Investitionen und kommt am Ende bei uns an." Er beobachte, dass das auch immer mehr Behörden in Kommunen vor Probleme stelle. Auch dort fehle zunehmend das Personal, um die Verfahren schnell zu prüfen.
 
-Die Bundesversammlung besteht aus allen Bundestagsabgeordneten und der gleichen Anzahl von Mitgliedern, die von den Volksvertretungen der Länder gewählt werden. Danach umfasst die Versammlung insgesamt 1.260 Mitglieder, also 630 Abgeordnete des Bundestages und 630 von den Landesparlamenten bestimmte Mitglieder.
+Beim Blick auf die nahe Zukunft ist Zahnen optimistisch - auch wegen der künstlichen Intelligenz. Vor allem der Preisdruck internationaler Wettbewerber auf die deutsche Konkurrenz werde zunehmen. "Ich kann sagen, dass wir weltweit in der Wasserwirtschaft an der Spitze dabei sind", so der Geschäftsführer. "Die Konkurrenz schläft nicht. KI wird die Produktivität erhöhen und damit die Preise im internationalen Wettbewerb drücken. Hier können wir mithalten - dank unserer eigenen KI."
 
-Das ist nicht festgelegt. Die Bundesländer benennen zurzeit ihre Wahlleute. Wie viele Vertreter die einzelnen Länder in die Bundesversammlung entsenden dürfen, errechnet sich anhand ihrer Bevölkerungszahlen. Benannt werden sie nach den Mehrheitsverhältnissen der Fraktionen in den jeweiligen Landtagen. Meist sind es Landtagsabgeordnete, es können aber auch Kommunalpolitiker und Persönlichkeiten aus anderen Bereichen des öffentlichen Lebens ein Mandat erhalten, zum Beispiel Sportler oder Schauspieler.
-
-Ja. Die CDU in Schleswig-Holstein will die frühere Kanzlerin Angela Merkel zur Bundesversammlung zur Wahl des Bundespräsidenten im kommenden Jahr entsenden. Merkel kennt das Prozedere bereits: Die CDU-Politikerin war 2022 noch von Mecklenburg-Vorpommern ins Rennen geschickt worden.
-
-Daneben sollen für die CDU unter anderem Bundesbildungsministerin Karin Prien und Ministerpräsident Daniel Günther sowie Ex-Handballstar Patrick Wiencek das nächste Staatsoberhaupt wählen.
-
-Für Sachsen soll unter anderem die Holocaust-Überlebende Renate Aris, Landtagspräsident Alexander Dierks und Ministerpräsident Michael Kretschmer (beide CDU) sowie Sozialministerin Petra Köpping und Wirtschaftsminister Dirk Panter (beide SPD) teilnehmen. Auch die Leipziger Schriftstellerin Martina Hefter wird dabei sein. Die sächsische BSW-Fraktion nominierte den Journalisten und früheren tagesschau-Sprecher Constantin Schreiber.
-
-Bislang nicht. Damit ist aber zu rechnen. Die AfD will einen eigenen Kandidaten aufstellen, einen Mann "aus der Mitte der Gesellschaft", wie es aus der Partei heißt. Er gilt wegen der klaren Mehrheitsverhältnisse in der Bundesversammlung aber als chancenlos.
-
-Die Linkspartei hat sich noch nicht für oder gegen eine eigene Kandidatur entschieden.
-
-Ilse Aigner hat beste Chancen, die erste Bundespräsidentin Deutschlands zu werden. Ein Porträt.
-
-Gute Frage. Zwölf Männer in 77 Jahren Bundesrepublik gab es bislang, aber noch nie eine Frau im höchsten deutschen Staatsamt. Zuletzt mehrten sich daher Forderungen, hier jetzt endlich einmal etwas zu ändern. Kanzler Merz legte sich Anfang November fest, als er sich für eine Frau als Steinmeier-Nachfolge aussprach - zu diesem Zeitpunkt lief es auch schon auf Ilse Aigner hinaus.
-
-Eine Frau soll es werden - so weit hat sich Kanzler Merz in der Bundespräsidenten-Frage festgelegt.
-
-Ja, an interessanten Kandidatinnen hat es in der Geschichte der Bundesrepublik nicht gemangelt. Eines aber war ihnen gemein: Sie wurden immer nur von Parteien ins Rennen geschickt, die keine Aussicht auf eine Mehrheit in der Bundesversammlung hatten. Eine Auswahl: Annemarie Renger (SPD, 1979), Luise Rinser (Grüne, 1984), Hildegard Hamm-Brücher (FDP, 1994), Dagmar Schipanski (CDU, 1999) oder Beate Klarsfeld (parteilos, 2012). Gleich zweimal trat Gesine Schwan an, die SPD-Politikerin unterlag 2004 und 2009.
-
-Die Amtszeit beginnt am 19. März. Steinmeier ist dann noch bis zum 18. März im Amt. Sollte Aigner am 30. Januar tatsächlich gewählt werden, hat sie also noch einige Wochen Vorbereitungszeit, bevor sie als erste Frau das Amt übernimmt.
-
-In Schloss Bellevue einziehen wird sie jedoch erstmal nicht: Das ist Baustelle. Noch-Bundespräsident Steinmeier residiert seit Sommer in einem Ausweichquartier.
-
-Ilse Aigner hat aus Sicht von Politologin Münch genug Erfahrung. Das werde auch dringend gebraucht.
-
-Dieses Thema im Programm: tagesschau24 | Nachrichten | 09.11.2026 | 10:00 Uhr,Das Erste | tagesschau |  09.11.2026 | 12:00 Uhr,
+Dieses Thema im Programm: tagesschau24 | Nachrichten | 10.11.2026 | 11:00 UhrWDR 5 Morgenecho | Interview | 10.11.2026 | 05:00 Uhr Das Erste | tagesschau | 10.11.2026 | 10:40 Uhr
 
 ----------------------------------------
 
-[3] MINDESTENS 20 TOTE BEI SCHIFFSUNGLÜCKEN VOR KRETA
+[2] VIELE DEUTSCHE UNTERNEHMEN BAUEN DIE KI-INFRASTRUKTUR MIT AUF
 
-Sie brachen in Libyen auf und zahlten Tausende Euro für die Überfahrt Richtung EU: Bei mehreren Bootsunglücken sind in den vergangenen Tagen mindestens 20 Menschen ums Leben gekommen.
+US-Tech-Giganten investieren Milliarden in Künstliche Intelligenz. Anleger werden vorsichtiger mit Blick auf die Kosten. Warum deutsche und europäische Unternehmen davon profitieren könnten.
 
-Bei insgesamt vier Unglücken mit Migrantenbooten sind am Wochenende südlich von Kreta mindestens 20 Menschen ums Leben gekommen. 133 Menschen konnten bislang gerettet werden, mindestens zwei gelten als vermisst, berichtete der Nachrichtensender ERTnews. Die Such- und Rettungsarbeiten dauerten an.
+Künstliche Intelligenz (KI) ist seit einiger Zeit der Kurstreiber an der Börse - mit dazugehörenden Aufs und Abs. Die Stimmung an den Finanzmärkten wird derzeit mit dem großen Goldrausch im Wilden Westen verglichen: Alles scheint möglich. Doch während damals nur wenige Goldgräber reich wurden, waren es vor allem die Schaufelhersteller, die sich eine goldene Nase verdienten.
 
-Im ersten Fall, der sich bereits Samstagabend nur wenige Seemeilen vor dem südkretischen Küstenort Kali Limenes ereignete, rettete die griechische Küstenwache 28 Sudanesen und barg acht Tote. Nach zwei Menschen wird der Behörde zufolge weiterhin gesucht. Laut Aussagen Überlebender waren die Migranten bereits Tage zuvor von Libyen aus in See gestochen und hatten für die gefährliche Fahrt zwischen 1.000 und 2.500 Euro gezahlt. Zwei Männer im Alter von 16 und 28 Jahren wurden als mutmaßliche Schleuser festgenommen.
+Ähnlich sei das mit Blick auf KI, sagt Christian Röhl von Scalable Capital. Viele der heutigen Schaufelhersteller seien europäische Unternehmen. "Ohne beispielsweise ASML aus den Niederlanden oder die deutschen - leider nicht börsennotierten Firmen - Carl Zeiss und Trumpf könnte TSCM in Taiwan keine Mikrochips für Nvidia produzieren. Europa ist sozusagen das Rückgrat des Datacenter-Booms", so der Marktkenner im Gespräch mit der ARD-Finanzredaktion.
 
-In derselben Region entdeckte die Besatzung eines vorbeifahrenden Containerschiffs ein weiteres Flüchtlingsboot und alarmierte die Behörden. Ein Patrouillenboot der griechischen Küstenwache rettete 18 Menschen, zwölf Passagiere konnten nur tot geborgen werden. In diesem Fall habe es noch keine Informationen zur Nationalität oder dem Abfahrtsort der Migranten gegeben, berichteten griechische Medien.
+Techwerte unter Druck: Zahlt sich der KI-Boom aus - und ist Anthropics Billionenbewertung gerechtfertigt?
 
-Die Grenzschutzagentur erhält mehr Personal, Befugnisse und eine schnelle Eingreiftruppe.
+Allen voran sind es die großen US-Tech-Konzerne, die sagenhafte Summen in den Ausbau von KI investieren. Das Flossbach von Storch Research Institute sieht eine Abschreibungswelle auf die Unternehmen zurollen.
 
-Bei zwei weiteren Rettungseinsätzen wurden darüber hinaus 87 Menschen gerettet. Beide Boote wurden von der Luftüberwachung der EU-Grenzschutzagentur Frontex entdeckt, eines mit 47 Passagieren an Bord und eines mit 40. Frontex-Einsatzkräfte nahmen die Menschen auf und brachten sie in den Küstenort Kali Limenes.
+Die billionenschweren KI-Investitionen seien längst keine bloße Ankündigung mehr, sondern veränderten die Bilanzen der sogenannten Hyperscaler Alphabet, Amazon, Meta, Microsoft und Oracle rasant, schreibt Analyst Christof Schürmann. "Atemberaubend hoch sind die Zusagen der fünf Tech-Konzerne für Infrastruktur, die sich zukünftig in den Bilanzen niederschlagen werden."
 
-Zwar sind die Flüchtlingsankünfte in Griechenland 2026 im Vergleich zum Vorjahr insgesamt zurückgegangen, doch auf Kreta stark gestiegen. Immer mehr Menschen stechen von Libyen aus in See - und Kreta liegt mit 350 Kilometern Luftlinie am nächsten. Fast zwei Drittel der Flüchtlinge kommen aus dem Sudan und Bangladesch, heißt es beim UN-Flüchtlingshilfswerk UNHCR.
+Hyperscaler heißen sie deshalb, weil sie weit über das übliche Maß hinaus investieren, mit dem Ziel, künftig Erträge aus ihren Geschäften mit KI-Angeboten zu skalieren. Nach Ansicht des Flossbach von Storch Research Institutes passiere dies in einem Tempo, das vor wenigen Jahren kaum vorstellbar war.
 
-Stand 1. November kamen auf Kreta dieses Jahr bislang mehr als 22.500 Menschen an - bereits jetzt mehr als im gesamten Vorjahr mit rund 20.200 Ankünften. Griechenlandweit hingegen verzeichnet das UNHCR bislang rund 37.500 Ankünfte nach 42.000 im gesamten Vorjahr.
+"Aus einst vergleichsweise kapitalarmen Plattform- und Softwarekonzernen bilden sich nun kapitalintensive Betreiber von Infrastrukturen, die hohe Fixkosten verursachen." Die Hyperscaler seien deshalb "die neue Schwerindustrie".
 
-Dieses Thema im Programm: tagesschau.de I Kreta: Mindestens 20 Tote und mehr als einhundert Gerettete I 09.11.2026 I 10:15 Uhr
+Deutschland will beim KI-Boom mitwirken - die Bundesregierung hat offenbar einen Deal mit Chiphersteller Nvidia eingefädelt.
+
+Während Anlegerinnen und Anleger zunehmend skeptisch auf die Milliarden-Investitionen der Tech-Giganten schauen, verdienen viele Unternehmen schon jetzt am Ausbau der KI-Infrastruktur: sei es als Zulieferer für Rechenzentren, Stromnetzbetreiber oder Chipausrüster.
+
+Darunter gebe es zahlreiche deutsche und europäische Konzerne, so Experte Röhl von Scalable Capital. "Beispielsweise Baukonzern Hochtief, sehr aktiv in den USA, Siemens Energy mit allen Stromnetz- und Energielösungen, aber auch Siemens selbst, die mit der digitalen Fabrik den Link zwischen Software und KI auf der einen Seite und der physischen Welt auf der anderen Seite legen."
+
+Ob Samsung, Apple oder Nvidia - alle großen Halbleiterhersteller sind Kunden beim Maschinenbauer ASML.
+
+Auch ein Blick in den MDAX lohne sich, wenn man nach deutschen Profiteuren des KI-Booms Ausschau hält, meint Anlagestratege Stephan Kemper von der BNP Paribas gegenüber der ARD-Finanzredaktion. "Im MDAX finden wir viele Spezialhersteller, die Teile oder Maschinen produzieren, die zur Herstellung von Halbleitern benötigt werden. Aixtron ist da ein Beispiel, die stellen Anlagen her, um Verbindungshalbleiter zu produzieren und sind damit ein struktureller Profiteur."
+
+Kemper geht sogar noch einen Schritt weiter: Ohne europäische Firmen und Anlagen, mit denen man die Halbleiter überhaupt erst bauen kann, würde weltweit nicht ein KI-Server laufen. Neben dem großen Chip-Anlagenbauer aus den Niederlanden, ASML, lieferten deutsche Unternehmen wie Jenoptik wichtige Komponenten. Dazu zähle auch der DAX-Konzern Infineon, der mit seinen Chips ursprünglich aus dem Automobilbereich kommt.
+
+"Infineon ist mittlerweile sehr wichtig, weil deren Chips erfolgreich eingesetzt werden im Bereich Energie-Management. Das wird bei Datencentern immer wichtiger. Denn die Chips von Nvidia und Co. brauchen sehr viel Energie," so Anlagestratege Kemper.
+
+Den KI-Boom treiben einige wenige US-Konzerne voran, aber auch in Deutschland gibt es Profiteure.
+
+Die Bedeutung belegen auch die jüngsten Quartalszahlen des Münchner Chipherstellers. Infineon hat im abgelaufenen Geschäftsjahr deutlich mehr verdient: Ein Gewinn von 1,51 Milliarden Euro nach Steuern bedeutet ein Plus von 49 Prozent im Vergleich zum Vorjahr.
+
+Vor allem Datencenter haben Infineons Geschäfte beflügelt - und sollen das weiter tun. Der Konzern mit Sitz in Neubiberg nahe München liefert hier Leistungshalbleiter für die Stromversorgung.
+
+Die Erwartungen an die künftigen Gewinne seien enorm, schreibt Analyst Pascal Kielkopf vom Vermögensverwalter HQ Trust. Gleichzeitig wachse die Unsicherheit darüber, wann und in welchem Umfang sich die Milliardeninvestitionen in der Branche tatsächlich auszahlen werden.
+
+"Schließlich investieren die großen US-Technologiekonzerne derzeit so viel Geld wie nie zuvor in den Ausbau der Künstlichen Intelligenz. Allein Alphabet, Amazon, Meta und Microsoft dürften in diesem Jahr rund 740 Milliarden US-Dollar für Hochleistungschips, Rechenzentren und andere Infrastruktur ausgeben", so Branchenkenner Kielkopf.
+
+Der jüngste Ausverkauf an der Nasdaq nach dem Sieg der Demokraten bei den US-Zwischenwahlen zeigt, wie sensibel die Märkte inzwischen auf Nachrichten rund um den KI-Investitionsboom reagieren. Auch das ist aus Sicht von Marktkenner Robert Halver von der Baader Bank ein Argument für eine stärkere Gewichtung von deutschen und europäischen Aktien.
+
+"Das könnte ein Argument für den DAX sein, dass die großen Kapitalsammelstellen sagen, KI ist eine attraktive Langfristbranche, aber im Augenblick wollen wir den Fokus auf die Werte setzen aus dem Konjunkturbereich, auf Maschinenbau, Zulieferer, die von KI profitieren. Also haben wir eine gewisse Sektor-Rotation weg von der New Economy hin zu der Old Economy."
+
+Ein weltweiter Abverkauf von Chip- und Techaktien schickt wichtige Aktienindizes auf Talfahrt.
+
+Viele Analysten glauben nach wie vor daran, dass sich die gigantischen Investitionen in den Ausbau von Künstlicher Intelligenz mittelfristig auszahlen werden. "Die Erwartungen an das Ende des Jahrzehnts sind entsprechend hoch", schreibt Analyst Pascal Kielkopf von HQ Trust.
+
+"Die zusätzlichen Einnahmen sollen vor allem aus Cloud-Dienstleistungen, KI-Anwendungen und Softwarelizenzen kommen." Allerdings dürften die Kosten für den Ausbau der Infrastruktur weiterhin immens hoch bleiben.
+
+Dieses Thema im Programm: tagesschau.de | ARD-Börse: Wer in Deutschland vom KI-Boom profitiert | 09.11.2026 | 14:33 Uhr
+
+----------------------------------------
+
+[3] BÖRSENGANG VON ANTHROPIC - UMSTRITTENER GOLDRAUSCH IN SAN FRANCISCO
+
+Der KI-Gigant Anthropic will an die Börse. Und damit könnten Tausende Mitarbeiter und Investoren zu Millionären werden. In San Francisco, dem Konzernsitz, werden explodierende Häuserpreise befürchtet.
+
+Ursprünglich war erwartet worden, dass der KI-Konzern Anthropic in dieser Woche seine Roadshow vor dem Börsengang startet, also seine Pläne potenziellen Investoren präsentiert. Bis Monatsende sollte dann der Schritt an die Börse erfolgen. Doch nach dem Abrauschen der Tech-Werte an den Börsen, nach dem Sieg der Demokraten bei den Midterms, wird spekuliert, dass sich Anthropics Zeitplan verzögern könnte.
+
+Denn potenzielle Investoren drängen bei Anthropic inzwischen auf eine deutlich niedrigere Bewertung. Statt der ursprünglich angepeilten Höchstbewertung von bis zu zwei Billionen Dollar rechnen Insider "nur" noch mit einer Bewertung um rund 1,2 Billionen Dollar. So oder so, der Goldrausch in San Francisco, wo Anthropic sitzt, wird kommen. Und er wird erhofft und gefürchtet. Denn die Preise für Häuser und Mieten könnten weiter in die Höhe getrieben werden.
+
+KI-Firmen haben Interesse an Australien, etwa um Rechenzentren zu bauen. Ein Übergriff auf ein Regierungsportal wirft Fragen auf.
+
+Anthropic ist der erste reine KI-Konzern, der mit Claude eins der weltweit renommierten großen Sprachmodelle entwickelt hat, und jetzt den Börsengang wagt. Sobald das Unternehmen an der Börse notiert ist, können Beschäftigte und Investoren ihren bislang nur auf dem Papier existierenden Reichtum in echtes Bargeld verwandeln.
+
+Schon vor der Sperrfrist für den Aktienverkauf können sie Kredite aufnehmen. Entsprechend stellt sich die San Francisco Bay Area auf einen Goldrausch ein, wenn Tausende über Nacht zu Millionären werden.
+
+Der Chefökonom der Stadt San Francisco, Ted Egan, sieht in Anthropics Schritt an die Börse einen Wendepunkt für die lokale Wirtschaft, wie ihn die Region seit dem Börsengang des Transportdienstleisters Uber 2019 nicht mehr erlebt habe. In den kommenden Monaten werde in San Francisco und der Bay Area ein enormes Vermögen geschaffen.
+
+Und obwohl die Stadt Vermögen oder Einkünfte aus Aktienverkäufen nicht direkt besteuern kann, wird sie über den Immobilienhandel auf ihre Kosten kommen, erklärt Egan. Denn bei Immobilienverkäufen fällt eine Transaktionssteuer an, die die Verkäuferin oder der Verkäufer an die Stadt entrichtet. Bei hochpreisigen Immobilien, die für mehr als zehn Millionen Dollar verkauft werden, liegt dieser Satz bei 5,5 Prozent - ​​es geht also um beträchtliche Summen.
+
+Die Chefs der größten US-amerikanischen KI-Firmen OpenAI und Anthropic warnen weiter vor ihrer eigenen Technologie.
+
+Das Immobilienunternehmen Red Fin Homes in San Francisco hat schon im September errechnet, dass die Immobilienpreise dort die derzeit höchsten in den ganzen USA sind. Laut der "San Francisco Association of Realtors" liegt der durchschnittliche Preis für ein Einfamilienhaus in San Francisco bei etwa drei Millionen Dollar - wobei sich die Nachfrage zunehmend auf das höhere Preissegment konzentriert, schildert Verbandsvertreter Jay Cheng im Sender ABC. Im Vergleich zwischen dem ersten Quartal 2025 und 2026 sei die Zahl der Verkäufe von Häusern im Wert von über fünf Millionen Dollar um 69 Prozent gestiegen.
+
+Immobilienmakler wie Austin Klar beobachten steigendes Kaufinteresse bei gleichzeitig knappem Angebot. Die Situation sei so extrem wie seit vielen Jahren nicht mehr. Viele Verkäufer würden sich derzeit zurückhalten, weil sie nach dem Anthropic-Börsengang mit einer regelrechten Explosion der Preise rechnen und ihre Immobilien noch nicht auf den Markt bringen. Es gebe weniger Verkäuferinnen und Verkäufer, aber immer mehr Kaufinteressenten.
+
+Das Vorgehen der US-Regierung bei Anthropic hat weltweit Verunsicherung ausgelöst - was sind die Folgen?
+
+Bei dieser Preisspirale bleiben Menschen mit normalem Einkommen, die nicht in der lukrativen Tech-Branche arbeiten, natürlich auf der Strecke. Wegen des hohen Preisgefüges ist Bauen in San Francisco vergleichsweise teuer. Laut städtischen Vorgaben müssten bis zum Jahr 2031 rund 82.000 neue Wohnungen entstehen, doch die Stadt hinkt im Zeitplan hinterher.
+
+Auch Sam Moss, Geschäftsführer der gemeinnützigen Wohnungsbaugesellschaft Mission Housing Development Corporation befürchtet, dass sich die Situation für Einwohnende mit Durchschnittsgehältern weiter verschärfen könnte. Es sei ohnehin schon traurig, dass die meisten Menschen sich gar kein Wohneigentum mehr leisten könnten.
+
+Die Genehmigungsverfahren in San Francisco gelten als die langsamsten im ganzen Land. Das lokale System erlaubt es Anwohnern, Bauprojekte über Einsprüche und öffentliche Debatten jahrelang zu blockieren oder erheblich zu verkleinern, meist aus Sorge um den Charakter des Viertels.
+
+Insofern sieht Sam Moss die politischen Entscheidungsträger auf kommunaler, Landes- und Bundeebene in der Pflicht: Es sei wohl einfacher, Softwareentwickler zu verteufeln, als Gesetze kritisch zu hinterfragen, die den Bau bezahlbarer Wohnungen in San Francisco über Generationen hinweg erschwert hätten.
+
+Dieses Thema im Programm: tagesschau.de | Vor Anthropics geplantem Börsengang – Goldrausch in San Francisco | 09.11.2026 | 00:43 Uhr
 
 ----------------------------------------
 
 
 >>> SPORT (SPORTSCHAU) <<<
 
-[1] BUNDESLIGA UPDATE: WANN LÄUFT MANUEL NEUERS ZEIT IM BAYERN-TRIKOT AB?
+[1] NÄHE ZU EVANGELIKALEN NETZWERKEN? NMECHA WEIST KRITIK ZURÜCK
 
-Manuel Neuer ist bei Bayerns 2:1 Erfolg verletzt ausgewechselt worden. Mal wieder. Das befeuert die Debatte rund um den Weltmeister. Stehen wir vor einer Wachablösung im Tor der Bayern?
+Felix Nmecha hat seinen Torjubel verteidigt und erklärt, in seinem Glauben niemanden ausgrenzen zu wollen.
 
-Manuel Neuer ist im Spiel gegen Mainz zum ältesten Bundesliga-Spieler des FC Bayern geworden. Für den 40-Jährigen endeten die Partie vorzeitig. Nach dem Bundesliga-Spieltag ist klar: Manuel Neuer hat sich am rechten Fuß verletzt. Diagnose: Sehnenteilriss. In diesem Jahr wird Neuer kein Spiel mehr für die Bayern machen.
+"Mit meinem Jubel möchte ich weder mich selbst noch irgendeine Organisation in den Vordergrund stellen. Vielmehr geht es darum, meine 'Krone' vor dem bald kommenden König niederzulegen und auf Jesus hinzuweisen, meine Hoffnung und meine Stärke", schrieb Nmecha in einer Instagram-Story. "Meine Botschaft war niemals darauf ausgerichtet, Intoleranz, Diskriminierung oder Hass in irgendeiner Form zu fördern."
 
-"Es ist das, was schon vorher am Fuß war. Das ist jetzt wieder aufgetreten. Wir hoffen, dass es nicht so schlimm ist", sagte Sportvorstand Max Eberl nach dem Abpfiff. Wegen einer Sehnenreizung hatte Neuer schon drei Spiele verpasst, war aber in der Champions League in Madrid diese Woche wieder im Einsatz.
+Nmecha zeigte zum wiederholten Male einen Jubel, bei dem er sich eine imaginäre Krone abnimmt und diese auf den Knien vor sich auf den Rasen legt. Die Geste ist der Kampagne "The King's Return" zuzuordnen, die dem evangelikalen Netzwerk "Ballers in God" nahesteht.
 
-Insgesamt ist das Jahr 2026 nicht das von Manuel Neuer. Es steht im Zeichen der Verletzungen und Schwankungen. "In diesem Kalenderjahr ist Neuer schon vier Mal wegen einer Verletzung ausgewechselt worden", sagt Sportschau-Bundesliga-Update-Host Tobi Schäfer.
+"Ballers in God" ist ein 2015 gegründetes Netzwerk christlicher Fußballer, das viele solcher Aktionen in den sozialen Medien aufnimmt und verbreitet. Die Organisation gilt als christlich-fundamentalistisch, homophob und queerfeindlich.
 
-Neuer hatte jüngst nach dem Champions-League-Spiel bei Atlético Madrid zugegeben, dass er "jeden Tag Schmerzen beim Gehen" habe. Deshalb seien die vergangenen Tage und Wochen "keine leichte Situation" gewesen. "Sein Körper neigt sich dem Ende zu", vermutet Tobi.
+Am Sonntag hatte die Fan- und Förderabteilung von Borussia Dortmund Nmecha und das Netzwerk "Ballers in God" kritisiert, da der Profi die Geste nach seinen Toren beim 2:1-Sieg gegen die SV Elversberg erneut gezeigt hatte. Gegenstand der Kritik war ausdrücklich nicht Nmechas christlicher Glaube. "Unsere Kritik richtet sich gegen religiöse Netzwerke, die unter dem Deckmantel des Glaubens ein Weltbild verbreiten, in dem Menschen aufgrund ihrer sexuellen Orientierung, ihrer geschlechtlichen Identität, ihrer Lebensweise oder ihrer persönlichen Entscheidungen abgewertet oder ausgegrenzt werden", teilte die Fanabteilung mit.
 
-Die nächsten Spiele bei den Bayern wird aller Voraussicht nach Jonas Urbig im Tor stehen. Schon im Spiel gegen Mainz ist der Keeper - wie gewohnt - für Neuer eingewechselt worden. Nach der Länderspielpause bis zum Jahresende warten in der Bundesliga, Champions League und DFB-Pokal acht Spiele auf den Rekordmeister. "Was Besseres kann dem FC Bayern eigentlich nicht passieren", findet Tobi. Urbig könne jetzt viele Spiele machen, ohne das eine große Diskussion rund um die Position zwischen den Pfosten geführt würde.
+Die Kampagnen-Webseite verlinkte auf ein Chat-Angebot der US-Organisation Groundwire. In einem Chat mit MONITOR-Reportern wurde Abtreibung als "Satans Plan" bezeichnet. In einem Muster-Chat für die Beratung wurde die Frage bejaht, ob es eine Sünde sei, lesbisch zu sein.
 
-"Ich würde mir wünschen, dass Jonas Urbig jetzt als Nummer 1 für den Rest der Saison ins Tor gestellt wird", sagt Sportschau-Bundesliga-Update-Host Luise Kropff. Der so talentierte Urbig habe sich eh schon gut in das Spiel der Bayern integriert und mache einen sehr guten Eindruck im Bayern-Gefüge.
+Die Fanabteilung betonte, man dürfe es nicht als "bloße private Religionsausübung" abtun, wenn die Reichweite eines Profis "gezielt für Missionierung" eingesetzt werde. "Wo religiöse Überzeugungen dazu benutzt werden, Menschen ihre Würde oder Gleichwertigkeit abzusprechen, endet für uns die Toleranz gegenüber Intoleranz", hieß es.
 
-In der Vergangenheit hat Manuel Neuer allerdings auch eindrucksvoll gezeigt, dass er sich zurückkämpfen kann. Vor der WM 2014 war der Keeper angeschlagen. Immer wieder den eigenen Körper überlisten zu können, ist kein Naturgesetz, sondern zeigt, wie gut Neuer in dieser Disziplin ist. Deswegen könnte die Torwart-Diskussion bei den Bayern im neuen Jahr, wenn Neuer wieder fit ist, wieder Fahrt aufnehmen - dann vermutlich auch pünktlich zu den großen Spielen in der Champions League.
+Borussia Dortmund kündigte als Reaktion auf die Stellungnahme der Fanabteilung ein Gespräch mit Nmecha an. Bundestrainer Jürgen Klopp sprach nach Informationen der Deutschen Presse-Agentur im Teamquartier der Nationalmannschaft in Herzogenaurach bereits mit dem 26-Jährigen. Inhalte oder Details über die Unterredung sind bislang nicht bekannt.
 
-Das Bundesliga Update gibt es bei ARD Sounds, überall wo es Podcasts gibt und auf dem Sportschau-Fußball-Kanal bei Youtube. Neue Folgen erscheinen donnerstagnachmittags und montagmorgens.
+Der 26-Jährige betonte in seiner Mitteilung: "Als Christen ist unsere Botschaft eine Botschaft der Liebe und des Respekts gegenüber jedem Menschen, unabhängig davon, woher er kommt, woran er glaubt oder welche Weltanschauung er vertritt."
 
-Das Sportschau-Team versorgt dich mit allem Wichtigen zur Bundesliga. Immer Donnerstags und Montags.
+Schon in der Vergangenheit wurde Nmecha für evangelikale Inhalte in sozialen Netzwerken kritisiert, die als homophob oder queerfeindlich bewertet wurden. Diese Vorwürfe hatte er bereits zuvor zurückgewiesen. Auch bei der WM im Sommer 2026 hatte Nmecha den Jubel beim 7:1-Sieg der DFB-Elf gegen Curaçao gezeigt und damit eine Debatte ausgelöst. Nach dem Spiel in Houston betete er mit mehreren Spielern beider Teams auf dem Platz.
 
-Dieses Thema im Programm: sportschau.de | Kader-Stimmung: Klopp nominiert Füllkrug und Mohya | 05.11.2026 | 14:57 Uhr
-
-----------------------------------------
-
-[2] EINTRACHT FRANKFURTS STURMDUO - JOBSHARING IM ANGRIFF
-
-Nationalmannschaftsnominierung oder Startelfnominierung in der Bundesliga – beides ist für Eintracht Frankfurts Stürmer Jonathan Burkardt und Younes Ebnoutalib aktuell eine Wundertüte. Das führt zu kuriosen Begebenheiten.
-
-Neun Pflichtspiele, 17 Tore, sechs Vorlagen – es ist wahrscheinlich keine Übertreibung, wenn man Eintracht Frankfurts Sturmduo als mit das Spannendste bezeichnet, was die Liga derzeit zu bieten hat. Erstaunlich dabei: Sonderlich oft stehen die beiden aktuell gar nicht gemeinsam auf dem Platz. Viel eher betreiben sie Jobsharing. Mit teils kuriosen Begleiterscheinungen.
-
-Etwa in der vergangenen Woche. Da erhielt Ebnoutalib am Freitag eine Einladung des neuen Bundestrainers - saß einen Tag später in Paderborn aber zunächst nur auf der Bank. Burkardt wiederum wurde, anders als im Oktober, im Nationalteam nicht berücksichtigt - erhielt dafür aber bei der Eintracht den Vorzug.
-
-Der 26-Jährige schoss das 1:0 in der 23. Minute und den Ausgleich in der Nachspielzeit (90.+3). Ein spektakulärer Treffer: Die Hessen spielten nach der Gelb-Roten Karte für Elias Baum (75.) nur noch zu zehnt. Die Vorlage gab der aufgerückte Torwart Noah Atubolu. Und Burkardt traf am Ende per Hacke. "Ich weiß auch nicht, wieso ich mich für die Hacke entschieden habe. Aber zum Glück war es die richtige Entscheidung", sagte Burkardt nach dem Spiel.
-
-Zwei Fragen drängten sich danach auf: Wie enttäuscht war Burkardt über den Korb von Klopp? Und was bedeutet die Konkurrenzsituation ihrer beiden Stürmer für die Eintracht: einen Leistungsschub oder irgendwann vielleicht sogar ein atmosphärisches Problem?
-
-"Ich war natürlich ein bisschen traurig. Das ist logisch, denn man hofft ja immer, dass man dabei ist", so Burkardt. Der Bundestrainer habe ihm aber "wertschätzende Worte mitgegeben. Ich werde weiter arbeiten und versuchen, bei Eintracht Frankfurt die bestmögliche Performance zu bringen."
-
-Was sein Stürmerduell mit Ebnoutalib angeht, möchte Burkardt mit niemandem tauschen: mit Jürgen Klopp nicht und mit Eintracht-Trainer Adi Hütter schon gar nicht. "Das ist schwierig für den Trainer, weil einfach zwei sehr, sehr gute Stürmer da sind", meinte der ehemalige Mainzer. "Younes ist ein absoluter Top-Stürmer, und ich bin auch ein Top-Stürmer. Deswegen ist es wirklich schwer, beide spielen zu lassen."
-
-In der Liga setzte Hütter bislang fünfmal auf die Doppelspitze, in den vergangenen drei Pflichtspielen bot er aber nur noch einen Stürmer auf – zunächst Burkardt im Pokal gegen den HSV, dann Ebnoutalib gegen den HSV in der Liga, nun wieder Burkardt. Mit Erfolg. Aber womöglich ist der aktuelle Ein-Mann-Sturm auch der Kaderplanung geschuldet. Der Wechsel von Arnaud Kalimuendo zerschlug sich am Deadline Day. Mit Nachwuchsspieler Malik Pimpong steht so nur noch ein weiterer Stürmer im Kader, Hütter hat also nur überschaubare Wechseloptionen.
-
-"Ich habe die glückliche Situation, zwei Stürmer zu haben, die treffen", sagte Hütter und möchte es weiterhin vom Gegner und von der Taktik abhängig machen, ob er Burkardt, Ebnoutalib oder beide zusammen aufstellt. "Ich bin mit beiden sehr, sehr glücklich und sehr, sehr happy." Die Entscheidung für den einen oder den anderen sei immer auch "ein bisschen eine Gefühlssache".
-
-Dieses Thema im Programm: Sendung: Sportschau, 07.11.26, 18:30 Uhr
+Dieses Thema im Programm: sportschau.de | Nmecha äußert sich ohne klare Abgrenzung | 10.11.2026 | 8.07 Uhr
 
 ----------------------------------------
 
-[3] RÖNNOW UND DIE EINSAMKEIT DES TORHÜTERS
+[2] DFB SUCHT GESPRÄCH MIT NMECHA
 
-Frederik Rönnow hält Union Berlin in Freiburg lange im Spiel. Doch seine Mitspieler lassen den Torhüter immer wieder im Stich. Nach der Niederlage schlägt der Däne Alarm.
+Nicht nur Borussia Dortmund, sondern auch der DFB will nach der scharfen Kritik aus der BVB Fan- und Förderabteilung klären, wie weit Fußball-Nationalspieler Felix Nmecha in seinem religiösen Werben gehen darf.
 
-Torhüter haben die undankbarste Position im Fußball. Sie sind Einzelkämpfer in einem Mannschaftssport. Das sieht man schon an der Trainersprache. 4-4-2, 3-5-2, 4-3-2-1 heißen die gängigen Formationen einer Startelf und wer das mal zusammenzählt, kommt nur auf zehn Spieler in der Mannschaft. Die Torhüter fehlen, als wären sie kein Teil des Teams. Wenn sie gerade nicht die Nummer eins sind, warten sie manchmal Monate auf der Bank auf ihren Moment. Wenn sie dann im Tor stehen, wird am meisten über ihre Fehler gesprochen. Torhüter spielen, um die besten Momente im Fußball zu verhindern. Und sie sind die Spieler auf dem Platz, die am meisten auf ihre Mitspieler angewiesen sind. Diese Erfahrung machte Union Berlins Frederik Rönnow in Freiburg.
+Der "Home Ground" in Herzogenaurach verbindet Behaglichkeit mit Abgeschiedenheit. Niemand stört die deutsche Nationalmannschaft in diesem Camp wirklich. Mittendrin auch wieder Felix Nmecha, der vielleicht ganz froh sein könnte, bei der DFB-Auswahl der Aufregung um seine Person bei Borussia Dortmund für die nächsten Tage zu entfliehen.
 
-Nach der 0:2-Niederlage beschrieb er im Interview mit DAZN eine seiner Heldentaten. Rönnow hatte einen wuchtigen Elfmeter gehalten, indem er mit einem Seitenschritt richtig spekulierte und kraftvoll in die Ecke hechtete. "Ich weiß, dass Grifo überragend schießt, da muss man dann ein bisschen früher gehen", so Rönnow. Und trocken hinterher: "Aber am Ende bringt's nichts."
+Die BVB Fan- und Förderabteilung hatte nach dem Bundesligaspiel gegen die SV Elversberg (2:1) mit einer langen Stellungnahme erneut kritisiert, dass der Matchwinner eine enge Verbindung zum evangelikalen Netzwerk "Ballers in God" pflegt. Beide Treffer bejubelte der 26-Jährige vor der Südtribüne mit der Kronen-Geste. Das Symbol der aktuellen Kampagne "The King’s Return".
 
-Genau so war es am Sonntag. Rönnow ist zwar schon seit Jahren ein sicherer Rückhalt im Berliner Tor, aber in diesem Spiel zeigte er mal wieder, warum er zu den besten Torhütern in der ganzen Bundesliga gehört. Insgesamt acht Paraden lassen erahnen, dass der Torhüter beim 0:2 ein weiteres Union-Debakel verhinderte. Schon das 0:0 zur Pause war Rönnows Verdienst, fand auch Innenverteidiger Zeno van den Bosch: "Dass wir ohne Gegentor geblieben sind, hatten wir vor allem Freddy zu verdanken, der ein starkes Spiel gemacht hat."
+Nmecha unterstützt die umstrittene "King's Return Kampagne".
+                                                tagesschau
 
-Union gelang am Sonntag kein einziger Schuss auf das gegnerische Tor. Aber nicht die Offensive war harmlos, auch in den Zweikämpfen waren die Köpenicker zu zahm. Bezeichnend eine Situation in der 53. Spielminute, als ein Freiburger ohne Mühe durch eine Lücke zwischen Jannik Haberer und András Schäfer schlüpfte. Der Schuss danach ging neben sein Tor, aber Rönnow schrie mit wutverzerrtem Gesicht seine passiven Mitspieler an, um sie irgendwie noch aufzuwecken.
+DFB-Sportdirektor Rudi Völler hat am Montag (09.11.2016) nun ein Gespräch mit dem in die Kritik geratenen Nmecha angekündigt, gleichwohl aber auch Verständnis für den streng gläubigen Nationalspieler geäußert. "Wir werden es ähnlich machen wie die Dortmunder, mit denen wir auch im Austausch sind", sagte Völler im Podcast "Kerners 11:" "Wir wollen das nicht so hochhängen. Wir werden sicherlich mit ihm darüber reden." Auch die BVB-Geschäftsführung will das Gespräch suchen, hieß es.
 
-Freiburg hatte keine Mühe, immer wieder in den Strafraum zu kommen. "Ob das der Worst-Case-Gegner war, sei jetzt mal dahingestellt", antwortete der verdutzte Freiburger Igor Matanović nach dem Spiel im Fernsehinterview und man konnte es ihm noch nicht mal als Provokation auslegen. "Die waren in allen Phasen einfach besser", schimpfte Rönnow. "Für mich reicht das nicht, ich will punkten."
+"Das Wichtigste bei so einem Thema ist eben auch, dieses genau zu verstehen. Der Ablauf von vielen Dingen hier muss gewährleistet sein", sagte Völler: "Bisher kann ich nur positive Dinge über Felix Nmecha sagen. (...) Er ist total beliebt bei seinen Mitspielern. Ich kann die Diskussion verstehen, dass das nicht jedem gefällt."
 
-Kein Wunder. Rönnow ist einer der letzten im Kader, die mit Union in der Champions League gespielt haben und nach Jahren des langsamen Verlusts individueller Qualität definitiv der letzte, der heute noch in die Königsklasse gehört. Das sah man auch gegen Matanović, als Rönnow abtauchte, um einen Kopfball, den der Kroate aus wenigen Metern lehrbuchartig flach aufs Tor geköpft hatte, von der Linie zu wischen.
+Der Fall ist delikat. "Dieses Netzwerk steht für ein Weltbild, das mit den oben genannten Werten des BVB nicht vereinbar ist. Einem 26 Jahre alten Fußball-Nationalspieler ist zuzutrauen, dass er um seine Vorbildfunktion weiß und sich dessen bewusst ist, was er macht und für wen er da wirbt", kommentierte der Sport-Informations-Dienst.
 
-Seine Vertragsverlängerung vor einem Jahr war einer der größeren Coups des Sportgeschäftsführers Horst Heldt, der nach dem Spiel einmal mehr beteuerte, dass er Vertrauen in den Kader habe. Sein erneuertes Versprechen, die Klasse zu halten, hängt maßgeblich von der Form seines "Klasse-Torhüters" ab.
+Und das führt unweigerlich zu einem Dilemma, in dem nun BVB und DFB stecken, die auf Nmecha bauen. Jürgen Klopp hält viel von dem Dortmunder Dampfmacher, der bei der WM 2026 im ersten Vorrundenspiel gegen Außenseiter Curaçao in Houston (7:1) den Torreigen eröffnete. Damals hatte er es nach Außenbandverletzung gerade in den Kader geschafft, galt auf einmal als Hoffnungsträger, ehe er beim Ausscheiden gegen Paraguay (3:4 i. E.) saft- und kraftlos wirkte.
 
-Aber Heldt ergänzte auch eine der abgedroschenen Phrasen der Fußballersprache, die tatsächlich wahr sind: "Wenn der Torhüter dein bester Spieler war, dann ist das bezeichnend." In diesem Fall hat er die volle Unterstützung seines Torhüters, der im Interview nach dem Spiel mit weit aufgerissenen Augen Alarm schlug. Frust und Sorge standen dem Torhüter ins Gesicht geschrieben. Sein Satz: "Wir müssen es einfach besser machen", fasst den Tenor der Wutrede zusammen.
+Mittlerweile geht Nmecha wieder als spielintelligenter Antreiber für die Schwarz-Gelben voran, der Energie und Esprit kombiniert. Bundestrainer Jürgen Klopp hob im Nominierungsvideo hervor, was der einstige Wolfsburger alles beherrscht. "Felix Nmecha ist einfach jemand, der unglaublich viel Fantasie hat. Er ist eine Maschine. Er ist physisch unglaublich stark und fußballerisch wahnsinnig talentiert.“ Er sehe bei dem gebürtigen Hamburger noch erhebliches Entwicklungspotenzial: "Es ist schon spannend. Es gibt so ein paar Dinge, wo man sich wirklich Gedanken machen kann: Wo kann das noch hinführen?"
 
-Vor allem sprach er über die leichten Fehler seiner Vorderleute, die ihm immer wieder das Leben schwer machten. "Nach einer Situation, in der wir lange verteidigt haben, kriegen wir keine Pause, weil wir den Ball zu schnell verlieren", erklärte Rönnow. So war es vor dem letztlich vorentscheidenden 0:1 in der 55. Spielminute, als ein Angriff nach dem anderen auf Unions Tor zurollte, weil der Ball ständig im Spielaufbau verloren ging. Nach wie vor fehlt im Ballbesitz die Bewegung ohne Ball und die Präzision im Passspiel. In der Folge schlägt Union viele lange Bälle und läuft immer wieder in Konter. Mit 65 Prozent angekommenen Pässen war Rönnow sogar in dieser Statistik besser als die Offensivspieler Andrej Ilic, Oliver Burke, Livan Burcu und Kastriot Imeri.
+Bei so viel Lob ist gar nicht sicher, dass der Bundestrainer für die Nations-League-Partien gegen Serbien in Belgrad (Freitag 20.45 Uhr/RTL) und gegen die Niederlande in Berlin (Montag 20.45 Uhr/ARD) fest mit einem Münchner Mittelfeldgespann plant, das aus Kapitän Joshua Kimmich und Aleksandar Pavlovic oder Tom Bischof besteht. Auch Nmecha hat reelle Einsatzchancen; vielleicht bekommt er aufgrund seiner Torgefahr beim Geisterspiel in Belgrad den Vorzug vor Pavlovic und Bischof.
 
-Sendung: rbb|24, 08.11.2026, 21:41 Uhr Audio: rbb|24, 08.11.2026, Jens Jörg Rieck
+Bundestrainer Jürgen Klopp hat seinen Kader für die Länderspiele im November bekannt gegeben. Dabei sind auch Teenager Wael Mohya und Rückkehrer Niclas Füllkrug.
+
+Ähnlich wie Klopp hörte sich auch Vereinstrainer Niko Kovac an, wenn es um seinen fußballerischen Einfluss geht. "Mit seiner Präsenz, seiner Technik und seiner Dynamik kann er viele Situationen schnell lösen, kann mit seinen Körperdrehungen beschleunigen. Das macht seine Mitspieler um ihn herum sehr viel besser", erklärte der BVB-Coach. Doch sobald der Spieler seine Tore nutzt, um religiöse Werbung zu betreiben, wandelt er auf einem schmalen Grat.
+
+"Unsere Kritik richtet sich gegen religiöse Netzwerke, die unter dem Deckmantel des Glaubens ein Weltbild verbreiten, in dem Menschen aufgrund ihrer sexuellen Orientierung, ihrer geschlechtlichen Identität, ihrer Lebensweise oder ihrer persönlichen Entscheidungen abgewertet oder ausgegrenzt werden", kritisierte die Fan- und Förderabteilung in ihrer Stellungnahme. Besonders problematisch sei dabei die enorme Reichweite, die professionelle Fußballspieler besitzen.
+
+Dass der Verband mit Nmecha hart ins Gericht geht, ist nicht zu erwarten. Dafür spricht ein Interview von DFB-Präsident Bernd Neuendorf bei "RTL" nach dem WM-Auftaktspiel im Sommer, als er Nmecha in Schutz nahm. "Er hat das zurechtgerückt, auch sich klar positioniert und distanziert von solchen Vorwürfen der Homophobie", sagte der Verbandsboss damals im Quartier in Winston-Salem.
+
+"Das ist vielleicht in einer säkularisierten Welt für einige Menschen auch etwas ungewöhnlich, dass man das tut", sagte Neuendorf zu der Sequenz, dass auf Initiative Nmechas mehrere Spieler einen Gebetskreis auf dem Platz gebildet hatten. "Die Intention, die er damit verfolgt, ist ja positiv, nämlich dass man über das Fußballspielen hinaus für ganz bestimmte Dinge steht, für Menschlichkeit und für Respekt. Er ist wirklich, glaube ich, ein sehr sensibler Mensch und steht für diese christlichen Werte."
+
+Nmecha hatte sich damals gegen die Vorwürfe gewehrt und betont, dass er weder homophob noch transphob sei.
+
+Dieses Thema im Programm: sportschau.de | DFB kündigt Gespräch mit Felix Nmecha an | 09.11.2026 | 16.41 Uhr
+
+----------------------------------------
+
+[3] NATIONS LEAGUE MIT TUCHEL UND CO.: DIESE TOPSPIELE STEHEN JETZT AN
+
+In der Nations League stehen neben den Partien des DFB-Teams gegen Serbien (Freitag, 13.11.) und Niederlande (Montag, 16.11.) einige weitere echte Topspiele an.
+
+Los geht es in der A-Liga schon am Donnerstag (12.11.), wenn erst die Türkei auf Belgien (18 Uhr) und dann Italien auf Frankreich trifft (20.45 Uhr). In dieser Gruppe A sind natürlich alle Konstellationen irgendwie echte Topspiele, aber vor allem auf den Auftritt der Türken dürften viele Fans gespannt sein.
+
+Es ist die erste Partie nach der Entlassung von Trainer Vincenzo Montella, der die Türken zwar nach langer Durststrecke zur WM und zuvor eben auch in die Nations-League-A-Liga geführt hatte, dort aber mit der Mannschaft nicht überzeugen konnte. Nach null Punkten aus den ersten vier Partien hatte der Verband die Reißleine gezogen und Sergen Yalcin als Nachfolger verpflichtet. Der hat in seinem ersten Kader ordentlich umgebaut - prominente "Opfer", die gegen Belgien und am Sonntag gegen Frankreich nicht dabei sein werden, sind unter anderem Kerem Aktürkoglu, Mert Müldür und Irfan Can Kahveci von Fenerbahce sowie Torwart Altay Bayindir.
+
+Der türkische Fußballverband hat Sergen Yalcin als Nachfolger des entlassenen Ex-Nationaltrainers Vincenzo Montella vorgestellt.
+
+Die beste Mannschaft der bisherigen Nations-League-Saison ist die Schweiz. Zumindest in Sachen Punkten und Tordifferenz. 12 Punkte aus vier Spielen, 11:1 Tore - die Auswahl von Murat Yakin knüpft nahtlos an die starke Performance bei der Weltmeisterschaft an, in der erst in der Verlängerung des Viertelfinales gegen Argentinien Schluss war.
+
+Die Schweizer Fußball-Nationalmannschaft plant nach der Corona-Affäre um Kapitän Granit Xhaka und Stürmerstar Breel Embolo wieder mit dem Duo. Das bestätigte der Schweizer Verband SFV am Dienstag.
+
+Besonders beeindruckend: Diese vier überzeugenden Siege gegen Schottland, Normazedonien (2x) und Slowenien gelangen alle ohne die Topstars Granit Xhaka und Breel Embolo. Nach Bekanntwerden von Fehlverhalten der beiden im Rahmen der Corona-Pandemie in den Jahren 2021 und 22 hatte Yakin auf seine Routiniers verpflichtet. Jetzt sind beide wieder im Kader, doch gerade im Sturm muss sich Embolo erst einmal an Mohamed Zeki Amdouni vorbeispielen, der Stürmer vom FC Burnley erzielte in Embolos Abwesenheit drei Tore und legte ein weiteres auf. Gegen Slowenien reicht den Eidgenossen am Freitag (13.11., 20.45 Uhr) bereits ein Punkt, um den Aufstieg zurück in die A-Liga zu sichern.
+
+Cristiano Ronaldo ist nach seinem Rücktritt in Portugals Nationalteam "nur" noch ein Geist der Vergangenheit. Zwar der wohl größtmögliche überhaupt, aber sportlich blickt man auf der iberischen Halbinsel nun nach vorn. Gesucht werden aber nicht unbedingt die neuen sportlichen Leistungsträger, denn "CR7" war schon in den vergangenen Jahren nicht mehr der sportlich beste Spieler in Portugals Kader. Vitinha, Joao Neves, Nuno Mendes - allein das Trio von Doppel-Champions-League-Sieger Paris Saint-Germain hat schon länger einen legitimen Anspruch auf diesen inoffiziellen Posten. Talent ist genug da, es braucht "nur" einen neuen Anführer und einen neuen treffsicheren Stürmer. Denn bei allen berechtigten Kritik-Ansätzen: In seinen letzten 16 Länderspielen gelangen Ronaldo trotzdem noch stolze elf Treffer.
+
+Cristiano Ronaldos Länderspielkarriere ist vorbei und sucht ihresgleichen. Sie hinterlässt unfassbare Zahlen, ikonische Bewegungen und ein unrühmliches Ende.
+
+Neuer offizieller Anführer ist Real-Madrid-Star Bernardo Silva, der das Kapitänsamt bekleiden wird. Heißester Kandidat auf den Job des Goalgetters ist Goncalo Ramos, der Mittelstürmer von der AC Milan traf in den jüngsten drei Partien, in denen Ronaldo ja schon nicht mehr eingesetzt wurde, jeweils einmal. Generell gilt aber: Portugal hat so viel Talent im Kader, dass das Team gar nicht mehr auf den einen großen Ausnahmekönner im Sturmzentrum angewiesen ist. Im Duell mit Dänemark (14.11., 20.45 Uhr) reicht den bisher makellosen Portugiesen bereits ein Punkt zum Gruppensieg - das Hinspiel war spektakulär, es endete 4:2 (2:1).
+
+In einem mitreißenden Nations-League-Spiel schlug Spanien Ende September die Engländer mit 3:2 (1:2) - nun folgt das Rückspiel. Nach der Partie hielten sich beide in ihrer Gruppe schadlos, gewannen jeweils die anderen drei Spiele und stehen auf Platz eins und zwei der Gruppe. Sollte England am Donnerstag erwartungsgemäß gegen Kroatien gewinnen - das Hinspiel gegen die Kroaten endete 7:0 - steht an diesem Sonntagabend um 20.45 Uhr also das große Finale um den Gruppensieg an.
+
+Thomas Tuchel hat erstmals beide Bellingham-Brüder in die englische A-Nationalmannschaft berufen. Auch dabei ist natürlich Harry Kane, der vor einem Rekord steht.
+
+Dass Jude Bellingham dann auf dem Rasen stehen wird, scheint so gut wie sicher - sein Bruder Jobe wird vermutlich erst einmal auf der Bank Platz nehmen. Aber allein das ist für den jungen Dortmunder, der zum ersten Mal nominiert wurde, schon eine gigantische Ehre. Und wenn es mit gemeinsamen Einsatzminuten klappt, wären die Bellinghams das erste Brüderpaar seit Gary und Phil Neville in den 90ern, das gemeinsam für England aufläuft.
+
+Dieses Thema im Programm: sportschau.de | Topspiele in der Nations League stehen an  | 09.11.2026 | 21.03 Uhr
 
 ----------------------------------------
 
 
 >>> TECH (WIRED) <<<
 
-[1] SCIENTISTS MAY HAVE DISCOVERED A MASSIVE STARLESS GALAXY
+[1] HUUPE MINI 2 REVIEW: MORE GAME THAN IT CAN HANDLE
 
-Some galaxies appear to contain all the ingredients needed to make stars, yet have failed to produce almost any.
+If your mom was one of those who always said, “Don’t play ball in the house,” well, she’s going to absolutely hate the Huupe Mini 2.
 
-Scientists have puzzled over why for years. Recent findings suggest that these “dark galaxies”—that is, galaxies that contain gas and dark matter but few or no stars—may be lurking throughout the cosmos. Finding them could help astronomers understand why some galaxies form stars while others remain dark, and test the best models of galaxy formation.
+Huupe manufactures smart basketball hoops and add-on kits for existing setups that track shots, light up the board when a point is registered, and include social features like global challenges and leaderboards. The Huupe Mini 2 is the pint-sized, indoor version of that idea, clipping over the top of a door so you can shoot hoops without ever having to leave the room.
 
-Researchers’ most successful model of the cosmos, known as Lambda-CDM, assumes the existence of two invisible ingredients: dark energy, the mysterious property thought to be driving the accelerating expansion of the universe, as well as cold dark matter, a hypothetical substance that physicists think makes up about 85 percent of the universe’s matter.
+I’ve been testing one out for weeks, and while it’s a fun diversion, some of its features overreach beyond its core functionality, resulting in an experience that bricks as much as it dunks.
 
-Clumps of dark matter, called haloes, provide the gravitational scaffolding for galaxies to form and grow, according to the model. Gas collects inside these haloes, eventually cooling and collapsing to form stars. But astronomers are still trying to understand why this process appears to happen in some haloes but not others.
+The Huupe Mini 2 is, effectively, a smart television with a basketball hoop mounted to it. Or rather, a smart TV that comes with a basketball hoop that you have to mount yourself, courtesy of four screws and a little elbow grease. The LCD screen measures 19 inches diagonally, plus a hefty border that includes stereo speakers and a camera used to track you and your b-ball prowess. (Total size of the backboard is 25 inches diagonally, which fits comfortably within a door frame.)
 
-One possibility is that some contain vast quantities of hydrogen gas, yet form very few stars. That would make them extremely difficult to spot.
+A 5-inch inflatable rubber basketball is included, along with a small hand pump and needle. Also in the box are a small but otherwise traditional remote control—required to do anything with the Huupe—and a USB-C charger and lengthy cable so you can top up the battery without removing it from the door.
 
-Now, researchers have found a promising candidate for such a dark galaxy and published their findings in the Monthly Notices of the Royal Astronomical Society. The object, known as AGC 322753, contains roughly 2 billion times the sun's mass in hydrogen, yet appears to have no stars, though the researchers note that it is too big to be totally starless. However, if confirmed, it would be an unusually massive example of a starless galaxy.
+After a quick charge, the unit is ready to set up. I was surprised to discover there’s no app for the device; while larger Huupe hardware works with one, the Mini 2 is completely self-contained and web-based. Just connect the backboard to your Wi-Fi network through a process that you step through with the remote, just like you would on any modern television.
 
-Researchers at Swinburne University of Technology in Australia made the discovery by comparing observations from two existing radio surveys, one conducted by the Arecibo Observatory in Puerto Rico and the other by China's Five-Hundred-Meter Aperture Spherical Radio Telescope. Both telescopes had picked up a massive cloud of hydrogen.
+What’s new vs. the original Huupe Mini? According to the company, most of the upgrades are behind the scenes: a faster CPU, a larger battery (rated lifespan is now four hours), better display quality, and “significantly” better shot tracking. New games are also included, which I’ll cover in the sections to come.
 
-Although other researchers have identified several dark galaxy candidates over the past decade, this one stands out for another reason: It may be rotating.
+Once connected to the web, the Huupe Mini 2 opens up a world of entertainment to you, and, to my great surprise, not all of it is basketball-related. At first blush, the options available are actually quite daunting. It’s all arranged into traditional tiles on the home screen, which you scroll through with the remote.
 
-Hydrogen gas emits radio waves at a signature wavelength, which shortens when the gas moves toward Earth and stretches when it moves away. The signal from AGC 322753 shows two distinct peaks, suggesting that one side of the gas cloud is moving towards us while the other is receding.
+Just Huupe is the board’s most basic scoring system, tracking shots and recording your shooting percentage in an untimed session. If you want to get competitive, Huupe Live and the Daily Prize Challenge are social games where you challenge players worldwide to score the most points in a given time frame. The winner gets a nominal prize—10 bucks for the daily challenge, a “cozy sweatsuit” for a monthlong challenge. Other games are fairly self-explanatory, like Most 3 Pointers in 90 Seconds and Family Mode (basically Horse).
 
-This could mean that the gas has settled into an organized, rotating structure, much like the discs in ordinary galaxies, despite apparently having formed no stars.
+Many of the games require online friends to play against; if you don’t have pals with their own Huupe Minis, you’ll probably be locked out of these modes—not that they add much beyond their multiplayer features.
 
-"The theoretical models and the simulations show us that dark galaxies shouldn't rotate, so this is extremely interesting," says Marco Monaci, an author of the study at Swinburne University of Technology.
+Things get a little kookier—and buggier—from there. For example, Huupe Flyers is designed to be played without a ball. It’s a gesture-based version of Flappy Bird, wherein you literally flap your arms around to keep a basketball in the air, tracking your movements via the camera much like an Xbox Kinect. Unfortunately, unlike the ball-based games, I was never able to play it, as it failed the calibration process every time I tried to fire it up.
 
-If AGC 322753 really is a rotating disc with no stars, astronomers will have to explain how the gas organized into such a structure without producing them.
+The system also works as a fairly straightforward streaming platform. Included are apps for YouTube, HBO Max, ESPN, Disney+, Prime Video, Hulu, Spotify, and more. There’s one glaring omission in that list, of course, and I’m not talking about Paramount+ but rather Netflix. Without Netflix support, can you even call yourself a streaming device? It’s also worth noting that the built-in speakers are surprisingly weak. On some apps the audio is OK; on others it’s nearly inaudible.
 
-That isn’t the only puzzle. Most models of galaxy formation predict that a cloud holding this much hydrogen should have formed at least a few stars, as its densest patches collapse under their own gravity and ignite.
+The Huupe Mini 2 includes not just a sensor that can detect when a basket is successfully made; it also includes a camera to track how far the shooter is from the backboard. This is used to assign point values to various shots (depending on the specific game you’re playing), with more points earned the farther away you are from the hoop.
 
-The paper’s coauthors suggest it may be very unlikely that AGC 322753 contains absolutely no stars. So, instead, they think it may contain stars too faint to see–an “almost dark” galaxy. If so, they must be very faint indeed, because even deep optical images from the DESI Legacy Imaging Surveys, which search for starlight rather than the hydrogen gas detected by radio telescopes, reveal none.
+The good news is that in weeks of playing on the Huupe Mini 2, I never noticed a time when a successful basket was recorded as a miss or vice versa. The distance calculation, however, is another thing. I’ve shot from across the room and had it count as 1 point, while some shots from just a few feet away ring up as 3 points. I could never figure out much rhyme or reason for this variability, except that shots straight-on to the backboard generally registered as lower point values, even if they were distant, while shots from the wings earned more. Of course, navigating all of this is highly dependent on the geometry of your room. Unless you have the Huupe Mini 2 set up in an empty garage, you are probably, like me, going to have plenty of obstacles that get in the way of a lot of your shots—and plenty of crawling under furniture to retrieve wayward balls.
 
-From this, the team estimates that AGC322753 contains at least 40 times more mass in hydrogen than in stars, raising questions about what exactly suppressed stars from forming.
+I can say with authority that it is harder to make a basket on the Huupe Mini 2 than on a regulation basketball goal, even at a very close distance. The hoop is small, and the ball tends to rebound wildly off the springy backboard. It’s quite unforgiving, and it didn’t really make me want to spend a lot of time playing, chasing balls that bounced into the corner or rolled under the bed.
 
-But further observations, such as ones made by the Very Large Array, a network of radio antennas in New Mexico, will be needed to confirm whether AGC 322573 is truly a dark—or almost dark—galaxy.
+The other big problem: When the included inflatable ball hits the Huupe Mini 2, the impact is extremely loud, to the point where I was promptly informed by my wife that it was not appropriate for use when anyone else was in the house. While Huupe says the device is intended solely for use with the included ball, I found a workaround by purchasing a 5-inch foam basketball from Amazon, which makes a bit less noise on impact and also softens the rebound a bit. It has had zero trouble registering baskets.
 
-"Finding out more about it really is an essential next step at the moment. It's intriguing, and I want to know more," says Robert Minchin at the National Radio Astronomy Observatory.
+Battery life is another issue. While four hours is plenty of playing time, the battery continues to drain when the Huupe is in standby mode, which meant I would play a few games in the morning, ostensibly shut the Huupe off, then come back in the afternoon to a completely dead device. The Huupe can run with the power cord attached, but only once the battery has charged to at least about 5 percent.
 
-Minchin knows how misleading such signals can be. He was involved in the discovery of VIRGOHI21, a dark galaxy candidate found in the early 2000s that was later reinterpreted as a long stream of hydrogen gas pulled from a nearby galaxy by gravity, known as a tidal tail.
+Unfortunately, even turning the power off is puzzlingly difficult. The power button on my remote control did nothing; I ultimately had to turn the system on and off with the physical button on the bottom of the backboard.
 
-Gas torn away like this can keep some of its original motion and mimic the signature of rotation, so Minchin says more observations are needed to rule out the same explanation for AGC 322753. Yet there is no obvious nearby galaxy it could have come from.
-
-Rhys Taylor, an astronomer at the Astronomical Institute of the Czech Academy of Sciences in Prague, says tidal debris is unlikely to explain the observations. Reproducing the candidate dark galaxy’s distinctive double-peaked profile through such a process “is technically possible, but it’s fantastically unlikely,” Taylor says.
-
-Taylor and Minchin both flag another concern, though. The two radio surveys that the researchers used placed the hydrogen at noticeably different positions in the sky. That suggests AGC 322753 may be an extended cloud of gas rather than a compact galaxy, another possibility that follow-up observations could help untangle.
-
-Whether AGC 322753 turns out to be completely dark or merely exceptionally faint, understanding objects like it could still help astronomers work out why some galaxies form stars while others apparently do not, says Elisabeth Adams at the Planetary Science Institute.
-
-One possible reason is a galaxy that spins so fast that its gas stays too spread out to collapse. Another is that ultraviolet light from the universe’s earliest stars heated the gas, keeping it too warm to condense. Studying such almost-dark galaxies could help tell these phenomena apart, revealing how the conditions of the early universe shaped the galaxies we see today.
-
-“Once it’s no longer a dark galaxy, people seem to stop caring, and I actually think that’s not the right approach,” says Adams.
-
-But if AGC 322753 truly is starless, it would be one of the most massive dark galaxies ever identified, potentially helping explain where the missing galaxies predicted by Lambda-CDM have been hiding. It could even help astronomers understand why some gas-rich galaxies form stars while others don't, providing a valuable test for models of galaxy formation—and perhaps even offering new clues about the nature of dark matter itself.
-
-In your inbox: Inside WIRED’s newsroom with Katie Drummond
-
-They war-gamed dimming the sun—it went worse than you think
-
-The Big Interview: Nathan Fielder tells us everything
-
-Live tracker: Elon Musk’s America PAC is spending big on the midterms
-
-Introducing the app: More ways to make the most of WIRED
-
-© 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
-
-----------------------------------------
-
-[2] AUDIOENGINE COLOR OF THE YEAR KIT REVIEW: BRIGHT LOOK, GOOD SOUND
-
-The artist Wassily Kandinsky said, “Color is a power that directly influences the soul.” But in the realm of home stereo gear, the color wheel gets minimal airtime, with equipment typically available in scant options: silver-faced classics, wood-grain boxes, all manner of modern reflective piano black, and not a whole lot else.
-
-Not so with Audioengine, which has painted a neat little world with its annual Color of the Year kit: a suite of home audio components, including laptop speakers, a subwoofer, a turntable, and speaker stands. Each year, the brand drops a new edition of the series in a different color; in the launch year of 2024, a dusky matte blue; in 2025, a subtle metallic green; and now in 2026, a lustrous and smooth egg-yolk yellow.
-
-Having a home audio system in such an unusual color palette is, to me, irresistibly joyful; whenever I look at these stereo components, I can’t help but smile. And the tech holds up, too. After months of testing the suite, I was colored impressed. Straight out of the box, it's a great option for music lovers who value the look and sound of their home stereo setup.
-
-The anchoring component of the Color of the Year suite are the A2+ Gen 3 Wireless Speakers. At 6 inches tall by 4 inches wide, they’re sized like laptop speakers—and get high marks for that purpose as WIRED’s top pick for computer speakers—but that’s really just the start of what they can do. Alone, the speakers pack enough power for a small home theater. They're also easy to integrate into a bigger system, thanks to their included stereo mini-jack inputs, USB inputs, and both stereo RCA inputs and outputs. To make the sound quality more targeted, place the A2+ speakers atop the included DS1M Desktop Stands, and angle them 15 degrees up toward your ears.
-
-This year, Audioengine expanded its Color of the Year suite to include a color-matched Bluetooth turntable in collaboration with Crosley. Called the C6, it's a manual two-speed machine with a nice, heavy steel platter and medium-density fiberboard (MDF) plinth. It's Bluetooth-enabled and features a built-in preamp that lets you directly connect your A2+ speakers—wired or wireless—without a need for additional components.
-
-My favorite part of the Color of the Year suite is the S6 Powered Subwoofer. At 10 inches by 8.7 inches, the compact, front-firing form factor lets you snuggle it into various spaces that wouldn't work for a larger, bottom-firing subwoofer. This is a class D sub with a frequency response down to 33 Hz and an adjustable crossover down to 40 Hz that helps your system sound complete, lifting the bass and rounding out the listening experience.
-
-The ease of setup is one of the major draws for the Audioengine suite. Plug in the A2+ speakers, link them together using the provided stereo cables, and turn them on. You can connect the speakers via Bluetooth, or plug in other components via the stereo inputs. It’s as basic as home hi-fi gets.
-
-Linking the Crosley C6 turntable using Bluetooth is similarly seamless. The A2+s have an intuitive Bluetooth pairing mode that starts up when you turn on the speakers, indicated by a flashing Pair button on the back. From there, turn on the turntable, make sure it’s in the “line” position (by using the turntable’s built-in preamp), and the C6 instantly searches for the A2+s. Once the two units connect, the flashing button on the back of the speakers will turn blue, as will the Bluetooth indicator on the turntable.
-
-Connecting the subwoofer was likewise a cinch: Connect an RCA cable to the back of the A2+s in the RCA output, then run that to the audio input on the back of the S6 subwoofer. Once you connect, you’ll want to tweak the sound and presence of the subwoofer, and once you’re happy with the dial-in, the subwoofers will go up and down in volume, in lockstep with the A2+ speakers.
-
-Each Audioengine product also came with a QR code that launched a step-by-step setup process, which I found especially helpful for dialing in the sound for the woofer. (The Audioengine YouTube channel is also a wealth of information.)
-
-After several colorful, music-filled months of testing the Audioengine kit, I found the system to be versatile, though not without its limitations or opportunities for upgrades and tweaks. Right out of the box, the speakers, subwoofer, and turntable looked fantastic and sounded pretty nice. The A2+ speakers were shockingly nuanced and detailed, considering their small size, with Primus and Frank Zappa records showcasing slashing guitars and Paul Chambers and Bill Evans jazz albums providing a sophisticated soundstage. These speakers also worked great for home gaming and laptop use. The subwoofer did wonders when connected to the A2+ for elevating the home-theater experience. The growling lion and car-chasing monkeys in 1995's Jumanji were vivid and lifelike.
-
-Being able to transition from home stereo to computer to home theater is versatile and fun. It means there’s always a way to incorporate these products into your home.
-
-If there’s a weak link in the Color of the Year kit, it’s the turntable—but even that is pretty strong. The aluminum tonearm leaves something to be desired if you’re accustomed to higher-end units, but the C6 worked well for me and will suit the needs of most casual listeners. There are several similarly priced Bluetooth-enabled turntables on the market, so out of curiosity I swapped in a Sony PS-LX3BT and noticed no significant difference in terms of sound. What those other turntables lack is the aesthetic unity and the satisfaction of having your entire system kitted out in a unique colorway.
-
-Mostly, I just love how this canary-yellow gear looks together. It offers equal parts interior-design pleasure and home audio performance. The price is incredibly competitive across the entry-level home stereo space, and the ease of use and setup feels intuitive and user-friendly for novices. If color influences the soul, then the union of color and music stands to be a source of deep satisfaction—and I’ve found it here.
-
-(If you don't want the entire suite, you can buy the components à la carte without a penalty—there's no price break for the bundled suite.)
+At $429 (on deep discount from a hefty list price of $799), the Huupe Mini 2 sits perhaps just over the edge of what might pass for a quirky holiday gift—and I think it’s safe to say no one is buying this device for themselves. You’d have to be a huge basketball nut to get enough mileage out of the device to make it worthwhile. I expect you would also have to loathe leaving your room. With today’s kids, who knows.
 
 Power up with unlimited access to WIRED. Get best-in-class reporting and exclusive subscriber content that's too important to ignore. Subscribe Today.
 
@@ -284,49 +293,61 @@ Power up with unlimited access to WIRED. Get best-in-class reporting and exclusi
 
 ----------------------------------------
 
-[3] AUTHORS CAN DEFEND AGAINST AI ALLEGATIONS WITH ‘PAPER TRAIL’ TOOLS. IS IT ENOUGH?
+[2] HERE’S WHAT WE KNOW ABOUT THE X-70 FRACTAL, NASA’S EXPERIMENTAL NEW PLANE
 
-Andrea Bartz is a prolific novelist with an impressive résumé. Since 2019, she has published five thrillers, become a New York Times bestselling author, had her work optioned by the likes of Netflix and Hulu, and picked up an endorsement from Reese Witherspoon’s influential book club.
+NASA has unveiled a new experimental vehicle, the X-70 Fractal, although many of its features remain a mystery. The agency describes it as a research platform designed to conduct advanced aeronautical tests, but so far it has released only computer-generated images and some technical specifications regarding its capabilities.
 
-She also has a legal claim to fame: Bartz was the lead plaintiff in a class-action suit against Anthropic that alleged the company had downloaded millions of copyrighted books from pirate sites to use as training data for its models. Anthropic last year agreed to pay $1.5 billion in the largest copyright settlement in US history.
+Despite the secrecy, it is possible to get some idea of what the new vehicle is like. First of all, it’s not a spacecraft, meaning it is not designed to reach Earth’s orbit or operate outside the atmosphere. However, this crewed, subsonic aircraft is capable of flying far above commercial jets, reaching altitudes over 45,000 feet, well into the stratosphere. Other specs released include the plane’s max speed of Mach 0.75—about 575 miles per hour—and that it can travel nearly 1,700 miles in a single flight.
 
-But while Bartz and many other writers were on guard against this plunder of their work, another AI threat was brewing. What happens when authors are accused of relying on artificial intelligence themselves?
+According to NASA, the X-70 Fractal will enable research into maneuver capabilities never before demonstrated in crewed aircraft, although the agency has not specified what types of maneuvers it intends to perform. The plane will also be capable of carrying up to one ton of experimental equipment and is expected to make its first flight under the NASA banner within the next two years.
 
-This past March, the publishing industry found out: Following widespread speculation on social media that a horror novel titled Shy Girl was largely AI-generated, and a Times article about those claims, Hachette Book Group canceled an upcoming US publication run for the novel and discontinued it in the UK, where it had already been released. According to Pangram, a robust but by no means infallible AI detection tool, some 78 percent of the text was AI-generated.
+One of the key features of the craft will be its modular design, allowing for the rapid installation and replacement of experimental equipment both inside and outside the aircraft. This is largely why it is referred to as an “experimental platform.” It will also feature reconfigurable flight control systems so that NASA can study different ways of steering an aircraft without having to develop a separate platform for each research project.
 
-Mia Ballard, the author of Shy Girl, has denied allegations that she used AI to write the novel, claiming that an editor was responsible for AI-assisted changes to a previously self-published version of the book. She has also said that she is pursuing legal action. Since that scandal broke, several more fiction authors have run afoul of AI suspicions, one after winning a short story prize, another after publishers bid into the millions for his crime novel. Both have denied these allegations as well.
+Although NASA is best known for its space missions, it’s long been dedicated to aeronautical research. That’s what the first A stands for. The agency also traces its origins to the creation of the National Advisory Committee for Aeronautics, which was founded in 1915 and was folded into the newly formed NASA in 1958.
 
-But Bartz notes that once the accusations start, the damage is done. As the Shy Girl scandal erupted, she says, “I kind of immediately felt like this was going to lead to a potential witch hunt.” The unavoidable emergence of AI in publishing, she explains, will “have the unintended effect of leading anyone to be able to accuse anyone of using AI,” and at the moment, authors have little recourse in defending themselves against these charges. “There’s no agreed upon standard,” Bartz says, in proving human authorship.
+Since then, the space agency has developed numerous experimental aircraft to test technologies that range from supersonic flight and propulsion systems to new aerodynamic configurations. Not all of these prototypes go on to become operational aircraft, but the knowledge gained contributes to the development of future commercial and military aircraft as well as space vehicles.
 
-The developers of a host of new software tools hope to change that. Platforms including Workings, Blindproof, Wintertext, Human Ink, and ObraVera promise the means to track and document an author’s writing process, in some cases encrypting and fingerprinting the written work or typing rhythms with unique codes, in order to produce a record of authorship (whether entirely human or AI-assisted). The idea is not just to create a paper trail that writers can point to if someone questions whether they used an LLM but to demonstrate provenance when, for example, text is scraped into AI training sets without attribution or other identifying metadata.
+Among its most recent projects is the X-59, developed in collaboration with aerospace and defense company Lockheed Martin to investigate ways to reduce the noise produced by supersonic aircraft. The X-70 Fractal will join this tradition of pioneers in the sky.
 
-Mary Rasenberger, CEO of the Authors Guild, a professional organization focused on free expression and copyright protection, says that the guild can’t recommend any one of these tools over another but wants writers to know they exist as something of a security net. (Many of the companies have approached the Authors Guild to pitch their services, according to Umair Kazi, the guild’s director of policy and advocacy.)
+The development of these technologies also has a strategic dimension. In its budget documents for 2027, NASA identifies aeronautical research as a tool for maintaining US technological leadership in the face of growing international competition. The agency also plans to collaborate with the Department of Defense to advance new flight capabilities, although it has not yet announced any military applications for the X-70 Fractal.
 
-At the same time, Rasenberger tells WIRED, it’s “insulting” and a “burden” to have to jump through this hoop, and “we don't feel it should be required” for authors to preserve receipts.
+During the unveiling of the new aircraft, NASA Administrator Jared Isaacman noted that the project represents only one part of a new era for federal aeronautical research and hinted that more announcements are coming. For now, the agency has not provided details on what those initiatives might be, nor has it specified when it will release more information about the X-70 Fractal.
 
-“If what you're selling are your words and your voice and your imagination, your creativity, using AI doesn't make sense,” Rasenberger says, noting that authors’ pride in their own work means AI slop is far less common in publishing than one might think. “I've talked to editors, particularly editors of literary nonfiction and fiction,” Rasenberger says, “and some of them will say, ‘I never see AI-generated submissions, I'd know it if I did.’”
+This story originally appeared on WIRED en Español and has been translated from Spanish.
 
-Rasenberger worries that authors are up against a climate of distrust—they should “refrain from accusations of other authors because it just does not support a healthy literary community,” she says—and overconfidence in AI detection tools, which can be fooled and have been known to produce false positives. While Pangram claims an “industry-leading” false positive rate of 0.01 percent when used on creative writing, Rasenberger said the Authors Guild has “heard of lots of instances where people have put their own human-authored work in Pangram and gotten a result back saying it was AI-generated.” There are a variety of factors, she adds, that can “make an AI detector think something's AI-generated when it's not.”
+In your inbox: For life-tested picks, sign up for our Gear newsletters
 
-By the same token, a process-tracking app isn’t foolproof; the AI arms race means there’s an ongoing cycle of vulnerabilities and fixes on both sides.
+Airbnb hosts are furious they can no longer make guests do their chores
 
-“We offer a product that [tracks writing] in Google Docs, and many users find it helpful,” says Max Spero, cofounder and CEO of Pangram. “With that said, ‘paper trail’ tools are not a perfect catch-all. For example, someone could hand-type AI text, or use an auto-typer.” Spero points out that the messiness of writing itself creates further problems. “The average writer doesn't just sit down and type out a book,” he says. “They work with multiple files, send drafts back and forth, use voice notes while on the go. Not all of this gets captured in writing process tools.”
+big story: cool kids write in all lowercase—does that make you mad?
 
-The tools, meanwhile, may be more geared toward copyright concerns than confirmation of human or AI authorship. Brady Ridgway, technical founder of ObraVera—which can cryptographically “fingerprint” patterns in writing as well as audio voice recordings—says his platform is designed to trace reuse of material you have stored in their database as a registered human user. With a time stamp and a crypto hash, he explains, if the content “crops up later somewhere it's not supposed to be, or somebody else claims it as theirs, we can search the database and say, ‘These words were created at this time, by this person.’”
+WIRED event: The technologies, people, and ideas transforming our world
 
-That may demonstrate provenance and ownership, Ridgway says, yet it’s up to the registered individual to declare whether they used AI or not in the creation of the text. He refers to the kerfuffle in May over the writer who was accused of winning a Commonwealth Short Story Prize with an AI-generated submission. “Everybody seems to agree that he's the person who submitted the short story,” Ridgway says. “That's all that the software would do. It would say that somebody on this day made a declaration that it was human only or not AI-assisted.” It can’t confirm whether that’s a true statement or not.
+© 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
 
-Some argue that trying to institutionalize vetting systems for human authorship is simply impractical—and may soon be a moot point anyway. Jane Friedman, an author and publishing business expert, recently argued in her industry newsletter The Bottom Line, that the era of AI scandals is likely to be short-lived, given the improvements of Pangram and similar detectors. Moreover, she wrote, authors have now seen what may happen if they attempt to pass off AI-generated writing as their own.
+----------------------------------------
 
-Friedman tells WIRED that agents and publishers are unlikely to implement any method of verifying human authorship that “costs extra money or extra time,” not least because it would be impossible to get them to commit to a shared standard. She predicts that “it will be like herding cats to get agreement on this, because publishing is slow to adopt new technologies, especially new technologies developed by industry outsiders.”
+[3] SECURITY FLAWS ACROSS UK GOVERNMENT SITES EXPOSED ‘GOD-TIER’ INFORMATION
 
-Even if diverse publishers with highly variable needs and resources were to coalesce around some theoretical form of authentication, hurdles remain. Friedman alludes to the logistical problems of integrating this benchmark into existing production models, not to mention the lingering problem of “faked or manipulated” certification. “If any of this costs extra money or extra time, forget it,” she concludes. And while authors may be willing to pay for peace of mind, Friedman says, they won’t be able to trust that agents and publishers will accept proof of authorship from any given app.
+A security researcher has found more than 100 serious vulnerabilities in publicly available UK government code, putting sensitive data at risk as a result of poor cyber hygiene.
 
-In the absence of a clear solution, writers are left to fend for themselves. Bartz says that she’s alarmed by how zealous readers are responding to the prospect of being deceived by AI. “I have heard of people getting review-bombed on Goodreads because some stranger felt that the book sounded like AI to them, and everyone else piled on,” she says. “I've seen readers saying, ‘I'm not gonna read anything published after 2022, because then I can be sure that it doesn't have generative AI in it.’ That's a great way to tank an entire industry all at once.”
+The UK government has defaulted to openly publishing code it produces with public money for around a decade because it’s transparent, and making it easier for code to be reused is cost-efficient. This includes within the Department of Health and Social Care, and the Home Office, as well as local authorities.
 
-It so happens that Bartz’s forthcoming 2027 book, Delete Your Account, tackles generative artificial intelligence head-on. Her protagonist is a blocked writer who opts for an unfortunate shortcut, prompting an AI chatbot to imitate her favorite thriller—only to find herself trapped in that original story, facing certain death.
+But funding squeezes have left departments neglecting maintenance and improvement of their technology estate. While ControlPlane security researcher Chris Nesbitt-Smith found the vulnerabilities using Claude’s Opus and Sonnet AI models, he says that he used consumer-grade models on a laptop and that many of the issues could have been caught by a routine IT health check. “None of this is the level of sophistication that general media is worried about in terms of cyber attacks,” he tells WIRED. “It’s all daft stuff.”
 
-Bartz wonders if the very choice to satirize AI has put her in a precarious spot. “I've written portions that are very much meant to sound like LLMs,” she says. “Transcripts I made up, and annoying, AI-sounding marketing materials from this made-up AI company. And I don't know—if any of that comes back as AI-written, what will I do?”
+In the most serious case he identified, the Planning Inspectorate, which handles land-use matters across England, had failed to fully remove a login after it accidentally committed them to public repository GitHub. The fact the credentials gave such wide access—and seemingly didn’t expire—compounded with the agency’s accidental publication of them, “made it particularly dangerous for them.”
+
+The complete Microsoft Entra ID would have given “god-tier” read and write access to all SharePoint sites and private employee OneDrive accounts, according to Nesbitt-Smith, including HR records. It also would have given access to sensitive libraries which safeguard evidence under legal hold for statutory planning inquiries and appeals, according to the security researcher who found it. “The option for ransomwaring them, for encrypting all the data, or just stealing all the data, was abundantly there,” Nesbitt-Smith says.
+
+A spokesperson for the Planning Inspectorate told WIRED its cyber monitoring tools immediately detected Nesbitt-Smith’s activity in August and that it had already been handling this as a cyber incident when ControlPlane made contact. The agency identified and fixed this vulnerability within 20 minutes of the report and verified that no data breach occurred. “We have reviewed and strengthened our systems and processes to prevent this type of issue recurring and we are grateful for the researcher’s work and for alerting us to it,” they told WIRED.
+
+The Planning Inspectorate issue “isn’t about open source but internal housekeeping when using public tools,” Amanda Brock, chief executive officer of nonprofit industry group OpenUK. “That data was exposed because of a failure not to follow good process,” she adds. “That’s not an open source security issue.”
+
+In around two-thirds of the 349 public sector codebases across 33 organizations Nesbitt-Smith scanned, he said he found vulnerabilities. Several of these were found in the Department of Education’s code, including in a procurement service used by schools, in a teacher application service containing personal details, qualifications, employment history and identity documents, and England’s main register of government-funded training providers and apprenticeships. He also found a vulnerability in a Scottish Government open data portal which would have allowed any visitor to read administrative account information and to change site configuration. The organizations have since dealt with the issues.
+
+Recently, there have been arguments for public sector departments to stop publishing source code in the open, now that AI has accelerated vulnerability discovery. The NHS reportedly ordered technology teams to transition away from open source code in May amid security concerns about the impact of AI models.
+
+Doing this without immediately fixing the underlying issues would be the “worst case scenario,” according to Nesbitt-Smith, as it prevents researchers like him from finding them, and it’s likely that an adversary has already mirrored these repositories and so will maintain access to them. “Unless you’re going to go and fix all of the problems, if anything, you’re probably drawing more attention to it by closing it,” says Nesbitt-Smith, “because you’re like, ‘Here be dragons over this space. Don’t look here though, please.’”
 
 In your inbox: For life-tested picks, sign up for our Gear newsletters
 
