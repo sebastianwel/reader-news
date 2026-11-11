@@ -1,361 +1,398 @@
-=== DAILY BRIEFING - 10.11.2026 ===
+=== DAILY BRIEFING - 11.11.2026 ===
 Quellen: Tagesschau, Sportschau & Wired Tech
 
 
 >>> TAGESSCHAU TOP-NEWS <<<
 
-[1] MASCHINENBAU WILL MIT KÜNSTLICHER INTELLIGENZ AUS DER KRISE
+[1] PISTORIUS POCHT AUF "NULL TOLERANZ" GEGENÜBER SEXUALISIERTEM FEHLVERHALTEN IN BUNDESWEHR
 
-Der deutsche Maschinenbau steckt in seinem vierten Krisenjahr. Die Branche leidet unter hohen Energiekosten und zu viel Bürokratie. Beim Maschinenbaugipfel gibt es aber auch Hoffnungssignale - etwa die Künstliche Intelligenz.
+Angesichts der hohen Zahl an Fällen von sexualisiertem Fehlverhalten bei der Bundeswehr will Verteidigungsminister Pistorius mit "null Toleranz" dagegen vorgehen. Unter anderem durch bessere Prävention und eine externe Anlaufstelle für Betroffene.
 
-"Bei uns würde es ohne Künstliche Intelligenz wohl auch noch gehen. Aber für die Zukunft ist Digitalisierung entscheidend. Ohne wird es nicht mehr gehen." Das sagt Herbert Zahnen. Er ist Geschäftsführer des Maschinenbauers "Zahnen-Technik", der Anlagen zur Wasseraufbereitung herstellt.
+Eine sogenannte Dunkelfeldstudie zeigt: Sexualisiertes Fehlverhalten kommt bei der Bundeswehr häufiger vor als offizielle Meldezahlen aufzeigen. Bundesverteidigungsminister Boris Pistorius hat angesichts der Ergebnisse der Studie ein entschiedeneres Vorgehen angekündigt und betont: "Null Toleranz ist die Linie."
 
-Der 57-Jährige ist im Werk gerade bei einigen Azubis im sogenannten "Innovation-Lab". Die jungen Leute sitzen hier vor Bildschirmen und tüfteln an Programmiercodes. Früher haben die Azubis an riesigen Anlagen geschraubt. Das machen sie in ihrer Ausbildung auch heute noch. Heute kommt dazu aber auch die Fertigkeit, betriebseigene KI programmieren zu können.
+Es sei die erste Studie dieser Art überhaupt gewesen, hieß es von Pistorius. Und ihm sei bewusst gewesen, dass sie "unerfreuliche Wahrheiten" zutage fördern würde. Doch "Politik beginnt mit dem Betrachten der Wirklichkeit". Und im Kampf gegen Fälle von solchem Fehlverhalten gehe es "um nichts weniger als die Achtung der Menschenwürde" gemäß des Grundgesetzes. Und darüber hinaus gehe es auch um die Einsatzbereitschaft der Truppe.
 
-Der Maschinenbauerverband VDMA drängt die Europäische Union im Zollstreit mit den USA zu Nachverhandlungen.
+Pistorius kündigte einen Aktionsplan an, der insgesamt 34 Maßnahmen umfassen soll, um entschiedener gegen sexualisiertes Fehlverhalten in der Truppe vorzugehen. Angehörige der Truppe sollen künftig besser über Meldewege und Hilfsangebote informiert werden. Denn häufig fehle das Wissen über vorhandene Meldewege. Pistorius verwies auf die neue Beratungsstelle HELP, die Anfang November ihre Arbeit aufgenommen habe und - sobald sie vollständig personell aufgestellt sei - rund um die Uhr und an sieben Tagen die Woche Anlaufstelle für Betroffene sein solle.
 
-Zahnen ist seit 35 Jahren Geschäftsführer des Unternehmens in der Eifel. Der mittelständische Betrieb beliefert etwa Wasserwerke oder Kläranlagen. Neben Maschinen entwickelt die Firma auch passende digitale Produkte zur Abwasserreinigung. "Stadtwerke haben zum Beispiel immer wieder das Problem, dass Feuchttücher Abwasserpumpen im Kanalnetz verstopfen", erklärt Zahnen. "Unsere KI erkennt potenzielle Verstopfungen schon zwei Wochen vorher. So kann die Pumpe vorab gespült und gesäubert werden - mit deutlich weniger Aufwand."
+Die Beratungsstelle stehe außerhalb der Hierarchie der Bundeswehr, betonte Pistorius. Auf eben solche externen Meldestellen hatten die Grünen bereits vor der offiziellen Bekanntgabe der Dunkelfeldstudie gedrängt. "Ich glaube, die wenigsten Frauen können eine Woche hinter sich lassen, ohne einen Spruch zu bekommen, der auch eine Form von sexualisierter verbaler Gewalt ist", äußerte sich Sara Nanni im gemeinsamen Morgenmagazin von ARD und ZDF. Betroffene müssten die Möglichkeit erhalten, sich bei Vorfällen an externe Meldestellen außerhalb der Truppe zu wenden. So müssten sie nicht direkt an ihre Vorgesetzten berichten.
 
-Künstliche Intelligenz ist seit mehr als fünf Jahren Thema im Betrieb. Das sei zunächst eine Herausforderung für die Belegschaft gewesen, erinnert sich Zahnen. "Anfangs haben wir auch nur ein bisschen herumexperimentiert." Inzwischen sei KI fester Bestandteil in dem Unternehmen.
+Nach Berichten über sexuelles Fehlverhalten bei der Bundeswehr stellt sich die Frage: Wie tief sitzt das Problem?
 
-Auch die Ausbildungs- und Fachkräftestrategie wurde daran ausgerichtet. Die Firma schult das eigene Personal, auch um am Standort in der Eifel wettbewerbsfähig zu bleiben. In der grenznahen Region locken vor allem in Luxemburg einige Unternehmen mit guten Gehältern. "Wir versuchen alles zu digitalisieren und zu automatisieren, was möglich ist. Ein Jobkiller ist das nicht. Im Gegenteil: KI macht die Arbeit der Fachkräfte, die sowieso nicht mehr zu finden sind", sagt Zahnen.
+Neben dem Ausbau von Prävention und Hilfsangeboten hieß es von Pistorius weiter, dass der Umgang mit gemeldeten Fällen künftig auch Einfluss auf die Aufstiegsmöglichkeiten innerhalb der Truppe haben soll. In Beurteilungen von Vorgesetzten solle in Zukunft explizit auch auf diesen Punkt geachtet werden. "Wer kein Vorbild ist, Fehlverhalten sogar toleriert oder nicht konsequent aufarbeitet, wird keine Führungsfunktion mehr einnehmen", betonte der Verteidigungsminister.
 
-Das führe dann sogar zu neuen Arbeitsplätzen. "Ein Beispiel: Für einen Schaltschrank brauchten wir bislang einen Elektriker. Mit KI können jetzt auch Seiteneinsteiger solche Anlagen verdrahten. Es wird neue Chancen für Quereinsteiger ohne spezielle Ausbildung geben."
+Zudem solle eine eigene Ermittlungsgruppe aufgestellt werden, die "direkt vor Ort" unterstützen soll. Und die aktuelle Dunkelfeldstudie werde nicht die letzte sein, versicherte der SPD-Politiker, "wir werden weiter forschen und nachfragen".
 
-Deutschland will beim KI-Boom mitwirken - die Bundesregierung hat offenbar einen Deal mit Chiphersteller Nvidia eingefädelt.
-
-Der Maschinenbau ist weiter in einer strukturellen Krise - auch wenn es etwas Hoffnung auf Besserung gibt. Die Branche muss laut Branchenverband VDMA das vierte Rückgangsjahr in Folge verkraften: Die Produktion in Deutschland schrumpft in diesem Jahr voraussichtlich um rund zwei Prozent. Die Ursachen sind unter anderem hohe Kosten für Energie, Rohstoffe und Personal. Dazu kommen die Schwäche der Automobilindustrie als Hauptabnehmer sowie globale politische Unsicherheiten.
-
-Aber der Verband Deutscher Maschinen- und Anlagenbauer (VDMA) hat im Spätsommer einen überraschend deutlichen Auftragsanstieg von 14 Prozent im Vergleich zum Vorjahr gemeldet. Neben dem Exportgeschäft sorgt auch der Ausbau von KI-Rechenzentren und der damit verbundenen Energie-, Kühl- und Automatisierungstechnik für ein deutliches Plus. Auch die Verteidigungsindustrie sorgt für mehr Aufträge. Die Kapazitätsauslastung der Anlagen und Werke hat sich deshalb stabilisiert und kletterte zuletzt auf 85 Prozent - immer noch ein niedriger Wert, aber immerhin der beste seit zwei Jahren.
-
-In der schwarz-roten Koalition wird über eine Steuer auf Umsätze diskutiert, die durch KI erwirtschaftet wurden.
-
-KI gilt in der Branche inzwischen als wichtige Zukunftstechnologie - vor allem, um Personal zu halten und Kosten zu senken. Nach VDMA-Daten nutzen 31 Prozent der Maschinenbauer bereits KI, weitere 37 Prozent führen Pilotprojekte durch. Im Mittelstand liegt die KI-Quote noch niedriger als bei Großkonzernen, wächst aber deutlich.
-
-Im globalen Wettbewerb liegen deutsche Unternehmen aber insgesamt zurück. So investieren US-Industriefirmen 2026 durchschnittlich 2,9 Prozent ihres Umsatzes in Künstliche Intelligenz - deutsche Industrieunternehmen lediglich 0,6 Prozent. Zu diesen Ergebnissen kommt die Managementberatung Horváth.
-
-Laut Branchenverband Bitkom haben sie aber gute Chancen für eine Aufholjagd: Gerade deutsche "Hidden Champions" besitzen jahrzehntelanges, hochkomplexes Spezialwissen, das reine Software-Konzerne nicht einfach kopieren können.
-
-Damit verfügen sie über exklusives Wissen über reale Maschinendaten. Die Hersteller haben also direkten Zugriff auf hochspezifische Betriebs- und Sensordaten - die Basis für industrielle KI. Aus den Maschinenbewegungen können die Daten direkt in Software übersetzt werden. Zudem gibt es in Deutschland traditionell eine enge Verzahnung mit Forschungsunternehmen und Universitäten.
-
-Junge Menschen haben zunehmend Probleme, Einstiegsjobs zu finden. Ein Grund: Künstliche Intelligenz.
-
-"Der Wettbewerb wird härter. Das bekommen auch wir zu spüren", bilanziert Herbert Zahnen das bisherige Geschäftsjahr. Da die Geschäftskunden von Zahnen-Technik vor allem öffentliche Auftraggeber seien, blieben die Zahlen bislang gut. "In diesem Bereich gibt es keine Einbrüche. Das ist in Teilen der Industrie leider ganz anders", so der Geschäftsführer.
-
-Allerdings leidet auch der Betrieb an den bekannten Standortnachteilen in Deutschland - vor allem unter der zunehmenden Bürokratie. Die Vorschriften würden immer mehr und immer detaillierter, so Zahnen. "Die Auflagen für den Bau von Anlagen werden immer komplexer. Das verzögert und blockiert Investitionen und kommt am Ende bei uns an." Er beobachte, dass das auch immer mehr Behörden in Kommunen vor Probleme stelle. Auch dort fehle zunehmend das Personal, um die Verfahren schnell zu prüfen.
-
-Beim Blick auf die nahe Zukunft ist Zahnen optimistisch - auch wegen der künstlichen Intelligenz. Vor allem der Preisdruck internationaler Wettbewerber auf die deutsche Konkurrenz werde zunehmen. "Ich kann sagen, dass wir weltweit in der Wasserwirtschaft an der Spitze dabei sind", so der Geschäftsführer. "Die Konkurrenz schläft nicht. KI wird die Produktivität erhöhen und damit die Preise im internationalen Wettbewerb drücken. Hier können wir mithalten - dank unserer eigenen KI."
-
-Dieses Thema im Programm: tagesschau24 | Nachrichten | 10.11.2026 | 11:00 UhrWDR 5 Morgenecho | Interview | 10.11.2026 | 05:00 Uhr Das Erste | tagesschau | 10.11.2026 | 10:40 Uhr
+Dieses Thema im Programm: BR24 Radio | Nachrichten | 11.11.2026 | 07:02 Uhrtagesschau24 | Nachrichten | 11.11.2026 | 09:00 Uhr
 
 ----------------------------------------
 
-[2] VIELE DEUTSCHE UNTERNEHMEN BAUEN DIE KI-INFRASTRUKTUR MIT AUF
+[2] DUNKELFELDSTUDIE BEI DER BUNDESWEHR - VIELE FÄLLE VON SEXUALISIERTEM FEHLVERHALTEN
 
-US-Tech-Giganten investieren Milliarden in Künstliche Intelligenz. Anleger werden vorsichtiger mit Blick auf die Kosten. Warum deutsche und europäische Unternehmen davon profitieren könnten.
+Einer internen Untersuchung zufolge ist sexualisiertes Fehlverhalten in der Bundeswehr weit verbreitet - am häufigsten betroffen sind Soldatinnen. Recherchen von WDR, NDR und Süddeutscher Zeitung geben Einblick in konkrete Fälle.
 
-Künstliche Intelligenz (KI) ist seit einiger Zeit der Kurstreiber an der Börse - mit dazugehörenden Aufs und Abs. Die Stimmung an den Finanzmärkten wird derzeit mit dem großen Goldrausch im Wilden Westen verglichen: Alles scheint möglich. Doch während damals nur wenige Goldgräber reich wurden, waren es vor allem die Schaufelhersteller, die sich eine goldene Nase verdienten.
+Verteidigungsminister Boris Pistorius (SPD) selbst ist in den Bundestag gekommen, um von einer Studie zu berichten, die sein Haus seit knapp einem Jahr beschäftigt. Es geht um sexualisiertes Fehlverhalten in der Bundeswehr - die Dunkelfeldstudie ist Chefsache.
 
-Ähnlich sei das mit Blick auf KI, sagt Christian Röhl von Scalable Capital. Viele der heutigen Schaufelhersteller seien europäische Unternehmen. "Ohne beispielsweise ASML aus den Niederlanden oder die deutschen - leider nicht börsennotierten Firmen - Carl Zeiss und Trumpf könnte TSCM in Taiwan keine Mikrochips für Nvidia produzieren. Europa ist sozusagen das Rückgrat des Datacenter-Booms", so der Marktkenner im Gespräch mit der ARD-Finanzredaktion.
+Für die Studie wurden alle Soldatinnen in der Bundeswehr und spiegelbildlich eine ungefähr gleichgroße Anzahl an Männern befragt - insgesamt 45.000 Soldatinnen und Soldaten. Rund 8.100 vollständig ausgefüllte Rückmeldungen auf die Online-Umfrage gingen ein, heißt es in der Studie. Insgesamt beantworten deutlich mehr Soldatinnen als Soldaten die Fragen. Die Zahlen sind alarmierend.
 
-Techwerte unter Druck: Zahlt sich der KI-Boom aus - und ist Anthropics Billionenbewertung gerechtfertigt?
+Die Untersuchung zeigt, dass 40 Prozent der befragten Soldatinnen in den vergangenen zwölf Monaten mindestens einen Vorfall sexualisierten Fehlverhaltens in ihrer Dienstzeit erlebt haben.
 
-Allen voran sind es die großen US-Tech-Konzerne, die sagenhafte Summen in den Ausbau von KI investieren. Das Flossbach von Storch Research Institute sieht eine Abschreibungswelle auf die Unternehmen zurollen.
+Dabei unterscheiden die Forscher des Zentrums für Militärgeschichte und Sozialwissenschaften vier Kategorien. Verbale Belästigung, also zum Beispiel anzügliche Kommentare, wurde demnach in den vergangenen zwölf Monaten am häufigsten berichtet, konkret gaben 38 Prozent aller Studienteilnehmerinnen an, verbale Belästigung erlebt zu haben. Sieben Prozent berichteten von der unfreiwilligen Erstellung von Bildern oder davon, dass Bilder von Ihnen mit KI verändert wurden. Neun Prozent der Frauen berichten von körperlichen Übergriffen und zwei Prozent von sexueller Gewalt.
 
-Die billionenschweren KI-Investitionen seien längst keine bloße Ankündigung mehr, sondern veränderten die Bilanzen der sogenannten Hyperscaler Alphabet, Amazon, Meta, Microsoft und Oracle rasant, schreibt Analyst Christof Schürmann. "Atemberaubend hoch sind die Zusagen der fünf Tech-Konzerne für Infrastruktur, die sich zukünftig in den Bilanzen niederschlagen werden."
+Die Forschenden sehen mehrere Gründe dafür, warum Vorfälle nicht gemeldet werden: Fehlendes Vertrauen in das Meldewesen, militärische Strukturen und das soldatische Umfeld. Je nach Kategorie des Fehlverhaltens gaben zwischen 36 und 61 Prozent der Befragten an, dass sie Vorfälle nicht gemeldet haben, weil sie Angst vor negativen Konsequenzen für sich haben. Zwischen 44 und 59 Prozent haben Zweifel an der Wirksamkeit einer Meldung.
 
-Hyperscaler heißen sie deshalb, weil sie weit über das übliche Maß hinaus investieren, mit dem Ziel, künftig Erträge aus ihren Geschäften mit KI-Angeboten zu skalieren. Nach Ansicht des Flossbach von Storch Research Institutes passiere dies in einem Tempo, das vor wenigen Jahren kaum vorstellbar war.
+Eine Dunkelfeldstudie hat gezeigt, dass es mehr Fälle gibt als offizielle Meldezahlen belegen.
 
-"Aus einst vergleichsweise kapitalarmen Plattform- und Softwarekonzernen bilden sich nun kapitalintensive Betreiber von Infrastrukturen, die hohe Fixkosten verursachen." Die Hyperscaler seien deshalb "die neue Schwerindustrie".
+Die heutigen Ergebnisse treffen die deutschen Streitkräfte in einer denkbar schlechten Situation. Aktuell sind Frauen in nahezu allen Bereichen der Bundeswehr stark unterrepräsentiert. Vor dem Hintergrund des Ukraine-Krieges und eines Aufrüstens Deutschlands wirbt die Bundeswehr händeringend um mehr Soldaten - und auch Soldatinnen.
 
-Deutschland will beim KI-Boom mitwirken - die Bundesregierung hat offenbar einen Deal mit Chiphersteller Nvidia eingefädelt.
+Doch vergangenes Jahr erreichten die Meldungen zu sexualisiertem Fehlverhalten einen neuen Höchststand von 472 Fällen, dieser soll 2026 bereits weiter angestiegen sein. Nicht nur deshalb kritisiert auch der Wehrbeauftragte Henning Otte, dass "auch das Hellfeld mehr Beachtung finden muss". Dem Ministerium sind seit Jahren Fälle sexueller Belästigungen und Vergewaltigungen bekannt.
 
-Während Anlegerinnen und Anleger zunehmend skeptisch auf die Milliarden-Investitionen der Tech-Giganten schauen, verdienen viele Unternehmen schon jetzt am Ausbau der KI-Infrastruktur: sei es als Zulieferer für Rechenzentren, Stromnetzbetreiber oder Chipausrüster.
+2024 hatte die damalige Wehrbeauftragte Eva Högl (SPD) bereits die Studie zum Dunkelfeld sexueller Übergriffe in der Bundeswehr angeregt. 2025 dann sorgte ein Skandal am Bundeswehrstandort Zweibrücken für Schlagzeilen, zuletzt wurde mutmaßlich sexualisiertes Fehlverhalten von Ausbildern in einer Kaserne in Weißenfels in Sachsen-Anhalt öffentlich. Laut Justizkreisen sollen die Beschuldigten alle deutlich älter und ranghöher als die Betroffenen gewesen sein.
 
-Darunter gebe es zahlreiche deutsche und europäische Konzerne, so Experte Röhl von Scalable Capital. "Beispielsweise Baukonzern Hochtief, sehr aktiv in den USA, Siemens Energy mit allen Stromnetz- und Energielösungen, aber auch Siemens selbst, die mit der digitalen Fabrik den Link zwischen Software und KI auf der einen Seite und der physischen Welt auf der anderen Seite legen."
+Nach Berichten über sexuelles Fehlverhalten bei der Bundeswehr stellt sich die Frage: Wie tief sitzt das Problem?
 
-Ob Samsung, Apple oder Nvidia - alle großen Halbleiterhersteller sind Kunden beim Maschinenbauer ASML.
+WDR, NDR und SZ haben zahlreiche Fälle und Urteile eingesehen, in denen Bundeswehrangehörige beschuldigt waren. Laut eines rechtskräftigen Urteils kam es im Jahr 2020 in Mazar-i-Sharif in Afghanistan zu einer Vergewaltigung. Das zeigt ein Urteil des Landgerichts Kempten aus dem März 2023. Im deutschen Camp blieben nach einer Karnevalsfeier ein Feldjäger und eine zivile Angestellte zurück. Sie wollte aufräumen, er hatte spätestens zu diesem Zeitpunkt laut Urteil den Entschluss gefasst, mit ihr den ungeschützten Geschlechtsverkehr durchzuführen. Während der vorangegangenen Feier hatte die Frau den Mann mehrfach zurückgewiesen.
 
-Auch ein Blick in den MDAX lohne sich, wenn man nach deutschen Profiteuren des KI-Booms Ausschau hält, meint Anlagestratege Stephan Kemper von der BNP Paribas gegenüber der ARD-Finanzredaktion. "Im MDAX finden wir viele Spezialhersteller, die Teile oder Maschinen produzieren, die zur Herstellung von Halbleitern benötigt werden. Aixtron ist da ein Beispiel, die stellen Anlagen her, um Verbindungshalbleiter zu produzieren und sind damit ein struktureller Profiteur."
+Bei den folgenden Vernehmungen dokumentierten die Ermittler bei der Geschädigten: "Heftiges Weinen, sehr starkes Zittern und auffälliges Stottern". Als es um die Details der Vergewaltigung gegangen sei, habe sie kaum noch sprechen können. Der Täter wurde zu zwei Jahren Haft auf Bewährung verurteilt.
 
-Kemper geht sogar noch einen Schritt weiter: Ohne europäische Firmen und Anlagen, mit denen man die Halbleiter überhaupt erst bauen kann, würde weltweit nicht ein KI-Server laufen. Neben dem großen Chip-Anlagenbauer aus den Niederlanden, ASML, lieferten deutsche Unternehmen wie Jenoptik wichtige Komponenten. Dazu zähle auch der DAX-Konzern Infineon, der mit seinen Chips ursprünglich aus dem Automobilbereich kommt.
+2025 verurteilte das Landgericht Kempten einen Soldaten zu einer Geldstrafe von rund 8.000 Euro wegen Misshandlung und sexueller Belästigung. Der Unteroffizier war auf einer Fregatte im Auslandseinsatz. In einer Nacht im April soll er betrunken und nur mit einer Hose bekleidet auf das Frauendeck gegangen sein. Dort habe er einer schlafenden Soldatin unter die Decke zwischen die Beine gegriffen und diese so stark in die Innenseite des Oberschenkels gekniffen, dass die Frau noch am nächsten Tag Schmerzen hatte. So geht es aus einem Strafbefehl hervor, der im Oktober 2025 rechtskräftig wurde und der WDR, NDR und SZ vorliegt.
 
-"Infineon ist mittlerweile sehr wichtig, weil deren Chips erfolgreich eingesetzt werden im Bereich Energie-Management. Das wird bei Datencentern immer wichtiger. Denn die Chips von Nvidia und Co. brauchen sehr viel Energie," so Anlagestratege Kemper.
+Derzeit liegt in Berlin am Amtsgericht Tiergarten zudem eine Anklage wegen gemeinschaftlicher Vergewaltigung einer Soldatin vor. Zwei Soldaten sollen sie laut Anklage der Staatsanwaltschaft missbraucht haben. Derzeit prüft das Gericht, ob es die Anklage zur Hauptverhandlung zulässt.
 
-Den KI-Boom treiben einige wenige US-Konzerne voran, aber auch in Deutschland gibt es Profiteure.
+Die Bundeswehr bekommt das Problem um sexuelles Fehlverhalten nicht in den Griff, wie Recherchen von REPORT MAINZ zeigen.
 
-Die Bedeutung belegen auch die jüngsten Quartalszahlen des Münchner Chipherstellers. Infineon hat im abgelaufenen Geschäftsjahr deutlich mehr verdient: Ein Gewinn von 1,51 Milliarden Euro nach Steuern bedeutet ein Plus von 49 Prozent im Vergleich zum Vorjahr.
+Bereits vor der Veröffentlichung der Studienergebnisse hatte das Ministerium erste Maßnahmen eingeleitet und "im Eiltempo" eine neue Hilfshotline eingerichtet. Seit 1. November können sich Betroffene unabhängig von ihren Vorgesetzten vertrauensvoll zur Erstberatung an eine Stelle wenden. Die Stelle soll in Zukunft 24/7 besetzt sein.
 
-Vor allem Datencenter haben Infineons Geschäfte beflügelt - und sollen das weiter tun. Der Konzern mit Sitz in Neubiberg nahe München liefert hier Leistungshalbleiter für die Stromversorgung.
+In der Bundeswehr kommt den Vorgesetzten eine Schlüsselrolle zu. Wenn der Verdacht eines Vorfalls im Raum steht, muss der Disziplinarvorgesetzte Ermittlungen aufnehmen. Liegen Anzeichen einer Straftat vor, sind die Vorgesetzten angewiesen, die Fälle an die Staatsanwaltschaft weiterzugeben. Künftig soll es auch in die Beurteilung von Vorgesetzten mit einfließen, wie sie mit sexualisiertem Fehlverhalten umgehen.
 
-Die Erwartungen an die künftigen Gewinne seien enorm, schreibt Analyst Pascal Kielkopf vom Vermögensverwalter HQ Trust. Gleichzeitig wachse die Unsicherheit darüber, wann und in welchem Umfang sich die Milliardeninvestitionen in der Branche tatsächlich auszahlen werden.
+Geht es nach der Linken-Abgeordnete Zada Salihovic, sollten die Ermittlungen der Bundeswehr allerdings losgelöst von bestehenden Hierarchien stattfinden: "Die bereits eingerichtete Hotline ist ein Schritt in die richtige Richtung, kann eine unabhängige externe Meldestelle mit Ermittlungsbefugnissen und speziell geschultem Personal aber nicht ersetzen. Wir brauchen endlich eine solche Meldestelle, transparente Verfahren und einen konsequenten Schutz der Betroffenen."
 
-"Schließlich investieren die großen US-Technologiekonzerne derzeit so viel Geld wie nie zuvor in den Ausbau der Künstlichen Intelligenz. Allein Alphabet, Amazon, Meta und Microsoft dürften in diesem Jahr rund 740 Milliarden US-Dollar für Hochleistungschips, Rechenzentren und andere Infrastruktur ausgeben", so Branchenkenner Kielkopf.
+Nicht nur der Opposition gehen die Maßnahmen nicht weit genug. Die CDU-Verteidigungspolitikerin Vivian Tauschwitz war selbst bei der Bundeswehr. Auch sie fordert eine unabhängige Ermittlungsstelle, aber am Ende gehe es vor allem um Vertrauen: "Es entsteht nicht durch Tagesbefehle und nicht durch Pressekonferenzen, sondern dort, wo Meldungen ernst genommen, Vorwürfe unabhängig geklärt und Betroffene geschützt werden. Das Verteidigungsministerium muss sich deshalb nicht an der Zahl neuer Maßnahmen messen lassen, sondern daran, ob diese im Alltag tatsächlich etwas verändern."
 
-Der jüngste Ausverkauf an der Nasdaq nach dem Sieg der Demokraten bei den US-Zwischenwahlen zeigt, wie sensibel die Märkte inzwischen auf Nachrichten rund um den KI-Investitionsboom reagieren. Auch das ist aus Sicht von Marktkenner Robert Halver von der Baader Bank ein Argument für eine stärkere Gewichtung von deutschen und europäischen Aktien.
-
-"Das könnte ein Argument für den DAX sein, dass die großen Kapitalsammelstellen sagen, KI ist eine attraktive Langfristbranche, aber im Augenblick wollen wir den Fokus auf die Werte setzen aus dem Konjunkturbereich, auf Maschinenbau, Zulieferer, die von KI profitieren. Also haben wir eine gewisse Sektor-Rotation weg von der New Economy hin zu der Old Economy."
-
-Ein weltweiter Abverkauf von Chip- und Techaktien schickt wichtige Aktienindizes auf Talfahrt.
-
-Viele Analysten glauben nach wie vor daran, dass sich die gigantischen Investitionen in den Ausbau von Künstlicher Intelligenz mittelfristig auszahlen werden. "Die Erwartungen an das Ende des Jahrzehnts sind entsprechend hoch", schreibt Analyst Pascal Kielkopf von HQ Trust.
-
-"Die zusätzlichen Einnahmen sollen vor allem aus Cloud-Dienstleistungen, KI-Anwendungen und Softwarelizenzen kommen." Allerdings dürften die Kosten für den Ausbau der Infrastruktur weiterhin immens hoch bleiben.
-
-Dieses Thema im Programm: tagesschau.de | ARD-Börse: Wer in Deutschland vom KI-Boom profitiert | 09.11.2026 | 14:33 Uhr
+Dieses Thema im Programm: tagesschau24 | Nachrichten | 11.11.2026 | 09:00 Uhr + 10:00 Uhr, BR24 Radio | Nachrichten | 11.11.2026 | 11:01 Uhr
 
 ----------------------------------------
 
-[3] BÖRSENGANG VON ANTHROPIC - UMSTRITTENER GOLDRAUSCH IN SAN FRANCISCO
+[3] ZAHL DER ARBEITSLOSEN AKADEMIKER AUF HÖCHSTSTAND
 
-Der KI-Gigant Anthropic will an die Börse. Und damit könnten Tausende Mitarbeiter und Investoren zu Millionären werden. In San Francisco, dem Konzernsitz, werden explodierende Häuserpreise befürchtet.
+Ein Studium schützt nach wie vor gut vor Arbeitslosigkeit - doch die Wirtschaftslage und der Einsatz von Künstlicher Intelligenz ändern das. Vor allem jüngere Studienabsolventen sind von Arbeitslosigkeit betroffen.
 
-Ursprünglich war erwartet worden, dass der KI-Konzern Anthropic in dieser Woche seine Roadshow vor dem Börsengang startet, also seine Pläne potenziellen Investoren präsentiert. Bis Monatsende sollte dann der Schritt an die Börse erfolgen. Doch nach dem Abrauschen der Tech-Werte an den Börsen, nach dem Sieg der Demokraten bei den Midterms, wird spekuliert, dass sich Anthropics Zeitplan verzögern könnte.
+Die Arbeitslosigkeit unter Akademikern in Deutschland hat im August einen Höchststand erreicht. Die Zahl sei auf 372.000 geklettert, teilte die Bundesagentur für Arbeit in Nürnberg mit.
 
-Denn potenzielle Investoren drängen bei Anthropic inzwischen auf eine deutlich niedrigere Bewertung. Statt der ursprünglich angepeilten Höchstbewertung von bis zu zwei Billionen Dollar rechnen Insider "nur" noch mit einer Bewertung um rund 1,2 Billionen Dollar. So oder so, der Goldrausch in San Francisco, wo Anthropic sitzt, wird kommen. Und er wird erhofft und gefürchtet. Denn die Preise für Häuser und Mieten könnten weiter in die Höhe getrieben werden.
+In den vergangenen fünf Jahren sei die Zahl kontinuierlich gestiegen. Besonders betroffen seien jüngere Studienabsolventen im Alter von unter 30 Jahren.
 
-KI-Firmen haben Interesse an Australien, etwa um Rechenzentren zu bauen. Ein Übergriff auf ein Regierungsportal wirft Fragen auf.
+Dennoch bleibt Bildung weitestgehend eine Absicherung gegen Arbeitslosigkeit. Die Arbeitslosenquote unter Akademikern war mit 3,3 Prozent im Jahr 2025 nur rund halb so hoch wie in der Gesamtbevölkerung.
 
-Anthropic ist der erste reine KI-Konzern, der mit Claude eins der weltweit renommierten großen Sprachmodelle entwickelt hat, und jetzt den Börsengang wagt. Sobald das Unternehmen an der Börse notiert ist, können Beschäftigte und Investoren ihren bislang nur auf dem Papier existierenden Reichtum in echtes Bargeld verwandeln.
+Bei Menschen mit abgeschlossenem Berufsabschluss lag sie mit 3,6 Prozent etwas höher, bei Menschen ohne Berufsabschluss lag sie den Angaben der Bundesagentur zufolge aber bei über 21 Prozent.
 
-Schon vor der Sperrfrist für den Aktienverkauf können sie Kredite aufnehmen. Entsprechend stellt sich die San Francisco Bay Area auf einen Goldrausch ein, wenn Tausende über Nacht zu Millionären werden.
+KI und Jobangst: Ausbildung im Handwerk statt Studium? Und wer verdient mehr - Meister oder Master?
 
-Der Chefökonom der Stadt San Francisco, Ted Egan, sieht in Anthropics Schritt an die Börse einen Wendepunkt für die lokale Wirtschaft, wie ihn die Region seit dem Börsengang des Transportdienstleisters Uber 2019 nicht mehr erlebt habe. In den kommenden Monaten werde in San Francisco und der Bay Area ein enormes Vermögen geschaffen.
+Deutliche Unterschiede zeigt die Statistik bei den Fachrichtungen, die von Arbeitslosigkeit betroffen sind. Während Lehramtsabsolventen im Jahr 2025 mit unter zwei Prozent kaum arbeitslos wurden, waren Absolventen geisteswissenschaftlicher Studiengänge mit 4,6 Prozent überdurchschnittlich häufig arbeitslos. Auch bei Ingenieuren lag die Quote mit 3,8 Prozent über dem Durchschnitt.
 
-Und obwohl die Stadt Vermögen oder Einkünfte aus Aktienverkäufen nicht direkt besteuern kann, wird sie über den Immobilienhandel auf ihre Kosten kommen, erklärt Egan. Denn bei Immobilienverkäufen fällt eine Transaktionssteuer an, die die Verkäuferin oder der Verkäufer an die Stadt entrichtet. Bei hochpreisigen Immobilien, die für mehr als zehn Millionen Dollar verkauft werden, liegt dieser Satz bei 5,5 Prozent - ​​es geht also um beträchtliche Summen.
+Hauptgründe für die steigende Arbeitslosigkeit sind laut Arbeitsagentur die angespannte Wirtschaftslage und der zunehmende Einsatz von Künstlicher Intelligenz. Davon seien junge Menschen in Einstiegspositionen besonders betroffen. Grundsätzlich sei jedoch davon auszugehen, dass KI nicht ganze Berufe verdrängen werde.
 
-Die Chefs der größten US-amerikanischen KI-Firmen OpenAI und Anthropic warnen weiter vor ihrer eigenen Technologie.
+Die Chefin der Bundesagentur für Arbeit, Andrea Nahles, hatte dem Handelsblatt am Vortag gesagt, dass Künstliche Intelligenz den Arbeitsmarkt in Deutschland umwälze. "Wir prognostizieren, dass in den nächsten 15 Jahren etwa 800.000 Jobs in Deutschland aufgrund von KI wegfallen, aber ähnlich viele auch neu entstehen."
 
-Das Immobilienunternehmen Red Fin Homes in San Francisco hat schon im September errechnet, dass die Immobilienpreise dort die derzeit höchsten in den ganzen USA sind. Laut der "San Francisco Association of Realtors" liegt der durchschnittliche Preis für ein Einfamilienhaus in San Francisco bei etwa drei Millionen Dollar - wobei sich die Nachfrage zunehmend auf das höhere Preissegment konzentriert, schildert Verbandsvertreter Jay Cheng im Sender ABC. Im Vergleich zwischen dem ersten Quartal 2025 und 2026 sei die Zahl der Verkäufe von Häusern im Wert von über fünf Millionen Dollar um 69 Prozent gestiegen.
+Einige Branchen treffe der Abbau härter, etwa Dienstleister für Unternehmen, analytische Jobs bei Versicherungen und Banken. Der Jobabbau treffe nicht pauschal vor allem Hochqualifizierte, sagte Nahles weiter.
 
-Immobilienmakler wie Austin Klar beobachten steigendes Kaufinteresse bei gleichzeitig knappem Angebot. Die Situation sei so extrem wie seit vielen Jahren nicht mehr. Viele Verkäufer würden sich derzeit zurückhalten, weil sie nach dem Anthropic-Börsengang mit einer regelrechten Explosion der Preise rechnen und ihre Immobilien noch nicht auf den Markt bringen. Es gebe weniger Verkäuferinnen und Verkäufer, aber immer mehr Kaufinteressenten.
+"In den USA gab es eine Schockstudie über junge Akademiker", sagte sie. "Auch bei uns brauchen Akademiker länger für den Berufseinstieg und bekommen vielleicht nicht den Traumjob - haben aber immer noch weit bessere Chancen als alle anderen."
 
-Das Vorgehen der US-Regierung bei Anthropic hat weltweit Verunsicherung ausgelöst - was sind die Folgen?
-
-Bei dieser Preisspirale bleiben Menschen mit normalem Einkommen, die nicht in der lukrativen Tech-Branche arbeiten, natürlich auf der Strecke. Wegen des hohen Preisgefüges ist Bauen in San Francisco vergleichsweise teuer. Laut städtischen Vorgaben müssten bis zum Jahr 2031 rund 82.000 neue Wohnungen entstehen, doch die Stadt hinkt im Zeitplan hinterher.
-
-Auch Sam Moss, Geschäftsführer der gemeinnützigen Wohnungsbaugesellschaft Mission Housing Development Corporation befürchtet, dass sich die Situation für Einwohnende mit Durchschnittsgehältern weiter verschärfen könnte. Es sei ohnehin schon traurig, dass die meisten Menschen sich gar kein Wohneigentum mehr leisten könnten.
-
-Die Genehmigungsverfahren in San Francisco gelten als die langsamsten im ganzen Land. Das lokale System erlaubt es Anwohnern, Bauprojekte über Einsprüche und öffentliche Debatten jahrelang zu blockieren oder erheblich zu verkleinern, meist aus Sorge um den Charakter des Viertels.
-
-Insofern sieht Sam Moss die politischen Entscheidungsträger auf kommunaler, Landes- und Bundeebene in der Pflicht: Es sei wohl einfacher, Softwareentwickler zu verteufeln, als Gesetze kritisch zu hinterfragen, die den Bau bezahlbarer Wohnungen in San Francisco über Generationen hinweg erschwert hätten.
-
-Dieses Thema im Programm: tagesschau.de | Vor Anthropics geplantem Börsengang – Goldrausch in San Francisco | 09.11.2026 | 00:43 Uhr
+Dieses Thema im Programm: tagesschau24 | Nachrichten | 11.11.2026 | 10:00 Uhr
 
 ----------------------------------------
 
 
 >>> SPORT (SPORTSCHAU) <<<
 
-[1] NÄHE ZU EVANGELIKALEN NETZWERKEN? NMECHA WEIST KRITIK ZURÜCK
+[1] ZWISCHEN HEIM-WM UND LIGA-ALLTAG: QUO VADIS FRAUEN-BASKETBALL?
 
-Felix Nmecha hat seinen Torjubel verteidigt und erklärt, in seinem Glauben niemanden ausgrenzen zu wollen.
+Die deutschen Basketballerinnen treffen heute in der EM-Qualifikation in Hamburg auf Ungarn. Es ist das erste Spiel nach dem historischen vierten Platz bei der WM in Berlin, die sämtliche Zuschauer-Rekorde brach. Was ist acht Wochen später vom Hype geblieben? Und wie sieht es in der Bundesliga aus?
 
-"Mit meinem Jubel möchte ich weder mich selbst noch irgendeine Organisation in den Vordergrund stellen. Vielmehr geht es darum, meine 'Krone' vor dem bald kommenden König niederzulegen und auf Jesus hinzuweisen, meine Hoffnung und meine Stärke", schrieb Nmecha in einer Instagram-Story. "Meine Botschaft war niemals darauf ausgerichtet, Intoleranz, Diskriminierung oder Hass in irgendeiner Form zu fördern."
+Emma Eichmeyer freute sich schon Tage vor dem Wiedersehen in Hamburg auf ihre Teamkolleginnen: "Es fühlt sich schon wieder viel zu lang an", erzählt die gebürtige Osnabrückerin im NDR Interview. Dabei ist die Heim-WM in Berlin gerade einmal acht Wochen her, als die deutschen Basketballerinnen mit Platz vier den größten Erfolg ihrer Geschichte feierten.
 
-Nmecha zeigte zum wiederholten Male einen Jubel, bei dem er sich eine imaginäre Krone abnimmt und diese auf den Knien vor sich auf den Rasen legt. Die Geste ist der Kampagne "The King's Return" zuzuordnen, die dem evangelikalen Netzwerk "Ballers in God" nahesteht.
+Am Morgen danach verschwanden alle in die verschiedensten Himmelsrichtungen: in die USA nach New York und Portland, nach Kanada, Australien, Spanien. Eichmeyer (Saarlouis Royals) ist eine von nur drei deutschen WM-Spielerinnen, die in der heimischen Bundesliga aktiv sind. Würde es nach Bundestrainer Olaf Lange gehen, sollte auch sie lieber ins Ausland wechseln.
 
-"Ballers in God" ist ein 2015 gegründetes Netzwerk christlicher Fußballer, das viele solcher Aktionen in den sozialen Medien aufnimmt und verbreitet. Die Organisation gilt als christlich-fundamentalistisch, homophob und queerfeindlich.
+Die Niederlage im WM-Spiel um Platz drei gegen Spanien war noch keine Stunde alt, da holte der DBB-Coach bei der anschließenden Pressekonferenz verbal aus: Die Strukturen in der Bundesliga (DBBL) seien "rückläufig" im Vergleich zu seinem letzten Engagement in Deutschland vor über 20 Jahren; die medizinischen und professionellen Rahmenbedingungen "katastrophal". Der Erfolg des Nationalteams sei so schwer zu halten: "Da muss mehr kommen von der Liga“, forderte Lange.
 
-Am Sonntag hatte die Fan- und Förderabteilung von Borussia Dortmund Nmecha und das Netzwerk "Ballers in God" kritisiert, da der Profi die Geste nach seinen Toren beim 2:1-Sieg gegen die SV Elversberg erneut gezeigt hatte. Gegenstand der Kritik war ausdrücklich nicht Nmechas christlicher Glaube. "Unsere Kritik richtet sich gegen religiöse Netzwerke, die unter dem Deckmantel des Glaubens ein Weltbild verbreiten, in dem Menschen aufgrund ihrer sexuellen Orientierung, ihrer geschlechtlichen Identität, ihrer Lebensweise oder ihrer persönlichen Entscheidungen abgewertet oder ausgegrenzt werden", teilte die Fanabteilung mit.
+"Für alle Vereine, für alle, die da jetzt viele Jahre dran arbeiten und Herzblut reinstecken, ist es natürlich wie ein Stich ins Herz - mit Herumdrehen", sagt Dorothea Richter-Horstmann dem NDR über die Kritik des Bundestrainers. Die ehemalige Nationalspielerin kennt als Teammanagerin von Bundesligist TK Hannover Luchse und DBBL-Vorstandsmitglied alle Seiten.
 
-Die Kampagnen-Webseite verlinkte auf ein Chat-Angebot der US-Organisation Groundwire. In einem Chat mit MONITOR-Reportern wurde Abtreibung als "Satans Plan" bezeichnet. In einem Muster-Chat für die Beratung wurde die Frage bejaht, ob es eine Sünde sei, lesbisch zu sein.
+Sie könne Langes Aussagen nachvollziehen, gleichzeitig verkannten sie die Entwicklung der vergangenen Jahre: "Die Vereine haben sich zusammengetan, wir haben bereits Standards entwickelt und die Liga hat einen neuen Partner gewonnen", sagt Richter-Horstmann: "Der Weg ist da, aber der Anspruch muss natürlich sein, dass die Nationalspielerinnen auch bei uns spielen wollen und können."
 
-Die Fanabteilung betonte, man dürfe es nicht als "bloße private Religionsausübung" abtun, wenn die Reichweite eines Profis "gezielt für Missionierung" eingesetzt werde. "Wo religiöse Überzeugungen dazu benutzt werden, Menschen ihre Würde oder Gleichwertigkeit abzusprechen, endet für uns die Toleranz gegenüber Intoleranz", hieß es.
+Eichmeyer dürfte nach ihrem Auftritt bei der WM (15 Minuten und 3,4 Punkte pro Spiel) das eine oder andere Angebot aus stärkeren Ligen wie der spanischen oder französischen erhalten haben. Trotzdem entschied sie sich für ein weiteres Jahr in Saarlouis, wo sie international im EuroCup spielt. "Das passt im Moment zu mir", so Eichmeyer. "Ich kann mir aber auf jeden Fall gut vorstellen, dass ich noch einmal ins Ausland gehe."
 
-Borussia Dortmund kündigte als Reaktion auf die Stellungnahme der Fanabteilung ein Gespräch mit Nmecha an. Bundestrainer Jürgen Klopp sprach nach Informationen der Deutschen Presse-Agentur im Teamquartier der Nationalmannschaft in Herzogenaurach bereits mit dem 26-Jährigen. Inhalte oder Details über die Unterredung sind bislang nicht bekannt.
+Sie spielte schon in Schweden und Großbritannien. Keine Topligen, aber auch dort seien die Strukturen professioneller gewesen, weil die Teams an ein Männerteam angegliedert waren. Seit ihrem Bundesliga-Debüt bei den Panthers Osnabrück 2019 nehme sie in Deutschland zwar eine Entwicklung zu mehr Professionalisierung wahr, gleichzeitig "sind wir nur noch 10 Teams, das ist ein Punkt, der sich negativ entwickelt hat", sagt die 26-Jährige.
 
-Der 26-Jährige betonte in seiner Mitteilung: "Als Christen ist unsere Botschaft eine Botschaft der Liebe und des Respekts gegenüber jedem Menschen, unabhängig davon, woher er kommt, woran er glaubt oder welche Weltanschauung er vertritt."
+Damit die zehn Bundesligaclubs in der regulären Saison mehr als 18 Partien haben, spielt jedes Team zusätzlich vier Regionalderbys. "Ich finde es schon eher nervig. Am Ende sieht man immer die gleichen Gesichter", sagt Eichmeyer und ergänzt: "Das sollte nur eine Notlösung sein."
 
-Schon in der Vergangenheit wurde Nmecha für evangelikale Inhalte in sozialen Netzwerken kritisiert, die als homophob oder queerfeindlich bewertet wurden. Diese Vorwürfe hatte er bereits zuvor zurückgewiesen. Auch bei der WM im Sommer 2026 hatte Nmecha den Jubel beim 7:1-Sieg der DFB-Elf gegen Curaçao gezeigt und damit eine Debatte ausgelöst. Nach dem Spiel in Houston betete er mit mehreren Spielern beider Teams auf dem Platz.
+Dass das nicht ideal ist, weiß auch die DBBL. "Natürlich wünschen wir uns eine 12er- oder 14er-Liga", erwidert Geschäftsführer Anton Hefele im NDR Gespräch. Die Topteams der Zweiten Liga seien nicht weit von der Ersten Liga entfernt: "Ich hoffe, dass wir nach dieser Saison Aufsteiger vermelden können." Dass es dazu zuletzt nicht gekommen ist, liegt an den höheren Anforderungen, die an die Vereine gestellt werden.
 
-Dieses Thema im Programm: sportschau.de | Nmecha äußert sich ohne klare Abgrenzung | 10.11.2026 | 8.07 Uhr
+Seit 2020 gibt es zwischen der Liga und dem Deutschen Basketball-Bund (DBB) eine Kooperation; 2023 wurden umfassende neue Standards und Richtlinien verabschiedet, um den heimischen Basketball zu professionalisieren. Seit dieser Saison sollen zum Beispiel vier deutsche Spielerinnen im Bundesliga-Kader stehen - eine Anforderung, die nicht jedes Team erfüllt. Außerdem sind teure LED-Banden, eine festangestellte Person im Verein sowie ein Spielfeld verpflichtend, auf dem nur Basketballlinien zu sehen sind.
 
-----------------------------------------
+"Bis vor kurzem hatten wir einen Linien-Salat", sagt Richter-Horstmann. Mit dem hätte es die Medienpartnerschaft zur Übertragung der Spiele, die seit der Saison 2025/26 besteht, nicht gegeben. Im Livestream habe man den WM-Boom am unmittelbarsten erlebt: "Da sind es doppelt so viele Aufrufe", so Hefele. Richter-Horstmann sagt: "Das könnte ich jetzt nur der WM zuschreiben." Das Topspiel zwischen Pokalsieger Berlin und Serienmeister Keltern am vergangenen Wochenende sahen online rund 4.000 Menschen.
 
-[2] DFB SUCHT GESPRÄCH MIT NMECHA
+Der Zuschauerschnitt in der Halle liegt konstant wie im vergangenen Jahr bei knapp 670 Menschen pro Spiel. "Wir haben eine Schulsporthalle, die nicht wahnsinnig große Massen füllt und eigentlich immer voll ist", sagt Richter-Horstmann über den Standort Hannover, der beispielhaft für viele ist: "Wir haben gar nicht die Möglichkeit, da wahnsinnig groß aufzustocken."
 
-Nicht nur Borussia Dortmund, sondern auch der DFB will nach der scharfen Kritik aus der BVB Fan- und Förderabteilung klären, wie weit Fußball-Nationalspieler Felix Nmecha in seinem religiösen Werben gehen darf.
+Andere Länder und Ligen sind weiter - weiß auch Hefele. Die Infrastruktur und Jugendarbeit sowie das finanzielle und sportliche Niveau sei beispielsweise in Spanien und Frankreich kein Vergleich: "Grundsätzlich ist das aber natürlich das Ziel und man sieht, dass es international funktioniert."
 
-Der "Home Ground" in Herzogenaurach verbindet Behaglichkeit mit Abgeschiedenheit. Niemand stört die deutsche Nationalmannschaft in diesem Camp wirklich. Mittendrin auch wieder Felix Nmecha, der vielleicht ganz froh sein könnte, bei der DFB-Auswahl der Aufregung um seine Person bei Borussia Dortmund für die nächsten Tage zu entfliehen.
+Dafür braucht es eine wirtschaftliche Grundlage. "Das geht nur mit der Aufmerksamkeit, die wir jetzt haben", so die Luchse-Teammanagerin: "Dass dann auch mal ein Sponsor zu uns sagt: Ihr habt zwar nur 500 Zuschauer in der Halle, aber wir sehen ja, wo es hingehen kann." Von der WM in Berlin erhofft sie sich ein nachhaltiges Signal. Immerhin: Hefele berichtet, dass erstmals in seiner Amtszeit potenzielle Sponsoren und Partner aktiv mit Kooperationsanfragen auf ihn zukommen sind.
 
-Die BVB Fan- und Förderabteilung hatte nach dem Bundesligaspiel gegen die SV Elversberg (2:1) mit einer langen Stellungnahme erneut kritisiert, dass der Matchwinner eine enge Verbindung zum evangelikalen Netzwerk "Ballers in God" pflegt. Beide Treffer bejubelte der 26-Jährige vor der Südtribüne mit der Kronen-Geste. Das Symbol der aktuellen Kampagne "The King’s Return".
+Auch Eichmeyer erlebt eine andere Aufmerksamkeit: "Ich werde jetzt viel häufiger angesprochen", erzählt die 1,81 m große Flügelspielerin: "Auch bei Auswärtsspielen wird man nach einem Foto gefragt oder so, das ist ganz schön."
 
-Nmecha unterstützt die umstrittene "King's Return Kampagne".
-                                                tagesschau
+Beim ersten Spiel in der EM-Qualifikation heute Abend in Hamburg wird sicher das eine oder andere Foto hinzukommen. Eichmeyer ist eine von sieben WM-Heldinnen, die gegen Gruppenmitfavorit Ungarn (WM-Achter) auf dem Parkett stehen. Am Vorabend gab es noch wenige Resttickets für das Spiel in der Inselparkarena, die etwas mehr als 3.000 Fans fasst.
 
-DFB-Sportdirektor Rudi Völler hat am Montag (09.11.2016) nun ein Gespräch mit dem in die Kritik geratenen Nmecha angekündigt, gleichwohl aber auch Verständnis für den streng gläubigen Nationalspieler geäußert. "Wir werden es ähnlich machen wie die Dortmunder, mit denen wir auch im Austausch sind", sagte Völler im Podcast "Kerners 11:" "Wir wollen das nicht so hochhängen. Wir werden sicherlich mit ihm darüber reden." Auch die BVB-Geschäftsführung will das Gespräch suchen, hieß es.
+"Natürlich hätten wir am liebsten immer so eine Bühne wie bei der WM, aber es ist klar, dass so ein EM-Quali-Spiel anders ist als so eine Riesen-WM", sagt Eichmeyer, die in Berlin vor über 12.000 Menschen spielte.
 
-"Das Wichtigste bei so einem Thema ist eben auch, dieses genau zu verstehen. Der Ablauf von vielen Dingen hier muss gewährleistet sein", sagte Völler: "Bisher kann ich nur positive Dinge über Felix Nmecha sagen. (...) Er ist total beliebt bei seinen Mitspielern. Ich kann die Diskussion verstehen, dass das nicht jedem gefällt."
+Im Anschluss stehen zwei Auswärtsspiele in Dänemark (14. November) und Portugal (17. November) an. Die Entscheidung über die Tickets für die EM im kommenden Jahr fällt im Februar. Die Teilnahme ist der klare Anspruch von Eichmeyer und Co: "Wir gelten nicht mehr als Underdog."
 
-Der Fall ist delikat. "Dieses Netzwerk steht für ein Weltbild, das mit den oben genannten Werten des BVB nicht vereinbar ist. Einem 26 Jahre alten Fußball-Nationalspieler ist zuzutrauen, dass er um seine Vorbildfunktion weiß und sich dessen bewusst ist, was er macht und für wen er da wirbt", kommentierte der Sport-Informations-Dienst.
-
-Und das führt unweigerlich zu einem Dilemma, in dem nun BVB und DFB stecken, die auf Nmecha bauen. Jürgen Klopp hält viel von dem Dortmunder Dampfmacher, der bei der WM 2026 im ersten Vorrundenspiel gegen Außenseiter Curaçao in Houston (7:1) den Torreigen eröffnete. Damals hatte er es nach Außenbandverletzung gerade in den Kader geschafft, galt auf einmal als Hoffnungsträger, ehe er beim Ausscheiden gegen Paraguay (3:4 i. E.) saft- und kraftlos wirkte.
-
-Mittlerweile geht Nmecha wieder als spielintelligenter Antreiber für die Schwarz-Gelben voran, der Energie und Esprit kombiniert. Bundestrainer Jürgen Klopp hob im Nominierungsvideo hervor, was der einstige Wolfsburger alles beherrscht. "Felix Nmecha ist einfach jemand, der unglaublich viel Fantasie hat. Er ist eine Maschine. Er ist physisch unglaublich stark und fußballerisch wahnsinnig talentiert.“ Er sehe bei dem gebürtigen Hamburger noch erhebliches Entwicklungspotenzial: "Es ist schon spannend. Es gibt so ein paar Dinge, wo man sich wirklich Gedanken machen kann: Wo kann das noch hinführen?"
-
-Bei so viel Lob ist gar nicht sicher, dass der Bundestrainer für die Nations-League-Partien gegen Serbien in Belgrad (Freitag 20.45 Uhr/RTL) und gegen die Niederlande in Berlin (Montag 20.45 Uhr/ARD) fest mit einem Münchner Mittelfeldgespann plant, das aus Kapitän Joshua Kimmich und Aleksandar Pavlovic oder Tom Bischof besteht. Auch Nmecha hat reelle Einsatzchancen; vielleicht bekommt er aufgrund seiner Torgefahr beim Geisterspiel in Belgrad den Vorzug vor Pavlovic und Bischof.
-
-Bundestrainer Jürgen Klopp hat seinen Kader für die Länderspiele im November bekannt gegeben. Dabei sind auch Teenager Wael Mohya und Rückkehrer Niclas Füllkrug.
-
-Ähnlich wie Klopp hörte sich auch Vereinstrainer Niko Kovac an, wenn es um seinen fußballerischen Einfluss geht. "Mit seiner Präsenz, seiner Technik und seiner Dynamik kann er viele Situationen schnell lösen, kann mit seinen Körperdrehungen beschleunigen. Das macht seine Mitspieler um ihn herum sehr viel besser", erklärte der BVB-Coach. Doch sobald der Spieler seine Tore nutzt, um religiöse Werbung zu betreiben, wandelt er auf einem schmalen Grat.
-
-"Unsere Kritik richtet sich gegen religiöse Netzwerke, die unter dem Deckmantel des Glaubens ein Weltbild verbreiten, in dem Menschen aufgrund ihrer sexuellen Orientierung, ihrer geschlechtlichen Identität, ihrer Lebensweise oder ihrer persönlichen Entscheidungen abgewertet oder ausgegrenzt werden", kritisierte die Fan- und Förderabteilung in ihrer Stellungnahme. Besonders problematisch sei dabei die enorme Reichweite, die professionelle Fußballspieler besitzen.
-
-Dass der Verband mit Nmecha hart ins Gericht geht, ist nicht zu erwarten. Dafür spricht ein Interview von DFB-Präsident Bernd Neuendorf bei "RTL" nach dem WM-Auftaktspiel im Sommer, als er Nmecha in Schutz nahm. "Er hat das zurechtgerückt, auch sich klar positioniert und distanziert von solchen Vorwürfen der Homophobie", sagte der Verbandsboss damals im Quartier in Winston-Salem.
-
-"Das ist vielleicht in einer säkularisierten Welt für einige Menschen auch etwas ungewöhnlich, dass man das tut", sagte Neuendorf zu der Sequenz, dass auf Initiative Nmechas mehrere Spieler einen Gebetskreis auf dem Platz gebildet hatten. "Die Intention, die er damit verfolgt, ist ja positiv, nämlich dass man über das Fußballspielen hinaus für ganz bestimmte Dinge steht, für Menschlichkeit und für Respekt. Er ist wirklich, glaube ich, ein sehr sensibler Mensch und steht für diese christlichen Werte."
-
-Nmecha hatte sich damals gegen die Vorwürfe gewehrt und betont, dass er weder homophob noch transphob sei.
-
-Dieses Thema im Programm: sportschau.de | DFB kündigt Gespräch mit Felix Nmecha an | 09.11.2026 | 16.41 Uhr
+Dieses Thema im Programm: NDR.de | Wo steht der deutsche Frauenbasketball? | 11.11.2026 | 09:12 Uhr
 
 ----------------------------------------
 
-[3] NATIONS LEAGUE MIT TUCHEL UND CO.: DIESE TOPSPIELE STEHEN JETZT AN
+[2] DEUTSCHLANDS NATIONS-LEAGUE-GEGNER SERBIEN: LETHARGIE IM "MARAKANA"
 
-In der Nations League stehen neben den Partien des DFB-Teams gegen Serbien (Freitag, 13.11.) und Niederlande (Montag, 16.11.) einige weitere echte Topspiele an.
+Die serbische Fußball-Nationalmannschaft durchlebt eine schwierige Zeit. Trainer Veljko Paunovic will einen "Wechsel der Generationen" einleiten - auf Altstars wie Kapitän Dusan Tadic aber nicht verzichten. Auf die DFB-Elf wartet in der Nations League ein Gegner, der sich im Findungsprozess befindet.
 
-Los geht es in der A-Liga schon am Donnerstag (12.11.), wenn erst die Türkei auf Belgien (18 Uhr) und dann Italien auf Frankreich trifft (20.45 Uhr). In dieser Gruppe A sind natürlich alle Konstellationen irgendwie echte Topspiele, aber vor allem auf den Auftritt der Türken dürften viele Fans gespannt sein.
+Wenig los auf den Rängen, wenig los auf dem Platz - die zu erwartende Kulisse passt ein wenig zum Zustand des serbischen Fußballs. Wenn die deutsche Nationalmannschaft am Freitag (20.45 Uhr, live im Sportschau-Audiostream) in Belgrad auf die kriselnden Serben trifft, werden lediglich rund 5.000 Zuschauer erwartet. Aufgrund einer UEFA-Strafe wegen diskriminierenden Fanverhaltens dürfen nur Kinder unter 15 Jahren in Begleitung von Lehrern oder Trainern sowie wenige ausgewählte Gäste und Fans ins Stadion.
 
-Es ist die erste Partie nach der Entlassung von Trainer Vincenzo Montella, der die Türken zwar nach langer Durststrecke zur WM und zuvor eben auch in die Nations-League-A-Liga geführt hatte, dort aber mit der Mannschaft nicht überzeugen konnte. Nach null Punkten aus den ersten vier Partien hatte der Verband die Reißleine gezogen und Sergen Yalcin als Nachfolger verpflichtet. Der hat in seinem ersten Kader ordentlich umgebaut - prominente "Opfer", die gegen Belgien und am Sonntag gegen Frankreich nicht dabei sein werden, sind unter anderem Kerem Aktürkoglu, Mert Müldür und Irfan Can Kahveci von Fenerbahce sowie Torwart Altay Bayindir.
+Dabei bietet das Rajko-Mitic-Stadion, besser bekannt als "Marakana von Serbien", das Potenzial zum absoluten Hexenkessel: In der Heimstätte von Roter Stern Belgrad haben sowohl Serbiens bekanntester Klub als auch die Nationalmannschaft schon so manche legendäre Partie bestritten, unter anderem gewann Deutschland hier das EM-Halbfinale 1976 gegen das damalige Jugoslawien (4:2 nach Verlängerung).
 
-Der türkische Fußballverband hat Sergen Yalcin als Nachfolger des entlassenen Ex-Nationaltrainers Vincenzo Montella vorgestellt.
+"Marakana" 1976: Dieter Müller jubelt gegen Jugoslawien
 
-Die beste Mannschaft der bisherigen Nations-League-Saison ist die Schweiz. Zumindest in Sachen Punkten und Tordifferenz. 12 Punkte aus vier Spielen, 11:1 Tore - die Auswahl von Murat Yakin knüpft nahtlos an die starke Performance bei der Weltmeisterschaft an, in der erst in der Verlängerung des Viertelfinales gegen Argentinien Schluss war.
+Damals kamen über 50.000 Zuschauer ins Stadion, ein Fanzuspruch, von dem man heutzutage meilenweit entfernt ist - auch ohne Zuschauerbeschränkung. Bei den Nations-League-Heimspielen gegen Griechenland und die Niederlande fanden Ende September nur 6.000 und 15.000 Menschen den Weg ins geschichtsträchtige Rund. Der Grund dafür liegt auf der Hand: Der serbische Fußball bietet derzeit wenig Grund zum Mitfiebern.
 
-Die Schweizer Fußball-Nationalmannschaft plant nach der Corona-Affäre um Kapitän Granit Xhaka und Stürmerstar Breel Embolo wieder mit dem Duo. Das bestätigte der Schweizer Verband SFV am Dienstag.
+Nach zwei WM-Teilnahmen in Folge verpasste Serbien die Qualifikation für die WM 2026. Mit Veljko Paunovic wurde ein neuer Trainer geholt, der das Team wieder konkurrenzfähiger machen sollte. Ein Vorhaben, das misslang: Serbien verlor sieben seiner neun Länderspiele in diesem Jahr. Neben einem Remis gegen Katar gelang den "Adlern" lediglich ein Testspielsieg gegen Saudi-Arabien. In der Nations-League-Tabelle sind die Serben abgeschlagen Letzter, und auch wenn der Klassenerhalt in Liga A noch möglich ist, ist die Stimmung um das Nationalteam mäßig.
 
-Besonders beeindruckend: Diese vier überzeugenden Siege gegen Schottland, Normazedonien (2x) und Slowenien gelangen alle ohne die Topstars Granit Xhaka und Breel Embolo. Nach Bekanntwerden von Fehlverhalten der beiden im Rahmen der Corona-Pandemie in den Jahren 2021 und 22 hatte Yakin auf seine Routiniers verpflichtet. Jetzt sind beide wieder im Kader, doch gerade im Sturm muss sich Embolo erst einmal an Mohamed Zeki Amdouni vorbeispielen, der Stürmer vom FC Burnley erzielte in Embolos Abwesenheit drei Tore und legte ein weiteres auf. Gegen Slowenien reicht den Eidgenossen am Freitag (13.11., 20.45 Uhr) bereits ein Punkt, um den Aufstieg zurück in die A-Liga zu sichern.
+Der serbische Fußball hat international an Bedeutung verloren. Er schreibt häufig negative Schlagzeilen, was meistens mit der Politik in einem gespaltenen Land zu tun hat.
 
-Cristiano Ronaldo ist nach seinem Rücktritt in Portugals Nationalteam "nur" noch ein Geist der Vergangenheit. Zwar der wohl größtmögliche überhaupt, aber sportlich blickt man auf der iberischen Halbinsel nun nach vorn. Gesucht werden aber nicht unbedingt die neuen sportlichen Leistungsträger, denn "CR7" war schon in den vergangenen Jahren nicht mehr der sportlich beste Spieler in Portugals Kader. Vitinha, Joao Neves, Nuno Mendes - allein das Trio von Doppel-Champions-League-Sieger Paris Saint-Germain hat schon länger einen legitimen Anspruch auf diesen inoffiziellen Posten. Talent ist genug da, es braucht "nur" einen neuen Anführer und einen neuen treffsicheren Stürmer. Denn bei allen berechtigten Kritik-Ansätzen: In seinen letzten 16 Länderspielen gelangen Ronaldo trotzdem noch stolze elf Treffer.
+"Ich bin überzeugt, dass es für alles eine Lösung gibt und sich die Situation in der kommenden Zeit wieder verbessern wird", sagte Paunovic bei der Pressekonferenz vor dem Spiel gegen die DFB-Elf. Angesprochen auf die schwierige Situation der Serben wählte der ehemalige Spieler von Hannover 96 große Worte.
 
-Cristiano Ronaldos Länderspielkarriere ist vorbei und sucht ihresgleichen. Sie hinterlässt unfassbare Zahlen, ikonische Bewegungen und ein unrühmliches Ende.
+"Ich werde in der kommenden Zeit versuchen, dieses - im positiven Sinne - Fußballmonster in uns zu wecken", so Paunovic. Man müsse dieses Monster aber "erst aus seiner Lethargie reißen". Ansätze dafür hat der 49-Jährige bei der 1:2-Niederlage in den Niederlanden Anfang Oktober ausgemacht, bei der Serbien lange ein Remis hielt.
 
-Neuer offizieller Anführer ist Real-Madrid-Star Bernardo Silva, der das Kapitänsamt bekleiden wird. Heißester Kandidat auf den Job des Goalgetters ist Goncalo Ramos, der Mittelstürmer von der AC Milan traf in den jüngsten drei Partien, in denen Ronaldo ja schon nicht mehr eingesetzt wurde, jeweils einmal. Generell gilt aber: Portugal hat so viel Talent im Kader, dass das Team gar nicht mehr auf den einen großen Ausnahmekönner im Sturmzentrum angewiesen ist. Im Duell mit Dänemark (14.11., 20.45 Uhr) reicht den bisher makellosen Portugiesen bereits ein Punkt zum Gruppensieg - das Hinspiel war spektakulär, es endete 4:2 (2:1).
+Helfen sollen in Zukunft vermehrt junge Spieler. Gleich neun Akteure in Serbiens Kader sind erst 21 Jahre alt oder jünger, mehrere davon spielen bereits eine gewichtige Rolle in Paunovics Mannschaft. Mittelfeld-Stratege Aleksandar Stankovic (21, Inter Mailand), Top-Talent Vasilije Kostov (18, Roter Stern) und Stürmer Mihajlo Cvetkovic (19, RSC Anderlecht) sind nur drei der hochveranlagten Spieler, denen die Zukunft im Team gehören könnte.
 
-In einem mitreißenden Nations-League-Spiel schlug Spanien Ende September die Engländer mit 3:2 (1:2) - nun folgt das Rückspiel. Nach der Partie hielten sich beide in ihrer Gruppe schadlos, gewannen jeweils die anderen drei Spiele und stehen auf Platz eins und zwei der Gruppe. Sollte England am Donnerstag erwartungsgemäß gegen Kroatien gewinnen - das Hinspiel gegen die Kroaten endete 7:0 - steht an diesem Sonntagabend um 20.45 Uhr also das große Finale um den Gruppensieg an.
+"Es ist bis zu einem gewissen Grad natürlich, dass es zu einem Wechsel der Rollen und Generationen kommt", sagt Paunovic. "Das ist ein Prozess, den wir gerade durchlaufen." Gänzlich auf erfahrene und bekannte Namen wie Kapitän Dusan Tadic (37), Filip Kostic (34), Aleksandar Mitrovic (32) oder Sergej Milinkovic-Savic (31) will er aber nicht verzichten. "Man kann eine Nationalmannschaft nicht einfach verjüngen, indem man nur junge Spieler aufstellt. Diese jungen Spieler brauchen jemanden, auf den sie sich stützen können."
 
-Thomas Tuchel hat erstmals beide Bellingham-Brüder in die englische A-Nationalmannschaft berufen. Auch dabei ist natürlich Harry Kane, der vor einem Rekord steht.
+Als Stütze ist eigentlich auch Starspieler Dusan Vlahovic von Besiktas Istanbul vorgesehen, der allerdings überraschend aus persönlichen Gründen absagte. Auch Strahinja Pavlovic, als Stamm-Innenverteidiger bei der AC Mailand derzeit wohl das Gesicht des serbischen Fußballs, fällt verletzungsbedingt gegen Deutschland aus. Hinzu kommen Gelbsperren gegen die gestandenen Mittelfeldspieler Sasa Lukic und Nemanja Maksimovic.
 
-Dass Jude Bellingham dann auf dem Rasen stehen wird, scheint so gut wie sicher - sein Bruder Jobe wird vermutlich erst einmal auf der Bank Platz nehmen. Aber allein das ist für den jungen Dortmunder, der zum ersten Mal nominiert wurde, schon eine gigantische Ehre. Und wenn es mit gemeinsamen Einsatzminuten klappt, wären die Bellinghams das erste Brüderpaar seit Gary und Phil Neville in den 90ern, das gemeinsam für England aufläuft.
+Die Umstände sind für die Serben nicht einfach, und so klingt es fast schon wie eine Vorab-Entschuldigung, wenn Paunovic sagt: "Wenn diese Nationalmannschaft wieder vollständig ist und wir all die Probleme beseitigt haben, die immer wieder auftreten, können wir eine starke Mannschaft sein." Die Aufstellung gegen Deutschland dürfte ein Mix aus alt und sehr jung sein: Die Achse um Tadic, Kostic und Co., dazu einige Talente wie Stankovic und Cvetkovic, , der beim 1:2 gegen die Niederlande den zwischenzeitlichen Ausgleich erzielte.
 
-Dieses Thema im Programm: sportschau.de | Topspiele in der Nations League stehen an  | 09.11.2026 | 21.03 Uhr
+Serbiens Mihajlo Cvetkovic (2. v. l.) bejubelt sein Tor gegen die Niederlande
+
+Dass Talente wie Cvetkovic den serbischen Fußballfans Hoffnung machen können, legen auch gute Platzierungen bei Juniorenturnieren nahe. Die U17-Nationalmannschaft stand 2022 und 2024 jeweils im EM-Halbfinale - Cvetkovic war beim Turnier vor zwei Jahren Leistungsträger und traf viermal. Gegen Deutschland wird es auch an ihm liegen, ob ein erster Schritt zu einer besseren Zukunft gelingen kann.
+
+Dieses Thema im Programm: sportschau.de | Lethargie im "Marakana" - Deutschland in Serbien gefordert | 10.11.2026 | 23.32 Uhr
+
+----------------------------------------
+
+[3] VOM ABSTELLGLEIS ZUR EM? NEUE PERSPEKTIVEN FÜR FÜLLKRUG
+
+Niclas Füllkrug verpasste nach einer schwachen Saison die WM 2026 - im Alter von 33 Jahren könnte er jetzt eine wichtige Rolle bei der Nationalmannschaft einnehmen und mit zur EM fahren.
+
+"Es ist eine Bestätigung und eine Anerkennung dafür, was man mit der Mannschaft im Verein liefert", sagte Füllkrug bei einer Pressekonferenz über seine Nominierung. "Dass ich davon profitiere, dass es bei Werder Bremen gut läuft, ist klar." Er habe im Teamcamp in Herzogenaurach viele alte Mitspieler wiedergesehen "und viele neue Jungs kennengelernt. Das ist ein ganz anderes Gesicht, das die Nationalmannschaft hat, es ist eine krasse Veränderung".
+
+Bundestrainer Jürgen Klopp holte den Bremer, der bisher in 24 Länderspielen 14 Tore erzielt hat, für die abschließenden Gruppenspiele in der Nations League gegen Serbien am Freitag in Belgrad und gegen die Niederlande am Montag in Berlin zurück in die Nationalmannschaft.
+
+"Für Werder Bremen hat er einen unglaublichen Einfluss auf das Spiel. Nicht nur durch seine Tore, sondern eben auch durch die Art und Weise, wie er auftritt. Da hilft natürlich die Erfahrung, die er mitbringt, total", sagte Klopp und eröffnete ihm die Perspektive auf die EM 2028 in England, Wales, Schottland und Irland. "Wenn morgen eine Europameisterschaft wäre, würden wir ihn natürlich mitnehmen. Das ist ja gar keine Frage."
+
+Füllkrug betonte: "So weit schaue ich gar nicht. Ich bin im Hier und Jetzt." Er freue sich, Menschen davon überzeugen zu können, "dass ich hier eine Alternative bin". Auf der Stürmerposition sei die Mannschaft sehr gut aufgestellt.
+
+Bremens Niclas Füllkrug jubelt nach seinem Tor zum 1:1-Ausgleich gegen Köln
+
+Die Saison 2025/26 verlief für Füllkrug frustrierend. In der Hinrunde absolvierte er für West Ham United nur acht Spiele, ohne zu treffen. Nach seinem Wechsel zu AC Mailand im Winter traf er in 20 Spielen nur ein Mal. "Grundsätzlich lag der Schlüssel darin, dass ich dort nicht fit geblieben bin. So einfach muss man das sagen", sagte Füllkrug über die Zeit. "Ich hab nichts verlernt."
+
+Der damalige Bundestrainer Julian Nagelsmann verzichtete am Ende der Saison 2025/26 bei der WM auf Füllkrug, nachdem er bei der EM 2024 noch im Kader gestanden hatte und in allen deutschen Spielen zumindest eingewechselt wurde. Zwei Tore erzielte er dabei.
+
+Ex-Bundestrainer Julian Nagelsmann (l.) und Nationalspieler Niclas Füllkrug am Spielfeldrand
+
+Der Wechsel zu Werder Bremen brachte Füllkrug aber zurück ins Rennen: Er traf in neun Bundesligaspielen neun Mal, führt die Torjägerliste an und erzielte auch in den beiden DFB-Pokalspielen der Bremer drei Tore. Mit Blick auf seine Mitspieler in Bremen sagte er, dass er jetzt eine Mannschaft habe, "die mich sucht" und das sei vorher "nicht optimal gewesen".
+
+"Dass er noch mal so zurückkommt, nach einem schweren Jahr bei der AC Mailand, ist außergewöhnlich", sagte DFB-Sportdirektor Rudi Völler im Podcast Kerners 11 über den 33 Jahre alten Rückkehrer, der nun auf sein erstes Länderspiel seit Juni 2025 hoffen darf. Auf sein Alter angesprochen, sagte Füllkrug: "Ich fühle mich nicht wie 33."
+
+Völler sieht Füllkrug möglicherweise in einer besonderen Rolle. "Er muss ja nicht in jedem Spiel von Anfang an spielen. Auch in zwei Jahren hat ein dann 35-Jähriger sicher noch die Möglichkeit, als Joker reinzukommen in Spielen, wo man einen guten Torjäger oder Kopfballspieler braucht. Das kann er", sagte Völler.
+
+Dieses Thema im Programm: sportschau.de | Niclas Füllkrug äußert sich zur Nomierung und gutem Fitnesszustand | 10.11.2026 | 15:03 Uhr
 
 ----------------------------------------
 
 
 >>> TECH (WIRED) <<<
 
-[1] HUUPE MINI 2 REVIEW: MORE GAME THAN IT CAN HANDLE
+[1] A NEW BENCHMARK FOR DE-AGING COMES FROM SLOWLY TURNING BACK CELLS’ CLOCKS
 
-If your mom was one of those who always said, “Don’t play ball in the house,” well, she’s going to absolutely hate the Huupe Mini 2.
+Scientists have long known how to make cells younger—at least in the sense that adult cells can be converted into pluripotent stem cells very similar to those found in embryos. While this capability has been foundational for biological research, these methods aren’t viable for anti-aging technologies, for a few reasons.
 
-Huupe manufactures smart basketball hoops and add-on kits for existing setups that track shots, light up the board when a point is registered, and include social features like global challenges and leaderboards. The Huupe Mini 2 is the pint-sized, indoor version of that idea, clipping over the top of a door so you can shoot hoops without ever having to leave the room.
+“You don't want to have a pluripotent cell in your body, because it can become all types of cells,” says Oliver Brüstle, a professor who studies stem cells at Germany’s Bonn University.
 
-I’ve been testing one out for weeks, and while it’s a fun diversion, some of its features overreach beyond its core functionality, resulting in an experience that bricks as much as it dunks.
+Additionally, the few key genes involved in the stem cell conversion process can drive the formation of cancer if left active. That’s why Brüstle and his team have looked for other ways of de-aging cells without going through a pluripotent state. In their recent study published in Aging Cell, the researchers started with blood cells from people of various ages, including an infant and a 101-year-old donor.
 
-The Huupe Mini 2 is, effectively, a smart television with a basketball hoop mounted to it. Or rather, a smart TV that comes with a basketball hoop that you have to mount yourself, courtesy of four screws and a little elbow grease. The LCD screen measures 19 inches diagonally, plus a hefty border that includes stereo speakers and a camera used to track you and your b-ball prowess. (Total size of the backboard is 25 inches diagonally, which fits comfortably within a door frame.)
+They guided these cells into a younger state but not all the way toward becoming embryonic-like stem cells. And as this transformation progressed, the chemical signals in the DNA that help estimate a cell’s age also changed. In less than two months of reprogramming, one biomarker in particular was set back as far as 60 years.
 
-A 5-inch inflatable rubber basketball is included, along with a small hand pump and needle. Also in the box are a small but otherwise traditional remote control—required to do anything with the Huupe—and a USB-C charger and lengthy cable so you can top up the battery without removing it from the door.
+Aging continued to reverse even when the scientists drastically reduced the cells’ ability to multiply. Therefore, the apparent rejuvenation can’t be explained solely by the fact that the cells were dividing and producing new cells over and over again. However, the mechanism that did erase these signs of aging is still unclear.
 
-After a quick charge, the unit is ready to set up. I was surprised to discover there’s no app for the device; while larger Huupe hardware works with one, the Mini 2 is completely self-contained and web-based. Just connect the backboard to your Wi-Fi network through a process that you step through with the remote, just like you would on any modern television.
+“The hope is that you actually can do this systemically in the entire animal,” Brüstle says. “But if you think about applying it in a patient, then you want to be sure this is not a lab experiment, so it's about finding the mechanism.”
 
-What’s new vs. the original Huupe Mini? According to the company, most of the upgrades are behind the scenes: a faster CPU, a larger battery (rated lifespan is now four hours), better display quality, and “significantly” better shot tracking. New games are also included, which I’ll cover in the sections to come.
+The researchers also shifted the blood cells specifically into a kind of cell that produces neurons. One caveat is that blood cells and neurons age on different timelines, so the extent of the reversal could be exaggerated by the use of a different measuring stick. The authors acknowledge this limitation in their paper, though this discrepancy couldn’t account for all the age-associated biomarkers that reversed course.
 
-Once connected to the web, the Huupe Mini 2 opens up a world of entertainment to you, and, to my great surprise, not all of it is basketball-related. At first blush, the options available are actually quite daunting. It’s all arranged into traditional tiles on the home screen, which you scroll through with the remote.
+Blood cells getting brainy also would not be a desirable result if you gave a patient a de-aging drug, but it would be useful for other regenerative medicine purposes. However, what Brüstle sees as one of the most exciting outcomes of the study is the information gleaned about the process of de-aging.
 
-Just Huupe is the board’s most basic scoring system, tracking shots and recording your shooting percentage in an untimed session. If you want to get competitive, Huupe Live and the Daily Prize Challenge are social games where you challenge players worldwide to score the most points in a given time frame. The winner gets a nominal prize—10 bucks for the daily challenge, a “cozy sweatsuit” for a monthlong challenge. Other games are fairly self-explanatory, like Most 3 Pointers in 90 Seconds and Family Mode (basically Horse).
+Usually, making stem cells is quick. That’s useful for many experiments, but it doesn’t give researchers the chance to study cells as they shed the markers of age. In this recent study, since the scientists were able to slowly turn back the cells’ biological clocks, they could track each step of de-aging. “Now we can actually try to dissect the process much more easily than having an instantaneous event,” Brüstle says.
 
-Many of the games require online friends to play against; if you don’t have pals with their own Huupe Minis, you’ll probably be locked out of these modes—not that they add much beyond their multiplayer features.
+Scientists began converting adult cells back into stem cells two decades ago, but we’ve known very little about how the subsequent de-aging occurs. This means when clinical researchers test potential medical interventions for age-related conditions, they haven’t always had a reliable measure to compare against.
 
-Things get a little kookier—and buggier—from there. For example, Huupe Flyers is designed to be played without a ball. It’s a gesture-based version of Flappy Bird, wherein you literally flap your arms around to keep a basketball in the air, tracking your movements via the camera much like an Xbox Kinect. Unfortunately, unlike the ball-based games, I was never able to play it, as it failed the calibration process every time I tried to fire it up.
+“Now we have a model” Brüstle says. “You can work along this, and now you can probe a zillion things. What impacts the process? This will lead you to the mechanisms. That’s our hope.”
 
-The system also works as a fairly straightforward streaming platform. Included are apps for YouTube, HBO Max, ESPN, Disney+, Prime Video, Hulu, Spotify, and more. There’s one glaring omission in that list, of course, and I’m not talking about Paramount+ but rather Netflix. Without Netflix support, can you even call yourself a streaming device? It’s also worth noting that the built-in speakers are surprisingly weak. On some apps the audio is OK; on others it’s nearly inaudible.
+In your inbox: Inside WIRED’s newsroom with Katie Drummond
 
-The Huupe Mini 2 includes not just a sensor that can detect when a basket is successfully made; it also includes a camera to track how far the shooter is from the backboard. This is used to assign point values to various shots (depending on the specific game you’re playing), with more points earned the farther away you are from the hoop.
+They war-gamed dimming the sun—it went worse than you think
 
-The good news is that in weeks of playing on the Huupe Mini 2, I never noticed a time when a successful basket was recorded as a miss or vice versa. The distance calculation, however, is another thing. I’ve shot from across the room and had it count as 1 point, while some shots from just a few feet away ring up as 3 points. I could never figure out much rhyme or reason for this variability, except that shots straight-on to the backboard generally registered as lower point values, even if they were distant, while shots from the wings earned more. Of course, navigating all of this is highly dependent on the geometry of your room. Unless you have the Huupe Mini 2 set up in an empty garage, you are probably, like me, going to have plenty of obstacles that get in the way of a lot of your shots—and plenty of crawling under furniture to retrieve wayward balls.
+The Big Interview: Nathan Fielder tells us everything
 
-I can say with authority that it is harder to make a basket on the Huupe Mini 2 than on a regulation basketball goal, even at a very close distance. The hoop is small, and the ball tends to rebound wildly off the springy backboard. It’s quite unforgiving, and it didn’t really make me want to spend a lot of time playing, chasing balls that bounced into the corner or rolled under the bed.
+Live tracker: Elon Musk’s America PAC is spending big on the midterms
 
-The other big problem: When the included inflatable ball hits the Huupe Mini 2, the impact is extremely loud, to the point where I was promptly informed by my wife that it was not appropriate for use when anyone else was in the house. While Huupe says the device is intended solely for use with the included ball, I found a workaround by purchasing a 5-inch foam basketball from Amazon, which makes a bit less noise on impact and also softens the rebound a bit. It has had zero trouble registering baskets.
+Introducing the app: More ways to make the most of WIRED
 
-Battery life is another issue. While four hours is plenty of playing time, the battery continues to drain when the Huupe is in standby mode, which meant I would play a few games in the morning, ostensibly shut the Huupe off, then come back in the afternoon to a completely dead device. The Huupe can run with the power cord attached, but only once the battery has charged to at least about 5 percent.
+© 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
 
-Unfortunately, even turning the power off is puzzlingly difficult. The power button on my remote control did nothing; I ultimately had to turn the system on and off with the physical button on the bottom of the backboard.
+----------------------------------------
 
-At $429 (on deep discount from a hefty list price of $799), the Huupe Mini 2 sits perhaps just over the edge of what might pass for a quirky holiday gift—and I think it’s safe to say no one is buying this device for themselves. You’d have to be a huge basketball nut to get enough mileage out of the device to make it worthwhile. I expect you would also have to loathe leaving your room. With today’s kids, who knows.
+[2] EARLY BLACK FRIDAY DEALS UNDER $100 (2026)
+
+Things have pretty much never been more expensive. I've found the best deals on WIRED-tested tech that we'd actually recommend, from a great gaming headset to a smart bird feeder. These discounted picks could be a low-cost upgrade for yourself, and they'd also make great gifts this holiday season.
+
+Even if the main sales aren't for another few weeks, these are the best early Black Friday deals we've come across on the WIRED-tested gear we recommend—and that's actually worth buying. All of these sales bring the price down to $100 or under, which is no small feat in today's economy. Check back often, as we'll update this guide with the new picks we've found leading up to the main Black Friday and Cyber Monday sales event.
+
+Want more deals? We have even more discounts on WIRED-tested tech here. Plus, read our related shopping guides to make the most of Black Friday sales, including how to avoid scams and sketchy wares on Amazon, Amazon Prime perks you might not know about, and Black Friday shopping tips.
+
+This budget gaming headset is a favorite of reviewer (and gamer) Louryn Strampe. It's crazy comfortable, breathable, and extremely light. The battery lasts for several days on a charge, it performs excellently in mixed audio situations, and it works as well as gaming headsets double its price. Read our full review here.
+
+This is one of our favorite car vacuums, and although it's bigger and heavier than our usual picks, it also makes for a great heavy-duty handheld vacuum. This portable pick has a comfortable design with a handle for control, a large dust bin capacity, and a 4-foot wraparound hose to reach hard-to-access places like corners and under seats.
+
+This budget Wi-Fi router goes on sale often, but we always recommend folks upgrade to this model when it dips in price before the holidays. It has four antennas, a 2.5-Gbps WAN, a 2.5-Gbps LAN, three gigabit LAN ports, and dual-band 2.4 GHz and 5 GHz Wi-Fi options. It may not be the best pick if your computing needs require a heavier lift, but for a small home with a few people, it works perfectly.
+
+This is a basic smart bird feeder that requires no complicated assembly, no solar panels, and no tools—we think it'd make a fantastic gift for the amateur bird watcher in your life. To get started birding, all you need to do is snap three plastic pieces together, charge the camera, and set up the app—you're ready to channel your inner David Attenborough.
+
+I bought this miniature air purifier when I first moved into my small Brooklyn apartment with two furry cats and a roommate with pet allergies. It doesn't have the bells and whistles of an app, remote, or built-in air quality monitoring, but it's worked excellently and without issue for over two years (with regular cleaning and timely filter replacement). If you're looking for a cheap air purifier for your bedroom or other small room, this is the one I recommend to most people. Pro tip: Opt for the pet-specific replacement filter if you live with furry friends.
+
+As a younger millennial, these rope lights give me PTSD. One day, a few years ago, it seemed that all men ages 18 to 32 decided that colorful rope lights in the bedroom were sexy. I just think it made them feel like they were Ryan Gosling in Drive. Chill, Dalton, you drive a Kia. Now that almost half a decade has passed, I can begin to appreciate these smart lights' aesthetic. It's an easy way to make your space feel a little more colorful, moodier, and personal.
 
 Power up with unlimited access to WIRED. Get best-in-class reporting and exclusive subscriber content that's too important to ignore. Subscribe Today.
 
-© 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
-
-----------------------------------------
-
-[2] HERE’S WHAT WE KNOW ABOUT THE X-70 FRACTAL, NASA’S EXPERIMENTAL NEW PLANE
-
-NASA has unveiled a new experimental vehicle, the X-70 Fractal, although many of its features remain a mystery. The agency describes it as a research platform designed to conduct advanced aeronautical tests, but so far it has released only computer-generated images and some technical specifications regarding its capabilities.
-
-Despite the secrecy, it is possible to get some idea of what the new vehicle is like. First of all, it’s not a spacecraft, meaning it is not designed to reach Earth’s orbit or operate outside the atmosphere. However, this crewed, subsonic aircraft is capable of flying far above commercial jets, reaching altitudes over 45,000 feet, well into the stratosphere. Other specs released include the plane’s max speed of Mach 0.75—about 575 miles per hour—and that it can travel nearly 1,700 miles in a single flight.
-
-According to NASA, the X-70 Fractal will enable research into maneuver capabilities never before demonstrated in crewed aircraft, although the agency has not specified what types of maneuvers it intends to perform. The plane will also be capable of carrying up to one ton of experimental equipment and is expected to make its first flight under the NASA banner within the next two years.
-
-One of the key features of the craft will be its modular design, allowing for the rapid installation and replacement of experimental equipment both inside and outside the aircraft. This is largely why it is referred to as an “experimental platform.” It will also feature reconfigurable flight control systems so that NASA can study different ways of steering an aircraft without having to develop a separate platform for each research project.
-
-Although NASA is best known for its space missions, it’s long been dedicated to aeronautical research. That’s what the first A stands for. The agency also traces its origins to the creation of the National Advisory Committee for Aeronautics, which was founded in 1915 and was folded into the newly formed NASA in 1958.
-
-Since then, the space agency has developed numerous experimental aircraft to test technologies that range from supersonic flight and propulsion systems to new aerodynamic configurations. Not all of these prototypes go on to become operational aircraft, but the knowledge gained contributes to the development of future commercial and military aircraft as well as space vehicles.
-
-Among its most recent projects is the X-59, developed in collaboration with aerospace and defense company Lockheed Martin to investigate ways to reduce the noise produced by supersonic aircraft. The X-70 Fractal will join this tradition of pioneers in the sky.
-
-The development of these technologies also has a strategic dimension. In its budget documents for 2027, NASA identifies aeronautical research as a tool for maintaining US technological leadership in the face of growing international competition. The agency also plans to collaborate with the Department of Defense to advance new flight capabilities, although it has not yet announced any military applications for the X-70 Fractal.
-
-During the unveiling of the new aircraft, NASA Administrator Jared Isaacman noted that the project represents only one part of a new era for federal aeronautical research and hinted that more announcements are coming. For now, the agency has not provided details on what those initiatives might be, nor has it specified when it will release more information about the X-70 Fractal.
-
-This story originally appeared on WIRED en Español and has been translated from Spanish.
-
-In your inbox: For life-tested picks, sign up for our Gear newsletters
-
-Airbnb hosts are furious they can no longer make guests do their chores
-
-big story: cool kids write in all lowercase—does that make you mad?
-
-WIRED event: The technologies, people, and ideas transforming our world
+Save Up to 50% on Holiday Printing Using VistaPrint Promo Code
 
 © 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
 
 ----------------------------------------
 
-[3] SECURITY FLAWS ACROSS UK GOVERNMENT SITES EXPOSED ‘GOD-TIER’ INFORMATION
+[3] THE BEST IPAD TO BUY (AND WHAT TO AVOID) IN 2026: AIR, PRO, MINI
 
-A security researcher has found more than 100 serious vulnerabilities in publicly available UK government code, putting sensitive data at risk as a result of poor cyber hygiene.
+FINDING THE BEST iPad should be simple. You get whatever’s new, right? If only. Apple sells four main iPad models in varying sizes, each with its own strengths. In addition, a growing number of older iPads are floating around the eBays of the world. And to make things more complex, Apple recently announced a price increase across its entire lineup, further complicating knowing which model to buy in 2026.
 
-The UK government has defaulted to openly publishing code it produces with public money for around a decade because it’s transparent, and making it easier for code to be reused is cost-efficient. This includes within the Department of Health and Social Care, and the Home Office, as well as local authorities.
+This guide covers the iPad models currently available, what’s coming up, the key differences between them, and the older versions that are still in use (including those you should avoid at any price). I also break down which Apple Pencil and accessories to pair with your device.
 
-But funding squeezes have left departments neglecting maintenance and improvement of their technology estate. While ControlPlane security researcher Chris Nesbitt-Smith found the vulnerabilities using Claude’s Opus and Sonnet AI models, he says that he used consumer-grade models on a laptop and that many of the issues could have been caught by a routine IT health check. “None of this is the level of sophistication that general media is worried about in terms of cyber attacks,” he tells WIRED. “It’s all daft stuff.”
+Be sure to check out all our buying guides, including the Best iPad Accessories, Best iPhones, Best iPhone 17 Cases, Best Tablets, Best Android Tablets, and Best MacBooks.
 
-In the most serious case he identified, the Planning Inspectorate, which handles land-use matters across England, had failed to fully remove a login after it accidentally committed them to public repository GitHub. The fact the credentials gave such wide access—and seemingly didn’t expire—compounded with the agency’s accidental publication of them, “made it particularly dangerous for them.”
+Updated July 2026: I've included information on iPad price increases and how they could affect buying decisions. I’ve also ensured links and prices are up-to-date throughout.
 
-The complete Microsoft Entra ID would have given “god-tier” read and write access to all SharePoint sites and private employee OneDrive accounts, according to Nesbitt-Smith, including HR records. It also would have given access to sensitive libraries which safeguard evidence under legal hold for statutory planning inquiries and appeals, according to the security researcher who found it. “The option for ransomwaring them, for encrypting all the data, or just stealing all the data, was abundantly there,” Nesbitt-Smith says.
+There are tons of iPads on the market. Knowing which model you own is important if you’re considering selling the iPad or if you're looking for accessories that are compatible with your specific device. Further complicating the matter of identifying your iPad model is that—unlike with the iPhone—Apple doesn't name its iPads sequentially
 
-A spokesperson for the Planning Inspectorate told WIRED its cyber monitoring tools immediately detected Nesbitt-Smith’s activity in August and that it had already been handling this as a cyber incident when ControlPlane made contact. The agency identified and fixed this vulnerability within 20 minutes of the report and verified that no data breach occurred. “We have reviewed and strengthened our systems and processes to prevent this type of issue recurring and we are grateful for the researcher’s work and for alerting us to it,” they told WIRED.
+Nonetheless, finding your iPad model is simple. Here’s how to do it, in two steps:
 
-The Planning Inspectorate issue “isn’t about open source but internal housekeeping when using public tools,” Amanda Brock, chief executive officer of nonprofit industry group OpenUK. “That data was exposed because of a failure not to follow good process,” she adds. “That’s not an open source security issue.”
+For accessories, retailers usually indicate which iPad model(s) a given case, folio, or keyboard cover is designed to work with. Sometimes, product descriptions will mention compatibility with a specific generation or processor; here’s the information you need to help decode that information and match it with your iPad:
 
-In around two-thirds of the 349 public sector codebases across 33 organizations Nesbitt-Smith scanned, he said he found vulnerabilities. Several of these were found in the Department of Education’s code, including in a procurement service used by schools, in a teacher application service containing personal details, qualifications, employment history and identity documents, and England’s main register of government-funded training providers and apprenticeships. He also found a vulnerability in a Scottish Government open data portal which would have allowed any visitor to read administrative account information and to change site configuration. The organizations have since dealt with the issues.
+Yes, though it depends on the specific iPad model you have in mind. You’ll want to consider the price, how recently Apple updated the device, and any forthcoming refreshes to expect.
 
-Recently, there have been arguments for public sector departments to stop publishing source code in the open, now that AI has accelerated vulnerability discovery. The NHS reportedly ordered technology teams to transition away from open source code in May amid security concerns about the impact of AI models.
+The company introduced a significant (and highly uncommon for the brand) price increase on June 25 that affected every model in both the MacBook and iPad lines. Apple blamed the price hikes on memory and storage shortages resulting from extremely high demand for AI data centers.
 
-Doing this without immediately fixing the underlying issues would be the “worst case scenario,” according to Nesbitt-Smith, as it prevents researchers like him from finding them, and it’s likely that an adversary has already mirrored these repositories and so will maintain access to them. “Unless you’re going to go and fix all of the problems, if anything, you’re probably drawing more attention to it by closing it,” says Nesbitt-Smith, “because you’re like, ‘Here be dragons over this space. Don’t look here though, please.’”
+Every iPad model now costs between $100 and $200 more than before. Here's the price impact on every device in the current lineup:
 
-In your inbox: For life-tested picks, sign up for our Gear newsletters
+iPad Air received the most recent update of all iPads—in March of 2026 with its M4 chip. In 2025, Apple refreshed both the base iPad and the iPad Pro. Most people should buy one of those, and they're perfectly great options. There are reports of a forthcoming update to the base iPad model, likely to launch this fall. It would include the A18 chip for Apple Intelligence features.
 
-Airbnb hosts are furious they can no longer make guests do their chores
+iPad Pro got an update in October 2025 to the M5 chip. It may get an update to the M6 chip this fall, but some reports have indicated the M6 may get delayed until 2027, which would also delay the iPad Pro.
 
-big story: cool kids write in all lowercase—does that make you mad?
+iPad Mini, the least recently updated, was last refreshed in late 2024. Some reports predict an iPad Mini update is coming later this year, which could mean a meaningful upgrade to an OLED display.
 
-WIRED event: The technologies, people, and ideas transforming our world
+Apple announced the forthcoming iPadOS 27 at its Worldwide Developers Conference (WWDC) in June. The public beta for iPadOS 27 is expected in July, with an official release coming this fall.
+
+Much of the focus of the operating system seems to be on Siri. iPadOS 27 will introduce a dedicated Siri AI app that uses the world knowledge and context of Google Gemini. The update also improves integration with apps including Camera, Mail, Photos, Messages, Calendar, and more. The most interesting of its AI features is Shortcuts, which will let you create an automated task using natural language that can trigger actions across multiple apps.
+
+iPadOS 27 will also refine the highly controversial Liquid Glass redesign from last year's iPadOS 26, adding a slider in Settings that allows you to change the opacity. Other notable changes in this year's upcoming software update include faster, more efficient performance, user-made Custom Extensions that you can create through natural language, custom equalizer (EQ) settings with AirPods, dramatically extended parental controls, and much more. These iPads are compatible with iPadOS 27:
+
+The current version of iPadOS is iPadOS 26, which officially arrived in September 2025 and brought a whole new multitasking experience with windowed apps. Just as you can on a MacBook, you can now resize apps on your iPad and have multiple floating windows; such capabilities bring the iPad user experience closer to that of a desktop than ever before. Apple even brought over the menu bar from macOS, and you can pull down the bar from the top of any app. Importantly, background tasks, like rendering in a video app, work well. This allows you to start an export, leave the app, and it'll still do the job while you scroll through Instagram.
+
+The iPad Mini 1 through 6 and iPad 1 through 10 either have low-resolution, pixelated screens or are just too old. Forget buying a 2014 iPad Air 1 or a 2015 Air 2, as those are simply too long in the tooth. In fact, I would avoid purchasing a device that came out before 2020.
+
+There’s a chance an older iPad could perform decently, but unless someone is giving you one for free, you’re better off hunting for a newer model at a reduced price. Many of the older iPads no longer receive software updates, and they'll seem quite slow compared to your phone and your computer.
+
+If you are price-conscious, peruse our guides to the Best Tablets and Best Android Tablets for ideas. For those shopping for a child, our Best Kids' Tablets guide has good options with kid-friendly features and parental controls.
+
+Apple has always packed a little extra into its iPad Pro tablets compared to its base, Air, and Mini models. It's still totally fine to buy the iPad Pro M4, iPad Pro M2, or the iPad Pro M1 if you can find them, but just make sure you're not paying close to MSRP. If it's close to what you would pay for a brand-new M5 iPad Pro, the older model isn’t worth the small savings. If you can snag a good deal on one of the aforementioned slightly dated models, you’ll get a powerful machine that can match the current Pro slates in many ways; these devices also work with the first-generation Magic Keyboard with Trackpad.
+
+Older iPad Pro models, like the models from 2018 or 2020, are not worth buying (if they're even available). They're just too old.
+
+Apple Intelligence is a suite of artificial intelligence features available in select hardware across iPhone, iPad, and Mac devices. We break down many of the new Apple Intelligence features here if you'd like to learn more. Unfortunately, it’s not available on all iPad models. The following iPads support Apple Intelligence:
+
+Essentially, the iPad is primarily for entertainment and content consumption, while the MacBook is for work, school, and content creation. You can use both devices for any of those previously stated purposes, especially as Apple expands its product lines. But each shines brightest in its intended uses. That's why iPads work so well for kids, retired folks, and for bringing on vacation.
+
+The iPad Pro, however, may be an outlier, as it is truly a pro-level content-creation device. There is a demographic out there that has a use for its tandem OLED display, faster ports, and M5-level graphics, but it's a much smaller niche.
+
+In March 2025, the long-awaited iPad (11th-generation, A16) refresh came. It had been three years since Apple released a new base iPad, and the update brought many modern features. It used the same modern design as its predecessor, complete with uniform bezels around a slightly larger 11-inch LCD. There's a USB-C port, a Touch ID sensor integrated into the power button, a 12-megapixel rear camera, and a 12-MP selfie camera in landscape mode (with support for Center Stage). You also get 5G on the cellular model.
+
+Apple upgraded the processor to an A16 chip (the same one as in the iPhone 14 Pro, iPhone 15, and iPhone 15 Plus). It's plenty powerful, but there's not enough RAM to support Apple Intelligence, making it the only iPad in the lineup without access to Apple's AI features. (You might see that as a perk.) You’ll get 128 GB of storage space, up from 64 GB, with the option to increase it up to 512 GB for a fee.
+
+This iPad doesn't have a fully laminated display, meaning there's an air gap between the screen and the glass. Because this gap can make interactions with the Apple Pencil feel a smidge imprecise, it isn't our pick for artists. You also won’t get second-gen Apple Pencil support; this iPad only works with the first-gen stylus or the USB-C Apple Pencil.
+
+Despite the minor upgrades, the iPad is still the best tablet for most people. Even at its new $449 price, it's a well-rounded slate that can easily tackle most tablet-appropriate tasks, like gaming, streaming movies and TV, and reading. If you connect a keyboard or the Magic Keyboard Folio, you may be able to use it for work, too (depending on what you do for work). It's also perfect for folks who want an entertainment device bigger than a phone, but not as small as an iPad Mini. —Julian Chokkattu
+
+The classic iPad was never meant to be a product for serious work—at least not in the conventional sense. But over the past decade, iPad software and accessory upgrades have made the devices more capable of tasks formerly reserved for a laptop or desktop. This evolution started with cursor and mouse support, then came the Magic Keyboard with a full trackpad and an extra port. Then, iPadOS 26 brought windowed multitasking. For students or anyone else who wants to use those aforementioned features to do more with their iPad, I recommend the M4 iPad Air (7/10, WIRED Recommends).
+
+Contrary to what its name implies, the iPad Air is not actually much thinner or lighter than the base iPad. Instead, the iPad Air lets you use an iPad as your primary work or school device. Not only does it offer a significantly better performance than the base iPad for tasks like video editing or gaming, but it also lets you bump up to the 13-inch screen size for a larger canvas to work with. Whether you want to use your iPad to do art in Procreate or just write many emails, you'll appreciate that extra screen space. The 12 GB of RAM means you can feel free to have many apps open, and you can even dabble in Apple Intelligence or other on-device AI tasks.
+
+Another reason to get the iPad Air is its compatible accessories. The large Magic Keyboard that comes with the 13-inch iPad Air offers a spacious typing experience. The key spacing and keycap size are close to those of a MacBook’s keyboard. The trackpad and palm rests are still a little small, but the keyboard itself is great.
+
+With such a light update in this latest model, in addition to the recent price increase, however, you might also consider buying last year's M3 iPad Air instead. It's a valid sentiment; you can buy the M3 iPad Air 11-inch for $499 right now, which is a great deal, especially since that chip is plenty powerful for iPad Air use cases.
+
+Apple's smallest tablet is the iPad Mini (8/10, WIRED Recommends), and the 2024 iteration is largely an internal upgrade. With a forthcoming A17 Pro chipset (the same as what’s inside the iPhone 15 Pro), it will get a boost in performance to handle today's graphically demanding games and support for Apple Intelligence (a bevy of AI tools you can read about in our guide to Apple updates). This slate also supports the Apple Pencil Pro, so you don't have to splurge on a super-expensive iPad anymore to get the top benefits of the latest stylus. But since the Mini is so small, you probably won't want to use it for any kind of serious work.
+
+The seventh-generation iPad Mini is great for reading ebooks. The device fits into all types of handbags because it's so tiny. The 2K-resolution LCD also looks great (I didn't run into any “jelly scrolling” issues) and gets bright enough outdoors. It still has a 60-Hz refresh rate, which isn't surprising, but it would've been nice to see at least 90-Hz support. Apple also kept the 12-megapixel selfie camera on the left side of the tablet (rather than moving it to the center in landscape mode, like on other iPads). It's not a huge problem because the tablet is small, but I still didn't like having to look over to the left during Zoom calls.
+
+I don't think you'll find much new if you're coming from a 2021 iPad Mini, unless you prefer the features of the Apple Pencil Pro. But if you want a laid-back device, this is the best small tablet on the market. —Julian Chokkattu
+
+Most people do not need to consider the iPad Pro (9/10, WIRED Recommends). It starts at $1,199 and $1,499 for the 11- and 13-inch slates, respectively, and those don't include Apple's Magic Keyboard, which adds as much as $350 to the cost. You can buy a very powerful MacBook for that kind of cash. Don't get me wrong, this tablet is exceptional. The tandem OLED screen is one of the best in the business; it's bright, sharp, and colorful; it has excellent black levels; and it’s the only iPad with a 120-Hz screen. The speakers sound fantastic, and even the webcam is pretty sharp. You get all of that in an incredibly thin design, though none of this is particularly different from the M4 iPad Pro.
+
+The M5 chip powering this iPad offers a small performance boost, though most folks won't notice it in general apps. If you're frequently using AI apps like Draw Things or graphically intense apps like DaVinci Resolve, that's where the speed improvements come into play. The iPad Pro is for people who use these kinds of powerful apps for content creation and work, whether that's creating 3D objects in Blender or producing music. You still have to decide whether you want the benefit of a tablet experience or, say, the MacBook Pro M5, which can deliver a slightly better performance and is overall a better machine for getting stuff done.
+
+iPadOS 26’s windowed apps multitasking system is a great benefit in making this iPad Pro a more functional computer. While this is available on all iPads running iPadOS 26, it shines best on the biggest iPad models, which are the 13-inch iPad Pro and iPad Air. When in doubt, try the iPad Air first, and if that feels more than sufficient, you'll have saved yourself a wad of cash. —Julian Chokkattu
+
+The Apple Pencil is a must-have for any iPad owner who takes a lot of notes or likes to draw. (You can even use it to sign documents.) iPadOS also has handwriting support within certain search fields and apps (like Notes), so you don't need to switch to the keyboard every time you want to type. Apple debuted a new Pencil in 2024, so now there are four options from which you can choose. Here are the key differences:
+
+Apple Pencil (first gen) for $99: The first-generation Pencil is quite old but still functions well, offering pressure sensitivity (lines become thicker as you press down harder on the screen) and tilt sensitivity (for shading). Unlike the other two Apple Pencils, this one has a glossy finish instead of matte (if that matters), and it is also completely rounded, meaning it will roll off surfaces. It doesn’t feature magnets, so you can't stick it to the tablet for safekeeping. It has a Lightning connector, so to charge it, you'll have to remove the cap and plug it into the iPad's charging port. If your iPad has a USB-C port, you can buy an adapter. It's only compatible with the iPad (sixth gen and later), iPad Air (third gen), iPad Mini (fifth gen), iPad Pro 12.9-inch (first and second gen), iPad Pro 10.5-inch, and iPad Pro 9.7-inch.
+
+Apple Pencil (USB-C) for $71: The USB-C Apple Pencil is a bit perplexing. It doesn't come with pressure sensitivity, so it's better suited for note-takers than artists. It can attach magnetically to the sides of an iPad, so you don't need to find a place to store it. However, it doesn't support wireless charging, so you'll have to pair and charge it via USB-C. It supports Hover Mode, which allows you to preview what will happen before touching the display. This feature is exclusive to the select iPad Pro and iPad Air models. The USB-C Apple Pencil is compatible with iPad (10th gen and A16), iPad Air (fourth gen, fifth gen, M2, M3, and M4), iPad Mini (sixth gen), iPad Pro 11-inch (first gen and later, including M4), and iPad Pro 12.9-inch (third gen and later, including M4 and M5).
+
+Apple Pencil (second-gen) for $129: The second-generation Apple Pencil has the same capabilities as the first-gen and USB-C versions, plus wireless pairing and charging (it'll charge when it magnetically sticks to the top edge of supported iPads). It also adds a double-tap feature that lets you quickly switch between tools by tapping on the Apple Pencil twice. It's compatible with the iPad Air (fourth and fifth gen), iPad Mini (sixth gen), iPad Pro 11-inch (first gen and later), and the 12.9-inch (third gen and later). Unfortunately, Apple officially discontinued it, so newer iPads—including the iPad Air (M2, M3, and M4) or iPad Pro (M4 and M5)—don't support it.
+
+Apple Pencil Pro for $99: Apple's Pro Pencil is the most feature-packed of them all. It looks identical to the second-generation model, complete with a matte finish, but it also has a few new tricks. A “squeeze” feature opens up a tool palette, and a new haptic engine gives feedback as you squeeze. A built-in gyroscope sensor allows you to change the orientation of the tools as you twist them (for finer control), and it supports Apple's Find My network to track the stylus if you lose it. It's only compatible with the iPad Air (M2, M3, and M4), iPad Pro (M4 and M5), and seventh-gen iPad Mini. (C'mon, why isn't it backward-compatible?)
+
+iPad accessories are endless. Below, I’ve highlighted some of my favorites to round out your tablet experience. You can find even more options in our Best iPad Accessories guide.
+
+Twelve South Curve Mini for $50: An iPad can be a great tool to use in conjunction with your MacBook or PC, but it needs a proper stand with many adjustments. The Curve Mini is simple, but it's stable and attractive, especially in this Dune color that I sampled.
+
+Zugu Case for $50+: This is my favorite folio case for the iPad for multiple reasons: It's durable (complete with a rigid bumper), has a magnetized cover that stays shut, and has a flap that allows you to position the screen at eight angles. The case is magnetic, allowing you to stick it on the fridge securely. It's also reasonably priced, comes in an array of colors, and has a spot for your Apple Pencil.
+
+Satechi M1 Wireless Mouse for $25: We're already big fans of Satechi's accessories at WIRED, and this mouse didn't disappoint. It has a comfortable ergonomic design, a sleek aluminum finish, and smooth scrolling. It also has a great battery life, with a built-in lithium-ion battery. I've been using it for the past four months and have yet to charge it.
+
+Mageasy CoverBuddy Case (iPad Pro) for $70: You can magnetically connect your iPad to Apple's Magic Keyboard case without having to remove the case each time, thanks to the CoverBuddy. It feels durable and doesn't add too much bulk to the iPad. There's also a slot for the Apple Pencil Pro or the USB-C version. The company also offers the CoverBuddy Lite for the iPad Air (M2).
+
+Logitech Combo Touch (10th-gen) for $260: The Combo Touch (8/10, WIRED Recommends) comes with a built-in keyboard, trackpad, and kickstand, making it ideal for getting work done on your iPad. You can also easily remove the detachable keyboard when you don't need it. The Combo Touch connects via Apple's Smart Connector, meaning you never need to tinker with Bluetooth or bother charging it. It's also available for the iPad Pro (M4) and M5 (although these add a bit of weight) and the iPad Air (M2).
+
+Casetify Impact Screen Protector for $56: If you're worried about damaging your iPad screen, I recommend this protector from Casetify. It's super thin, has excellent touch sensitivity, and is mostly fingerprint-resistant (I've wiped off some smudges here and there). It's painless to apply—the company supplies a microfiber cloth, a de-dusting sticker, and wet and dry wipes.
+
+Paperlike Charcoal Folio Case for $70: Paperlike is known for its screen protector, but the company also offers a great case. It's designed to feel like a sketchbook, complete with a polyester fabric cover that feels lightweight and high-quality. You can also prop up your iPad at two levels. This case doesn't come with an Apple Pencil slot, but there is a large flap closure that keeps it from falling out. I tested the case using the iPad Air, but it's also available for the iPad Pro (both sizes).
+
+Twelve South HoverBar Duo 2.0 for $80: The HoverBar serves two purposes. You can mount it to the side of your bed, kitchen counter, or shelf (to view content comfortably and hands-free), or you can use the included stand at your desk. With the second-gen version, you can now remove the arm from the clamp and attach it directly to the stand, making it easier to swap between the two modes.
+
+Power up with unlimited access to WIRED. Get best-in-class reporting and exclusive subscriber content that's too important to ignore. Subscribe Today.
+
+Save Up to 50% on Holiday Printing Using VistaPrint Promo Code
 
 © 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
 

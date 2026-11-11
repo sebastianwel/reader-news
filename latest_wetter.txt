@@ -1,12 +1,12 @@
-=== WETTER HAMBURG - 10.11.2026 ===
+=== WETTER HAMBURG - 11.11.2026 ===
 
 AKTUELL:
-Zustand: Hauptsächlich klar
-Temperatur: 5.5°C
+Zustand: Bedeckt
+Temperatur: 3.1°C
 
 TAGESAUSSICHT:
-Vormittag  (10:00 Uhr: 3.8°C, Nebel (Regen: 0%))
-Nachmittag (15:00 Uhr: 7.2°C, Teilweise bewölkt (Regen: 0%))
-Abend      (20:00 Uhr: 4.2°C, Bedeckt (Regen: 0%))
+Vormittag  (10:00 Uhr: 2.2°C, Bedeckt (Regen: 0%))
+Nachmittag (15:00 Uhr: 4.4°C, Bedeckt (Regen: 0%))
+Abend      (20:00 Uhr: 3.0°C, Leichter Nieselregen (Regen: 0%))
 
 Einen schönen Tag in der Hansestadt! ⚓
