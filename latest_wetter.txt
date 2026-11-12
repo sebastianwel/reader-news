@@ -1,12 +1,12 @@
-=== WETTER HAMBURG - 11.11.2026 ===
+=== WETTER HAMBURG - 12.11.2026 ===
 
 AKTUELL:
-Zustand: Bedeckt
-Temperatur: 3.1°C
+Zustand: Leichter Regen
+Temperatur: 3.7°C
 
 TAGESAUSSICHT:
-Vormittag  (10:00 Uhr: 2.2°C, Bedeckt (Regen: 0%))
-Nachmittag (15:00 Uhr: 4.4°C, Bedeckt (Regen: 0%))
-Abend      (20:00 Uhr: 3.0°C, Leichter Nieselregen (Regen: 0%))
+Vormittag  (10:00 Uhr: 2.6°C, Bedeckt (Regen: 15%))
+Nachmittag (15:00 Uhr: 6.9°C, Leichter Regen (Regen: 13%))
+Abend      (20:00 Uhr: 4.3°C, Hauptsächlich klar (Regen: 10%))
 
 Einen schönen Tag in der Hansestadt! ⚓
