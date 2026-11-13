@@ -1,0 +1,414 @@
+=== DAILY BRIEFING - 13.11.2026 ===
+Quellen: Tagesschau, Sportschau & Wired Tech
+
+
+>>> TAGESSCHAU TOP-NEWS <<<
+
+[1] US-EINWANDERUNGSBEHÖRDE ICE MELDET REKORD BEI ABSCHIEBUNGEN
+
+Fast eine halbe Million Menschen hat die US-Regierung binnen einen Jahres - laut eigenen Angaben. Das soll ein neuer Rekordwert sein. Es gibt aber Zweifel an der Transparenz der Daten.
+
+Die US-Einwanderungsbehörde ICE hat laut eigenen Angaben im vergangenen Haushaltsjahr so viele Menschen abgeschoben wie nie zuvor in ihrer 23-jährigen Geschichte. Laut Heimatschutzministerium wurden bis Ende September 483.200 Menschen durch die ICE außer Landes gebracht.
+
+Die Daten des Ministeriums zeigen einen erheblichen Anstieg der Abschiebezahlen seit Trumps Amtsantritt. Während es in den beiden Jahren, die ganz oder mehrheitlich in seine Amtszeit fielen, weit mehr als 400.000 Abschiebungen gab, waren es im letzten Jahr unter seinem Vorgänger Joe Biden 271.000 gewesen.
+
+Die brachialen ICE-Einsätze wühlen die USA weiterhin auf. Was darf die Einwanderungsbehörde - und was nicht?
+
+Allerdings äußern Experten Zweifel an der Transparenz der Daten. Denn Einzelheiten - zum Beispiel wie viele der Abgeschobenen Vorstrafen haben - sind nicht öffentlich bekannt. Außerdem stellt die Regierung seit Beginn von Trumps zweiter Amtszeit keine regelmäßigen detaillierten Statistiken zur Einwanderungshaft und zu Abschiebungen mehr bereit.
+
+Die Einrichtung in den Sümpfen Floridas stand für ihre schlechten Haftbedingungen in der Kritik.
+
+Trump hatte die Abschiebepolitik der USA nach Amtsantritt erheblich verschärft. Die Regierung stellte zusätzliche Mittel für Abschiebungsbeamte, Haftanstalten und Abschiebeflüge bereit.
+
+Besonders in der Kritik steht das Vorgehen der Behörde ICE. Menschenrechtsorganisationen beklagen, dass Migranten auch in Drittländer abgeschoben werden, die nicht ihr Geburts- oder Heimatland sind. Zudem werde vielen Menschen die Chance verwehrt, ihren Abschiebebeschluss gerichtlich anzufechten.
+
+Dieses Thema im Programm: BR24 Radio | Nachrichten | 13.11.2026 | 03:00 Uhr
+
+----------------------------------------
+
+[2] WAS ÜBER DEN AUSFALL VON MICROSOFT-DIENSTEN BEKANNT IST
+
+Weltweit sind seit vielen Stunden Dienste des US-Softwarekonzerns Microsoft ausgefallen oder gestört, unter anderem das E-Mail-Programm Outlook. Wer davon betroffen ist und welche Hintergründe vermutet werden - ein Überblick.
+
+Microsoft-Dienste weltweit sind von einer massiven Störung betroffen - und zwar bereits seit Donnerstag. Unternehmen und Behörden haben große Probleme mit wichtiger Software, ebenso wie private Nutzer. Maßnahmen zur Behebung des Problems sind laut Microsoft "nicht wie erhofft" verlaufen.
+
+Durch einen großflächigen Ausfall von Microsoft-Diensten, darunter Outlook, kommt es weltweit zu Störungen.
+
+Betroffen sind nicht nur das E-Mail-Programm Outlook, sondern generell Dienste aus dem Cloud-Paket Microsoft 365. Beim Bürokommunikations-Angebot Teams etwa funktionierten das Planen von Besprechungen und Kalender-Anbindungen häufig nicht richtig.
+
+Zudem waren der KI-Assistent Copilot, das Verwaltungsportal für Administratoren sowie Schnittstellen zu Drittanbietern - darunter KI-Dienste wie OpenAI und Anthropic - mindestens zeitweise gestört.
+
+Hinweise auf einen Cyberangriff gibt es nach Angaben von Microsoft nicht. Der australische Innen- und Cybersicherheitsminister Tony Burke erklärte, der Konzern gehe nicht von einem Cyberangriff aus. Vielmehr handele es sich offenbar um ein fehlerhaftes Update, ähnlich wie bei der weltweiten IT-Panne durch die Sicherheitsfirma CrowdStrike im Jahr 2024.
+
+Ein mutmaßlicher Hackerangriff auf Rheinmetall legt vertrauliche Informationen offen.
+
+Das ist unklar. Die massive Störung beim US-Technologiekonzern hatte bereits am Donnerstag Zehntausenden Nutzern Probleme beim Zugriff auf ihre E-Mails in Outlook bereitet. Wie die Störungsplattform Downdetector berichtete, weitete sich die Störung binnen einer Stunde weltweit aus und legte Microsoft-Dienste in mehr als 70 Ländern lahm. Bekannt ist, dass weltweit rund 430 Millionen Menschen die Dienste von Microsoft 365 nutzen.
+
+Sensible Regierungsbereiche sind ebenfalls von der Störung betroffen. Etwa der Geheimdienst und die Bundespolizei in Australien meldeten Ausfälle. Die Regierung in Canberra aktivierte ein Abkommen mit Microsoft, um eine vorrangige Wiederherstellung der Systeme sicherzustellen. ​
+
+Auch das US-Repräsentantenhaus meldete Einschränkungen für seine Nutzer. Der Ausfall beeinträchtigte zudem in Japan die Infrastruktur des staatlichen Informationssystems, wie der stellvertretende Kabinettschef Masanao Ozaki mitteilte. Laut BBC ist auch der britische Gesundheitsdienst NHS betroffen oder das Parlament in London.
+
+IT-Experten warnen vor einer bisher unbekannten Sicherheitslücke bei Microsoft-Servern - es gab schon Angriffe.
+
+Die Auswirkungen zogen auch weite Kreise in der Wirtschaft. Die KI-Entwickler OpenAI und Anthropic untersuchten Probleme mit Schnittstellen zu Microsoft-Diensten. Der E-Mail-Support der indischen Fluggesellschaften IndiGo und Akasa Air war ebenfalls betroffen.
+
+Der Ausfall störte zudem das Fondsmanagement von Wertpapierfirmen, Lebensversicherern und Investmentgesellschaften in Taiwan. Der Nachrichtenagentur Reuters zufolge sagte ein Unternehmen sogar ein geplantes Wertpapierpensionsgeschäft ab.
+
+Der US-Elektrolastwagenbauer Workhorse Group verschob ​wegen der IT-Probleme die Vorlage seiner Quartalszahlen auf den 16. November. Beim Luxuskonzern und Cartier-Eigner Richemont ‌verzögerte sich die Veröffentlichung der Bilanz ebenfalls. Microsoft hatte erklärt, dass eine Reihe von Servern unerwartet nicht verfügbar sei. Dies liege jedoch nicht an einem plötzlichen Anstieg des Datenverkehrs.
+
+Laut dem Bundesamt für Sicherheit in der Informationstechnik scheint die Situation überwunden,
+
+Microsoft dokumentiert über Mitteilungen auf der Online-Plattform X sowie auf seiner Dienststatus-Seite den zähen Kampf gegen die Ausfälle, der zunächst ohne durchschlagenden Erfolg blieb. Das Unternehmen kommt nach eigener Darstellung bei der Behebung Stück für Stück voran. "Dank unserer jüngsten Maßnahmen zur Datenverkehrsoptimierung verzeichnen wir positive Ergebnisse hinsichtlich der Dienststabilität und einer erhöhten Kapazität", teilte der Softwarekonzern mit.
+
+Diese Maßnahmen würden nun auf weitere betroffene Regionen ausgeweitet, um eine dauerhafte Stabilisierung zu gewährleisten. Für Anwender gebe es ein ausführlicheres Update. Laut früheren Angaben der Microsoft-Ingenieure wurde auf betroffenen Servern ein Prozess überlastet, der für den Aufbau sicherer Verbindungen zuständig ist - woraufhin die Rechner keine Anfragen mehr verarbeiteten. Zudem machte der Konzern die jüngste Konfigurationsänderung rückgängig, die zeitlich mit dem Beginn der Störung zusammenfiel.
+
+Zwischendurch schien Microsoft bereits einen Erfolg vermelden zu können: Ein Teil der Server werde wieder ans Netz gebracht - "und sie bleiben soweit stabil". Wenig später folgte jedoch der Rückschlag: Wiederhochgefahrene Server drohten erneut auszufallen, sobald wieder Datenverkehr auf sie traf. Auch ein späterer Versuch, Teile der Infrastruktur isoliert hochzufahren, brachte zunächst nur teils positive Ergebnisse; weitere Gegenmaßnahmen griffen nach Konzernangaben nicht wie erhofft.
+
+Wann alle Microsoft-365-Dienste wieder uneingeschränkt laufen sollen, blieb zunächst unklar.
+
+Deutschland ist bei digitaler Technik noch abhängiger vom Ausland geworden als 2010, vor allem bei IT-Diensten und Software. Das zeigt ein neuer Index der Universität Bonn.
+                                                mdr
+
+Es ist der zweite Ausfall von Microsoft-365-Diensten in diesem Jahr, nachdem es im Januar zu ähnlichen Problemen gekommen war. Im vergangenen Monat hatte zudem ein Ausfall der Cloud-Plattform Azure weltweit für Störungen gesorgt.
+
+Marktanalyst Josh Gilbert von der Handelsplattform eToro erklärte, dass wiederholte Ausfälle das Vertrauen der Kunden in Microsoft langfristig beschädigen könnten. Wenn Zuverlässigkeit zu einem wiederkehrenden Problem werde, sei dies für jede IT-Abteilung ein Grund, zweimal nachzudenken, bevor sie noch mehr Geschäfte in die Hände eines einzigen Anbieters lege.
+
+Ausfälle von Online-Diensten gehören zum Alltag - meist sind sie aber nur von kurzer Dauer. Manchmal allerdings sind die Probleme in den riesigen Cloud-Infrastrukturen so gravierend, dass es zu stundenlangen Störungen kommt.
+
+Nach der weltweiten Störung erholen sie die Microsoft-Systeme wieder - doch nicht alle Nutzer sind schon wieder online.
+
+Der aktuelle Ausfall erinnert an die Crowdstrike-Panne vor zwei Jahren: Damals hatte ein fehlerhaftes Software-Update der Sicherheitssoftware CrowdStrike Falcon für Microsoft Windows eine weltweite IT-Panne ausgelöst. Fluggesellschaften, Krankenhäuser, Banken, Supermärkte und Notfalldienste weltweit mussten den Betrieb teilweise komplett einstellen.
+
+Laut einer Untersuchung des Bundesamts für Sicherheit in der Informationstechnik (BSI ) mussten 48 Prozent der betroffenen deutschen Firmen den Betrieb temporär einstellen.
+
+Dieses Thema im Programm: tagesschau.de | Massive Beeinträchtigungen von Microsoft-Diensten im Internet | 13.11.26 | 06:55 Uhr
+
+----------------------------------------
+
+[3] ERLEICHTERUNG FÜR INDUSTRIE IM EU-EMISSIONSHANDEL
+
+Die Industrie in der EU soll weniger für Emissionen zahlen müssen. Unterhändler von EU-Parlament und Mitgliedstaaten einigten sich darauf, betroffenen Branchen zeitlich befristet zusätzliche kostenlose Emissionszertifikate zuzuteilen.
+
+Durch eine zeitlich begrenzte Veränderung im Emissionshandelssystem der EU soll die Industrie nach Angaben des Europaparlaments mehrere Milliarden Euro einsparen können. Unterhändler des Parlaments und der EU-Staaten einigten sich in der Nacht darauf, der Industrie für den Zeitraum von 2026 bis 2030 rund 120 Millionen zusätzliche kostenlose EU-Emissionshandelszertifikate zuzuteilen.
+
+Damit gehen die Verhandler noch über den Vorschlag der EU-Kommission hinaus, mit dem die betroffenen Branchen nach Angaben der Behörde rund sechs Milliarden Euro eingespart hätten. Da die Vereinbarung nun noch mehr kostenlose Zertifikate vorsieht, steigen laut Parlament die erwarteten Einsparungen. Der Kompromiss muss noch vom Parlament und von den Mitgliedstaaten formell angenommen werden.
+
+Die EU-Kommission will ihr wichtigstes Klimaschutz-Instrument aufweichen. Die Reaktionen sind gespalten.
+
+Die EU-Kommission hatte im Juli weitere Anpassungen des Emissionshandelssystems vorgeschlagen, um die europäische Industrie angesichts hoher Energiepreise und Konkurrenz aus dem Ausland zu unterstützen und Abwanderung zu vermeiden. Demnach soll etwa die Zahl der CO2-Zertifikate langsamer sinken als bislang vorgesehen. Das würde bedeuten, dass die Industrie in Europa länger und mehr Kohlendioxid ausstoßen darf. Die Klimaziele sind damit schwieriger zu erreichen. Eigentlich will die EU bis 2040 ihre Treibhausgasemissionen um 90 Prozent im Vergleich zu 1990 senken.
+
+Dieses Thema im Programm: MDR aktuell | Nachrichten | 13.11.2026 | 07:30 Uhr
+
+----------------------------------------
+
+
+>>> SPORT (SPORTSCHAU) <<<
+
+[1] DEUTSCHE SKISPRINGER VOR DEM AUFTAKT: DER LANGE WEG ZURÜCK IN DIE WELTSPITZE
+
+Formschwankungen, eine misslungene Generalprobe und kaum Druck aus der zweiten Reihe: Vor dem Weltcup-Start in Lillehammer gibt es bei den deutschen Skispringern mehrere Baustellen. Für den neuen Bundestrainer Andreas Mitter beginnt der Winter mit viel Arbeit.
+
+Die Goldmedaille von Philipp Raimund bei den Olympischen Spielen war aus deutscher Sicht ohne Zweifel der Lichtblick des vergangenen Winters. Die seit Jahren anhaltende Stagnation der DSV-Adler konnte sie aber auch nicht kaschieren.
+
+Einzig Raimund konnte Anfang März in Lahti einen Weltcup gewinnen. Im Schatten des alles überflügelnden Domen Prevc überzeugte er neben Felix Hoffmann zudem als Weltcup-Gesamtsiebter. Die einstigen Aushängeschilder Andreas Wellinger, Karl Geiger und Pius Paschke hechelten dagegen hinterher.
+
+Die drei Routiniers stehen stellvertretend für eines der aktuell größten Problem im deutschen Skispringen: den verpassten Generationenwechsel. Wellinger (31), Geiger (33) und Paschke (36) sind jenseits der 30 und dennoch weiter im Team gesetzt - auch weil die Konkurrenz fehlt. Die Lücke zwischen A- und B-Team ist zu groß. Jüngere Athleten konnten die Leistungstäler der Etablierten bislang nicht nutzen, um sich dauerhaft für das Weltcup-Team zu empfehlen.
+
+An dieser Stellschraube wird der neue Bundestrainer drehen müssen. Andreas Mitter hatte im April nach sieben Jahren die Nachfolge von Stefan Horngacher angetreten. Wie sein Vorgänger ist er Österreicher, und als dessen ehemaliger Assistent und Trainer des deutschen Perspektivkaders kennt er den Verband aus dem Effeff. Unter dem 44-Jährigen soll eine neue Energie entstehen. Zum einen gilt es, die guten Leistungen von Raimund und Hoffmann zu bestätigen. Zum anderen muss das Trio Wellinger/Geiger/Paschke wieder zu alter Form finden.
+
+Mit Andreas Mitter hat der Deutsche Skiverband (DSV) einen neuen Bundestrainer für die Skisprung-Männer gefunden. Die Herausforderung für den Österreicher ist groß - genauso wie die Vorschusslorbeeren.
+
+Von Podestplätzen war vor allem Wellinger zuletzt weit entfernt. Mehr als ein fünfter Platz sprang für ihn in einem Einzel der vergangenen Saison nicht heraus. Bedenklicher noch: Der 31-Jährige verpasste zwischenzeitlich reihenweise die zweiten Durchgänge. Immerhin zeigte seine Formkurve beim Saisonfinale in Planica nach oben.
+
+Auch Geiger machte bei Horngachers Abschied Lust auf mehr. Wie Wellinger kann er aus einem reichen Erfahrungsschatz schöpfen. Der Oberstdorfer ist schon durch manches Tal gegangen und sparte in der Vergangenheit nicht mit Selbstkritik. Es liegt auch am neuen Bundestrainer, Geiger das Vertrauen in die eigenen Stärken nachhaltig einzuimpfen.
+
+Wie beschwerlich der Weg zum Glanz vergangener Tage wird, zeigte sich aber schon in der Vorbereitung. Beim Finale des Sommer-Grand-Prix in Klingenthal präsentierte sich das deutsche Team erschreckend schwach. Nur vier DSV-Adler sprangen im Finale mit, doch auch sie lagen am Ende des Tages weit von den Top 10 entfernt. Ein Sommer-Grand-Prix ist zwar kein Winter-Weltcup, die Klingenthal-Bilanz sollte aber Warnung genug sein.
+
+Das deutsche Team hat vor heimischem Publikum den Sprung nach ganz vorne verpasst.
+                                                mdr
+
+Sorgen bereitet zudem Raimunds Gesundheit. Der 26-Jährige plagt sich mit wiederkehrenden Hüftproblemen. Ob der derzeitige Fixpunkt der deutschen Skispringer zum Auftakt in Lillehammer fit ist, bleibt abzuwarten. Hält die Hüfte, dürfte der Athlet vom SC Oberstdorf einmal mehr der aussichtsreichste Kandidat auf einen Podestplatz sein. Das gilt mit Abstrichen auch für Hoffmann, der sein Potenzial mit Gesamtrang sechs bei der zurückliegenden Ausgabe der Vierschanzentournee unterstrich, ehe er in ein Leistungsloch fiel.
+
+Neben der Weltmeisterschaft im schwedischen Falun (24. Februar bis 7. März) ist die Tournee (28. Dezember bis 6. Januar) auch in dieser Saison das große Highlight, und gerade dort lechzen die deutschen Skispringer nach einem Erfolg. Eine Topplatzierung ist zwar nie auszuschließen, käme aktuell aber eher überraschend. Zumal auch die Konkurrenz aus Slowenien, Österreich und Norwegen über den Sommer nicht tatenlos war.
+
+Ob ein derartiger Ausreißer wie Raimunds Olympiagold in der vergangenen Saison wieder der einzige Glanzpunkt eines deutschen Winters bleibt oder ob Mitter aus einzelnen Lichtblicken eine Mannschaft mit Breite und Konkurrenzfähigkeit formt, zeigt sich aber nicht erst bei den Saisonhöhepunkten. Eine erste Antwort liefert schon das Auftaktwochenende in Lillehammer.
+
+Holen Sie sich den Skisprung-Kalender mit allen Terminen zum Weltcupstart in Lillehammer bis zum Saisonfinale in Planica auf Ihr Smartphone.
+
+Die Qualifikation für das Skispringen der Männer in Ruka. Es kommentiert Tom Bartels.
+
+Das Skispringen der Frauen in Hinzenbach. Es kommentiert Philipp Sohmer.
+
+Die Qualifikation für das Skispringen in Ruka. Es kommentiert Tom Bartels.
+
+Dieses Thema im Programm: www.sportschau.de | "Start der Weltcup-Saison - Neuer Bundestrainer, alte Baustellen" | 13.11.2026 | 09.00 Uhr
+
+----------------------------------------
+
+[2] LEVI ALS GUTES OMEN - DSV-DUO WILL ERFOLGSSERIE FORTSETZEN
+
+Der Slalom in Levi liegt den deutschen Alpin-Fahrerinnen. Während Lena Dürr auf eine starke Bilanz zurückblickt, reist Emma Aicher mit großen Ambitionen nach Finnland.
+
+Kaum ein Slalomrennen verlief aus Sicht der deutschen Skirennfahrerinnen in den vergangenen Jahren erfolgreicher als jenes in Levi. Emma Aicher feierte dort vergangene Saison ihre erste Podestplatzierung in dieser Disziplin, während Lena Dürr jahrelang ein regelrechtes Abo auf die Podiumsplätze im hohen Norden hatte.
+
+Die Piste "Levi Black", auf der die Slalom-Asse unter Flutlicht um die Bestzeiten kämpfen, scheint wie gemacht für Aicher und Dürr. In den flachen Streckenabschnitten im oberen und unteren Teil können beide ihre "Schleicherinnen"-Fähigkeiten ausspielen. Vor allem die jüngere Aicher versteht es, mit ihrem schnörkellosen Schwung auch im Flachen Tempo aufzunehmen. Im anspruchsvollen steilen Mittelteil hingegen sind vor allem technische Fähigkeiten gefragt.
+
+Was Aicher und Dürr gemeinsam haben: Im Gegensatz zu quirligen Slalomläuferinnen wie Mikaela Shiffrin oder Lara Colturi, die kompakt und sehr aktiv fahren, wirken die beiden DSV-Athletinnen auf den ersten Blick oft erstaunlich ruhig, als wären sie nicht am Maximum. Doch gerade dieser Fahrstil erlaubt es, an entscheidenden Stellen clever zu dosieren und auch anspruchsvolle Passagen sauber zu meistern.
+
+"Ich fahre mit guten Erinnerungen nach Levi", wird Dürr in einer Pressemitteilung des Deutschen Skiverbands zitiert. "Die letzten Jahre waren dort für mich sehr erfolgreich." In der vergangenen Saison verpasste sie als Vierte das Podium zwar knapp, in den Jahren zuvor gelangen ihr jedoch gleich fünf Podestplatzierungen im hohen Norden.
+
+Auch Emma Aicher verbindet mit Levi seit vergangenem Jahr besondere Erinnerungen: 2025 fuhr sie in Finnland erstmals im Slalom auf das Podium. Unter Flutlicht schlängelte sie sich gewohnt ruhig durch den Stangenwald und musste sich am Ende lediglich Tagessiegerin Mikaela Shiffrin und Lara Colturi geschlagen geben.
+
+Levi markierte damals den Auftakt zu Aichers bislang erfolgreichstem Winter: Zwei Olympia-Medaillen, drei Weltcupsiege und die endgültige Etablierung an der Weltspitze in allen Disziplinen machten die vergangene Saison zu einem Meilenstein ihrer Karriere. Die DSV-Athletin kämpfte am Ende sogar mit Alpin-Dominatorin Shiffrin um den Gesamtweltcup.
+
+"Ich will da anschließen, wo ich letzte Saison aufgehört hab – am besten gut Skifahren", sagt Aicher. Auch in diesem Winter hat die junge Deutsche den Gesamtweltcup im Blick. Als erfolgreiche Allrounderin gehört sie automatisch zum Kreis der Anwärterinnen auf die große Kristallkugel.
+
+Eine Entwicklung könnte ihr dabei zusätzlich in die Karten spielen: Shiffrin möchte ihr Slalomprogramm reduzieren und ist auch in Levi nicht am Start. Mit einem starken Rennen in Finnland könnte Aicher also früh wichtige Punkte sammeln und sich einen Vorsprung im Kampf um die Gesamtwertung verschaffen.
+
+Zusätzlichen Rückenwind dürfte Aicher aus Sölden mitbringen: Beim Saisonauftakt im Riesenslalom fuhr sie auf Rang drei und sicherte sich damit ihr erstes Podium in dieser Disziplin.
+
+Neben Aicher und Dürr stehen auch Routinierin Jessica Hilzinger und Weltcup-Debütantin Charlotte Grandinger am Start. Die erst 19-jährige Grandinger freut sich auf ihren ersten Einsatz in der höchsten Liga des Skirennsports: "Es ist etwas ganz Besonderes, jetzt selbst dabei sein zu dürfen und nicht nur im Fernsehen zuzuschauen", sagte sie gegenüber dem DSV. Am Samstag wird sich zeigen, ob die Lovestory zwischen Levi und den DSV-Frauen in die nächste Runde geht.
+
+----------------------------------------
+
+[3] WO SKI ALPIN IN DIESER SAISON STATION MACHT
+
+Von Ende Oktober bis Ende März fahren die Skirennläuferinnen und Skirennläufer wieder um die berühmten Kristallkugeln. Außerdem werden die WM-Titel vergeben. Insgesamt stehen 94 Rennen in dieser Saison auf dem Programm. Wir stellen die Weltcup- und Olympia-Orte vor.
+
+Nach dem traditionellen Start in Sölden geht es für die Männer und Frauen zunächst an den finnischen Polarkreis und im Anschluss zurück nach Österreich. Danach stehen die Rennen in Übersee an, ehe es in Europa weitergeht: Über die Klassiker in Wengen und Kitzbühel bis hin zum Saisonhighlight, den Weltmeisterschaften in Crans Montana. Das Weltcupfinale steigt in dieser Saison in Sun Valley (USA).
+
+Der Start des Alpinen Skiweltcups ist traditionell am Rettenbachgletscher in Sölden. Die Gemeinde Sölden ist flächenmäßig die größte Gemeinde in Österreich - noch vor Wien. Den Auftakt machen in diesem Jahr die Frauen am 24. Oktober mit einem Riesenslalom. Einen Tag später gehen die Männer im Ötztal in der selben Disziplin an den Start.
+
+Mitte November geht es sowohl für die Männer als auch für die Frauen ins finnische Levi – etwa 170 Kilometer nördlich des Polarkreises. Die Black Levi ist damit die nördlichste, aber gleichzeitig auch niedrigst gelegene Piste im alpinen Skiweltcup. Die Starthöhe liegt bei nur 438 Metern. Dort gehen sowohl die Männer als auch die Frauen für ein Slalom an den Start.
+
+Aus dem kalten Finnland geht es zurück nach Österreich - erneut ins Ötztal. Die Ortschaft Gurgl liegt in den Ötztaler Alpen nahe dem Alpenhauptkamm in Tirol. Für die Frauen und Männer steht jeweils ein Slalom auf dem Programm.
+
+Ende November steht für alle eine Reise nach Nordamerika an - die Frauen machen für einen Riesenslalom und einen Slalom Station in Killington (Vermont), das das größte Skigebiet im Osten der USA beherbergt. Für die Männer geht es nach Copper Mountain. Das Skigebiet im Bundesstaat Colorado liegt in den Rocky Mountains in der Nähe von Denver. Hier wird ein Super-G und ein Riesenslalom ausgetragen.
+
+Anfang Dezember fällt in Beaver Creek der Startschuss für die Speed-Spezialisten. Die Männer gehen im US-Bundesstaat Colorado an den Start. Die Birds of Prey oder auch Raubvogelpiste gehört zu den anspruchsvollsten Strecken im Skiweltcup. Im Angebot: zwei Abfahrten, ein Super-G und ein Riesenslalom.
+
+Derweil reisen die Frauen am ersten Dezemberwochenende weiter in das kanadische Tremblant. Das Skigebiet liegt in der kanadischen Provinz Québec in den Laurentinischen Bergen. Zwei Riesenslaloms stehen auf dem Programm.
+
+Während es für die Männer zurück nach Europa geht, bleiben die Frauen noch in Nordamerika. In Beaver Creek kommen die Speed-Spezialistinnen bei zwei Abfahrten und einem Super-G auf ihre Kosten.
+
+Die Männer reisen nach Frankreich. Sie starten in Val d’Isère – einer französischen Gemeinde in der Alpen-Region Auvergne-Rhône-Alpes. Auf der Piste La Face de Bellevarde werden ein Riesenslalom und ein Slalom ausgetragen. Sie ist im Weltcupzirkus die einzige Piste, bei der man vom Start direkt ins Ziel schauen kann.
+
+Für die Speed-Spezialistinnen geht es Mitte Dezember nach St. Moritz. Zwei Super-G-Rennen und ein Riesenslalom stehen auf dem Programm. Auch dieses Jahr wieder auf der Engadina-Rennstrecke - inkulsive dem berüchtigtem Rominger-Sprung.
+
+Die Männer starten währenddessen im italienischen Gröden in den südtiroler Dolomiten. Die Skipiste mit den berühmten Kamelbuckeln - eine schwierige Kombination aus drei Bodenwellen - liegt im Auge des mächtigen Langkofel. Auf dem Programm stehen ein Super-G und eine Abfahrt.
+
+Von Gröden könnten die Männer theoretisch mit dem Lift zum nächsten Weltcup fahren. Zumindest wenn die Speedfahrer sich auch in den technischen Disziplinen messen wollen. Für einen Riesenslalom und einen Slalom geht es ins nur wenige Kilometer entfernte und direkt angebundene Skigebiet Alta Badia. Die Skipiste Gran Risa zählt zu den schwierigsten Strecken im Skiweltcup.
+
+Deutschlands Alexander Schmid beim Riesenslalom in Alta Badia in Aktion.
+
+Im Herzen der französischen Alpen gelegen, bietet Courchevel eine spektakuläre Kulisse für den Slalom der Damen. Die technisch anspruchsvolle Strecke im bekannten Skigebiet "Les 3 Vallées" fordert Präzision und Mut.
+
+Anders als in der vergangenen Saison wird in diesem Winter noch vor Weihnachten ein Nachtslalom ausgetragen. In Madonna di Campiglio erwartet die Athleten ein Flutlicht-Spektakel auf der berüchtigten Piste Canalore Miramonti.
+
+Kurz vor dem Jahreswechsel feiert Gosau seine Premiere als Gastgeber eines Weltcups. Mit den beiden Frauen-Rennen in der Skiregion Dachstein zwischen Weihnachten und Silvester kehrt der alpine Skiweltcup nach mehr als sechs Jahren wieder nach Oberösterreich zurück. Auf dem Programm steht ein Riesenslalom und ein Slalom.
+
+Die Männer starten derweil auf der Olympia-Strecke von 2026 in Bormio. Auf der berühmt-berüchtigten Piste Stelvio stehen eine Abfahrt und ein Super-G an.
+
+Der erste Weltcup im Jahr 2026 findet für die Männer in Kranjska Gora in Slowenien statt. Die Podkoren-Piste, auf der ein Slalom und ein Riesenslalom stattfinden, ist bekannt für ihre technischen Herausforderungen und steilen Abschnitte.
+
+Flutlicht an! Im österreichischen Flachau werden für die Frauen in diesem Winter gleich zwei Nachtrennen ausgetragen. Den Auftakt im Salzburger Land macht ein Riesenslalom, einen Tag später geht es im Slalom zur Sache. Die Siegerinnen dürfen sich den Titel Snow Space Princess geben.
+
+Bei den Männern steht in Adelboden ein alljährliches Highlight an. Die Piste am Chuenisbärgli hat den steilsten Zielhang des Weltcups. Die Skifahrer starten im Riesenslalom und Slalom. Die Traditions-Rennen im Westen des Berner Oberlandes sind bekanntermaßen ein Zuschauermagnet.
+
+Skirennfahrer Linus Straßer kam beim Weltcup in Adelboden auf Rang drei.
+
+Für die Frauen geht es währenddessen in Italien weiter. In dem in den Dolomiten gelegene Skigebiet Val di Fassa werden auf der Piste La VolatA eine Abfahrt und ein Super-G ausgetragen.
+
+Nach den Männern kehren auch die Frauen an den Austragungsort der vergangenen Olympischen Spiele zurück. Auf der berühmten Olimpia delle Tofane versprechen eine Abfahrt und ein Super-G Nervenkitzel.
+
+Ähnlich spektakulär wird es bei den Männern in Wengen. Seit knapp hundert Jahren werden auf der berühmten Lauberhornabfahrt Ski-Rennen ausgetragen. Dabei ist die Piste mit 4,5 Kilometern nicht nur die längste im Skiweltcup, sondern mit Geschwindigkeiten von bis zu 160 Kilometern pro Stunde auch die schnellste. Auf dem Programm stehen Super-G, Abfahrt und Slalom - also dreimal Ausnahmezustand und Spektakel in Wengen.
+
+Die Frauen bleiben in Italien und reisen zum Kronplatz in Südtirol. Der Berg hat den Namen von einer südtiroler Sage, in der die Prinzessin und Heldin Dolasilla auf dem Kronplatz gekrönt wurde. Auf dem sagenumwobenen Berg starten die Skifahrerinnen im Riesenslalom.
+
+Die Männer starten im österreichischen Kitzbühel. Auf der legendären Streif, der wohl bekanntesten Skipiste der Welt, gehen die Speed-Männer in der Abfahrt und im Super-G an den Start. Für die Techniker wird auch ein Slalom ausgetragen. Das Besondere in Kitzbühel: Der Gewinner wird auf einer Gondel der Hahnenkammbahn verewigt.
+
+Linus Straßer und seine Gondel bei der Hahnenkammbahn in Kitzbühel
+
+Bei den Frauen kehrt der alpine Ski-Weltcup bereits zum vierten Mal in der Geschichte der unabhängigen Slowakei nach Jasna zurück. Im Skigebiet in der Niederen Tatra wird die Weltelite im Risenslalom und Slalom an den Start gehen. Für Wintersport-Fans in der Slowakei ist es der absolute Saisonhöhepunkt.
+
+Nachtrennen im Doppelpack! Für die Männer geht es direkt zum nächsten Klassiker. Ende Oktober steht das legendäre Nachtrennen auf der Planai an – Slalom in Schladming in Österreich. Auch ein Riesenslalom wird dieses Jahr wieder ausgetragen. Das Nightrace in der Steiermark ist ein Höhepunkt für die Techniker und ein Publikumsmagnet. Rund 50.000 Zuschauer werden erwartet.
+
+Vor dem Saisonhighlight fahren die Frauen im slowenischen Kranjska Gora. Die Gemeinde trägt einen Riesenslalom und einen Slalom aus.
+
+Die Männer machen derweil Station in Frankreich. Am Fuße des Mont Blanc sind die Technik-Spezalisten im Slalom noch einmal gefragt.
+
+Der Höhepunkt der Ski-Alpin-Saison steigt in der Schweiz. In Crans Montana suchen die Frauen und Männer ihre Weltmeister. Besonders historisch: 1911 fand im Kanton Wallis das erste Abfahrtsrennen der Welt statt. Insgesamt stehen elf Rennen an.
+
+Den Auftakt der Titelkämpfe macht der Team-Parallel-Wettkampf. Anschließend folgen die Speed-Disziplinen und die Team-Kombination. Den Abschluss bilden die Technik-Rennen. Gefahren wird auf zwei Pisten: Die Piste Nationale ist Schauplatz der Männer-Abfahrt, auf der Piste Mont-Lachaux steigen die weiteren Rennen. Beide Strecken enden im selben Zielstadion.
+
+Der Ski-Alpin-Zirkus nimmt sich nach der WM ein paar Tage Pause, ehe es für die Männer nach Deutschland geht. In Garmisch-Partenkirchen steht eine der traditionsreichsten Stationen im gesamten Weltcup-Kalender an. Eingebettet in die bayerischen Alpen, unterhalb der Zugspitze, bietet der Ort eine spektakuläre Kulisse für eine Abfahrt und einen Super-G.
+
+Nach fünf Jahren Pause kehrt der Ski Weltcup im Februar 2027 zurück nach Lenzerheide. In der Schweiz tragen die Frauen auf der Silvano-Beltrametti-Strecke zwei Super-G-Rennen aus.
+
+Eine Woche später sind auch die Frauen in Garmisch-Partenkirchen zu Gast. Zwei Abfahrtsrennen versprechen Spektakel pur.
+
+Die Männer machen derweil Halt Saalbach-Hinterglemm. Auf der WM-Strecke von 2025 werden eine Abfahrt und ein Super-G ausgetragen.
+
+Für die Frauen geht es nach Soldeu in Andorra. In der kleinen Wintersportsiedlung der Gemeinde Canillo nahe der Grenze zu Frankreich werden ein Riesenslalom und ein Slalom ausgetragen.
+
+Die Männer sind parallel in Norwegen gefordert. In Kvitfjell nördlich von Lillehammer fand in der vergangenen Saison das Weltcup-Finale statt. Dieses Mal sind die Speed-Spezialisten in einem Super-G und einer Abfahrt gefordert.
+
+Bevor es nach Übersee geht, starten auch die Frauen in Kvitfjell. Eine Abfahrt und ein Super-G stehen auf dem Programm.
+
+Die Männer reisen weiter nach Schweden. In Are - dem populärsten schwedischen Skigebiet - starten die Techniker im Riesenslalom und Slalom.
+
+Showdown beim Weltcup-Finale! In Sun Valley im US-Bundesstaat Idaho geht es ein letztes Mal in dieser Saison hoch her. Wie schon 2025 werden dort die letzten Rennen der Saison in Slalom, Riesenslalom, Super-G und Abfahrt gefahren und spätestens jetzt die Gewinner von Gesamtweltcup und Disziplinenwertungen ermittelt.
+
+Für das Weltcup-Finale sind nur die 25 besten Athleten der jeweiligen Disziplinenwertung qualifiziert, hinzu kommen noch alle Athleten, die in der Gesamtwertung mindestens 500 Punkte haben und die aktuellen Juniorenweltmeister in der entsprechenden Disziplin.
+
+Dieses Thema im Programm: sportschau.de | Die Stationen der SKi-Alpin-Saison 2026/27 | 12.11.2026 | 15.38 Uhr
+
+----------------------------------------
+
+
+>>> TECH (WIRED) <<<
+
+[1] ‘CALL HIM OUT’: CYBERTRUCK LOYALISTS ARE IN MOURNING—AND THEY WANT ANSWERS FROM ELON MUSK
+
+Last week, Elon Musk announced on X that Tesla would halt production of the Cybertruck at Gigafactory Texas “around the middle of next year,” supposedly to allow for increased production of self-driving Cybercabs.
+
+Automotive industry observers were quick to surmise that the vehicle’s weak sales, delayed deliveries, inflated pricing, numerous recalls, and connection to Musk’s far-right MAGA politics may also have factored into the decision. Longtime detractors of the polarizing steel-paneled truck, originally positioned as an electric rival to classic gas-powered pickups, jeered Musk and Tesla fans over its demise, noting with some pleasure that the Cybertruck would exit the market within four years of its November 2023 rollout.
+
+And, in Cybertruck fan communities across the web, owners began to mourn.
+
+“Worst possible news,” a member of the Cybertruck Owners Club forum wrote in a response to Musk’s post. “No chance to buy another in future years for a newer model or after a car accident. No more aftermarket mods. No more service or parts.” Another remarked that they had waited for their truck “longer than the truck line was around.”
+
+“So everybody in my group, they are not happy,” Michael Goldman, a contractor in Palm Springs, California, tells WIRED. As the administrator of the Facebook group Cybertruck Owners Only, which has more than 82,000 members, he’s been swamped with frantic messages. “I've had people reaching out to me through the group, asking me, like, ‘What are you going to do?’” Goldman says. “And I'm like, ‘Dude, I don't know.’”
+
+Since hearing the news about the discontinuation of the truck, many owners have expressed feelings of betrayal and disappointment. Some are wondering if their pending orders will be fulfilled, as Musk has claimed that Tesla “will have to return deposits for a lot of people” due to demand outpacing production. Others have looked for a silver lining, speculating that the Cybertruck could become a valued collector’s item.
+
+But Goldman doesn’t want to turn his truck into a “garage princess,” since he enjoys driving it and finds it useful in his construction business. “I don't want to ever drive another truck,” he says, and he considered buying a backup Cybertruck for when his first one reaches the end of its life. “I'll be honest with you, I was going pull the trigger on a [Cyberbeast] about two days ago, and I have a reservation already in my phone,” Goldman says, but when he was ready to complete the purchase, “the price increased like another $8,000 or something, and that was my sign to not do it.”
+
+That Musk, against all odds, actually brought his vision of the Cybertruck to life makes it all the more painful for Goldman to see it scrapped. “That it actually happened and only happened for such a short period of time kind of blows me away,” he says. “That's why I want to call him out on it, you know?”
+
+Troy Meekhof, a Tesla aficionado in Grand Rapids, Michigan, known as “the Cybertruck Guy” on social media, has not been shy about expressing his own displeasure. “I can’t help but think this is Tesla’s own unwillingness (or incompetence) to make Cybertruck a success,” he posted in reply to Musk’s announcement of the wind-down last week. “Where was the price cuts? Where were the advertisements? Where is range extender?”
+
+“I absolutely do think this is the wrong move for the Tesla brand, and it’s not necessarily because of the removal of an under-performing product, but it’s a clear symbol of Tesla’s aggression towards transitioning to autonomous vehicles only,” such as the two-seater Cybercab, Meekhof tells WIRED in an email. “If you ask me, it is far too aggressive, and I have a growing conviction that, at least in America, the population and legislators are not ready nor interested in autonomous vehicles today en masse.”
+
+In another X post, Meekhof warned that “Tesla has lost the plot” by going all-in on autonomous driving as the US enters “a governance era that opposes” the company’s efforts on that front.
+
+Musk has repeatedly declared that Tesla’s future is as an AI and robotics firm rather than as an automaker. It’s a strategy that has increasingly alienated Tesla owners like Meekhof, who despite their excitement over self-driving technology, feel that the company is spurning its core supporters as it pursues breakthroughs in that field. Earlier this year, Tesla axed its Model S and Model X, and the end of the Cybertruck narrows its lineup to just the Model 3 and Model Y.
+
+“Tesla, as a company, has made itself massively successful by making vehicles that appeal to enthusiasts, in either tech or automotive, and in many cases, both,” Meekhof says. “With their transition to autonomous-only vehicles, they leave those customers behind. I am one of them.” Meekhof has launched what he describes as a mostly “symbolic” petition urging Tesla to reconsider the plan to eliminate the Cybertruck from its slate. The letter has gathered more than 5,000 signatures.
+
+Drew Million, an active member of the Cybertruck Owners Only group on Facebook, recently shared on the page that he was concerned about the transition to another vehicle once his beloved Cybertruck has run its course. “I’ve lost a lot of love for Tesla over this,” Million tells WIRED, adding that his interest in the brand is waning due to the “very stale consumer options” left on the table.
+
+Million had ordered a second Cybertruck in February to replace a work van, and he’s hoping that it comes through before production halts completely in June or July 2027, per Musk’s estimate. But he’s dismayed, he says, that Tesla leadership isn’t paying attention to what customers actually want.
+
+“After Cybertruck is gone, there isn’t a flagship vehicle,” Million says, nor one that meets his needs. His household went from owning no electric cars to four in less than a year. “The Cybertruck started that,” he says, and it can’t be replaced by rideshares in autonomous taxis.
+
+It’s a point that comes up again and again from Tesla boosters protesting the sunset of the Cybertruck: They don’t want to give up their own independence in favor of robot chauffeurs. An owner wrote on X, for example, that they didn’t understand Tesla’s push “to delete the steering wheel, the pedals, the ownership, the freedom of having a vehicle” with the Cybercab, which cannot accommodate an entire family. They lamented that the company “doesn't seem to want to continue innovating in the customer car segment.”
+
+Meekhof predicts that Americans won’t soon give up personally controlled trucks and SUVs capable of transporting several people and cargo in favor of smaller autonomous sedans. He worries that Tesla is headed for a “Google Glass scenario on steroids, where the technology came before the people.” Goldman is on the same page. “I think a Cybercab is cool for certain things, but I'm not going to take a Cybercab to a construction site, you know what I mean?” he says. “In rural towns, people want to drive their car to work.”
+
+The overall consternation in Tesla world over the fate of Cybertruck has been somewhat compounded by Musk’s typically muddled messaging. According to the CEO, the truck is profitable and, indeed, so popular that the Gigafactory can’t make them fast enough to fulfill existing reservations—so why, owners ask, does it have to be suspended?
+
+Would-be customers have also been disgruntled to learn that Tesla continues to accept Cybertruck orders, though only for the premium Cyberbeast model, priced at $109,990. “So they can't fill current orders, but will still take orders on the most expensive version ... yeah that's not scummy at all,” a redditor griped this week on r/cybertruck.
+
+And there is a percolating sense of resentment among some Cybertruck devotees that they were taken for a ride, so to speak, with Tesla exploiting their passion for the novel vehicle and its driver-assistance tech to advance its agenda of autonomy at all costs.
+
+“They're a data company,” Goldman says. “What they're doing is collecting data for the robots and for the self-driving cars and for the Cybercab. We were basically beta testers in the Cybertruck for the Cybercab.”
+
+That’s part of the reason that Goldman and others feel they are owed a better explanation of Tesla’s latest move. “We want to know why,” Goldman says. “Is it because we were really just beta for the cabs, or is it really because you guys don't have enough space in the Gigafactory, or is it just because the sales are terrible?”
+
+“Most of the people that have Cybertrucks have been following this truck for the past 10 years,” Goldman says. “We finally got literally the best truck made on this planet, and now they're taking it away from us, and we're bummed.”
+
+In your inbox: Go inside the world of digital security with Kernel Panic
+
+We sexted with a Muse AI agent—and Meta says that’s totally fine
+
+Want better search results? Make WIRED a preferred source in Google
+
+© 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+----------------------------------------
+
+[2] THE HUBBLE SPACE TELESCOPE IS SINKING. NASA IS LOOKING FOR WAYS TO KEEP IT AFLOAT
+
+As telescopes go, few if any are more famous than the Hubble Space Telescope. Over 30 years of operations, the telescope has been essential to groundbreaking discoveries that have fundamentally transformed humanity’s view of the universe. But like all satellites in low Earth orbit, it’s been gradually descending.
+
+This happens because of atmospheric drag, and the Hubble Space Telescope is not equipped with a propulsion system to adjust its own orbit. According to NASA’s analysis, if left unchecked, the telescope will likely re-enter Earth’s atmosphere in 2033 or 2034, eventually crashing back onto the planet.
+
+Hoping to delay this conclusion, NASA has issued a formal Request for Information seeking proposals from the private sector for “in-space servicing” of the famous telescope. This would likely involve raising Hubble’s altitude to extend its operational lifespan, but the agency is also open to industry’s suggestions for managing a safe and controlled reentry or disposal of the telescope while still in orbit. Space companies can also propose upgrades to enhance the telescope’s functionality in its remaining years.
+
+“Hubble is a national icon,” Nicky Fox, associate administrator of NASA's Science Mission Directorate, said in a statement. “Given the time we have until Hubble’s anticipated reentry, we are eager to explore the breadth of possibilities to boost Hubble to a higher orbit while we develop the flagship mission to follow.”
+
+The telescope was designed with the expectation that astronauts would perform repairs and upgrades in orbit. Since it was launched in 1990, a total of five service missions have been carried out. The last of these missions was canceled after the space shuttle Columbia disaster in 2003. But NASA later determined that the benefits of servicing Hubble outweighed the risks of a final mission, and in 2009 a crew took measures, such as replacing the battery, to extend the telescope’s lifespan.
+
+This is also not the first time NASA has considered private-sector resources for raising the Hubble Space Telescope’s orbit. In September 2022, NASA entered into a nonfunding partnership agreement with SpaceX to investigate the possibility of using the company’s Dragon spacecraft to move Hubble into a more stable orbit. However, according to NASA’s announcement at the time, the agency had no plans to conduct or fund the service mission itself; the study was intended solely to assess commercial feasibility.
+
+Meanwhile, NASA commissioned the private company Katalyst Space Technologies in September 2025 to perform an orbital raise for the Swift Observatory, which was experiencing faster-than-expected orbital decay. However, the company’s spacecraft, launched in July 2026, suffered an attitude control malfunction, forcing the mission to be abandoned. On November 4, Swift reentered the atmosphere over Indonesia.
+
+The problems facing the Hubble Space Telescope are not limited to its drop in altitude. The spacecraft itself is also experiencing malfunctions. In June 2024, NASA announced that it would transition the Hubble Space Telescope to a new operating mode using only one of the six gyros on board to assess the telescope’s orientation. After more than three decades in space, only three of the gyros were operational, and one of those was starting to return abnormal readings. The other remaining functional gyro is now being kept in a ready state for future use.
+
+NASA estimates that a mission to raise the telescope’s orbit will need to be carried out by 2032. In an announcement made in 2022, NASA also explained that if the Hubble Space Telescope could be raised to a higher, more stable orbit, it could continue to observe the cosmos for several more years.
+
+“Hubble still has important science ahead of it, and we should be looking at every reasonable opportunity to keep it delivering for as long as possible,” said NASA administrator Jared Isaacman. “If there are innovative and cost-effective ways to extend the life of an asset already in orbit, we owe it to the American taxpayer and the scientific community to explore them. Extending Hubble’s life would mean more discoveries, more science, and more opportunities to expand our understanding of the universe.”
+
+This story was originally published in WIRED Japan and has been translated from Japanese.
+
+In your inbox: For life-tested picks, sign up for our Gear newsletters
+
+Airbnb hosts are furious they can no longer make guests do their chores
+
+big story: cool kids write in all lowercase—does that make you mad?
+
+WIRED event: The technologies, people, and ideas transforming our world
+
+© 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+----------------------------------------
+
+[3] BITDEFENDER ANTIVIRUS PLUS REVIEW: UNDERCUTTING THE COMPETITION
+
+Antivirus programs are a dime a dozen these days, and while the vast array of security threats that assail modern devices can at times feel so overwhelming that protection seems impossible, a good antivirus solution remains essential.
+
+Unfortunately, purchasing an antivirus can prove rather confusing. Companies offer a huge range of bundles with long lists of features, many of which are obscured in vague language. If you dig deep enough into a company’s website, however, you’ll find that most still offer the option to purchase the antivirus with few add-ons at a lower price. And if that’s what you want, Bitdefender’s Antivirus Plus is a good option.
+
+Buying Bitdefender Antivirus Plus on its own is arguably a bit confusing, as the company strongly pushes shoppers toward more expensive and all-inclusive Bitdefender bundles, which include other features like a password manager, dark web monitoring, and lots more. In total, there are four different bundles to choose from: Total Security, Premium Security, Ultimate Security, and Ultimate Security Plus Extended, ranging from $60 up to $140 for the first year. There are also Family versions of these plans, which are more expensive but add protection for up to 25 devices and parental controls. All these bundles include the same antivirus protection, but if you search for Antivirus Plus on its own, though, you will find it. And it’s arguably worth seeking out, as Bitdefender's entry-level options are priced most aggressively.
+
+Bitdefender Antivirus Plus currently offers an introductory price of $25 for the first year (and $50 after) for a single device or $30 for the first year ($70 after) for three devices. This is quite a bit less than Bitdefender Total Security, which is $60 for the first year (and $110 after) and only offers two benefits in exchange: a password manager and protection for up to five devices instead of just one. The lower tiers tend to be better deals, especially if you're after something specific.
+
+That’s because Bitdefender’s pricing is most competitive at its lowest tiers, which may by itself be enough reason for many to choose it. Rivals like Norton Antivirus Standard, McAfee Essential, Avira Internet Security, and Malwarebytes Standard typically ask more for a similar level of service.
+
+There is some variation here; Norton throws in a password manager at a lower price point, for instance, and some competitors have superior VPN service included (Bitdefender Antivirus Plus limits you to 200 MB of VPN data per day, which isn’t much). Still, Bitdefender Antivirus Plus is among the more affordable options, particularly if you’re more interested in the antivirus than the add-ons.
+
+Savvy users might balk at paying at all, as many free antivirus options exist. Bitdefender itself offers a free antivirus download for both Windows and Android (but not macOS, iOS, or iPadOS). This is a fair choice, though it often means you’ll have to tolerate advertisements urging you to sign up.
+
+Buying, downloading, and installing Bitdefender Antivirus Plus is a smooth experience. The payment portal is straightforward. The installer is really a downloader, so it’s a small file; the full download required by the installer is roughly 800 megabytes. Once the installation is finished, Antivirus Plus automatically runs an initial virus check. This took less than five minutes on a Microsoft Surface Laptop 7 running Windows 11.
+
+Once installed, the Bitdefender Antivirus Plus interface provides a default dashboard that includes several common actions, including a quick scan, total system scan, and vulnerability scan (the latter looks for problems like a weak account password or an overly permissive network configuration). You’ll also find an option to turn on Bitdefender VPN, which is installed alongside the antivirus—though, as mentioned, you’re limited to 200 MB of data per day unless you upgrade to Bitdefender Premium VPN.
+
+These features are largely standard for an antivirus program, though one extra feature requires more explanation: Safepay. This creates a sandboxed browsing environment meant to thwart threats like keyloggers and man-in-the-middle attacks. To be honest, I’m doubtful of the feature’s utility. I don’t believe these are the most common avenues cybercriminals use to obtain payment information; they’re far more likely to buy huge repositories of payment data stolen from compromised companies. It’s also rather clunky to launch Safepay for an online purchase, so I don’t think most people will want to use it.
+
+I spent most of my time using Bitdefender Antivirus Plus on Windows, which I think is the best version of the software. The Android and iOS versions look largely similar to it, though of course compressed for a mobile device. However, macOS is the odd one out with an interface that looks different from its peers and, to my eyes, seems about five years out of date. It’s not terrible and has similar functionality, but I find this a bit odd. It seems like the macOS software is missing a software refresh that other platforms received.
+
+A nice software interface is a perk but, at its core, antivirus software is supposed to stop viruses and other malware. So, how does Bitdefender Antivirus Plus rank?
+
+Bitdefender scored well in AV-Test’s latest report, where it detected 100 percent of the tested attacks and received an AV-Test Top Product certification. It also received high marks from AV-Comparatives, which found it detected 99.5 percent of threats, enough to earn it the top three-star score. Bitdefender’s consumer products weren’t ranked in the latest SE Labs consumer antivirus report, but the small-business product detected 99 percent of threats and received an AAA ranking in the April 2026 report.
+
+The performance hit from Bitdefender Antivirus Plus wasn’t noticeable in typical use of either my Windows 11 laptop or my Apple MacBook Air M4. Bitdefender services consumed about 700 MB of memory in total on both platforms. That’s not a lot, and it's in line with what I often see from antivirus programs, though it’s also not trivial. I can imagine this could at times result in a performance hit on a device with 8 GB of RAM. My devices have 32 GB and 24 GB, respectively, however, so I didn’t encounter any issues.
+
+Bitdefender Antivirus Plus checks off most boxes for an antivirus program. It’s affordable, easy to use, earns high marks from malware testing labs, and avoids significant performance issues when installed. But I do want to return to a problem I’ve mentioned before: the VPN.
+
+Antivirus Plus advertises an included VPN. This is true, but it’s actually the free VPN service that anyone can obtain. The service has a strict 200-MB (per day, per device) data cap, which isn’t going to be enough if you want to use it as your main VPN. To be fair, Bitdefender does detail this limitation on its website—but it does seem like an added feature when, in reality, it’s available for free whether you buy Antivirus Plus or not.
+
+You can, of course, subscribe to Bitdefender Premium VPN, but you must do so at full price. VPN Premium isn’t included until you upgrade to the Bitdefender Premium Security package, which is much more expensive at $80 for the first year (and $130 per year after).
+
+That could steer you away from Bitdefender if you want an antivirus and VPN. Competitors like Norton and McAfee bundle an unlimited VPN service into lower tiers of service, which, though more expensive than Bitdefender Antivirus Plus, are less expensive than Bitdefender Antivirus Plus and Bitdefender Premium VPN combined.
+
+Unfortunate VPN bundling aside, Bitdefender Antivirus Plus is a good choice if you want antivirus for Windows, macOS, Android, and iOS.
+
+It’s particularly competitive if you just want the antivirus protection on its own. All of the major cybersecurity companies would really prefer it if you bought a bundle (including Bitdefender), and they’re often good value if you actually use all the features. But there are plenty of reasons to just go for the antivirus itself (for example, credit and dark web monitoring features might already be available through your bank or another institution). And if antivirus protection is all you want, Bitdefender Antivirus Plus is a superb choice.
+
+Bitdefender’s advantage is quite simple. It provides antivirus protection that detects most threats at a price that often undercuts the competition. It’s hard to think of a reason to pay more for an alternative when Bitdefender does the job well for as little as $25 for the first year.
+
+© 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+----------------------------------------
+
