@@ -1,322 +1,290 @@
-=== DAILY BRIEFING - 13.11.2026 ===
+=== DAILY BRIEFING - 14.11.2026 ===
 Quellen: Tagesschau, Sportschau & Wired Tech
 
 
 >>> TAGESSCHAU TOP-NEWS <<<
 
-[1] US-EINWANDERUNGSBEHÖRDE ICE MELDET REKORD BEI ABSCHIEBUNGEN
+[1] KASSENÄRZTE-CHEF ERWARTET MEHR SELBSTZAHLER-TERMINE FÜR GESETZLICH VERSICHERTE
 
-Fast eine halbe Million Menschen hat die US-Regierung binnen einen Jahres - laut eigenen Angaben. Das soll ein neuer Rekordwert sein. Es gibt aber Zweifel an der Transparenz der Daten.
+Wer längere Wartezeiten als gesetzlich Versicherter vermeiden will, muss künftig Behandlungen auch aus der eigenen Tasche zahlen - so die Einschätzung des Kassenärzte-Chefs. Grund seien die kürzlich beschlossenen Honorarkürzungen.
 
-Die US-Einwanderungsbehörde ICE hat laut eigenen Angaben im vergangenen Haushaltsjahr so viele Menschen abgeschoben wie nie zuvor in ihrer 23-jährigen Geschichte. Laut Heimatschutzministerium wurden bis Ende September 483.200 Menschen durch die ICE außer Landes gebracht.
+Gesetzlich Versicherte müssen sich nach Angaben von Kassenärzte-Chef Andreas Gassen wegen Honorarkürzungen darauf einstellen, Behandlungen auch selbst zu zahlen, um so längere Wartezeiten zu vermeiden.
 
-Die Daten des Ministeriums zeigen einen erheblichen Anstieg der Abschiebezahlen seit Trumps Amtsantritt. Während es in den beiden Jahren, die ganz oder mehrheitlich in seine Amtszeit fielen, weit mehr als 400.000 Abschiebungen gab, waren es im letzten Jahr unter seinem Vorgänger Joe Biden 271.000 gewesen.
+"Niemand kann erwarten, dass die Praxen angesichts der Kürzungen einfach weiter machen wie bisher", sagte Gassen dem Redaktionsnetzwerk Deutschland. "Ich gehe davon aus, dass es Angebote in der Privatsprechstunde geben wird, da wird ja jeder Termin vergütet", sagte der Chef der Kassenärztlichen Bundesvereinigung (KBV).
 
-Die brachialen ICE-Einsätze wühlen die USA weiterhin auf. Was darf die Einwanderungsbehörde - und was nicht?
+"Gesetzlich Versicherte, die diese Option wählen, werden dann außerhalb der gesetzlichen Versicherung behandelt wie ein Privatpatient, müssen aber die Kosten als Selbstzahler aus der eigenen Tasche begleichen", sagte er.
 
-Allerdings äußern Experten Zweifel an der Transparenz der Daten. Denn Einzelheiten - zum Beispiel wie viele der Abgeschobenen Vorstrafen haben - sind nicht öffentlich bekannt. Außerdem stellt die Regierung seit Beginn von Trumps zweiter Amtszeit keine regelmäßigen detaillierten Statistiken zur Einwanderungshaft und zu Abschiebungen mehr bereit.
+Krankenkassen, Kliniken, Psychotherapeuten, Pharmakonzerne: Wer soll die höchsten Einsparungen leisten?
 
-Die Einrichtung in den Sümpfen Floridas stand für ihre schlechten Haftbedingungen in der Kritik.
+Nur so sei die Finanzierung der Kosten zusätzlicher Fälle über das Budget hinaus möglich. "Die Praxen haben keine unendliche Leistungsverpflichtung", so Gassen. "Wenn Fachgruppen 25 Prozent des Umsatzes verlieren, was teilweise der Fall ist, ist das ein existenzbedrohender Einschnitt", meint der KBV-Chef. "Ist das Budget aufgebraucht, werden sich die Patienten damit abfinden müssen, in ihrer Wunschpraxis vielleicht erst im nächsten Quartal einen Termin zu bekommen", sagte er. Dann stehe das Budget neu zur Verfügung.
 
-Trump hatte die Abschiebepolitik der USA nach Amtsantritt erheblich verschärft. Die Regierung stellte zusätzliche Mittel für Abschiebungsbeamte, Haftanstalten und Abschiebeflüge bereit.
+Kompromissbereit zeigte sich Gassen in der Frage, in welchem Umfang Ärzte künftig freie Termine melden müssen. "Denkbar wäre es, mit den Krankenkassen ein Kontingent für medizinisch wirklich dringende Termine zu vereinbaren", sagte er.
 
-Besonders in der Kritik steht das Vorgehen der Behörde ICE. Menschenrechtsorganisationen beklagen, dass Migranten auch in Drittländer abgeschoben werden, die nicht ihr Geburts- oder Heimatland sind. Zudem werde vielen Menschen die Chance verwehrt, ihren Abschiebebeschluss gerichtlich anzufechten.
+Dabei stellte Gassen jedoch eine Bedingung. Es müsse gelten: "Wer bestellt, bezahlt. Wenn wir Termine garantieren, müssen die Kassen im Gegenzug die Vergütung garantieren - egal, ob der Patient kommt oder nicht", mahnte er. "Niemand kann von selbstständig arbeitenden Praxen verlangen, Termine freizuhalten, um am Ende Däumchen zu drehen."
 
-Dieses Thema im Programm: BR24 Radio | Nachrichten | 13.11.2026 | 03:00 Uhr
+Kassenärzte fürchten, dass gesetzlich Versicherte dadurch länger als bisher auf Arzttermine warten müssen.
 
-----------------------------------------
+Das Sparprogramm der Bundesregierung für die gesetzliche Krankenversicherung sieht umfangreiche Sparmaßnahmen vor. Nach Angaben der KBV ist der ambulante Bereich besonders stark betroffen.
 
-[2] WAS ÜBER DEN AUSFALL VON MICROSOFT-DIENSTEN BEKANNT IST
+Laut Gassen sind von den Honorarkürzungen im Umfang von drei Milliarden Euro insbesondere die Bereiche HNO, Orthopädie, Kardiologie, Radiologie und Rheumatologie betroffen. Vor allem hier werde es weniger Termine geben.
 
-Weltweit sind seit vielen Stunden Dienste des US-Softwarekonzerns Microsoft ausgefallen oder gestört, unter anderem das E-Mail-Programm Outlook. Wer davon betroffen ist und welche Hintergründe vermutet werden - ein Überblick.
-
-Microsoft-Dienste weltweit sind von einer massiven Störung betroffen - und zwar bereits seit Donnerstag. Unternehmen und Behörden haben große Probleme mit wichtiger Software, ebenso wie private Nutzer. Maßnahmen zur Behebung des Problems sind laut Microsoft "nicht wie erhofft" verlaufen.
-
-Durch einen großflächigen Ausfall von Microsoft-Diensten, darunter Outlook, kommt es weltweit zu Störungen.
-
-Betroffen sind nicht nur das E-Mail-Programm Outlook, sondern generell Dienste aus dem Cloud-Paket Microsoft 365. Beim Bürokommunikations-Angebot Teams etwa funktionierten das Planen von Besprechungen und Kalender-Anbindungen häufig nicht richtig.
-
-Zudem waren der KI-Assistent Copilot, das Verwaltungsportal für Administratoren sowie Schnittstellen zu Drittanbietern - darunter KI-Dienste wie OpenAI und Anthropic - mindestens zeitweise gestört.
-
-Hinweise auf einen Cyberangriff gibt es nach Angaben von Microsoft nicht. Der australische Innen- und Cybersicherheitsminister Tony Burke erklärte, der Konzern gehe nicht von einem Cyberangriff aus. Vielmehr handele es sich offenbar um ein fehlerhaftes Update, ähnlich wie bei der weltweiten IT-Panne durch die Sicherheitsfirma CrowdStrike im Jahr 2024.
-
-Ein mutmaßlicher Hackerangriff auf Rheinmetall legt vertrauliche Informationen offen.
-
-Das ist unklar. Die massive Störung beim US-Technologiekonzern hatte bereits am Donnerstag Zehntausenden Nutzern Probleme beim Zugriff auf ihre E-Mails in Outlook bereitet. Wie die Störungsplattform Downdetector berichtete, weitete sich die Störung binnen einer Stunde weltweit aus und legte Microsoft-Dienste in mehr als 70 Ländern lahm. Bekannt ist, dass weltweit rund 430 Millionen Menschen die Dienste von Microsoft 365 nutzen.
-
-Sensible Regierungsbereiche sind ebenfalls von der Störung betroffen. Etwa der Geheimdienst und die Bundespolizei in Australien meldeten Ausfälle. Die Regierung in Canberra aktivierte ein Abkommen mit Microsoft, um eine vorrangige Wiederherstellung der Systeme sicherzustellen. ​
-
-Auch das US-Repräsentantenhaus meldete Einschränkungen für seine Nutzer. Der Ausfall beeinträchtigte zudem in Japan die Infrastruktur des staatlichen Informationssystems, wie der stellvertretende Kabinettschef Masanao Ozaki mitteilte. Laut BBC ist auch der britische Gesundheitsdienst NHS betroffen oder das Parlament in London.
-
-IT-Experten warnen vor einer bisher unbekannten Sicherheitslücke bei Microsoft-Servern - es gab schon Angriffe.
-
-Die Auswirkungen zogen auch weite Kreise in der Wirtschaft. Die KI-Entwickler OpenAI und Anthropic untersuchten Probleme mit Schnittstellen zu Microsoft-Diensten. Der E-Mail-Support der indischen Fluggesellschaften IndiGo und Akasa Air war ebenfalls betroffen.
-
-Der Ausfall störte zudem das Fondsmanagement von Wertpapierfirmen, Lebensversicherern und Investmentgesellschaften in Taiwan. Der Nachrichtenagentur Reuters zufolge sagte ein Unternehmen sogar ein geplantes Wertpapierpensionsgeschäft ab.
-
-Der US-Elektrolastwagenbauer Workhorse Group verschob ​wegen der IT-Probleme die Vorlage seiner Quartalszahlen auf den 16. November. Beim Luxuskonzern und Cartier-Eigner Richemont ‌verzögerte sich die Veröffentlichung der Bilanz ebenfalls. Microsoft hatte erklärt, dass eine Reihe von Servern unerwartet nicht verfügbar sei. Dies liege jedoch nicht an einem plötzlichen Anstieg des Datenverkehrs.
-
-Laut dem Bundesamt für Sicherheit in der Informationstechnik scheint die Situation überwunden,
-
-Microsoft dokumentiert über Mitteilungen auf der Online-Plattform X sowie auf seiner Dienststatus-Seite den zähen Kampf gegen die Ausfälle, der zunächst ohne durchschlagenden Erfolg blieb. Das Unternehmen kommt nach eigener Darstellung bei der Behebung Stück für Stück voran. "Dank unserer jüngsten Maßnahmen zur Datenverkehrsoptimierung verzeichnen wir positive Ergebnisse hinsichtlich der Dienststabilität und einer erhöhten Kapazität", teilte der Softwarekonzern mit.
-
-Diese Maßnahmen würden nun auf weitere betroffene Regionen ausgeweitet, um eine dauerhafte Stabilisierung zu gewährleisten. Für Anwender gebe es ein ausführlicheres Update. Laut früheren Angaben der Microsoft-Ingenieure wurde auf betroffenen Servern ein Prozess überlastet, der für den Aufbau sicherer Verbindungen zuständig ist - woraufhin die Rechner keine Anfragen mehr verarbeiteten. Zudem machte der Konzern die jüngste Konfigurationsänderung rückgängig, die zeitlich mit dem Beginn der Störung zusammenfiel.
-
-Zwischendurch schien Microsoft bereits einen Erfolg vermelden zu können: Ein Teil der Server werde wieder ans Netz gebracht - "und sie bleiben soweit stabil". Wenig später folgte jedoch der Rückschlag: Wiederhochgefahrene Server drohten erneut auszufallen, sobald wieder Datenverkehr auf sie traf. Auch ein späterer Versuch, Teile der Infrastruktur isoliert hochzufahren, brachte zunächst nur teils positive Ergebnisse; weitere Gegenmaßnahmen griffen nach Konzernangaben nicht wie erhofft.
-
-Wann alle Microsoft-365-Dienste wieder uneingeschränkt laufen sollen, blieb zunächst unklar.
-
-Deutschland ist bei digitaler Technik noch abhängiger vom Ausland geworden als 2010, vor allem bei IT-Diensten und Software. Das zeigt ein neuer Index der Universität Bonn.
-                                                mdr
-
-Es ist der zweite Ausfall von Microsoft-365-Diensten in diesem Jahr, nachdem es im Januar zu ähnlichen Problemen gekommen war. Im vergangenen Monat hatte zudem ein Ausfall der Cloud-Plattform Azure weltweit für Störungen gesorgt.
-
-Marktanalyst Josh Gilbert von der Handelsplattform eToro erklärte, dass wiederholte Ausfälle das Vertrauen der Kunden in Microsoft langfristig beschädigen könnten. Wenn Zuverlässigkeit zu einem wiederkehrenden Problem werde, sei dies für jede IT-Abteilung ein Grund, zweimal nachzudenken, bevor sie noch mehr Geschäfte in die Hände eines einzigen Anbieters lege.
-
-Ausfälle von Online-Diensten gehören zum Alltag - meist sind sie aber nur von kurzer Dauer. Manchmal allerdings sind die Probleme in den riesigen Cloud-Infrastrukturen so gravierend, dass es zu stundenlangen Störungen kommt.
-
-Nach der weltweiten Störung erholen sie die Microsoft-Systeme wieder - doch nicht alle Nutzer sind schon wieder online.
-
-Der aktuelle Ausfall erinnert an die Crowdstrike-Panne vor zwei Jahren: Damals hatte ein fehlerhaftes Software-Update der Sicherheitssoftware CrowdStrike Falcon für Microsoft Windows eine weltweite IT-Panne ausgelöst. Fluggesellschaften, Krankenhäuser, Banken, Supermärkte und Notfalldienste weltweit mussten den Betrieb teilweise komplett einstellen.
-
-Laut einer Untersuchung des Bundesamts für Sicherheit in der Informationstechnik (BSI ) mussten 48 Prozent der betroffenen deutschen Firmen den Betrieb temporär einstellen.
-
-Dieses Thema im Programm: tagesschau.de | Massive Beeinträchtigungen von Microsoft-Diensten im Internet | 13.11.26 | 06:55 Uhr
+Dieses Thema im Programm: NDR Info | Nachrichten | 14.11.2026 | 07:00 UhrMDR AKTUELL – Das Nachrichtenradio | Nachrichten | 14.11.2026 | 08:00 Uhrtagesschau.de | Ärztechef: Kassenpatienten werden Wartezeiten mit Geld vermeiden müssen | 14.11.2026 | 08:13 Uhr
 
 ----------------------------------------
 
-[3] ERLEICHTERUNG FÜR INDUSTRIE IM EU-EMISSIONSHANDEL
+[2] WARUM IN POLEN SCHNELLER GEBAUT WIRD ALS IN DEUTSCHLAND
 
-Die Industrie in der EU soll weniger für Emissionen zahlen müssen. Unterhändler von EU-Parlament und Mitgliedstaaten einigten sich darauf, betroffenen Branchen zeitlich befristet zusätzliche kostenlose Emissionszertifikate zuzuteilen.
+Wird in Polen eine neue Straße oder Brücke errichtet, geht es deutlich schneller als westlich der Oder in Deutschland. Fachleuten zufolge gibt es dafür mehrere Gründe.
 
-Durch eine zeitlich begrenzte Veränderung im Emissionshandelssystem der EU soll die Industrie nach Angaben des Europaparlaments mehrere Milliarden Euro einsparen können. Unterhändler des Parlaments und der EU-Staaten einigten sich in der Nacht darauf, der Industrie für den Zeitraum von 2026 bis 2030 rund 120 Millionen zusätzliche kostenlose EU-Emissionshandelszertifikate zuzuteilen.
+Wer aus Brandenburg über die A11 nach Szczecin - das ehemalige Stettin - fährt, fährt kurz hinter der deutsch-polnischen Grenze bei Kołbaskowo unter dem Rohbau einer neuen Brücke durch. Über sie soll einmal eine neue Umgehungsstraße führen: das neueste Stück der Schnellstraße S6, die Westumfahrung von Stettin.
 
-Damit gehen die Verhandler noch über den Vorschlag der EU-Kommission hinaus, mit dem die betroffenen Branchen nach Angaben der Behörde rund sechs Milliarden Euro eingespart hätten. Da die Vereinbarung nun noch mehr kostenlose Zertifikate vorsieht, steigen laut Parlament die erwarteten Einsparungen. Der Kompromiss muss noch vom Parlament und von den Mitgliedstaaten formell angenommen werden.
+Wenn sie fertig ist, soll sie die westpolnische Großstadt von weiten Teilen des Durchgangsverkehrs befreien. Außerdem wird dieses letzte, 50 Kilometer lange Teilstück die S6 vollenden - eine der zahlreichen Schnellstraßen und Autobahnen, die in Polen in den vergangenen 20 Jahren gebaut wurden.
 
-Die EU-Kommission will ihr wichtigstes Klimaschutz-Instrument aufweichen. Die Reaktionen sind gespalten.
+Modernste Infrastruktur, radikale Digitalisierung und steuerliche Anreize: macht Polen gerade alles richtig?
 
-Die EU-Kommission hatte im Juli weitere Anpassungen des Emissionshandelssystems vorgeschlagen, um die europäische Industrie angesichts hoher Energiepreise und Konkurrenz aus dem Ausland zu unterstützen und Abwanderung zu vermeiden. Demnach soll etwa die Zahl der CO2-Zertifikate langsamer sinken als bislang vorgesehen. Das würde bedeuten, dass die Industrie in Europa länger und mehr Kohlendioxid ausstoßen darf. Die Klimaziele sind damit schwieriger zu erreichen. Eigentlich will die EU bis 2040 ihre Treibhausgasemissionen um 90 Prozent im Vergleich zu 1990 senken.
+Allein in Westpommern, also dem Gebiet, das direkt an Mecklenburg-Vorpommern und Teile Brandenburgs grenzt, hat sich das Fernstraßennetz seit 2006 beinahe verzehnfacht. Vor 20 Jahren noch kam die Region auf gerade einmal 48 Kilometer Autobahnen und Schnellstraßen - 2026 waren es 468 Kilometer.
 
-Dieses Thema im Programm: MDR aktuell | Nachrichten | 13.11.2026 | 07:30 Uhr
+Einerseits zeigen die Zahlen: Polen hatte enormen Nachholbedarf, besonders im verhältnismäßig bevölkerungsarmen Westen des Landes. Das Tempo, in dem neue Trassen geplant, genehmigt und gebaut wurden, ist - zumindest gemessen am häufig beschworenen "Deutschland-Tempo" - bemerkenswert. Das "Polen-Tempo" ist deutlich höher als beim größeren Nachbarn im Westen.
+
+Will man herausfinden, woran das liegt, kann man beispielsweise Mateusz Grzeszczuk fragen. Er arbeitet für die Straßendirektion GDDKiA, die Generaldirektion für Landesstraßen und Autobahnen. Grzeszczuk steht unter strahlend blauem Himmel in der herbstlichen Sonne vor einer neu gebauten Brücke der S6 und erklärt, warum die Planung für das Bauwerk relativ einfach gewesen sei.
+
+Vor dem Verfassungsgericht in Polen hat es am Wochenende Tumulte gegeben, der Staatschef brach eine Auslandsreise ab.
+
+"Hier gab es keine größeren Probleme, denn um uns herum sind praktisch nur Felder", sagt er und zeigt auf die weitgehend leere Landschaft. Für unbebautes Gebiet sei die Planung deutlich unkomplizierter als für bereits bebaute oder gar bewohnte Gegenden "wie beispielsweise das Ruhrgebiet in Westdeutschland", sagt Grzeszczuk. Dort sei es "aufgrund der Bebauungsdichte und der bestehenden Siedlungsstrukturen natürlich wesentlich komplizierter".
+
+Doch die dünne Besiedelung ist nicht der wichtigste Grund für das "Polen-Tempo". Artur Barczewski ist als Rechtsanwalt in Polen und Deutschland tätig und auf Baurecht spezialisiert. Bereits in seiner Dissertation ("Der Ausschluss von Nachträgen in Pauschalpreisbauverträgen nach polnischem Recht", 2020) an der Europa-Universität Viadrina in Frankfurt (Oder) beschäftigte er sich mit den Besonderheiten des polnischen Baurechts.
+
+Für Barczewski ist der wichtigste Grund für das schnelle Bauen in Polen der Umstand, dass Planung und Ausführung in der Regel aus einer Hand kommen: der des Auftragnehmers. "Alles, was er geplant hat, muss er dann ausführen. Und er hat auch die Sicherheit über die eigene Planung." Dieses Verfahren wird "Design and Build" genannt, auf Deutsch etwa: "Planen und Bauen".
+
+Noch vor der Einweihung des Monuments im Dorf Konotopie machen Geschichten von Wundern die Runde.
+
+In Deutschland hingegen gebe es regelmäßig Probleme zwischen Planungsbüro und Bauunternehmen, bis hin zu Streitigkeiten vor Gericht. All das führe zu Ärger, Verzögerungen und höheren Kosten. In Polen gebe es diesen Konflikt so nicht, weil dieselbe Firma eben für beides zuständig sei. "Diese Störanfälligkeit ist nicht so gegeben", erklärt Barczewski.
+
+Zudem sieht er noch weitere Unterschiede zwischen den Ländern. "Also vielleicht die polnische Einstellung, aber das ist keine juristische Frage." An Autobahnen würde häufig rund um die Uhr gebaut. "Viele Bauprojekte werden in einem Drei-Schichten-System errichtet", erklärt er. In Deutschland hingegen werde "oft nur acht Stunden gearbeitet".
+
+Auch amtliche Genehmigungen würden schlicht schneller erteilt. Barczewski, der beide Rechtssysteme kennt, fasst seine Erfahrungen so zusammen: Bauen sei auf beiden Seiten der Oder eine komplexe Angelegenheit, insbesondere in der Planungsphase. Aber: "Es gibt zu viele Formalitäten im Verwaltungsverfahren auf der deutschen Seite", so das Urteil des Anwalts.
+
+Die Lage am Immobilienmarkt spitzt sich weiter zu.
+
+Dass "Genehmigungsprozesse schlanker organisiert" sind, bestätigt auch Jörg Rösler, Vorstandsmitglied des Baukonzerns STRABAG. Das in Österreich beheimatete Unternehmen ist europaweit aktiv. Seit fast 40 Jahren auch in Polen. Inzwischen zählt das Land zu den wichtigsten Märkten für die STRABAG. Im vergangenen Jahr baute das Unternehmen dort Straßen und Gebäude für umgerechnet 1,9 Milliarden Euro.
+
+Besonders beim Straßen- und Tiefbau seien polnische Stellen in der Genehmigungsphase schneller. "Hier zeigen sich die Unterschiede zwischen Polen und Deutschland besonders deutlich", so Rösler. In Deutschland seien Planfeststellungsverfahren komplexer, die Öffentlichkeitsbeteiligung besonders umfangreich und die Anforderungen an Umwelt- und Naturschutz hoch. Daher lägen "häufig viele Jahre zwischen Planung und Baubeginn".
+
+Das höhere Tempo beim Bauen in Polen liegt auch laut Rösler maßgeblich am dort üblichen "Design and Build"-Ansatz. "Dadurch können Projekte früher gestartet und Änderungen schneller umgesetzt werden", erklärt der Vorstand. In Deutschland hingegen seien "fehlerhafte Planungen häufig Ursache für Projektverzögerungen".
+
+Auf die Frage, was Deutschland von seinem Nachbarland beim Thema Bauen lernen könne, antwortet Rösler: "Hilfreich wäre sicherlich, wenn Deutschland auch stärker auf 'Design and Build' setzen würde."
+
+Erstmals seit mehr als 30 Jahren ziehen mehr Polen aus Deutschland zurück in ihr Heimatland als umgekehrt.
+
+Das "Polen-Tempo" gilt übrigens nicht nur für Straßen und Brücken. Laut Baurechtler Barczewski profitieren auch Privatleute von der höheren Geschwindigkeit in Ämtern und Behörden.
+
+In Polen gebe es andere Möglichkeiten als in Deutschland, eine schnelle Baugenehmigung zu erhalten. "Beispielsweise für einen Häuslebauer, der bekommt innerhalb von wenigen Monaten eine Baugenehmigung." In Deutschland müsse man in der Regel länger warten.
+
+Dieses Thema im Programm: rbb 24 | Brandenburg aktuell | 06.11.2026 | 19:30 Uhr
+
+----------------------------------------
+
+[3] NACH US-ZWISCHENWAHLEN: MIGRANTEN AUF DEM WEG RICHTUNG USA
+
+Der Sieg der Demokraten bei den US-Midterms weckt in Mittelamerika neue Hoffnungen auf eine liberalere US-Einwanderungspolitik. Davon angetrieben haben sich in Mexiko mehr als 1.000 Migranten auf den Weg gemacht. Von J. Barke.
+
+Unter tropischer Hitze schieben sich die Massen langsam vorwärts. Ausgerüstet nur mit dem Nötigsten: Sonnenhut und -brille, Rucksäcke, Rollkoffer. Viele Familien mit kleinen Kindern sind mit der Karawane aufgebrochen, die sich in der Grenzstadt Tapachula zusammengefunden hat. Die Hoffnung der mehr als 1.000 Migranten: Eine liberalere US-Einwanderungspolitik nach dem großen Erfolg der Demokraten bei den Midterms. So wie die Venezolanerin Elena Lameda, die Reuters davon erzählt: "Zumindest hat die Gouverneurin, die in Texas gewonnen hat, gesagt, dass sie uns den Weg ebnen wird. Und darauf warten wir. Deshalb machen wir uns auf den Weg nach Norden, um zu sehen, ob wir etwas erreichen können."
+
+Den Demokraten gelang bei den Midterms vielerorts Historisches - eine Auswahl.
+
+Die neue Gouverneurin von Texas, Gina Hinojosa, ist die erste Latina, die den Bundesstaat regieren wird. Öffentlich versprochen, die Grenze zu öffnen, hat sie nie. Trotzdem verbreiten sich unter Migranten solche Erwartungen. Falschinformationen rund um die US-Migrationspolitik schüren sie zusätzlich. Und der Wahlausgang der Midterms sorgt tatsächlich für neue Bewegung.
+
+Nachdem es seit Mitte 2024 kaum noch größere Karawanen aus Mittelamerika gegeben hatte, sind nun innerhalb von gut sechs Wochen gleich drei aus Tapachula aufgebrochen. Sie wollen endlich raus aus der Sackgasse Tapachula. In der südmexikanischen Grenzstadt sitzen nach Schätzungen lokaler Menschenrechtsorganisationen etwa 30.000 Menschen fest. Unter ihnen auch einige, die aus den USA abgeschoben wurden. Für sie gibt es kein Vor und kein Zurück.
+
+Die Verzweiflung ist groß, wie beim Nicaraguaner Cesar Sandoval: "Wir hoffen auf die lateinamerikanischen Wählerstimmen, die in den USA abgegeben worden sind. Ich denke, dass sie uns die Chance geben werden, unsere Ziele zu erreichen."
+
+Doch aus dem Wahlsieg lässt sich keine Öffnung der Grenze ableiten. Über die Einreise in die USA entscheidet nicht die Gouverneurin von Texas, sondern die Bundesbehörden und US-Präsident Donald Trump. Der hat Mexiko jetzt gedroht: Sollten die Migranten nicht aufgehalten werden, verdopple er die Zölle.
+
+Immer wieder halten die mexikanischen Behörden die Karawanen auf und versuchen, die Menschen aufzuklären, sagt Mexikos Präsidentin Claudia Sheinbaum. Man informiere sie, dass sie keine Chance haben, ihr Ziel, die USA, zu erreichen. "Dann suchen wir eine Möglichkeit, wie sie sicher in ihre Heimatländer zurückkehren können", so Sheinbaum. Die meisten, denen man diese Informationen gebe, wollten dann in ihr Land zurückkehren.
+
+Für manche ist eine Rückkehr allerdings keine Option - etwa für politisch Verfolgte aus Kuba und Nicaragua oder für Haitianer, die vor der massiven Bandengewalt in ihrer Heimat fliehen. Die Hoffnung auf ein Leben in Sicherheit lässt viele die politischen Hürden ausblenden, die vor ihnen liegen. Der jüngste Karawanenzug soll sich auf dem Weg Richtung Norden langsam wieder aufgelöst haben.
+
+Dieses Thema im Programm: tagesschau.de | Neue Migranten-Karawane in Mexiko: Trump droht mit doppelten Zöllen | 13.11.2026 | 21:07 Uhr
 
 ----------------------------------------
 
 
 >>> SPORT (SPORTSCHAU) <<<
 
-[1] DEUTSCHE SKISPRINGER VOR DEM AUFTAKT: DER LANGE WEG ZURÜCK IN DIE WELTSPITZE
+[1] KLOPPS FREUDE ÜBER GRUDA - UND DIE NÄCHSTE SCHWIERIGKEITSSTUFE
 
-Formschwankungen, eine misslungene Generalprobe und kaum Druck aus der zweiten Reihe: Vor dem Weltcup-Start in Lillehammer gibt es bei den deutschen Skispringern mehrere Baustellen. Für den neuen Bundestrainer Andreas Mitter beginnt der Winter mit viel Arbeit.
+Bundestrainer Jürgen Klopp mischt in seine Schwärmereien immer wieder Mahnungen, dass es noch viel zu verbessern gebe. Nach dem souveränen Sieg in Serbien freut er sich deshalb "wie Bolle" auf die Niederlande.
 
-Die Goldmedaille von Philipp Raimund bei den Olympischen Spielen war aus deutscher Sicht ohne Zweifel der Lichtblick des vergangenen Winters. Die seit Jahren anhaltende Stagnation der DSV-Adler konnte sie aber auch nicht kaschieren.
+Es ist immer noch das Jahr 2026. Es ist nicht mal fünf Monate her, dass Deutschland wieder mal bei einer WM sehr früh ausschied, und das gegen Paraguay.
 
-Einzig Raimund konnte Anfang März in Lahti einen Weltcup gewinnen. Im Schatten des alles überflügelnden Domen Prevc überzeugte er neben Felix Hoffmann zudem als Weltcup-Gesamtsiebter. Die einstigen Aushängeschilder Andreas Wellinger, Karl Geiger und Pius Paschke hechelten dagegen hinterher.
+Nun, da noch ein Spiel im Jahr 2026 aussteht, sagt Joshua Kimmich trotzdem: "Wir sind auf dem Weg, wieder top zu sein."
 
-Die drei Routiniers stehen stellvertretend für eines der aktuell größten Problem im deutschen Skispringen: den verpassten Generationenwechsel. Wellinger (31), Geiger (33) und Paschke (36) sind jenseits der 30 und dennoch weiter im Team gesetzt - auch weil die Konkurrenz fehlt. Die Lücke zwischen A- und B-Team ist zu groß. Jüngere Athleten konnten die Leistungstäler der Etablierten bislang nicht nutzen, um sich dauerhaft für das Weltcup-Team zu empfehlen.
+Der Kapitän hat einen klaren Blick, legt auch gerne mal den Finger in die Wunde. Zweckoptimismus war es also bei Kimmich nach dem 3:1 in Serbien eher nicht.
 
-An dieser Stellschraube wird der neue Bundestrainer drehen müssen. Andreas Mitter hatte im April nach sieben Jahren die Nachfolge von Stefan Horngacher angetreten. Wie sein Vorgänger ist er Österreicher, und als dessen ehemaliger Assistent und Trainer des deutschen Perspektivkaders kennt er den Verband aus dem Effeff. Unter dem 44-Jährigen soll eine neue Energie entstehen. Zum einen gilt es, die guten Leistungen von Raimund und Hoffmann zu bestätigen. Zum anderen muss das Trio Wellinger/Geiger/Paschke wieder zu alter Form finden.
+Ein bisschen zu euphorisch war vielleicht schon wieder Brajan Gruda, als er sagte: "Wir können jeden schlagen."
 
-Mit Andreas Mitter hat der Deutsche Skiverband (DSV) einen neuen Bundestrainer für die Skisprung-Männer gefunden. Die Herausforderung für den Österreicher ist groß - genauso wie die Vorschusslorbeeren.
+Verständlich war das bei ihm allerdings schon, denn er hatte in seinem ersten Länderspiel sein erstes Tor geschossen, und das war so sehenswert wie viele seiner Aktionen. "Er hat die Messlatte relativ hoch gehängt, das war ein außerordentliches Debüt", sagte Jürgen Klopp der Sportschau.
 
-Von Podestplätzen war vor allem Wellinger zuletzt weit entfernt. Mehr als ein fünfter Platz sprang für ihn in einem Einzel der vergangenen Saison nicht heraus. Bedenklicher noch: Der 31-Jährige verpasste zwischenzeitlich reihenweise die zweiten Durchgänge. Immerhin zeigte seine Formkurve beim Saisonfinale in Planica nach oben.
+Der Bundestrainer schwärmte am Freitagabend in Belgrad durchaus häufiger. Er schob aber auch immer wieder Erinnerungen ein, dass es - bezogen auf die ganze Mannschaft - noch "viel Verbesserungsbedarf" gebe, und bei Gruda lieferte er die Ansätze gleich mit. Der 22 Jahre alte Profi von RB Leipzig müsse beim Umschalten auf das Defensivspiel besser werden, und "variabler" solle er auch werden.
 
-Auch Geiger machte bei Horngachers Abschied Lust auf mehr. Wie Wellinger kann er aus einem reichen Erfahrungsschatz schöpfen. Der Oberstdorfer ist schon durch manches Tal gegangen und sparte in der Vergangenheit nicht mit Selbstkritik. Es liegt auch am neuen Bundestrainer, Geiger das Vertrauen in die eigenen Stärken nachhaltig einzuimpfen.
+"Das einzige Problem, was ein guter Dribbler hat, ist, wenn er immer dribbelt", so Klopp. Manchmal sollte es dann doch mal der Pass sein oder die Flanke, um es dem Gegner schwieriger zu machen, sich auf Gruda einzustellen.
 
-Wie beschwerlich der Weg zum Glanz vergangener Tage wird, zeigte sich aber schon in der Vorbereitung. Beim Finale des Sommer-Grand-Prix in Klingenthal präsentierte sich das deutsche Team erschreckend schwach. Nur vier DSV-Adler sprangen im Finale mit, doch auch sie lagen am Ende des Tages weit von den Top 10 entfernt. Ein Sommer-Grand-Prix ist zwar kein Winter-Weltcup, die Klingenthal-Bilanz sollte aber Warnung genug sein.
+In Serbien war es vermutlich der Euphorie das famosen Debüts geschuldet, dass es ab und an ein Dribbling zu viel wurde. Beim Umschalten auf die Defensivarbeit war Gruda gewiss kein Vorwurf zu machen, wie auch den anderen deutschen Spielern nicht.
 
-Das deutsche Team hat vor heimischem Publikum den Sprung nach ganz vorne verpasst.
-                                                mdr
+In der ersten Halbzeit dauerte es im Gegenpressing meistens nur wenige Sekunden, bis der Ball wieder gewonnen war. Bis er verloren ging, verging hingegen viel Zeit. Niclas Füllkrug berichtete: "Wir haben teilweise auf der Bank auf die Uhr geschaut. Wir hatten manchmal sechs, sieben Minuten den Ball, da muss der Ballbesitz unfassbar hoch gewesen sein."
 
-Sorgen bereitet zudem Raimunds Gesundheit. Der 26-Jährige plagt sich mit wiederkehrenden Hüftproblemen. Ob der derzeitige Fixpunkt der deutschen Skispringer zum Auftakt in Lillehammer fit ist, bleibt abzuwarten. Hält die Hüfte, dürfte der Athlet vom SC Oberstdorf einmal mehr der aussichtsreichste Kandidat auf einen Podestplatz sein. Das gilt mit Abstrichen auch für Hoffmann, der sein Potenzial mit Gesamtrang sechs bei der zurückliegenden Ausgabe der Vierschanzentournee unterstrich, ehe er in ein Leistungsloch fiel.
+War er. In der ersten Halbzeit kam die deutsche Mannschaft auf eine Quote von 85 Prozent. Sie war aber, und das gefiel Klopp besonders gut, nicht auf Kontrolle aus, sondern darauf, den Ball zu haben, um ihn konsequent nach vorne zu spielen und abzuschließen.
 
-Neben der Weltmeisterschaft im schwedischen Falun (24. Februar bis 7. März) ist die Tournee (28. Dezember bis 6. Januar) auch in dieser Saison das große Highlight, und gerade dort lechzen die deutschen Skispringer nach einem Erfolg. Eine Topplatzierung ist zwar nie auszuschließen, käme aktuell aber eher überraschend. Zumal auch die Konkurrenz aus Slowenien, Österreich und Norwegen über den Sommer nicht tatenlos war.
+So kam es zu zwei Treffern und noch zwei weiteren guten Chancen vor der Pause, als es, wie viele Stunden zuvor, in Strömen regnete und sich im großen Stadion mit nur ein paar Tausend Zuschauern ein ansonsten tristes Bild bot.
 
-Ob ein derartiger Ausreißer wie Raimunds Olympiagold in der vergangenen Saison wieder der einzige Glanzpunkt eines deutschen Winters bleibt oder ob Mitter aus einzelnen Lichtblicken eine Mannschaft mit Breite und Konkurrenzfähigkeit formt, zeigt sich aber nicht erst bei den Saisonhöhepunkten. Eine erste Antwort liefert schon das Auftaktwochenende in Lillehammer.
+Es war aufgrund der hoffnungslos überforderten Mannschaft Serbiens verständlich, dass Klopp sich "wie Bolle" auf den kommenden Montag (ab 20.15 Uhr live im Ersten und im Livestream der Sportschau) freut, wenn der Gegner aus einer anderen Kategorie sein wird.
 
-Holen Sie sich den Skisprung-Kalender mit allen Terminen zum Weltcupstart in Lillehammer bis zum Saisonfinale in Planica auf Ihr Smartphone.
+Die Niederlande reisen mit der Euphorie eines 7:0-Sieges gegen Griechenland nach Berlin. Gewinnt Deutschland im Olympiastadion, steht es sicher im Viertelfinale der Nations League.
 
-Die Qualifikation für das Skispringen der Männer in Ruka. Es kommentiert Tom Bartels.
+Das wäre wichtig, um auch in Zahlen und Tabellen zu dokumentieren, dass der neuerliche Neuanfang nach einigem Stottern zu Beginn geglückt ist. Er wäre aber auch wichtig, um der Nationalmannschaft weitere Gegner der höheren Kategorie in einem Viertelfinale und dann eventuell in einem Final Four zu bescheren.
 
-Das Skispringen der Frauen in Hinzenbach. Es kommentiert Philipp Sohmer.
+Bei der Auflage 2024/25 gelang es erstmals, die Endrunde zu erreichen. Der Deutsche Fußball-Bund war so euphorisiert, dass er Trainer Julian Nagelsmann und der Mannschaft ein Heimturnier organisierte. Durch Niederlagen gegen Portugal im Halbfinale und Frankreich im Spiel um den dritten Platz reifte die Erkenntnis, dass es auch mit Blick auf die WM in Nordamerika wohl doch nicht so dolle aussieht.
 
-Die Qualifikation für das Skispringen in Ruka. Es kommentiert Tom Bartels.
+Im Spätherbst 2026 sehen die Ansätze vielversprechender aus, weil es dem Bundestrainer ziemlich schnell gelang, einen Fußball nach seinen Vorstellungen spielen zu lassen.
 
-Dieses Thema im Programm: www.sportschau.de | "Start der Weltcup-Saison - Neuer Bundestrainer, alte Baustellen" | 13.11.2026 | 09.00 Uhr
+Auf die Frage der Sportschau, wie er das trotz der relativ wenigen Trainingseinheiten geschafft habe, sagte Kimmich: "Er sagt uns klar, was er von uns haben möchte. Wir wollen hoch pressen, wir wollen ein gutes Gegenpressing haben, eigentlich all das, was wir in der ersten Halbzeit auch gezeigt haben."
 
-----------------------------------------
+Das soll nun bestätigt werden - in einem vollen Stadion, gegen einen vermeintlich deutlich besseren Gegner, und unter dem Druck, ein Spiel gewinnen zu müssen.
 
-[2] LEVI ALS GUTES OMEN - DSV-DUO WILL ERFOLGSSERIE FORTSETZEN
-
-Der Slalom in Levi liegt den deutschen Alpin-Fahrerinnen. Während Lena Dürr auf eine starke Bilanz zurückblickt, reist Emma Aicher mit großen Ambitionen nach Finnland.
-
-Kaum ein Slalomrennen verlief aus Sicht der deutschen Skirennfahrerinnen in den vergangenen Jahren erfolgreicher als jenes in Levi. Emma Aicher feierte dort vergangene Saison ihre erste Podestplatzierung in dieser Disziplin, während Lena Dürr jahrelang ein regelrechtes Abo auf die Podiumsplätze im hohen Norden hatte.
-
-Die Piste "Levi Black", auf der die Slalom-Asse unter Flutlicht um die Bestzeiten kämpfen, scheint wie gemacht für Aicher und Dürr. In den flachen Streckenabschnitten im oberen und unteren Teil können beide ihre "Schleicherinnen"-Fähigkeiten ausspielen. Vor allem die jüngere Aicher versteht es, mit ihrem schnörkellosen Schwung auch im Flachen Tempo aufzunehmen. Im anspruchsvollen steilen Mittelteil hingegen sind vor allem technische Fähigkeiten gefragt.
-
-Was Aicher und Dürr gemeinsam haben: Im Gegensatz zu quirligen Slalomläuferinnen wie Mikaela Shiffrin oder Lara Colturi, die kompakt und sehr aktiv fahren, wirken die beiden DSV-Athletinnen auf den ersten Blick oft erstaunlich ruhig, als wären sie nicht am Maximum. Doch gerade dieser Fahrstil erlaubt es, an entscheidenden Stellen clever zu dosieren und auch anspruchsvolle Passagen sauber zu meistern.
-
-"Ich fahre mit guten Erinnerungen nach Levi", wird Dürr in einer Pressemitteilung des Deutschen Skiverbands zitiert. "Die letzten Jahre waren dort für mich sehr erfolgreich." In der vergangenen Saison verpasste sie als Vierte das Podium zwar knapp, in den Jahren zuvor gelangen ihr jedoch gleich fünf Podestplatzierungen im hohen Norden.
-
-Auch Emma Aicher verbindet mit Levi seit vergangenem Jahr besondere Erinnerungen: 2025 fuhr sie in Finnland erstmals im Slalom auf das Podium. Unter Flutlicht schlängelte sie sich gewohnt ruhig durch den Stangenwald und musste sich am Ende lediglich Tagessiegerin Mikaela Shiffrin und Lara Colturi geschlagen geben.
-
-Levi markierte damals den Auftakt zu Aichers bislang erfolgreichstem Winter: Zwei Olympia-Medaillen, drei Weltcupsiege und die endgültige Etablierung an der Weltspitze in allen Disziplinen machten die vergangene Saison zu einem Meilenstein ihrer Karriere. Die DSV-Athletin kämpfte am Ende sogar mit Alpin-Dominatorin Shiffrin um den Gesamtweltcup.
-
-"Ich will da anschließen, wo ich letzte Saison aufgehört hab – am besten gut Skifahren", sagt Aicher. Auch in diesem Winter hat die junge Deutsche den Gesamtweltcup im Blick. Als erfolgreiche Allrounderin gehört sie automatisch zum Kreis der Anwärterinnen auf die große Kristallkugel.
-
-Eine Entwicklung könnte ihr dabei zusätzlich in die Karten spielen: Shiffrin möchte ihr Slalomprogramm reduzieren und ist auch in Levi nicht am Start. Mit einem starken Rennen in Finnland könnte Aicher also früh wichtige Punkte sammeln und sich einen Vorsprung im Kampf um die Gesamtwertung verschaffen.
-
-Zusätzlichen Rückenwind dürfte Aicher aus Sölden mitbringen: Beim Saisonauftakt im Riesenslalom fuhr sie auf Rang drei und sicherte sich damit ihr erstes Podium in dieser Disziplin.
-
-Neben Aicher und Dürr stehen auch Routinierin Jessica Hilzinger und Weltcup-Debütantin Charlotte Grandinger am Start. Die erst 19-jährige Grandinger freut sich auf ihren ersten Einsatz in der höchsten Liga des Skirennsports: "Es ist etwas ganz Besonderes, jetzt selbst dabei sein zu dürfen und nicht nur im Fernsehen zuzuschauen", sagte sie gegenüber dem DSV. Am Samstag wird sich zeigen, ob die Lovestory zwischen Levi und den DSV-Frauen in die nächste Runde geht.
+Dieses Thema im Programm: sportschau.de | Hoch überlegen gegen Serbien - Klopp schwärmt und mahnt | 14.11.2026 | 10:56 Uhr
 
 ----------------------------------------
 
-[3] WO SKI ALPIN IN DIESER SAISON STATION MACHT
+[2] DFB-TEAM GEWINNT GEGEN SERBIEN - JETZT ENDSPIEL GEGEN NIEDERLANDE
 
-Von Ende Oktober bis Ende März fahren die Skirennläuferinnen und Skirennläufer wieder um die berühmten Kristallkugeln. Außerdem werden die WM-Titel vergeben. Insgesamt stehen 94 Rennen in dieser Saison auf dem Programm. Wir stellen die Weltcup- und Olympia-Orte vor.
+Deutschland hat in der Nations League plötzlich das Weiterkommen wieder in der eigenen Hand. Ursächlich dafür ist ein souveräner 3:1-(2:0)-Sieg des Teams von Jürgen Klopp in Serbien. Den leitete ein Eigentor von Srdjan Babic (3. Minute) ein, der später den einzigen Treffer der Gastgeber erzielte, außerdem waren für das DFB-Team Florian Wirtz (14.) und Brajan Gruda (50.) erfolgreich. Mit einem Sieg am Montag gegen die Niederlande ist das Viertelfinale sicher.
 
-Nach dem traditionellen Start in Sölden geht es für die Männer und Frauen zunächst an den finnischen Polarkreis und im Anschluss zurück nach Österreich. Danach stehen die Rennen in Übersee an, ehe es in Europa weitergeht: Über die Klassiker in Wengen und Kitzbühel bis hin zum Saisonhighlight, den Weltmeisterschaften in Crans Montana. Das Weltcupfinale steigt in dieser Saison in Sun Valley (USA).
+"Wir sind weit, aber einfach auf dem Weg. Wahrscheinlich hätten wir mehr Tore schießen müssen, aber das ist egal. Wir sind dabei, zusammenzuwachsen und Abläufe zu verfestigen. Ich habe so viele gute Fußballmomente gesehen, das ist verrückt. Jetzt haben wir unser Endspiel in Berlin gegen eine bärenstarke niederländische Mannschaft - darauf freue ich mich wie Bolle", sagte Klopp im Sportschau-Interview.
 
-Der Start des Alpinen Skiweltcups ist traditionell am Rettenbachgletscher in Sölden. Die Gemeinde Sölden ist flächenmäßig die größte Gemeinde in Österreich - noch vor Wien. Den Auftakt machen in diesem Jahr die Frauen am 24. Oktober mit einem Riesenslalom. Einen Tag später gehen die Männer im Ötztal in der selben Disziplin an den Start.
+Die Bedingungen im fünften Länderspiel unter ihm als Bundestrainer waren besonders. Wegen des vorigen Fehlverhaltens der eigenen Fans war Serbien zu einem Geisterspiel verdonnert worden. Das Stadion in Belgrad war daher zum größten Teil leer, eine Handvoll DFB-Anhänger sowie 5.000 Kinder unter 15 Jahren mit ihren Lehrern oder Trainern durften kommen. Abgerundet wurde diese außergewöhnliche Atmosphäre von strömendem Regen und einem so tiefen Rasen, dass sich der Ball eher schleppend bewegte.
 
-Mitte November geht es sowohl für die Männer als auch für die Frauen ins finnische Levi – etwa 170 Kilometer nördlich des Polarkreises. Die Black Levi ist damit die nördlichste, aber gleichzeitig auch niedrigst gelegene Piste im alpinen Skiweltcup. Die Starthöhe liegt bei nur 438 Metern. Dort gehen sowohl die Männer als auch die Frauen für ein Slalom an den Start.
+Für das Klopp-Team gab es inmitten dieser Szenerie das perfekte Szenario. Schon in der dritten Minute profitierte Deutschland von einem Eigentor von Babic, der einen Kopfball von Kai Havertz nach einer Ecke mit der Hüfte ins eigene Gehäuse stieß. Die Gäste mussten also nicht lange unter erschwerten Bedingungen gegen von Beginn an tiefstehende Serben anspielen, sondern sie hatten direkt den glücklichen Moment, der vieles vereinfachte.
 
-Aus dem kalten Finnland geht es zurück nach Österreich - erneut ins Ötztal. Die Ortschaft Gurgl liegt in den Ötztaler Alpen nahe dem Alpenhauptkamm in Tirol. Für die Frauen und Männer steht jeweils ein Slalom auf dem Programm.
+Denn das DFB-Team konnte so auf Spielkontrolle umschalten und auf das perfekte Timing für Nadelstiche warten. Das gab es in der 14. Minute, als Serbien im Aufbau patzte und Aleksandar Pavlovic auf Havertz durchsteckte, der zunächst scheiterte - doch Wirtz setzte nach, chippte den Ball über Vanja Milinkovic-Savic, war auf der Linie dann auch schneller als Babic dran und erzielte das 2:0. Havertz war dann ein drittes Mal im Blickpunkt, nach perfekter Vorarbeit von Brajan Gruda rutschte ihm der glitschige Ball aber in bester Position über den Scheitel (19.).
 
-Ende November steht für alle eine Reise nach Nordamerika an - die Frauen machen für einen Riesenslalom und einen Slalom Station in Killington (Vermont), das das größte Skigebiet im Osten der USA beherbergt. Für die Männer geht es nach Copper Mountain. Das Skigebiet im Bundesstaat Colorado liegt in den Rocky Mountains in der Nähe von Denver. Hier wird ein Super-G und ein Riesenslalom ausgetragen.
+Am schnellsten geschaltet: Florian Wirtz erzielt gegen Serbien das 2:0 für Deutschland
 
-Anfang Dezember fällt in Beaver Creek der Startschuss für die Speed-Spezialisten. Die Männer gehen im US-Bundesstaat Colorado an den Start. Die Birds of Prey oder auch Raubvogelpiste gehört zu den anspruchsvollsten Strecken im Skiweltcup. Im Angebot: zwei Abfahrten, ein Super-G und ein Riesenslalom.
+Serbien erwies sich wie schon beim 2:0-Sieg im Hinspiel - der bisher einzige Erfolg unter Klopp - als sehr gut kontrollierbarer Gegner. Nach 30 Minuten hatte das DFB-Team 80 Prozent Ballbesitz, es musste in Sachen Intensität gar nicht besonders hochfahren, sondern einfach die Konzentration aufrechterhalten. Das gelang der deutschen Mannschaft mit einer Passquote von 95 Prozent, und nach 37 Minuten ergab sich die Chance zum 3:0, doch Jonathan Tah köpfte völlig frei aus acht Metern vorbei.
 
-Derweil reisen die Frauen am ersten Dezemberwochenende weiter in das kanadische Tremblant. Das Skigebiet liegt in der kanadischen Provinz Québec in den Laurentinischen Bergen. Zwei Riesenslaloms stehen auf dem Programm.
+Aus der Pause kamen die Deutschen zunächst überraschend abwartend, sie überließen dem Gegner den Ball - aber nur, um die dadurch entstehenden Räume eiskalt für die Entscheidung zu nutzen. Gruda lief aus der eigenen Hälfte los, ließ sich nicht vom Ball trennen und versenkte ihn in seinem ersten Länderspiel flach zu seinem Debüt-Tor im DFB-Dress (50.). Spätestens jetzt war klar, dass sich das Klopp-Team das Endspiel ums Weiterkommen am Montag gegen die Niederlande (20.45 Uhr/live in der Sportschau) sichern würde.
 
-Während es für die Männer zurück nach Europa geht, bleiben die Frauen noch in Nordamerika. In Beaver Creek kommen die Speed-Spezialistinnen bei zwei Abfahrten und einem Super-G auf ihre Kosten.
+"Ich hatte gehofft, dass ich spiele - jetzt haben wir gewonnen, gut gespielt und ich habe getroffen, das macht es noch schöner. Ich hatte bei meinem Tor so viel Platz, den habe ich dann einfach genutzt. Ich war vor dem Spiel schon nervös, aber der Bundestrainer hat mir ein sehr gutes Gefühl gegeben, so konnte ich dann auch abliefern. Ob wir die Niederlande schlagen können? Wir können jeden schlagen", sagte Gruda im Sportschau-Interview.
 
-Die Männer reisen nach Frankreich. Sie starten in Val d’Isère – einer französischen Gemeinde in der Alpen-Region Auvergne-Rhône-Alpes. Auf der Piste La Face de Bellevarde werden ein Riesenslalom und ein Slalom ausgetragen. Sie ist im Weltcupzirkus die einzige Piste, bei der man vom Start direkt ins Ziel schauen kann.
+Unbeschadet überstand die deutsche Mannschaft das Spiel jedoch nicht, im Anschluss an eine Standardsituation jubelten die 5000 Nachwuchsfans aus Serbien. Marc-André ter Stegen sah nach einem Kopfball von Stefan Gudelj nicht gut aus, Babic staubte zum 1:3 aus Sicht der Gastgeber ab (56.). Kurz darauf wäre es beinahe nochmal spannend geworden, Mihajlo Cvetkovic vergab jedoch die Großchance zum Anschlusstreffer (59.).
 
-Für die Speed-Spezialistinnen geht es Mitte Dezember nach St. Moritz. Zwei Super-G-Rennen und ein Riesenslalom stehen auf dem Programm. Auch dieses Jahr wieder auf der Engadina-Rennstrecke - inkulsive dem berüchtigtem Rominger-Sprung.
+Derry Scherhant hätte fast den alten Abstand wiederhergestellt, doch Milinkovic-Savic nutzte beim Schlenzer des Außenstürmers des SC Freiburgs seine ganze Länge und lenkte den Ball noch an den Pfosten (70.). Wenig später musste ter Stegen nach Aleksandar Mitrovics Kopfball zupacken (72.), kurz danach gab es einen besonderen DFB-Moment: Niclas Füllkrug kam zu seinem Comeback nach fast eineinhalb Jahren, in der 74. Minute kam der Angreifer für Havertz ins Spiel.
 
-Die Männer starten währenddessen im italienischen Gröden in den südtiroler Dolomiten. Die Skipiste mit den berühmten Kamelbuckeln - eine schwierige Kombination aus drei Bodenwellen - liegt im Auge des mächtigen Langkofel. Auf dem Programm stehen ein Super-G und eine Abfahrt.
+Kurz darauf wurde dem jungen Publikum jede Hoffnung auf ein Comeback genommen, nach einem üblen Tritt auf den Knöchel von Joshua Kimmich sah Vanja Dragojevic nach Ansicht der Videobilder zu Recht die Rote Karte (76.). In Überzahl hatte Deutschland dann überhaupt keine Probleme mehr und konnte die Kontrolle wieder an sich reißen, gefährlich wurde es aber vor beiden Toren nicht mehr - trotz eines weiteren Platzverweises für Andrija Zivkovic (89.). Dennoch blieb es bei einem für den DFB erfreulichen Abend, weil auch die Konkurrenz mitspielte.
 
-Von Gröden könnten die Männer theoretisch mit dem Lift zum nächsten Weltcup fahren. Zumindest wenn die Speedfahrer sich auch in den technischen Disziplinen messen wollen. Für einen Riesenslalom und einen Slalom geht es ins nur wenige Kilometer entfernte und direkt angebundene Skigebiet Alta Badia. Die Skipiste Gran Risa zählt zu den schwierigsten Strecken im Skiweltcup.
+Weil Griechenland in den Niederlanden mit 0:7 (0:5) unterging, ist klar, dass sich Klopp und Co. am Montag mit einem Sieg sicher für das Viertelfinale in der Nations League qualifizieren. Der Grund: In diesem Falle sind alle drei Mannschaften bei einem griechischen Erfolg gegen Serbien punktgleich, der direkte Vergleich wäre ausgeglichen, doch Griechenland würde aufgrund der Klatsche das schlechteste Torverhältnis innerhalb des Dreiervergleichs haben. Bedeutet allerdings auch, dass Deutschland einen Kantersieg bräuchte, um den Niederlanden, die das Weiterkommen so gut wie sicher haben, den Gruppensieg noch aus den Händen zu reißen.
 
-Deutschlands Alexander Schmid beim Riesenslalom in Alta Badia in Aktion.
+Dieses Thema im Programm: sportschau.de | Serbien gegen Deutschland - die Zusammenfassung | 14.11.2026 | 00.00 Uhr
 
-Im Herzen der französischen Alpen gelegen, bietet Courchevel eine spektakuläre Kulisse für den Slalom der Damen. Die technisch anspruchsvolle Strecke im bekannten Skigebiet "Les 3 Vallées" fordert Präzision und Mut.
+----------------------------------------
 
-Anders als in der vergangenen Saison wird in diesem Winter noch vor Weihnachten ein Nachtslalom ausgetragen. In Madonna di Campiglio erwartet die Athleten ein Flutlicht-Spektakel auf der berüchtigten Piste Canalore Miramonti.
+[3] DFB-HIGHLIGHTS: WIRTZ PER LUPFER, GRUDA MIT 60-METER-SOLO
 
-Kurz vor dem Jahreswechsel feiert Gosau seine Premiere als Gastgeber eines Weltcups. Mit den beiden Frauen-Rennen in der Skiregion Dachstein zwischen Weihnachten und Silvester kehrt der alpine Skiweltcup nach mehr als sechs Jahren wieder nach Oberösterreich zurück. Auf dem Programm steht ein Riesenslalom und ein Slalom.
-
-Die Männer starten derweil auf der Olympia-Strecke von 2026 in Bormio. Auf der berühmt-berüchtigten Piste Stelvio stehen eine Abfahrt und ein Super-G an.
-
-Der erste Weltcup im Jahr 2026 findet für die Männer in Kranjska Gora in Slowenien statt. Die Podkoren-Piste, auf der ein Slalom und ein Riesenslalom stattfinden, ist bekannt für ihre technischen Herausforderungen und steilen Abschnitte.
-
-Flutlicht an! Im österreichischen Flachau werden für die Frauen in diesem Winter gleich zwei Nachtrennen ausgetragen. Den Auftakt im Salzburger Land macht ein Riesenslalom, einen Tag später geht es im Slalom zur Sache. Die Siegerinnen dürfen sich den Titel Snow Space Princess geben.
-
-Bei den Männern steht in Adelboden ein alljährliches Highlight an. Die Piste am Chuenisbärgli hat den steilsten Zielhang des Weltcups. Die Skifahrer starten im Riesenslalom und Slalom. Die Traditions-Rennen im Westen des Berner Oberlandes sind bekanntermaßen ein Zuschauermagnet.
-
-Skirennfahrer Linus Straßer kam beim Weltcup in Adelboden auf Rang drei.
-
-Für die Frauen geht es währenddessen in Italien weiter. In dem in den Dolomiten gelegene Skigebiet Val di Fassa werden auf der Piste La VolatA eine Abfahrt und ein Super-G ausgetragen.
-
-Nach den Männern kehren auch die Frauen an den Austragungsort der vergangenen Olympischen Spiele zurück. Auf der berühmten Olimpia delle Tofane versprechen eine Abfahrt und ein Super-G Nervenkitzel.
-
-Ähnlich spektakulär wird es bei den Männern in Wengen. Seit knapp hundert Jahren werden auf der berühmten Lauberhornabfahrt Ski-Rennen ausgetragen. Dabei ist die Piste mit 4,5 Kilometern nicht nur die längste im Skiweltcup, sondern mit Geschwindigkeiten von bis zu 160 Kilometern pro Stunde auch die schnellste. Auf dem Programm stehen Super-G, Abfahrt und Slalom - also dreimal Ausnahmezustand und Spektakel in Wengen.
-
-Die Frauen bleiben in Italien und reisen zum Kronplatz in Südtirol. Der Berg hat den Namen von einer südtiroler Sage, in der die Prinzessin und Heldin Dolasilla auf dem Kronplatz gekrönt wurde. Auf dem sagenumwobenen Berg starten die Skifahrerinnen im Riesenslalom.
-
-Die Männer starten im österreichischen Kitzbühel. Auf der legendären Streif, der wohl bekanntesten Skipiste der Welt, gehen die Speed-Männer in der Abfahrt und im Super-G an den Start. Für die Techniker wird auch ein Slalom ausgetragen. Das Besondere in Kitzbühel: Der Gewinner wird auf einer Gondel der Hahnenkammbahn verewigt.
-
-Linus Straßer und seine Gondel bei der Hahnenkammbahn in Kitzbühel
-
-Bei den Frauen kehrt der alpine Ski-Weltcup bereits zum vierten Mal in der Geschichte der unabhängigen Slowakei nach Jasna zurück. Im Skigebiet in der Niederen Tatra wird die Weltelite im Risenslalom und Slalom an den Start gehen. Für Wintersport-Fans in der Slowakei ist es der absolute Saisonhöhepunkt.
-
-Nachtrennen im Doppelpack! Für die Männer geht es direkt zum nächsten Klassiker. Ende Oktober steht das legendäre Nachtrennen auf der Planai an – Slalom in Schladming in Österreich. Auch ein Riesenslalom wird dieses Jahr wieder ausgetragen. Das Nightrace in der Steiermark ist ein Höhepunkt für die Techniker und ein Publikumsmagnet. Rund 50.000 Zuschauer werden erwartet.
-
-Vor dem Saisonhighlight fahren die Frauen im slowenischen Kranjska Gora. Die Gemeinde trägt einen Riesenslalom und einen Slalom aus.
-
-Die Männer machen derweil Station in Frankreich. Am Fuße des Mont Blanc sind die Technik-Spezalisten im Slalom noch einmal gefragt.
-
-Der Höhepunkt der Ski-Alpin-Saison steigt in der Schweiz. In Crans Montana suchen die Frauen und Männer ihre Weltmeister. Besonders historisch: 1911 fand im Kanton Wallis das erste Abfahrtsrennen der Welt statt. Insgesamt stehen elf Rennen an.
-
-Den Auftakt der Titelkämpfe macht der Team-Parallel-Wettkampf. Anschließend folgen die Speed-Disziplinen und die Team-Kombination. Den Abschluss bilden die Technik-Rennen. Gefahren wird auf zwei Pisten: Die Piste Nationale ist Schauplatz der Männer-Abfahrt, auf der Piste Mont-Lachaux steigen die weiteren Rennen. Beide Strecken enden im selben Zielstadion.
-
-Der Ski-Alpin-Zirkus nimmt sich nach der WM ein paar Tage Pause, ehe es für die Männer nach Deutschland geht. In Garmisch-Partenkirchen steht eine der traditionsreichsten Stationen im gesamten Weltcup-Kalender an. Eingebettet in die bayerischen Alpen, unterhalb der Zugspitze, bietet der Ort eine spektakuläre Kulisse für eine Abfahrt und einen Super-G.
-
-Nach fünf Jahren Pause kehrt der Ski Weltcup im Februar 2027 zurück nach Lenzerheide. In der Schweiz tragen die Frauen auf der Silvano-Beltrametti-Strecke zwei Super-G-Rennen aus.
-
-Eine Woche später sind auch die Frauen in Garmisch-Partenkirchen zu Gast. Zwei Abfahrtsrennen versprechen Spektakel pur.
-
-Die Männer machen derweil Halt Saalbach-Hinterglemm. Auf der WM-Strecke von 2025 werden eine Abfahrt und ein Super-G ausgetragen.
-
-Für die Frauen geht es nach Soldeu in Andorra. In der kleinen Wintersportsiedlung der Gemeinde Canillo nahe der Grenze zu Frankreich werden ein Riesenslalom und ein Slalom ausgetragen.
-
-Die Männer sind parallel in Norwegen gefordert. In Kvitfjell nördlich von Lillehammer fand in der vergangenen Saison das Weltcup-Finale statt. Dieses Mal sind die Speed-Spezialisten in einem Super-G und einer Abfahrt gefordert.
-
-Bevor es nach Übersee geht, starten auch die Frauen in Kvitfjell. Eine Abfahrt und ein Super-G stehen auf dem Programm.
-
-Die Männer reisen weiter nach Schweden. In Are - dem populärsten schwedischen Skigebiet - starten die Techniker im Riesenslalom und Slalom.
-
-Showdown beim Weltcup-Finale! In Sun Valley im US-Bundesstaat Idaho geht es ein letztes Mal in dieser Saison hoch her. Wie schon 2025 werden dort die letzten Rennen der Saison in Slalom, Riesenslalom, Super-G und Abfahrt gefahren und spätestens jetzt die Gewinner von Gesamtweltcup und Disziplinenwertungen ermittelt.
-
-Für das Weltcup-Finale sind nur die 25 besten Athleten der jeweiligen Disziplinenwertung qualifiziert, hinzu kommen noch alle Athleten, die in der Gesamtwertung mindestens 500 Punkte haben und die aktuellen Juniorenweltmeister in der entsprechenden Disziplin.
-
-Dieses Thema im Programm: sportschau.de | Die Stationen der SKi-Alpin-Saison 2026/27 | 12.11.2026 | 15.38 Uhr
+Das DFB-Team hat in der Nations League souverän gegen Serbien gewonnen. Mit einem 3:1 (2:0) hat es noch alle Chancen auf ein Weiterkommen in der Nations League.
 
 ----------------------------------------
 
 
 >>> TECH (WIRED) <<<
 
-[1] ‘CALL HIM OUT’: CYBERTRUCK LOYALISTS ARE IN MOURNING—AND THEY WANT ANSWERS FROM ELON MUSK
+[1] THANKSGIVING MEAL DEALS ROUNDUP (2026): WALMART, AMAZON, TARGET
 
-Last week, Elon Musk announced on X that Tesla would halt production of the Cybertruck at Gigafactory Texas “around the middle of next year,” supposedly to allow for increased production of self-driving Cybercabs.
+Many Americans are feeling the strain of rising grocery prices, a reality that can make planning for food-focused holidays feel extra stressful. But there are some ways to stretch your dollars and still celebrate with a delicious meal.
 
-Automotive industry observers were quick to surmise that the vehicle’s weak sales, delayed deliveries, inflated pricing, numerous recalls, and connection to Musk’s far-right MAGA politics may also have factored into the decision. Longtime detractors of the polarizing steel-paneled truck, originally positioned as an electric rival to classic gas-powered pickups, jeered Musk and Tesla fans over its demise, noting with some pleasure that the Cybertruck would exit the market within four years of its November 2023 rollout.
+That's where Thanksgiving meal deals from Walmart, Amazon, and Target may help: Each is $35 or less and includes turkey and trimmings. All you need to provide is a festive spirit—and perhaps a hardworking oven.
 
-And, in Cybertruck fan communities across the web, owners began to mourn.
+The Walmart meal deal includes a whole turkey, ranging from 10 to 16 pounds, plus almost everything you need to make green bean casserole, corn casserole, sweet potatoes with marshmallows, stuffing, mashed potatoes and gravy, cranberry sauce, and a pumpkin pie. You'll still need to supply some basic ingredients, such as butter, sugar, and seasonings, but all in all you'll be walking away with a great deal that can feed a full table (Walmart estimates the meal should serve 10). This deal is valid through December 24, so you could also use it for a holiday meal closer to Christmas.
 
-“Worst possible news,” a member of the Cybertruck Owners Club forum wrote in a response to Musk’s post. “No chance to buy another in future years for a newer model or after a car accident. No more aftermarket mods. No more service or parts.” Another remarked that they had waited for their truck “longer than the truck line was around.”
+Additionally, if you're a new Walmart customer, you can use code TRIPLE10 to get an extra $10 off your first three orders. Tax and delivery fees may apply, and choosing in-store pickup may help you save on shipping costs.
 
-“So everybody in my group, they are not happy,” Michael Goldman, a contractor in Palm Springs, California, tells WIRED. As the administrator of the Facebook group Cybertruck Owners Only, which has more than 82,000 members, he’s been swamped with frantic messages. “I've had people reaching out to me through the group, asking me, like, ‘What are you going to do?’” Goldman says. “And I'm like, ‘Dude, I don't know.’”
+Amazon is also offering a Thanksgiving dinner deal for $25, including an 8-pound turkey; cranberry sauce; ingredients for mashed potatoes, corn casserole, stuffing, and pumpkin pie; plus additional items, like corn and carrots. Many items are currently sold out; while these may restock, you can also peruse this page of affordable holiday ingredients to build out your own budget-friendly menu.
 
-Since hearing the news about the discontinuation of the truck, many owners have expressed feelings of betrayal and disappointment. Some are wondering if their pending orders will be fulfilled, as Musk has claimed that Tesla “will have to return deposits for a lot of people” due to demand outpacing production. Others have looked for a silver lining, speculating that the Cybertruck could become a valued collector’s item.
+Target also has a holiday meal deal, available for $30. It's a little tricky to find, but if you scroll this page, you'll find a banner for a “Thanksgiving meal for 6.” Click it and then click “Add all to cart.” You'll get a 10-pound turkey; cranberry sauce; French bread; and ingredients for stuffing, mashed potatoes, and green bean casserole. There's also a selection of side dishes for $6 or less.
 
-But Goldman doesn’t want to turn his truck into a “garage princess,” since he enjoys driving it and finds it useful in his construction business. “I don't want to ever drive another truck,” he says, and he considered buying a backup Cybertruck for when his first one reaches the end of its life. “I'll be honest with you, I was going pull the trigger on a [Cyberbeast] about two days ago, and I have a reservation already in my phone,” Goldman says, but when he was ready to complete the purchase, “the price increased like another $8,000 or something, and that was my sign to not do it.”
+Your local grocery stores may have similar deals; I'll personally be checking out Aldi's. And if you or a loved one is facing food insecurity, head to Feeding America for a list of resources near you.
 
-That Musk, against all odds, actually brought his vision of the Cybertruck to life makes it all the more painful for Goldman to see it scrapped. “That it actually happened and only happened for such a short period of time kind of blows me away,” he says. “That's why I want to call him out on it, you know?”
+Power up with unlimited access to WIRED. Get best-in-class reporting and exclusive subscriber content that's too important to ignore. Subscribe Today.
 
-Troy Meekhof, a Tesla aficionado in Grand Rapids, Michigan, known as “the Cybertruck Guy” on social media, has not been shy about expressing his own displeasure. “I can’t help but think this is Tesla’s own unwillingness (or incompetence) to make Cybertruck a success,” he posted in reply to Musk’s announcement of the wind-down last week. “Where was the price cuts? Where were the advertisements? Where is range extender?”
+20% Off Your First Order with VistaPrint Promo Code
 
-“I absolutely do think this is the wrong move for the Tesla brand, and it’s not necessarily because of the removal of an under-performing product, but it’s a clear symbol of Tesla’s aggression towards transitioning to autonomous vehicles only,” such as the two-seater Cybercab, Meekhof tells WIRED in an email. “If you ask me, it is far too aggressive, and I have a growing conviction that, at least in America, the population and legislators are not ready nor interested in autonomous vehicles today en masse.”
+© 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
 
-In another X post, Meekhof warned that “Tesla has lost the plot” by going all-in on autonomous driving as the US enters “a governance era that opposes” the company’s efforts on that front.
+----------------------------------------
 
-Musk has repeatedly declared that Tesla’s future is as an AI and robotics firm rather than as an automaker. It’s a strategy that has increasingly alienated Tesla owners like Meekhof, who despite their excitement over self-driving technology, feel that the company is spurning its core supporters as it pursues breakthroughs in that field. Earlier this year, Tesla axed its Model S and Model X, and the end of the Cybertruck narrows its lineup to just the Model 3 and Model Y.
+[2] THESE ‘GHOSTLY’ GALAXIES HAVE LOST THEIR DARK MATTER
 
-“Tesla, as a company, has made itself massively successful by making vehicles that appeal to enthusiasts, in either tech or automotive, and in many cases, both,” Meekhof says. “With their transition to autonomous-only vehicles, they leave those customers behind. I am one of them.” Meekhof has launched what he describes as a mostly “symbolic” petition urging Tesla to reconsider the plan to eliminate the Cybertruck from its slate. The letter has gathered more than 5,000 signatures.
+The original version of this story appeared in Quanta Magazine.
 
-Drew Million, an active member of the Cybertruck Owners Only group on Facebook, recently shared on the page that he was concerned about the transition to another vehicle once his beloved Cybertruck has run its course. “I’ve lost a lot of love for Tesla over this,” Million tells WIRED, adding that his interest in the brand is waning due to the “very stale consumer options” left on the table.
+About 65 million light-years from Earth, three galaxies don’t look quite right. They aren’t whirlpools bursting with light, but pallid objects dimly illuminated by a smattering of stars. “They have this ghostly appearance,” said Michael Keim, an astrophysicist at Yale University. And this isn’t even the weirdest thing about them.
 
-Million had ordered a second Cybertruck in February to replace a work van, and he’s hoping that it comes through before production halts completely in June or July 2027, per Musk’s estimate. But he’s dismayed, he says, that Tesla leadership isn’t paying attention to what customers actually want.
+Dark matter is the invisible glue that keeps the largest structures in the cosmos together. It draws ordinary, visible matter toward it, allowing stars to form and keeping the stelliferous limbs of galaxies from flying off. “Almost all galaxies are dominated by dark matter,” said Shyam Balaji, a theoretical physicist at King’s College London.
 
-“After Cybertruck is gone, there isn’t a flagship vehicle,” Million says, nor one that meets his needs. His household went from owning no electric cars to four in less than a year. “The Cybertruck started that,” he says, and it can’t be replaced by rideshares in autonomous taxis.
+But these three diffuse galaxies, known as DF2, DF4, and DF9, have left astronomers stunned. After using a suite of telescopes to estimate their masses—using the motions of their stars as a proxy—the researchers found that all three have little dark matter. Instead, a pittance of ordinary matter alone must have forged their small selection of stars. How could these rule-breaking galaxies have formed?
 
-It’s a point that comes up again and again from Tesla boosters protesting the sunset of the Cybertruck: They don’t want to give up their own independence in favor of robot chauffeurs. An owner wrote on X, for example, that they didn’t understand Tesla’s push “to delete the steering wheel, the pedals, the ownership, the freedom of having a vehicle” with the Cybercab, which cannot accommodate an entire family. They lamented that the company “doesn't seem to want to continue innovating in the customer car segment.”
+A paper published in June 2026 in The Astrophysical Journal offers a potential solution. Once upon a time, two regular galaxies collided. Their ordinary matter—their gas and dust—swirled about and got clumped up. But the dark matter passed right through and continued on, like a specter passing through a wall. The cosmic pileup left behind three new galaxies, each bereft of dark matter, each left to struggle to form a new batch of stars.
 
-Meekhof predicts that Americans won’t soon give up personally controlled trucks and SUVs capable of transporting several people and cargo in favor of smaller autonomous sedans. He worries that Tesla is headed for a “Google Glass scenario on steroids, where the technology came before the people.” Goldman is on the same page. “I think a Cybercab is cool for certain things, but I'm not going to take a Cybercab to a construction site, you know what I mean?” he says. “In rural towns, people want to drive their car to work.”
+It’s a convincing explanation for many experts—one that, crucially, may tell us something about the mystery of dark matter.
 
-The overall consternation in Tesla world over the fate of Cybertruck has been somewhat compounded by Musk’s typically muddled messaging. According to the CEO, the truck is profitable and, indeed, so popular that the Gigafactory can’t make them fast enough to fulfill existing reservations—so why, owners ask, does it have to be suspended?
+Some scientists have suggested that dark matter, which has yet to be directly detected, may not exist. Instead, they propose that a tweak to our understanding of the gravitational force might explain various features of the universe.
 
-Would-be customers have also been disgruntled to learn that Tesla continues to accept Cybertruck orders, though only for the premium Cyberbeast model, priced at $109,990. “So they can't fill current orders, but will still take orders on the most expensive version ... yeah that's not scummy at all,” a redditor griped this week on r/cybertruck.
+These bizarre galaxies pour cold water on that idea. “What this is showing is that dark matter is … not just a modification of gravity,” said Keim, who is an author of the new study. If you segregate ordinary matter from dark matter, you’d expect that the dark-matter-lacking galaxies would struggle to form stars—and that’s what DF2, DF4, and DF9 show.
 
-And there is a percolating sense of resentment among some Cybertruck devotees that they were taken for a ride, so to speak, with Tesla exploiting their passion for the novel vehicle and its driver-assistance tech to advance its agenda of autonomy at all costs.
+That suggests, as many have suspected for some time, that dark matter is a physical thing. “The absence of dark matter is, in a way, some evidence of dark matter, which is ironic,” Balaji said.
 
-“They're a data company,” Goldman says. “What they're doing is collecting data for the robots and for the self-driving cars and for the Cybercab. We were basically beta testers in the Cybertruck for the Cybercab.”
+What, exactly, is dark matter? Ever since it was formally proposed by the astronomer Fritz Zwicky in the 1930s—and built upon in the 1970s by the astronomer Vera Rubin—cosmologists and astrophysicists have been putting forward their best candidates. Could it be a stealthy type of neutrino? Might it be so-called weakly interacting massive particles, or WIMPs? Some have even opined that it could be primordial black holes as small as individual atoms and as old as the universe itself.
 
-That’s part of the reason that Goldman and others feel they are owed a better explanation of Tesla’s latest move. “We want to know why,” Goldman says. “Is it because we were really just beta for the cabs, or is it really because you guys don't have enough space in the Gigafactory, or is it just because the sales are terrible?”
+“We don’t know which dark matter candidate is the right one,” said Daniel Whiteson, a particle physicist at the University of California, Irvine. Whatever it is, it has yet to be detected. But “there’s a lot of independent lines of evidence that dark matter is matter.”
 
-“Most of the people that have Cybertrucks have been following this truck for the past 10 years,” Goldman says. “We finally got literally the best truck made on this planet, and now they're taking it away from us, and we're bummed.”
+Dark matter, which makes up 27 percent of the universe—and 85 percent of all matter—interacts with gravity. If it were down to the gravitational pull of ordinary matter alone, stars on the edges of rapidly spinning galaxies would escape into space. Ordinary matter alone would struggle to clump together tightly enough to form stars. Dark matter also seems to warp space itself, bending light around objects in a process known as gravitational lensing.
+
+“You wouldn’t get galaxies without dark matter,” said Chamkaur Ghag, a physicist at University College London. “Is there a way of evolving the galaxies without dark matter in the first place? Our understanding says no.”
+
+So when DF2 was discovered in 2018, astronomers didn’t quite know what to make of it. The galaxy is roughly the same size as the Milky Way, but with 200 times fewer stars, it’s considerably dimmer. Suspicious, scientists used the Keck Observatory in Hawaii to track the motions of those stars to estimate the galaxy's total mass. They discovered that, even for such a star-deficient galaxy, it was lightweight: It seemed to contain, at most, 400 times less dark matter than they would expect, making DF2 the first dark-matter-deficient galaxy ever spotted.
+
+In 2019, they observed DF4, another phantom galaxy with a dearth of dark matter. And in 2026, scientists announced that a third, DF9, had joined the club. It contains the mass of roughly 100 million suns, which is consistent with having only ordinary matter. If it were also packed with dark matter, it would be 100 times more massive.
+
+That all three gossamer galaxies existed along a line, as neighbors, didn’t escape the attention of astrophysicists, who began to coalesce around an origin story.
+
+Dark matter is only known to act with the gravitational force; there’s no compelling evidence yet that it interacts with other fundamental forces, like electromagnetism. If two typical galaxies met in a head-on collision, the dark matter would experience very little friction, or drag, and would keep on rocketing by. But ordinary matter, which interacts using all four fundamental forces, would get all tangled up.
+
+“An analogy would be two knights jousting, where the knights and their lances collide and may be thrown to the ground in a heap, while their horses keep on running at full speed,” said Aaron Romanowsky, an astronomer at San Jose State University.
+
+Several independent experts buy the tale spun by Keim and his colleagues. “It’s very convincing,” Whiteson said.
+
+It’s reminiscent of the Bullet Cluster, two massive collections of galaxies 3.8 billion light-years away that also collided eons ago. This destruction derby, which was recently observed by the James Webb Space Telescope, has a messy distribution of mass that only makes sense if dark matter and ordinary matter got torn asunder during the collision.
+
+Although this kind of segregation can be seen with greater clarity in DF2, DF4, and DF9, not everyone agrees on how the separation took place.
+
+Kinwah Wu, a theoretical astrophysicist at University College London, noted that the triplet does not exhibit any of the fluid, wispy features that one would expect to see after a galactic collision. He suggests that, in this case, DF2, DF4, and DF9 were passing through a large group of massive galaxies. This outsize rabble then stripped the triplet of all their dark matter during their ill-fated voyage.
+
+Stacy McGaugh, an astronomer at Case Western Reserve University and a longtime proponent of modified-gravity theories, is more skeptical. “It’s not clear to me what the formation mechanism is,” he said. An ancient collision “is a plausible origin story, albeit an exceptional one. If that’s what’s happened, then the rest follows.” In other words: If these galaxies were created when their dark matter was stolen away, then it makes sense that dark matter is a physical substance.
+
+“But the question is: Is that what happened?” he continued. “And I’m not convinced that that’s the only way that can happen.” Without definitively knowing their origin story, McGaugh doesn’t think it’s possible to say anything about the nature of dark matter itself.
+
+Most experts, though, cannot see how DF2, DF4, and DF9 could exist without dark matter being a physical thing, even if the trio’s genesis can be debated. “It’s hard to explain how you’d get something like this evolving by itself without something like dark matter,” Ghag said.
+
+That makes this galactic trio bad news for MOND, or modified Newtonian dynamics, an alternative to dark matter proposed in 1983 by the physicist Mordehai Milgrom. “MOND says: What if there’s only visible matter, but its gravity works differently than we thought?” Whiteson explained.
+
+MOND implies that, when objects are experiencing a very weak gravitational pull—for example, when two stars are separated by extreme distances—the gravitational force doesn’t dwindle as much as scientists think. That could explain why spinning galaxies can be held together without needing an extra source of gravity from dark matter, its proponents have argued.
+
+Dark matter has long been the favored theory for cosmologists, as MOND “could never really explain everything,” Ghag said. He explained that MOND suffered a significant blow in 2015 when the US-based Laser Interferometer Gravitational-Wave Observatory, or LIGO, detected gravitational waves—ripples in the fabric of the universe—for the first time. Scientists found that these waves move at the speed of light in all directions over huge distances, which implies that gravity works in a consistent, unmodified way throughout the cosmos.
+
+DF2, DF4, and DF9 are also more elegantly explained by dark matter than by attempts to adjust the mechanics of gravity. “It’s easier to remove matter, cold dark matter, through something like a collision, than it is to turn off a law of nature,” Balaji said.
+
+“I think it’s fine and healthy to have alternative theories and open debate,” Whiteson said. “But let’s also be frank about whether the theory fits the data. MOND does not.”
+
+The identity of dark matter still eludes us. But these galaxies are arguably another nail in the coffin of its increasingly unpopular competitor.
+
+Original story reprinted with permission from Quanta Magazine, an editorially independent publication of the Simons Foundation whose mission is to enhance public understanding of science by covering research developments and trends in mathematics and the physical and life sciences.
 
 In your inbox: Go inside the world of digital security with Kernel Panic
 
@@ -328,85 +296,71 @@ Want better search results? Make WIRED a preferred source in Google
 
 ----------------------------------------
 
-[2] THE HUBBLE SPACE TELESCOPE IS SINKING. NASA IS LOOKING FOR WAYS TO KEEP IT AFLOAT
+[3] OUTLOOK WENT DOWN? MICROSOFT MAY OWE YOU MONEY
 
-As telescopes go, few if any are more famous than the Hubble Space Telescope. Over 30 years of operations, the telescope has been essential to groundbreaking discoveries that have fundamentally transformed humanity’s view of the universe. But like all satellites in low Earth orbit, it’s been gradually descending.
+Rest assured this week that while Outlook, Teams, and other Microsoft services were flatlining, the company’s billing operations were still firing on all cylinders. Copilot can’t run on air alone, after all. It needs cash.
 
-This happens because of atmospheric drag, and the Hubble Space Telescope is not equipped with a propulsion system to adjust its own orbit. According to NASA’s analysis, if left unchecked, the telescope will likely re-enter Earth’s atmosphere in 2033 or 2034, eventually crashing back onto the planet.
+The silver lining to the week is that, in the light of our global recovery from one of the most debilitating tech outages in recent memory, Microsoft now owes you compensation. And depending on the size of your operation and the degree to which you rely on Microsoft products, the payout could be substantial.
 
-Hoping to delay this conclusion, NASA has issued a formal Request for Information seeking proposals from the private sector for “in-space servicing” of the famous telescope. This would likely involve raising Hubble’s altitude to extend its operational lifespan, but the agency is also open to industry’s suggestions for managing a safe and controlled reentry or disposal of the telescope while still in orbit. Space companies can also propose upgrades to enhance the telescope’s functionality in its remaining years.
+If you have a business relationship with Microsoft—a subscription to a Microsoft 365 Business plan, email hosted on Microsoft Exchange, or perhaps a Teams Premium tier—that relationship is governed by reams of documentation, among them being a Service Level Agreement.
 
-“Hubble is a national icon,” Nicky Fox, associate administrator of NASA's Science Mission Directorate, said in a statement. “Given the time we have until Hubble’s anticipated reentry, we are eager to explore the breadth of possibilities to boost Hubble to a higher orbit while we develop the flagship mission to follow.”
+Service Level Agreements, or SLAs, are old hat to large enterprises who use them to hold accountable service providers like web hosts and email services, ensuring they stay online and operational—and they are often in the realm of demanding 99.99 percent reliability or higher, as is the default promise with Microsoft Azure. If a provider fails to hit the promised availability level, the customer is due a refund (or credit towards next month’s bill, at least).
 
-The telescope was designed with the expectation that astronauts would perform repairs and upgrades in orbit. Since it was launched in 1990, a total of five service missions have been carried out. The last of these missions was canceled after the space shuttle Columbia disaster in 2003. But NASA later determined that the benefits of servicing Hubble outweighed the risks of a final mission, and in 2009 a crew took measures, such as replacing the battery, to extend the telescope’s lifespan.
+But SLAs don’t only apply to the Fortune 500. If you have a business account with Microsoft, no matter how small it is, your service is also governed by these promises. And now, Microsoft owes you compensation.
 
-This is also not the first time NASA has considered private-sector resources for raising the Hubble Space Telescope’s orbit. In September 2022, NASA entered into a nonfunding partnership agreement with SpaceX to investigate the possibility of using the company’s Dragon spacecraft to move Hubble into a more stable orbit. However, according to NASA’s announcement at the time, the agency had no plans to conduct or fund the service mission itself; the study was intended solely to assess commercial feasibility.
+“Business account” is the key phrase in the above, mind you. If you have a Microsoft 365 Family plan or any other individual or personal plan, you are basically out of luck. Outlook could go offline for a month, and you wouldn’t be entitled to anything aside from a series of pointed Facebook posts.
 
-Meanwhile, NASA commissioned the private company Katalyst Space Technologies in September 2025 to perform an orbital raise for the Swift Observatory, which was experiencing faster-than-expected orbital decay. However, the company’s spacecraft, launched in July 2026, suffered an attitude control malfunction, forcing the mission to be abandoned. On November 4, Swift reentered the atmosphere over Indonesia.
+The consumer Microsoft Services Agreement states that individual users can get refunds or credits at Microsoft’s “sole discretion,” but it doesn’t even mention SLAs and promises nothing in the way of uptime. In other words, if your email system wasn’t working for you on November 12, you can ask for money back, but your odds of receiving anything are low.
 
-The problems facing the Hubble Space Telescope are not limited to its drop in altitude. The spacecraft itself is also experiencing malfunctions. In June 2024, NASA announced that it would transition the Hubble Space Telescope to a new operating mode using only one of the six gyros on board to assess the telescope’s orientation. After more than three decades in space, only three of the gyros were operational, and one of those was starting to return abnormal readings. The other remaining functional gyro is now being kept in a ready state for future use.
+Business users are in a much more advantageous position, though Microsoft doesn’t exactly go out of its way to guide you through the refund process. SLA refunds are not automatic. You have to request them for each incident, and the process is hardly straightforward.
 
-NASA estimates that a mission to raise the telescope’s orbit will need to be carried out by 2032. In an announcement made in 2022, NASA also explained that if the Hubble Space Telescope could be raised to a higher, more stable orbit, it could continue to observe the cosmos for several more years.
+To figure out what you’re owed, start by taking a look at the SLA for Microsoft’s Online Services. (This is different than the above consumer Microsoft Services Agreement.) It’s more than 53,000 words long, and quite repetitive, but I’ll digest the important facts for you here.
 
-“Hubble still has important science ahead of it, and we should be looking at every reasonable opportunity to keep it delivering for as long as possible,” said NASA administrator Jared Isaacman. “If there are innovative and cost-effective ways to extend the life of an asset already in orbit, we owe it to the American taxpayer and the scientific community to explore them. Extending Hubble’s life would mean more discoveries, more science, and more opportunities to expand our understanding of the universe.”
+While many of the promised service levels are identical, start by double-checking the specific Microsoft products you use, as the SLA is broken down by product. A search for “Exchange Online” reveals everything you need to know, in surprisingly plain English.
 
-This story was originally published in WIRED Japan and has been translated from Japanese.
+Downtime is defined as “Any period of time when users are unable to send or receive email with Outlook Web Access.”
 
-In your inbox: For life-tested picks, sign up for our Gear newsletters
+Uptime Percentage is calculated by a simple formula: Subtract the minutes of downtime from your total User Minutes, then divide the result by your total User Minutes. Take that result and multiply it by 100.
 
-Airbnb hosts are furious they can no longer make guests do their chores
+“Downtime is measured in user-minutes; that is, for each Applicable Period, Downtime is the sum of the length (in minutes) of each Incident that occurs during that Applicable Period multiplied by the number of users impacted by that Incident.”
 
-big story: cool kids write in all lowercase—does that make you mad?
+User Minutes is the total number of minutes in the billing cycle; typically 30 days.
 
-WIRED event: The technologies, people, and ideas transforming our world
+If the calculated Uptime Percentage falls below 99.9 percent, you are entitled to credit (not a cash refund) under the following terms:
 
-© 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+If we assume the outage lasted about 18 hours for you, that equates to a 2.5 percent Downtime Percentage or a 97.5 percent Uptime Percentage for a 30-day billing cycle. And that puts you squarely in 50 percent Service Credit territory.
 
-----------------------------------------
+While Microsoft is transparent about what you are owed, it has less to say about what you have to do to receive it.
 
-[3] BITDEFENDER ANTIVIRUS PLUS REVIEW: UNDERCUTTING THE COMPETITION
+The SLA simply states that “In order for Microsoft to consider a claim, you must submit the claim to customer support at Microsoft Corporation including all information necessary for Microsoft to validate the claim.” You are also directed to supply the following:
 
-Antivirus programs are a dime a dozen these days, and while the vast array of security threats that assail modern devices can at times feel so overwhelming that protection seems impossible, a good antivirus solution remains essential.
+(i) a detailed description of the Incident; (ii) information regarding the time and duration of downtime; (iii) affected resource names; (iv) the number and location(s) of affected users; and (v) a description of errors that occurred during the incident.
 
-Unfortunately, purchasing an antivirus can prove rather confusing. Companies offer a huge range of bundles with long lists of features, many of which are obscured in vague language. If you dig deep enough into a company’s website, however, you’ll find that most still offer the option to purchase the antivirus with few add-ons at a lower price. And if that’s what you want, Bitdefender’s Antivirus Plus is a good option.
+That’s a lot of information, but Microsoft likely does not need much in the way of (i) , (ii), or (v) to validate this global incident. You will need to supply the name or your “affected resource” and how many users were impacted. For the sake of completeness, include in your message the codes for outages for Exchange (EX1550543), Outlook (MO1550821), and Teams (TM1550488) as relevant to your business.
 
-Buying Bitdefender Antivirus Plus on its own is arguably a bit confusing, as the company strongly pushes shoppers toward more expensive and all-inclusive Bitdefender bundles, which include other features like a password manager, dark web monitoring, and lots more. In total, there are four different bundles to choose from: Total Security, Premium Security, Ultimate Security, and Ultimate Security Plus Extended, ranging from $60 up to $140 for the first year. There are also Family versions of these plans, which are more expensive but add protection for up to 25 devices and parental controls. All these bundles include the same antivirus protection, but if you search for Antivirus Plus on its own, though, you will find it. And it’s arguably worth seeking out, as Bitdefender's entry-level options are priced most aggressively.
+I also did the math on what my various Microsoft subscriptions cost. I only have two, Exchange Online and Microsoft 365 Business Standard, both of which were impacted by the outage. Total price of my last bill: $24.88. Thus, total credit due: $12.44. That may barely be beer money for me, but a company of 100 people will likely be owed over $1,000. If you don’t have these numbers handy, you’ll find them under Billing > Bills & Payments in the Microsoft 365 Admin Center.
 
-Bitdefender Antivirus Plus currently offers an introductory price of $25 for the first year (and $50 after) for a single device or $30 for the first year ($70 after) for three devices. This is quite a bit less than Bitdefender Total Security, which is $60 for the first year (and $110 after) and only offers two benefits in exchange: a password manager and protection for up to five devices instead of just one. The lower tiers tend to be better deals, especially if you're after something specific.
+With that information collected, then what? Microsoft simply directs you to file a claim with customer service, so that’s exactly what I did. In the same Admin Center, the method to file an email service request is a little tricky. It’s not in the left-hand navigation but rather can be found on the bottom right of the screen. Click the headset icon which expands to reveal “Help & support.” This will default you to Microsoft’s AI chatbot. Within this page, click the headset icon at the top of the screen, which will take you to a “Contact support” page. Choose Email from this screen, and fill in the form with the information you’ve collected.
 
-That’s because Bitdefender’s pricing is most competitive at its lowest tiers, which may by itself be enough reason for many to choose it. Rivals like Norton Antivirus Standard, McAfee Essential, Avira Internet Security, and Malwarebytes Standard typically ask more for a similar level of service.
+Your submission should garner a quick response that includes a case number tracking ID. I filed for compensation on Friday and haven’t received any other response yet than a confirmation of receipt, but considering that 12 principal-filled dollars are on the line, you can bet I’ll be tracking it closely.
 
-There is some variation here; Norton throws in a password manager at a lower price point, for instance, and some competitors have superior VPN service included (Bitdefender Antivirus Plus limits you to 200 MB of VPN data per day, which isn’t much). Still, Bitdefender Antivirus Plus is among the more affordable options, particularly if you’re more interested in the antivirus than the add-ons.
+As a final note: Be aware that claims must be submitted by the end of the month following the outage. So you have until December 31, 2026 to file your claim for the November 12 incident.
 
-Savvy users might balk at paying at all, as many free antivirus options exist. Bitdefender itself offers a free antivirus download for both Windows and Android (but not macOS, iOS, or iPadOS). This is a fair choice, though it often means you’ll have to tolerate advertisements urging you to sign up.
+I reached out to Microsoft for comment on this story and a PR rep said she would “let me know if the company has anything to share” while offering the same statement you have probably seen too many times already: “We are deeply sorry for the disruption this incident has caused our customers and partners. We know the trust they place in our services and take that responsibility extremely seriously.”
 
-Buying, downloading, and installing Bitdefender Antivirus Plus is a smooth experience. The payment portal is straightforward. The installer is really a downloader, so it’s a small file; the full download required by the installer is roughly 800 megabytes. Once the installation is finished, Antivirus Plus automatically runs an initial virus check. This took less than five minutes on a Microsoft Surface Laptop 7 running Windows 11.
+Now we’ll see how seriously it takes the refund process.
 
-Once installed, the Bitdefender Antivirus Plus interface provides a default dashboard that includes several common actions, including a quick scan, total system scan, and vulnerability scan (the latter looks for problems like a weak account password or an overly permissive network configuration). You’ll also find an option to turn on Bitdefender VPN, which is installed alongside the antivirus—though, as mentioned, you’re limited to 200 MB of data per day unless you upgrade to Bitdefender Premium VPN.
+In your inbox: Inside WIRED’s newsroom with Katie Drummond
 
-These features are largely standard for an antivirus program, though one extra feature requires more explanation: Safepay. This creates a sandboxed browsing environment meant to thwart threats like keyloggers and man-in-the-middle attacks. To be honest, I’m doubtful of the feature’s utility. I don’t believe these are the most common avenues cybercriminals use to obtain payment information; they’re far more likely to buy huge repositories of payment data stolen from compromised companies. It’s also rather clunky to launch Safepay for an online purchase, so I don’t think most people will want to use it.
+They war-gamed dimming the sun—it went worse than you think
 
-I spent most of my time using Bitdefender Antivirus Plus on Windows, which I think is the best version of the software. The Android and iOS versions look largely similar to it, though of course compressed for a mobile device. However, macOS is the odd one out with an interface that looks different from its peers and, to my eyes, seems about five years out of date. It’s not terrible and has similar functionality, but I find this a bit odd. It seems like the macOS software is missing a software refresh that other platforms received.
+The Big Interview: Nathan Fielder tells us everything
 
-A nice software interface is a perk but, at its core, antivirus software is supposed to stop viruses and other malware. So, how does Bitdefender Antivirus Plus rank?
+Live tracker: Elon Musk’s America PAC is spending big on the midterms
 
-Bitdefender scored well in AV-Test’s latest report, where it detected 100 percent of the tested attacks and received an AV-Test Top Product certification. It also received high marks from AV-Comparatives, which found it detected 99.5 percent of threats, enough to earn it the top three-star score. Bitdefender’s consumer products weren’t ranked in the latest SE Labs consumer antivirus report, but the small-business product detected 99 percent of threats and received an AAA ranking in the April 2026 report.
+Introducing the app: More ways to make the most of WIRED
 
-The performance hit from Bitdefender Antivirus Plus wasn’t noticeable in typical use of either my Windows 11 laptop or my Apple MacBook Air M4. Bitdefender services consumed about 700 MB of memory in total on both platforms. That’s not a lot, and it's in line with what I often see from antivirus programs, though it’s also not trivial. I can imagine this could at times result in a performance hit on a device with 8 GB of RAM. My devices have 32 GB and 24 GB, respectively, however, so I didn’t encounter any issues.
-
-Bitdefender Antivirus Plus checks off most boxes for an antivirus program. It’s affordable, easy to use, earns high marks from malware testing labs, and avoids significant performance issues when installed. But I do want to return to a problem I’ve mentioned before: the VPN.
-
-Antivirus Plus advertises an included VPN. This is true, but it’s actually the free VPN service that anyone can obtain. The service has a strict 200-MB (per day, per device) data cap, which isn’t going to be enough if you want to use it as your main VPN. To be fair, Bitdefender does detail this limitation on its website—but it does seem like an added feature when, in reality, it’s available for free whether you buy Antivirus Plus or not.
-
-You can, of course, subscribe to Bitdefender Premium VPN, but you must do so at full price. VPN Premium isn’t included until you upgrade to the Bitdefender Premium Security package, which is much more expensive at $80 for the first year (and $130 per year after).
-
-That could steer you away from Bitdefender if you want an antivirus and VPN. Competitors like Norton and McAfee bundle an unlimited VPN service into lower tiers of service, which, though more expensive than Bitdefender Antivirus Plus, are less expensive than Bitdefender Antivirus Plus and Bitdefender Premium VPN combined.
-
-Unfortunate VPN bundling aside, Bitdefender Antivirus Plus is a good choice if you want antivirus for Windows, macOS, Android, and iOS.
-
-It’s particularly competitive if you just want the antivirus protection on its own. All of the major cybersecurity companies would really prefer it if you bought a bundle (including Bitdefender), and they’re often good value if you actually use all the features. But there are plenty of reasons to just go for the antivirus itself (for example, credit and dark web monitoring features might already be available through your bank or another institution). And if antivirus protection is all you want, Bitdefender Antivirus Plus is a superb choice.
-
-Bitdefender’s advantage is quite simple. It provides antivirus protection that detects most threats at a price that often undercuts the competition. It’s hard to think of a reason to pay more for an alternative when Bitdefender does the job well for as little as $25 for the first year.
+20% Off Your First Order with VistaPrint Promo Code
 
 © 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
 
