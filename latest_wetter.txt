@@ -1,1 +1,12 @@
-Wetter-Update fehlgeschlagen: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=10)
+=== WETTER HAMBURG - 15.11.2026 ===
+
+AKTUELL:
+Zustand: Bedeckt
+Temperatur: 4.1°C
+
+TAGESAUSSICHT:
+Vormittag  (10:00 Uhr: 1.2°C, Hauptsächlich klar (Regen: 0%))
+Nachmittag (15:00 Uhr: 6.5°C, Leichter Regen (Regen: 25%))
+Abend      (20:00 Uhr: 6.3°C, Bedeckt (Regen: 0%))
+
+Einen schönen Tag in der Hansestadt! ⚓
