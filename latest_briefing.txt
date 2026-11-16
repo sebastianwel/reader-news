@@ -1,264 +1,330 @@
-=== DAILY BRIEFING - 15.11.2026 ===
+=== DAILY BRIEFING - 16.11.2026 ===
 Quellen: Tagesschau, Sportschau & Wired Tech
 
 
 >>> TAGESSCHAU TOP-NEWS <<<
 
-[1] TREIBSTOFFMANGEL: WIE DIE KUBANER MIT DER KRISE ZURECHTKOMMEN
+[1] MARKTBERICHT: ANLEGER BLEIBEN VOR NVIDIA-BILANZ VORSICHTIG 
 
-Stromausfälle, Treibstoffmangel, steigende Preise: Die verschärften US-Sanktionen treffen die Menschen in Kuba hart. In Havanna versuchen sie, der Krise etwas entgegenzusetzen. Mit Musik, Unternehmergeist und Improvisation.
+Das Thema Nvidia bleibt auch in der neuen Woche aktuell: Bevor der Chipkonzern am Dienstag seine Bilanz vorstellt, könnten die Investoren zurückhaltend bleiben. Zum Wochenstart rührt sich der DAX bisher kaum.
 
-David Gonzalez ist im Stress. Wie jede Woche verwandelt der 29-Jährige sein Haus in Havanna in eine Party-Location. Freunde bauen die Bar auf, schleppen eine Musikanlage heran. David, 29 Jahre alt, Tattoos, Nasenring, lässiger Look, probiert die Getränke, die sie ihm reichen.
+Der deutsche Leitindex tritt im frühen Handel bei 26.738 Punkten praktisch auf der Stelle. Am vergangenen Freitag war der DAX bereits kaum verändert bei 26.749 Punkten aus dem Handel gegangen.
 
-50 Cent Eintritt nehmen sie für den Partyabend, das reiche um die Kosten zu decken. "Wir wollen zeigen, dass man trotz aller Widrigkeiten hier in Kuba noch etwas Schönes machen kann", sagt er. Und während draußen im Viertel wegen einer Stromabschaltung mal wieder die Lichter ausgehen, läuft bei ihm der Soundcheck.
+Dabei war aber die gesamte vergangenen Woche erfolgreich verlaufen: Am Donnerstag hatte der DAX erstmals in seiner Geschichte kurzzeitig die 27.000-Punkte-Marke übersprungen. Auf Wochensicht lag das Plus bei 3,6 Prozent. Kurstreiber waren die sinkenden Ölpreise und eine Reihe starker Firmenbilanzen.
 
-Draußen bleibt Havanna dunkel, drinnen wird weitergetanzt. David Gonzalez veranstaltet Partys - trotz aller Widrigkeiten.
+Nun fragen sich die Anleger, wie es weitergeht. Vor allem zwei Ereignisse könnten den Handel in dieser Woche bestimmen: Die Nvidia-Quartalszahlen am Dienstag und der geplante Börsengang des KI-Konzerns Anthropic am Donnerstag. Nvidia gilt als ein wichtiger Motor des KI-Boom. Der Dienstag ist deshalb ein Stimmungstest. Fallen die Zahlen enttäuschend aus, könnte das die Märkte erneut durcheinanderbringen.
 
-Die Energiekrise hat Kuba fest im Griff. Seit US-Präsident Donald Trump Öllieferungen nach Kuba blockiert, hat sich die ohnehin angespannte Versorgungslage drastisch verschlimmert. In der Folge mussten auch Kinos, Theater und Kulturzentren schließen.
+Der Termin ist noch aus einem weiteren Grund interessant. Die Anleger hoffen auf einen Blick in die Zukunft. Die Frage wird sein, wie der Chipkonzern seinen Wachstumskurs ohne den langjährigen Chef Jenson Huang fortsetzen will. Chris Weston, Analysechef des Devisenbrokers Pepperstone meint, Nvidia könne zwar erneut deutlich besser abschneiden als vorhergesagt und seine Ziele anheben. "Die Anleger versuchen jedoch zunehmend abzuschätzen, was das Unternehmen in den Geschäftsjahren 2028 und 2029 wert ist - womöglich ohne den Vordenker, dem es seinen Vorsprung verdankt."
 
-Bei David dagegen gibt es weiter Lesungen, Konzerte, politische Debatten. "Die Leute kommen hierher, um glücklich zu sein", sagt David, "und ich sage immer: Manchmal ist das die beste Art, in Kuba Politik zu machen." Seine Generation wolle sich durch die Krise nicht auch noch die Jugend nehmen lassen.
+Verbündete des zurückgetretenen Nvidia-Chefs Jensen Huang arbeiten offenbar an Plänen für seine Rückkehr.
 
-Das Geheimnis, warum bei David trotz Energiekrise noch alles läuft, liegt ein Stockwerk tiefer. Eine Batterie aus Spanien, zehn Kilowattstunden Kapazität. Sie versorgt den Kühlschrank, die Musikanlage, ermöglicht Filmabende, während auf das öffentliche Stromnetz kaum noch Verlass sei.
+Beim IPO von Anthropic wollen die Anleger wissen, ob die Investoren weiterhin bereit sind, Milliarden in den KI-Boom zu investieren. "Investoren dürften Farbe bekennen, ob sie der KI-getriebenen Wachstumsstory weiter Vorschussvertrauen gewähren oder ob die Stunde der fundamentalen Bewährungsprobe geschlagen hat", sagte Timo Emden, Chefanalyst beim Broker CapTrader.
 
-"Wenn wir hier 20 Stunden pro Woche regulär Strom haben, ist das ein Luxus", sagt David. Im Stockwerk über ihm nimmt die Party Fahrt auf. Generation Z tanzt zu Queen. Für ein paar Stunden die Krise vergessen, abschalten, sich frei fühlen. Darum geht es ihnen.
+Aber auch der Blick auf andere Branchen bleibt sinnvoll. Der DAX habe nach dem erstmaligen Anstieg über 27.000 Punkte zwar an Schwung verloren, kommentiert Andreas Lipkow, Chef-Marktanalyst des Brokers CMC Markets. Aber die Nachfrage verlagere sich zunehmend auf defensive Branchen wie Versicherungen und Versorger. Die Anleger nehmen Gewinne bei zuvor stark gestiegenen Titeln mit und suchen gleichzeitig nach neuen Einstiegsmöglichkeiten. Diese Branchenrotation könnte die Grundlage für eine nachhaltige Fortsetzung der Jahresendrally schaffen", so Lipkow.
 
-Wenn der Staat nicht mehr in der Lage ist, die Bevölkerung zu versorgen, wird Ideenreichtum manchmal belohnt. Mit finanzieller Unterstützung von Privatleuten fährt hier die alternative Müllabfuhr.
+Auch Kapitalmarktexperte Jürgen Molnar vom Broker Robomarkets ist optimistisch und weist auf das rund neunprozentige DAX-Plus seit Jahresbeginn hin. Es zeige, dass auch die viel zitierte Old Economy etwas wert sei. Der von eher traditionellen Branchen geprägte Index müsse "keineswegs eine lahme Ente sein", da Industrie, Versicherungen und andere klassische Geschäftsmodelle an der Börse ebenfalls Tempo machen könnten, unterstreicht Molnar.
 
-Doch außerhalb der Partyoase sind Probleme allgegenwärtig. Alexis Nueva bekommt sie täglich zu spüren. Mit einem kleinen Elektromobil sammelt er Müll auf Havannas Straßen. Vielerorts türmt sich Abfall am Straßenrand, denn auch der regulären Müllabfuhr fehlt Sprit.
-
-Bleibt der Müll in der Hitze zu lange liegen, kommen Ungeziefer und Mücken, erzählt sein Kollege Michel. Alexis war früher Busfahrer, doch wegen des Benzinmangels gab es für ihn keine Arbeit mehr. Dann heuerte er bei Kleinunternehmer Yasiel Hernández Román an. Er hatte die Idee mit der alternativen Müllabfuhr. Der Staat zahlt einen Teil der Gebühr für die Reinigung, der andere kommt von Privatleuten oder Hotels.
-
-Jetzt hält die Firma mit 46 Mitarbeitern und 15 Elektromobilen das Viertel sauber. Eine kleine Erfolgsgeschichte, die auch andere jetzt nachahmen, sagt Yasiel stolz.
-
-Als Unternehmer sei er von den US-Sanktionen, die Zahlungen, Kredite und Importe extrem schwierig machen, zum Glück nicht betroffen. "Aber viele Unternehmer werden regelrecht erstickt. Sie bekommen viele Waren nicht ins Land, sind praktisch lahmgelegt."
-
-Kuba steckt in der schwersten Wirtschaftskrise seit Jahrzehnten.
-
-Für den Kuba-Experten Bert Hoffmann vom Hamburger GIGA-Institut ist die Energieblockade besonders verheerend. Seit Januar durfte nur ein Tanker mit Öl in Kuba anlegen. Die USA setzten Energie als Waffe ein, sagt Hoffmann.
-
-Ohne Strom verderben Lebensmittel, Wasserpumpen stehen still, der Alltag wird zermürbend, berichten auch die Müllwerker Alexis und Michel: Nächte ohne Ventilator, kaum Schlaf, keine Möglichkeit zu kochen - das bringe viele an ihre psychische Belastungsgrenze.
-
-Hoffmann beobachtet auch, dass sich die Stimmung verändert hat. "Die Menschen haben wenig Erwartungen", sagt er. Im Februar spekulierten viele, wie es weitergehe, ob Hilfe aus Russland komme, ob die USA eingreifen würden. Inzwischen, so der Experte, hätten sich die Menschen in einem Zustand eingerichtet, der eigentlich für viele kaum erträglich sei.
-
-Das von den USA verhänge Ölembargo und marode Infrastruktur verschärfen die Energiekrise in Kuba.
-
-Zwar hat die kubanische Regierung viele wirtschaftliche Reformen eingeleitet. Der sozialistische Staat öffnete sich stärker für private Unternehmen, neue Geschäfte entstanden. Doch bezahlen könnten die Waren vor allem Kubaner, die Geld von Verwandten aus dem Ausland erhalten, beobachtet der Kuba-Experte. Für Menschen, die in kubanischen Pesos verdienen, wird das Leben immer teurer.
-
-Hoffmann war im Februar und nun wieder im November im Land. Der Peso, berichtet er, hat gegenüber dem Euro innerhalb weniger Monate mehr als die Hälfte seines Wertes verloren. Löhne und Renten halten damit nicht Schritt. Wer keine Devisen wie Dollar oder Euro hat, komme kaum über die Runden.
-
-Die USA mischen sich in Lateinamerika so offen ein wie lange nicht mehr - was macht das mit der Region?
-
-Wie geht es weiter? Bisher haben immer schärfere US-Sanktionen keine politische Öffnung bewirkt. Hoffmann glaubt, dass Trump Kuba vor allem als politisches Symbol brechen wolle.
-
-Doch anders als in Venezuela, wo Trump im Januar Machthaber Nicolas Maduro außer Landes bringen ließ und wo nun dessen Vizepräsidentin im Sinne der USA regiert, wirkt Kubas Elite relativ geschlossen. Eine "weiche Landung", wie Experte Hoffmann eine Einigung mit Zugeständnissen von beiden Seiten nennt, sei nicht in Sicht.
-
-Die Leidtragenden sind Menschen wie Alexis. Um zusätzlich Geld zu verdienen, repariert er nebenbei Elektrogeräte. Und zu Hause wartet schon das nächste Problem: kein Wasser. "Manchmal ist die Zisterne leer, dann stehen wir ohne Wasser da."
-
-Und auch bei Davids Party feiert die Frage nach der Zukunft mit. David selbst will Kuba nicht verlassen. "Klar, viele meiner Freunde sind gegangen. Aber es sind auch viele tolle Leute geblieben, die Teil von etwas sein wollen." Draußen bleibt Havanna dunkel, drinnen wird weitergetanzt. Für ein paar Stunden schaffen sie sich einen Freiraum, wo es kaum noch welchen gibt.
-
-Diese und weitere Berichte sehen Sie im Weltspiegel - am Sonntag um 18:30 Uhr im Ersten.
-
-Dieses Thema im Programm: Das Erste | Weltspiegel | 15.11.2026 | 18:30 Uhr
+Dieses Thema im Programm: tagesschau.de | Börse 9:45: DAX-Start, Umsatz und Stellenabbau Industrie | 16.11.26 | 9:48 Uhr
 
 ----------------------------------------
 
-[2] ANGRIFFE AUF BEIDEN SEITEN: UKRAINE UND RUSSLAND MELDEN TOTE UND VERLETZTE
+[2] UN VERHANDELN REGELN ZUM EINSATZ AUTONOMER WAFFENSYSTEME
 
-Erneut hat Russland mehrere Ziele in der Ukraine angegriffen. Dabei wurden am Abend drei Menschen getötet, allein aus Saporischschja wurden zuvor 22 Verletzte gemeldet, darunter Kinder. Russland meldete einen Toten durch ukrainische Angriffe.
+Sie können selbstständig Ziele auswählen und Menschen töten: In Genf verhandeln heute 130 Staaten über internationale Regeln für autonome Waffensysteme - auch "Killerroboter" genannt.
 
-Bei einer Serie russischer Angriffe gegen ukrainische Städte sind mindestens drei Menschen getötet worden. Mehr als 30 Zivilisten wurden bei den Attacken nach offiziellen Angaben verwundet. Allein in Saporischschja wurden beim Einschlag einer Rakete mindestens 22 Menschen verletzt, wie der regionale Militärverwalter Mychajlo Semikin auf Telegram mitteilte. Unter den Verletzten waren demnach auch drei Kinder. Erst am Vortag war die Stadt Ziel russischer Angriffe.
+"Even wars have rules" - "sogar Kriege haben Regeln" steht in Großbuchstaben an einer gläsernen Fassade des Internationalen Roten Kreuzes (IKRK) in Genf. Eine Art Mahnung und Erinnerung an den Kerngedanken des humanitären Völkerrechts, das unter anderem Zivilisten vor Leid beschützen soll.
 
-Am Abend traf eine russische Angriffsdrohne ein Objekt der Energieversorgung in der Oblast Tschernihiw. Dabei starben nach offiziellen Angaben zwei Männer, ein dritter wurde verletzt. Nähere Angaben wurden nicht gemacht. In Pawlohrad in der Oblast Dnipropetrowsk wurde bei russischen Angriffen mit Drohnen und Artillerie ein Mann getötet, teilte Militärverwalter Olexander Hanscha auf Telegram mit. 13 Personen seien verletzt ins Krankenhaus gebracht worden.
+Auch, indem besonders grausame Waffen wie sogenannte Killerroboter verboten werden, erklärt Cordula Dröge, Direktorin der Abteilung Völkerrecht beim IKRK: "Wir müssen uns überlegen, wollen wir diese rote Linie überschreiten, dass Daten und Sensoren über Leben und Tod entscheiden. Unseres Erachtens sollte das nicht so sein", sagt sie. Wenn durch Autonomie und unvorhersehbare KI der Mensch vollkommen aus der Entscheidungsfindung herausgenommen würde, "dann haben wir Probleme, die wirklich bis jetzt ohne Beispiel gewesen sind".
 
-Unter bestimmten Bedingungen würde er diese Frage in einem Referendum zur Abstimmung stellen, so Selenskyj.
+Nicht zuletzt aufgrund der rasanten technischen Entwicklungen gehört Künstliche Intelligenz schon längst zum weltweiten Kriegsalltag - zu Lande, zu Wasser, in der Luft. Sie kommt beispielsweise bei Drohnenschwärmen, selbstfahrenden Militärfahrzeugen und Raketenabwehrsystemen zum Einsatz.
 
-Nach Angaben des Verteidigungsministeriums in Moskau griffen russische Truppen ein Frachtschiff im ukrainischen Hafen Tschornomorsk an. Das Schiff sei für die Versorgung des ukrainischen Militärs genutzt worden, zitierte die staatliche russische Nachrichtenagentur RIA eine Mitteilung des Ministeriums. Zudem sei Hafeninfrastruktur getroffen worden, die zum Entladen von Militärgütern diene.
+Die Chefs der größten US-amerikanischen KI-Firmen OpenAI und Anthropic warnen weiter vor ihrer eigenen Technologie.
 
-Auch die Ukraine setzte ihre Verteidigungsangriffe fort: Bei einem Angriff auf die südrussische Region Rostow ist nach Angaben Russlands in der Nacht eine Person getötet worden. Fünf weitere Menschen seien verletzt worden, teilte der Gouverneur der Region mit.
+In Genf diskutieren ab heute Vertreter aus fast 130 Staaten darüber, ob für autonome Waffensysteme verbindliche Regeln erarbeitet werden sollen. Auch Befürworter wie das IKRK wollen nicht alle Systeme gänzlich verbieten. Allerdings solche, die selbstständig gezielt Menschen auswählen und angreifen können.
 
-Bei einem weiteren Drohnenangriff in der Teilrepublik Tatarstan, rund 1.000 Kilometer östlich von Moskau, wurde in der Stadt Nischnekamsk eine Industrieanlage beschädigt, so Bürgermeister Radmir Beljajew. Zudem sei ein mehrstöckiges Wohngebäude getroffen worden. Dabei habe es drei verletzte Personen gegeben, berichteten staatliche Medien unter Verweis auf Angaben des regionalen Gesundheitsministeriums.
+Zum einen, weil die Entscheidung über Leben oder Tod eines anderen Menschen nicht an die Maschine abgegeben werden dürfe. Zum anderen, weil Künstliche Intelligenz nicht in der Lage sei, zwischen Zivilisten und Kriegsbeteiligten zu unterscheiden.
 
-Dieses Thema im Programm: tagesschau24 | Nachrichten | 15.11.2026 | 09:00 Uhr
+"Kriegsschauplätze sind dramatisch, chaotisch, Zielpersonen und Kombattanten sind sehr oft vermischt in den Städten. Und in solchen Situationen kann man sich sehr gut vorstellen, dass so ein KI-System - kombiniert auch noch mit einem komplexen Sensorsystem - sehr schnell überfordert werden kann", sagt Dröge. "Da sind Menschen einfach besser darin, darauf zu reagieren, auf dieses Unvorhersehbare."
+
+Der Podcast 11KM über die Frage, wer über Leben und Tod entscheidet - Mensch oder Maschine?
+
+Eine Einschätzung, die viele Staaten, Menschenrechtler, Bürgerinnen und Bürger teilen. Schon seit zehn Jahren beschäftigen sich Diplomatinnen und Diplomaten mit dem Thema. Im September hat sich eine Gruppe Regierungsexperten, für viele überraschend, tatsächlich auf mögliche Eckpunkte geeinigt.
+
+Von heute an geht es in Genf darum, ob daraus auch internationale Regeln erarbeitet werden sollen. Deutschland ist wie viele andere europäische Länder dafür. Für keine oder zumindest keine verbindlichen Regeln machen sich hingegen unter anderem die USA, Russland und Israel stark.
+
+Das mache die Sache nicht einfacher, sagt der deutsche Botschafter Albrecht von Wittke, der an den Verhandlungen teilnimmt. "Das beeinflusst nicht die Haltung der Bundesregierung, es wird mit Sicherheit die Verhandlungen beeinflussen und insofern die Möglichkeiten des Konferenzergebnisses, unter der Voraussetzung, dass wir immer nur im Konsens entscheiden können. Das heißt, am Ende müssen auch die USA zustimmen", sagt er. "Und es ist für uns wichtig, dass wichtige Technologieführer wie die USA am Ende dabei sind."
+
+Beobachtern zufolge ist bei den Gesprächen in Genf vieles und nichts drin.
+
+Dieses Thema im Programm: BR24 Radio | Nachrichten | 16.11.2026 | 06:36 Uhrtagesschau.de | Grenzen für "Killerroboter" - Verhandlungen in Genf | 16.11.2026 | 09:23 Uhr
 
 ----------------------------------------
 
-[3] HEILS KANDIDATUR FÜR SPD-VORSITZ AKTIVIERT KLINGBEILS FÜRSPRECHER
+[3]  SÖDER HÄLT STROMSTEUERSENKUNG DOCH NOCH FÜR MÖGLICH
 
-Der Erste wagt sich aus der Deckung: Ex-Arbeitsminister Heil will die SPD führen. Was macht Parteichef Klingbeil? Tritt er beim Parteitag im Januar erneut für den Vorsitz an? Nun sprachen sich weitere namhafte SPD-Politiker für ihn aus.
+Morgen ist die umstrittene Stromsteuer Thema im Koalitionsausschuss. CSU-Chef Söder glaubt noch an eine Einigung und nennt Möglichkeiten, die Milliarden für eine Senkung aufzutreiben. An ein Thema will er aber nicht ran.
 
-Kommt es beim SPD-Parteitag im Januar zu einer Kampfkandidatur um den Parteivorsitz? Ex-Arbeitsminister Hubertus Heil hat nun seine Bewerbung für den Chefposten offiziell eingereicht - und fordert damit den bisherigen Vorsitzenden Lars Klingbeil heraus.
+CSU-Chef Markus Söder hält eine Einigung der Koalition bei einer Senkung der Stromsteuer laut eigenen Worten weiter für möglich - allerdings will er dafür nicht die Ausweitung der Mütterrente antasten. "Wir wären ganz schön schlecht dran, wenn wir eine Glaubwürdigkeitslücke bei der Stromsteuer glauben zu schließen, indem man eine neue aufmacht, indem wir ein bereits beschlossenes Gesetz rückgängig machen", sagte Söder in der ZDF-Sendung "Berlin direkt".
 
-Ob der Vizekanzler beim Parteitag in Bremen noch einmal antritt, ist allerdings offen. Klingbeil hält sich bislang bedeckt. Aber namhafte Fürsprecher hat er - und weitere meldeten sich nun nach der Heil-Kandidatur zu Wort. "Lars Klingbeil macht das sehr gut", sagte Bundesumweltminister Carsten Schneider den Funke-Medien. "Ich vertraue ihm und würde mir wünschen, dass er weitermacht." Er wolle aber "niemanden drängen", fügte Schneider hinzu.
+"Da machen wir uns dann ehrlicherweise lächerlich. Deswegen kommt es für mich nicht in Betracht", sagte Bayerns Ministerpräsident. Söder mahnte: "Man muss sich halt mal zusammensetzen, man muss sich zusammenraufen und am Ende eine gemeinsame Lösung finden." Das sei für die Regierung eine "Glaubwürdigkeitsfrage".
 
-Auch SPD-Fraktionschef Matthias Miersch sprach sich dafür aus, dass Klingbeil Parteichef bleibt. "Ich halte Lars Klingbeil nach wie vor für einen guten Parteivorsitzenden", sagte er und warnte seine Partei vor einer "Sehnsucht, dass eine Person an die Spitze kommt und dann alles anders macht". Zuvor hatten sich schon Justizministerin Stefanie Hubig und Bundesbauministerin Verena Hubertz für eine Kandidatur ihres Parteikollegen Klingbeil ausgesprochen.
+Die Kritik ist massiv, nicht nur bei der Opposition.
 
-Ex-Arbeitsminister Heil hat als erster offiziell seine Kandidatur um den SPD-Vorsitz verkündet.
+Mit Blick auf die von Bundesfinanzminister Lars Klingbeil (SPD) geforderte Gegenfinanzierung für eine Senkung der Stromsteuer sagte Söder: "Ich glaube, dass das finanzierbar ist." Zahlreiche Haushaltspolitiker hätten bereits darauf verwiesen, "ihnen fallen allein aus dem Klima- und Technologietransferfonds drei bis vier Milliarden an Einsparmöglichkeiten nicht genutzter Mittel ein". Auch eine Übergewinnsteuer für Mineralölkonzerne halte er für möglich.
 
-Spätestens am 16. Dezember will der Parteivorstand seinen Personalvorschlag vorlegen. Dieser solle "breit in der Partei getragen" werden, betonte Generalsekretär Tim Klüssendorf.
+Union und SPD hatten sich zuletzt auf einen Haushalt einigen können, allerdings fehlt darin die unter anderem von Bundeskanzler Friedrich Merz (CDU) geforderte Senkung der Stromsteuer für alle. Die dafür nötigen rund 5,4 Milliarden Euro sind im Entwurf nicht enthalten.
 
-Klingbeil steht seit Ende 2021 an der SPD-Doppelspitze, zuletzt zusammen mit Bärbel Bas, die Mitte Oktober von allen Partei- und Regierungsämtern zurückgetreten war. Nun soll die gesamte Parteiführung im Januar neu gewählt werden. Klingbeil ist nicht unumstritten in der Partei, auf dem vergangenen Parteitag 2025 war er nur mit einem enttäuschenden Ergebnis von 64,9 Prozent wiedergewählt worden.
+Die Stromsteuer sollte schon 2025 für alle gesenkt werden, doch dann nahm die Bundesregierung die Bürger davon aus. Merz stellte das für 2027 in Aussicht.
 
-Aus seiner Sicht spreche alles für eine Veränderung. Bremens Bürgermeister Bovenschulte hingegen hält an Klingbeil fest.
+Die Regierungsspitze sucht Milliarden für eine Stromsteuersenkung. Kann sie sie noch finden?
 
-Auch jetzt formiert sich Widerstand gegen eine erneute Kandidatur Klingbeils. Die Jusos sprachen sich dagegen aus und auch mehrere SPD-Arbeitsgemeinschaften wollen offenbar verhindern, dass er wieder antritt. Das geht aus zwei Anträgen für den SPD-Parteitag im Januar hervor, die dem ARD-Hauptstadtstudio vorliegen.
+Die Ausweitung der Mütterrente wurde von der CSU in den schwarz-roten Koalitionsverhandlungen durchgesetzt und im Dezember 2025 vom Bundestag beschlossen. Die Finanzierung soll vollständig aus Steuermitteln erfolgen und kostet den Steuerzahler ab 2027 jährlich rund fünf Milliarden Euro.
 
-Den Kritikern geht es auch um eine Trennung von Partei- und Regierungsamt. Klingbeil und auch Bas haben beziehungsweise hatten neben dem SPD-Vorsitz auch Regierungsämter inne. SPD-Vorsitzendenkandidat Heil plädiert in seinem Bewerbungsschreiben klar für eine Trennung. An der Spitze einer Volkspartei zu stehen, verlange in diesen Zeiten hohen Einsatz und volle Aufmerksamkeit. "Deshalb will ich mich mit ganzer Kraft einem Parteivorsitz widmen", betont der 54-Jährige.
+Der CDU-Haushaltspolitiker Mathias Middelberg hatte am Donnerstag eine Umschichtung der Mittel für die Mütterrente zugunsten der Stromsteuersenkung nicht ausgeschlossen. "Wir haben einen Koalitionsausschuss in der kommenden Woche, der kann alle Fragen beraten." Dort könnte das Thema erneut auf den Tisch kommen.
 
-Bislang kursieren nur Namen, handfeste Bewerbungen für den SPD-Chefposten sind noch nicht eingegangen.
+Am Dienstag wollen sich die Spitzen von Union und SPD im Koalitionsausschuss nochmals mit der Frage auseinandersetzen, ob die Stromsteuer doch noch für alle und nicht nur für Industrie und Landwirtschaft gesenkt werden kann.
 
-Offen lässt Heil, mit welcher Frau er sich den Vorsitz teilen möchte. Zwar erlaubt die Satzung auch, dass ein Mann allein die SPD führt - oder eine Frau. Als Schlüsselfigur gilt dabei die Ministerpräsidentin von Mecklenburg-Vorpommern, Manuela Schwesig. Sie hat sich bislang aber ebenfalls bedeckt gehalten, was ihre Ambitionen in der Partei angeht. Gut möglich, dass es nach der erweiterten Präsidiumssitzung am 19. November, zu der auch Schwesig erwartet wird, mehr Klarheit gibt.
-
-Derweil wirbt Heil nun um Unterstützer. Bisher hat er keine bekannten Fürsprecher. Der Niedersachse Heil gilt als eine Art Dauer-Rivale des Niedersachsen Klingbeil, spätestens seit er 2025 im SPD-Teil des Kabinetts keinen Posten bekam und nun einfacher Abgeordneter ist. Vorher war Heil sieben Jahre Arbeits- und Sozialminister. Unter ihm waren die Sozialleistungen deutlich ausgeweitet und das Hartz-IV-System zum Bürgergeld umgewandelt worden. Die Reform hat Schwarz-Rot inzwischen wieder verändert und die Grundsicherung eingeführt.
-
-Heils Gegner argumentieren, er habe in den vergangenen Jahren viele Chancen gehabt, den Weg der SPD zu gestalten - und stehe nicht für einen Kurswechsel.
-
-Dieses Thema im Programm: Das Erste | tagesthemen | 14.11.2026 | 22:15 UhrNDRInfo | Nachrichten | 15.11.2026 | 8:20 Uhe
+Dieses Thema im Programm: RBB24 Inforadio | Nachrichten | 16.11.2026 | 06:21 Uhr
 
 ----------------------------------------
 
 
 >>> SPORT (SPORTSCHAU) <<<
 
-[1] NACH RONALDO-RÜCKTRITT: PORTUGAL GEHT GEGEN DÄNEMARK UNTER
+[1] NATIONS LEAGUE: FURIOSES ENGLAND STOPPT SPANIENS REKORDSERIE
 
-Die portugiesische Fußball-Nationalmannschaft hat im ersten Spiel nach dem Rücktritt von Cristiano Ronaldo eine deftige Niederlage kassiert.
+Angeführt von Stürmerstar Harry Kane hat England die beeindruckende Serie Spaniens beendet und dem Weltmeister die erste Niederlage nach 43 Spielen zugefügt. In Madrid gewann das Team von Trainer Thomas Tuchel eine intensive und hitzige Partie mit 3:2 (1:0) und qualifizierte sich als Gruppenerster fürs Viertelfinale der Nations League.
 
-Das Team von Trainer Jorge Jesus unterlag in der Nations League nach einer desaströsen Leistung 1:4 (0:1) gegen Dänemark.
+Superstar Kane verwandelte einen Foulelfmeter (45. Minute), später erhöhten Ezri Konsa (53.) und Ben White (57.). Nach einer Roten Karte gegen Elliot Anderson (63.) wegen Notbremse verwandelte Mikel Oyarzabal (65.) den fälligen Foulelfmeter. Nico Williams (75.) traf ebenfalls.
 
-Pierre-Emile Höjbjerg (43. Minute) mit einem verwandelten Handelfmeter, Doppelpacker Rasmus Höjlund (50./57.) und Joachim Andersen (75.) fügten Portugal die erste Niederlage im laufenden Wettbewerb zu und verhinderten den vorzeitigen Gruppensieg des Heimteams. Bernardo Silva (90.+3) verkürzte spät.
+"Das war eine brillante Leistung, ein absolut verdienter Sieg. Insgesamt waren wir die bessere Mannschaft. Eine fantastische Vorstellung von Anfang bis Ende. Wir haben alles in die Waagschale geworfen, waren mutig. Was den Teamgeist, die Energie und auch die spielerische Qualität angeht - das war auf höchstem Niveau", sagte Tuchel. Und Mittelfeldchef Declan Rice meinte: "Wir wussten, dass wir sie diesmal schlagen würden. Die ersten zehn Minuten waren das Beste, was wir bisher gespielt haben. Das war ein großer Sieg."
 
-Vor dem Spiel hatten sich Spieler und Fans vor Ronaldo verneigt. Seine ehemaligen Teamkollegen trugen beim Gang auf den Rasen allesamt das Trikot mit seinem Namen und der legendären 7 auf dem Rücken, die Anhänger in Braga präsentierten auf der Tribüne ein riesiges Banner mit dem Schriftzug "Obrigado, Capi7ao" (Danke, Kapitän). Nach der siebten Spielminute brach großer Applaus im Stadion aus.
+Spanien hatte nach regulärer Spielzeit zuletzt im März 2024 gegen Kolumbien (0:1) verloren. Die Niederlage im Finale der Nations League 2025 gegen Portugal gab es im Elfmeterschießen - offiziell wird dieses Spiel als Unentschieden gewertet.
 
-"Es war ein Abend zu Ehren von Cris", sagte Verteidiger Ruben Dias: "Wir wollten diesen Sieg ganz besonders Cristiano Ronaldo und dann allen portugiesischen Fans widmen. Deshalb tut es weh, zu Hause zu verlieren."
+Bereits beim turbulenten Hinspiel in London hatte England den Spaniern alles abverlangt, dort jedoch eine Führung verspielt. Kane vergab damals beim Spielstand von 2:1 einen Elfmeter, am Ende holten die Spanier noch ein 3:2.
 
-Altstar Ronaldo, der nicht vor Ort war, hatte in der vergangenen Woche nach 146 Toren in 234 Länderspielen seinen Abschied verkündet. "Der Tag ist gekommen, an dem ich das Trikot mit der Nummer 7 unserer Nationalmannschaft zurückgeben muss. Ich habe es nie als ausschließlich meins empfunden", sagte Ronaldo in einer Videobotschaft: "Es war keine einfache Entscheidung, denn es gibt Entscheidungen, die man nicht nur mit dem Kopf trifft. Man trifft sie auch mit dem Herzen."
+Beim Wiedersehen war England von Beginn an die aktivere Mannschaft, ging aber erst kurz vor der Pause in Führung. Nach einem starken Pass von Anderson wurde Kane im Strafraum von Pau Cubarsi gefoult. Den fälligen Strafstoß verwandelte der Bayern-Star souverän.
 
-Seinen größten Erfolg mit Portugal feierte CR7 mit dem Europameistertitel in Frankreich im Jahr 2016 sowie den Triumphen in der Nations League 2019 und 2025.
+Spaniens Trainer Luis de la Fuente brachte nach der Pause gleich drei neue Spieler, um mehr Kontrolle zu erlangen. Doch England blieb hartnäckig und eiskalt vor dem Tor. Konsa kam nach einer Ecke völlig frei zum Kopfball, Spaniens Defensive wirkte dabei orientierungslos.
 
-Das Spiel selbst blieb über weite Strecken der ersten Halbzeit ausgeglichen und bot wenig Highlights. Erst kurz vor dem Pausenpfiff nahm die Begegnung Fahrt auf. Nach einem zu Recht aberkannten Abseitstreffer von Rasmus Höjlund bekam Dänemark kurz darauf einen Handelfmeter zugesprochen, den Kapitän Pierre-Emile Höjbjerg verwandelte (43.).
+Dann legten Kane und Jude Bellingham White den nächsten Treffer auf. Als Anderson vom Platz musste, kam bei den Spaniern nochmals Hoffnung auf. Tuchels Team brachte den Sieg aber dank des starken Torhüters James Trafford über die Zeit.
 
-Fünf Minuten nach Wiederanpfiff baute Höjlund die Führung per Direktabnahme gegen schwach verteidigende Gastgeber aus (50.). Für die Vorentscheidung sorgte erneut der 23 Jahre alte Stürmer, der Portugals Innenverteidigung düpierte und trocken abschloss (57.). Joachim Andersen legte per Kopf nach einer Freistoßhereingabe nach (75.). Den Ehrentreffer für die Gastgeber erzielte Bernardo Silva in der Nachspielzeit (90.+2.).
+Auch die englische Presse war nach dem Triumph gegen die scheinbar unschlagbaren Spanier hin und weg. "60 Minuten Perfektion, 30 Minuten Chaos - ein England-Sieg für die Ewigkeit", titelte "BBC" und lobte Tuchel für seine Herangehensweise und Entscheidungen im Spiel. Nach dem Ausscheiden bei der WM im Viertelfinale gegen Argentinien hatte der deutsche Trainer unter Druck gestanden, jetzt wird er in England gefeiert.
 
-Portugal hat am letzten Spieltag gegen Wales den Gruppensieg weiter in der eigenen Hand. Dänemark kämpft parallel im direkten Duell mit Norwegen um den Einzug in das Viertelfinale.
+In einem Kommentar der "Daily Mail" hieß es: "England liefert eine spektakuläre Leistung ab: Die 'Three Lions' entreißen Weltmeister Spanien ihre Unbesiegbarkeit und liefern Thomas Tuchel den Beweis, dass sein Coaching funktioniert." Der Erfolg brachte den Engländern zudem den Sieg in Gruppe C ein, aufgrund der Punktgleichheit und des ausgeglichenen direkten Vergleichs zogen sie mit dem besseren Torverhältnis an Spanien vorbei.
 
-Nach der deutlichen Niederlage der Portugiesen muss auch Deutschland weiter um den Klassenerhalt zittern: Die Mannschaft von Bundestrainer Jürgen Klopp, die am Montag (20.45 Uhr) in Berlin gegen den Erzrivalen Niederlande um das Viertelfinale spielt, kann weiter zu den beiden schlechtesten Gruppendritten gehören, die um ihre Ligazugehörigkeit in den Playoffs kämpfen müssen.
-
-Dieses Thema im Programm: sportschau.de | Dänemark demontiert Portugal | 14.11.2026 | 23:42 Uhr
+Dieses Thema im Programm: sportschau.de | England beendet Spaniens Rekordserie | 18.11.2026 | 23:18 Uhr
 
 ----------------------------------------
 
-[2] NIEDERLANDE OHNE KAPITÄN DE JONG GEGEN DEUTSCHLAND
+[2] NATIONS LEAGUE: BELGIEN VERPASST ITALIEN HERBEN RÜCKSCHLAG 
 
-Die Niederlande müssen im Nations-League-Duell mit Deutschland auf Kapitän Frenkie de Jong verzichten.
+Italiens Nationalteam wähnte sich in der Nations League im Aufwind, führte auch in Belgien und brachte sich dann innerhalb von elf Minuten um den Lohn.
 
-Der Mittelfeldstratege vom FC Barcelona fällt für die Partie in Berlin am Montag (20.45 Uhr) wegen Rückenproblemen aus. Für das "Oranje"-Team bedeutet das eine deutliche Schwächung.
+Nur drei Tage nach dem Statementsieg gegen Frankreich sind Italiens Fußballer in der Nations League zurück in der harten Realität. Die "Squadra Azzurra" verlor am letzten Spieltag der Gruppenphase 1:4 (1:3) bei Gastgeber Belgien und verpasste das Viertelfinale. Vor dem Duell in Brüssel hatten die Italiener noch Tabellenplatz eins belegt.
 
-Der 29-Jährige zeigte bei der 7:0-Gala der "Elftal" gegen Griechenland eine ganz starke Leistung und war 45 Minuten lang Taktgeber der Niederländer. In der Halbzeit musste de Jong dann bereits angeschlagen in der Kabine bleiben.
+Italien ging durch Youngster Pio Esposito (11. Minute) früh in Führung - der 21-Jährige erzielte sein zehntes Tor im 15. Länderspieleinsatz. Doch das Spiel im Stadion Roi Baudouin kippte schnell. Maxim de Cuyper (15.), Nathan Ngoy (22.), Jeremy Doku (26.) und Diego Moreira (80.) trafen für Belgien, das auch deutlicher hätte gewinnen können. Esposito (90.+1) verschoss einen Handelfmeter in der Nachspielzeit.
 
-Bondscoach Xavi Hernandez muss bereits auf den eigentlichen Kapitän Virgil van Dijk und Stürmer Brian Brobbey verzichten. Das Duo fehlt ebenfalls angeschlagen.
+Am Donnerstag hatte das italienische Team von Trainer Roberto Mancini Frankreich in Mailand bezwungen (3:1) und für Aufbruchstimmung gesorgt, auch in den Gazetten.
 
-Dennoch zeigten die Niederländer gegen Griechenland eine bärenstarke Leistung und gehen als Tabellenführer in den letzten Spieltag.
+Nun aber fielen die Italiener (10 Punkte), die bei den Weltmeisterschaften 2018, 2022 und 2026 nicht dabei waren, durch die Niederlage in ihrer Nations-League-Gruppe 1 auf Rang drei hinter Frankreich (13) und Belgien (12) zurück.
 
-Im Hinspiel hatte es zwischen der DFB-Elf und der "Elftal" in Amsterdam bei der Premiere von Bundestrainer Jürgen Klopp ein 1:1 gegeben.
+Denn die Franzosen schlugen die Türkei im Parallelspiel mit 2:1 (0:0). Frankreich erledigte seine Pflichtaufgabe relativ glanzlos und profitierte zunächst von einem Eigentor von Emirhan Topcu (49.).
 
-Joey Veerman nimmt nicht nur beim BVB eine tragende Rolle ein. Auch bei der Nationalmannschaft der Niederlande glänzt er.
+In der Schlussphase traf Junior Kroupi (80.) erstmals für die "Équipe Tricolore", bevor Abdülkerim Bardakci (90.) per Kopf verkürzte. Die Türkei beendete die enttäuschende Gruppenphase damit ohne Punkt und steigt in die Liga B ab.
 
-Dieses Thema im Programm: sportschau.de | De Jong fällt gegen Deutschland aus | 14.11.2026 | 19:41 Uhr
+Dieses Thema im Programm: sportschau.de | Belgien verpasst Italien herben Rückschlag | 18.11.2026 | 23:46 Uhr
 
 ----------------------------------------
 
-[3] "ORANJE"-HELD REIJNDERS WAR MIT 19 NOCH ALDI-KASSIERER
+[3] KLOPP SPRICHT ÜBER DAS "ENDSPIEL DES JAHRES"
 
-Beim Gruppenfinale in der Nations League am Montag (20.30 Uhr, live im Ersten, im Livestream und Live-Ticker bei sportschau.de) braucht Deutschland einen Sieg gegen die Niederlande, um ins Viertelfinale einzuziehen. Die "Elftal" feiert gerade Spätstarter Tijjani Reijnders. Dessen Weg in die Weltklasse gleicht einem Märchen.
+Wie weit ist das deutsche Team nach drei Monaten Jürgen Klopp? Der Bundestrainer zeigt sich begeistert - und will die Qualität gegen die Niederlande "sichtbar machen".
 
-Als der Mittelfeldstar des saudischen Milliardärsklubs Al-Qadsiah FC bei der "Oranje"-Party in Amsterdam gegen Griechenland bereits zum dritten Mal in einer Halbzeit getroffen hatte, wirkte er beim Jubeln fast ein wenig ungläubig. In der 12., 18. und 33. Minute hatte er beim 7:0 gegen den zuvor in der Gruppe 2 ungeschlagenen Gegner einen Hattrick erzielt, er schaute auf seine rechte Hand und spreizte drei Finger ab, so als müsse er sich die ganze Sache noch mal bildlich vor Augen führen.
+Es ist der erste Härtetest mit Endspielcharakter für die deutsche Fußball-Nationalmannschaft unter Jürgen Klopp: Gegen die Niederlande braucht es am Montag um 20.45 Uhr (live im Ersten, Livestream, Live-Audioreportage und Live-Ticker auf sportschau.de) einen Sieg, um sicher ins Viertelfinale der Nations League einzuziehen.
 
-Deutschland hat in der Nations League das Weiterkommen wieder in der eigenen Hand. Grund dafür ist ein souveräner Sieg des Teams von Jürgen Klopp in Serbien.
+Als "Endspiel des Jahres" bezeichnete Bundestrainer Klopp die Partie im exklusiven Sportschau-Interview. Es ist das 50. Duell mit dem Erzrivalen und 71.000 Zuschauer werden im ausverkauften Berliner Olympiastadion für einen beeindruckenden Rahmen sorgen. "Es geht darum, diesen Neustart, den wir intern als super positiv empfinden, zu untermauern, ihn sichtbar zu machen. Wir wollen die für uns sichtbare Qualität der Mannschaft sichtbar machen."
 
-Es war ein märchenhafter Abend für die Mannschaft von Bondscoach Xavi, der die Niederlande nach der vermasselten Weltmeisterschaft übernommen hatte. Die niederländische Presse feiert das ohne Kapitän Virgil van Dijk (er fehlt auch am Montag gegen Deutschland) angetretene Team mit Schlagzeilen wie "Monstersieg", "Oranje-Show", "Augenweide". Dazu hebt "De Telegraaf" Xavis "genialen Schachzug" heraus, Frenkie de Jong und den Dortmunder Joey Veerman als spielstarkes Duo im Mittelfeld hinter dem zentral-offensiven Reijnders aufzubieten.
+Ist das Team unter Klopp nach den zahlreichen Nominierungen und Experimenten schon so weit, gegen eine internationale Topnation unter Ergebnisdruck zu liefern? Die Niederlande kommen mit einem spektakulären 7:0-Sieg gegen Griechenland und als Tabellenführer nach Berlin.
 
-Tijjani Reijnders jubelt nach seinem dritten Tor für die Niederlande gegen Griechenland in der Nations League
+Klopp betont beides: den langfristigen Plan und den kurzfristigen Siegeswillen. "Das Hauptziel ist, den deutschen Fußball weiterzuentwickeln. Aber wir machen das, um Spiele zu gewinnen und die Leute zu unterhalten. Wir hoffen, dass wir das morgen hinkriegen."
 
-Dass der 28-jährige eine derart herausragende Rolle in der "Elftal" einnimmt, war lange überhaupt nicht abzusehen. Als Reijnders 19 war, hatte er noch nicht mal einen Profivertrag und musste sich auf Druck seiner Mutter einen Nebenjob suchen. Der in Zwolle geborene Spielmacher erzählte bei "The Players' Tribune": "Meine Mama sagte damals, ich müsse mir einen Job suchen, sie hatte auch schon ein Bewerbungsformular bei Aldi für mich ausgefüllt. Ich tat mein Bestes, um die Stelle nicht zu bekommen, aber dann kam ziemlich schnell der Anruf vom Filialleiter, dass ich eingestellt werden soll."
+Das aktuell versammelte Personal bezeichnete er als "eine gute Mischung" und als "Basis für all das, was wir in Zukunft auf die Beine stellen wollen". Diese Zukunft könnte eine große Zeitspanne umfassen, wie ein Blick auf die Jahrgänge der Spieler zeigt. "Mit 25 Jahren ist man bei uns beim Spiel Alt gegen Jung alt", sagte Klopp.
 
-Parallel dazu hatte Reijnders beim Eredivisie-Klub PEC Zwolle einen Fördervertrag für Nachwuchsspieler, saß aber selbst bei der U19 regelmäßig nur auf der Ersatzbank. Sein Vater Martin Reijnders, früher selbst Profi in Den Bosch und Zwolle, beobachtete ihn im Training und soll zu seinem Sohn gesagt haben: "Ich würde dich auch nicht aufstellen. Wenn du so weitertrainierst, kannst du in der 4. Liga für meine Mannschaft spielen." Offenbar war das ein Weckruf für den hochtalentierten Techniker, der sich zunächst aber nie so richtig quälen konnte.
+Auffällig ist, dass technisch versierte Spieler unter Klopp regelmäßig glänzen. So war es bei den ersten Spielen des Freiburgers Derry Scherhant, bei Brajan Grudas Debüt gegen Serbien (3:1) und auch bei Florian Wirtz. Auf die Frage nach seinem Rezept für den Umgang mit solchen hoch veranlagten jungen Spielern sagte Klopp: "Wir reden viel, wir nehmen die Jungs wahr."
 
-Als er dann regelmäßiger zu Einsätzen kam, zeigte 2017 AZ Alkmaar Interesse und wollte ihm eine Chance geben. Doch Reijnders hatte ein Problem, wie er später mal erzählte: "Ich wurde zu einem ihrer Spiele eingeladen, um den Vertrag zu unterschreiben. Aber ich hatte eine Schicht bei Aldi und fand niemanden, der mich vertreten konnte. Ich habe dann meinen Chef angerufen und ihm gesagt, dass ich kündigen muss, weil ich einen neuen Job habe."
+Entwicklung komme dadurch, dass man "die richtigen Hinweise bekommt und nicht unnötigerweise negative". Er überlege nicht, was ein Spieler nicht könne, sondern, was er alles könne. "Und dann fange ich an, darüber nachzudenken, dass das noch mehr wird."
 
-Aber auch in Alkmaar kam Reijnders nur schwer in die Gänge, der Meister von 2009 unter Louis van Gaal lieh ihn im Winter zu RKC Waalwijk aus. Erst im zweiten Anlauf ab Sommer 2020 startete er in Alkmaar durch und wechselte im Sommer 2023 zur AC Mailand. Ab dann, am 7. September 2023, wurde auch sein Nationalteam auf ihn aufmerksam, Reijnders debütierte in der EM-Qualifikation gegen Griechenland (3:0) und steht mittlerweile bei 40 Länderspielen mit elf Treffern.
+Zudem wolle er den Spielern helfen, eine Persönlichkeit zu entwickeln. Er habe nur ein paar Trainingstage, aber "ich darf übers Jahr ja trotzdem mit den Spielern sprechen. Das werde ich tun und das haben wir getan", sagte Klopp.
 
-Seine große Stärke neben der brillanten Schusstechnik, die die Griechen schmerzhaft erleben mussten, ist sein Gefühl für den Raum: Reijnders bewegt sich instinktiv in die gefährlichen Zonen, er ist kein reiner Abschlussspieler, sondern harmoniert auch glänzend mit seinen Nebenleuten Cody Gakpo, Donyell Malen und Crysencio Summerville.
+Grund zum Optimismus bietet die Personalsituation: Alle Spieler sind fit und konnten das Abschlusstraining problemlos bestreiten. Auf den 17 Jahre jungen Wael Mohya verzichtet Klopp erneut. Bei dem Talent von Borussia Mönchengladbach ging es um eine gegenseitiges Kennenlernen und darum, Erfahrungswerte zu sammeln.
 
-Tijjani Reijnders spielt einen Ball im Spiel gegen Griechenland
+Auch ein Remis gegen die Niederlande könnte für den Einzug ins Viertelfinale der Nations League reichen, dafür bräuchte es aber eine Niederlage Griechenlands im Parallelspiel gegen Serbien. Bei einer Niederlage könnte Deutschland sogar noch der Abstieg drohen.
 
-Zwei Jahre spielte Reijnders bei Milan in der Serie A, dann zahlte Manchester City 54,9 Millionen Euro für ihn. Doch nach nur einem Jahr folgte der nächste spektakuläre Transfer: Reijnders ging für 61 Millionen Euro in die saudische Pro League, wo er angeblich für einen Fünfjahresvertrag 100 Millionen Euro netto erhalten soll. Dass er angesichts dieser Zahlem noch mal als Kassierer zu Aldi zurückkehrt, ist unwahrscheinlich, dass er es aber am Montag gegen Deutschland klingeln lässt, schon eher.
+Das wäre der Fall, wenn Norwegen am Dienstag gegen Dänemark gewinnt. Dann wäre Deutschland einer der beiden schlechtesten Gruppendritten und müsste im März 2027 in Playoffs gegen einen Tabellenzweiten der Liga B gegen den Abstieg spielen.
 
-Dieses Thema im Programm: sportschau.de | Wie Reijnders mit Verspätung weltklasse wurde | 14.11.2026 | 15:09 Uhr
+Klopps Kommentar dazu auf der Pressekonferenz am Sonntag: "Ich blende das nicht aus, ich beschäftige mich nur nicht damit." Optimismus ist eben eines der wichtigsten Werkzeuge des neuen Bundestrainers.
+
+Am 24. September startet die neue Saison der Nations League. Alles zum Modus, den deutschen Spielen und den TV-Übertragungen gibt es hier.
+
+Dieses Thema im Programm: sportschau.de | Jürgen Klopp - "Es geht darum den Neustart sichtbar zu machen" | 15.11.2026 | 20:08
 
 ----------------------------------------
 
 
 >>> TECH (WIRED) <<<
 
-[1] IT’S GETTING TOO DRY FOR EVEN CACTUSES TO SURVIVE
+[1] BEST APPLE 3-IN-1 TRAVEL CHARGERS (2026): ANKER, ESR, SATECHI
 
-The humble cactus is an icon of resiliency. Stuck in a desert with little rain and abundant searing sun, these plants don’t just survive, they thrive—and in turn provide habitat for owls and other birds, and flowers for bats and other pollinators.
+A three-in-one travel charger that can power up my iPhone, Apple Watch, and AirPods is one of the first items I pack for any trip. I’ve tried out plenty of options, but these are my favorite chargers for keeping the holy trinity of Apple gadgets going strong while on vacation or a work trip.
 
-Yet cacti are in serious trouble, due to habitat loss and the poaching of species for private collections. Now we can add worsening droughts to those woes, according to a new study in the journal Nature. Researchers modeled a future of not just relentlessly rising temperatures but also the attendant dry spells, finding that the majority of nearly 1,000 cactus species will lose habitat as the climate radically changes. More than a quarter of those species could lose at least 80 percent of that habitat by 2100.
+Many of these picks will also happily charge Qi2 Android phones and other devices that support wireless charging. Since space is at a premium when traveling, they all feature clever compact designs. I’ve also included two-in-one options if you want to travel even lighter.
 
-“The public perception of cacti tends to be of these organisms that are extremely drought-adapted and are just resilient, can handle anything that you throw at them,” said Michiel Pillet, a conservation ecologist at the University of South Florida and lead author of the paper. “In reality, cacti are absolutely amazing—and they’re my favorite plant group, clearly—but they’re not that different from other plants.”
+If you want something for your desk or nightstand when you’re back home, check out our Best Apple 3-in-1 Wireless Charging Stations and Best Wireless Chargers guides, and for power on the go, read our Best Travel Adapters, Best Power Banks, and Best MagSafe Power Banks guides.
 
-That means cacti need water. In the deserts of the southwestern United States, for example, they rely on seasonal monsoon rains, which tend to make July or August the wettest month in a given year. Because this is still a desert, cacti have evolved a range of adaptations to survive, like a waxy skin that helps them retain that bounty of rainwater. “Just like other plants, they evolved under conditions that they’re used to,” Pillet said. “When you take them outside of those conditions, they might not be able to handle that.”
+Updated November 2026: I added chargers from Peak Design and Mophie, removed some older devices, and updated links and prices.
 
-Think of these cacti like sick hospital patients. Someone might be admitted for heat-related illness, as their body struggles to cool itself. At the same time, though, they might be dehydrated. Cacti are dealing with the same stresses, as global temperatures rise and dry spells intensify. “When we consider drought conditions, then it turns out that they’re much, much sicker than we previously thought,” Pillet said. “These results really do change the outlook of cacti, and most likely plants more broadly under climate change.”
+A classy look elevates this folding three-in-one stand charger, which accommodates your phone in portrait or landscape orientation. It is Qi2 25W-certified, so it can deliver 25 watts to supported phones (15 watts to others). There’s a fold-out Apple Watch charger on the back to fast-charge Apple Watch (Series 7 and above), and a spot for earbuds on the base. It feels sturdy and secure, with rubber grips to prevent sliding, and supports StandBy mode. It’s relatively compact for travel, but also looks good enough to be your permanent bedside charger. Not only does the whole thing fold flat, but it also comes with UK and EU adapters for the included power brick.
 
-Instead of simply modeling these threats going forward, the researchers turned to the citizen science platform iNaturalist, where people upload photos of plants and animals. This provided 650,000 observations of cacti in the wild, helping paint a clearer picture of how species might be faring.
+Satechi’s latest model is plastic with a soft-touch finish; the original version ($130) was more luxurious, with vegan leather and aluminum. The original is still a great option if you don’t mind the 15-watt charging rate.
 
-Really, this isn’t a simple matter of cacti withering and dying. Sure, if relentless droughts take hold, individuals can’t get water. But the stress could be temporally complex, too. “Now we can move towards questions of: What life stages are most affected?” Pillet said. “Is it the adults or is it the seedlings? But also, which processes? Is it reduced growth or is it increased mortality? Or are plants failing to flower?”
+Packing space is often limited when you travel, so it’s very handy that Anker’s MagGo folds down to a slim, compact form. Despite the small size, it packs plenty of power, charging your iPhone or Qi2-certified phone at up to 15 watts on a magnetic pad that you can adjust to your preferred angle. A second pad behind the main one charges AirPods or other wireless earbuds, and there’s a fold-out Apple Watch charger.
 
-Put another way: Cactus species could be suffering from sublethal effects of drought—the lack of water may not kill them immediately but still interfere with their reproduction. And without procreation, populations shrink. In the Sonoran Desert, for example, the iconic, towering saguaro is reproducing less frequently during prolonged droughts, because they’re not always flowering.
+It can feel a little crowded when fully loaded, but I appreciate the space-saving design when packing it in a bag. While you can find faster options with chargers that support Qi2 25W, they’re not widely available and make little difference if you charge your devices overnight.
 
-Part of the problem is that while desert ecosystems may look tough and hardened overall, they’re in fact quite fragile. “They don’t recover quickly once they are disturbed, or once they are degraded, just because there’s so little water and such higher temperatures,” said Marcos Robles, the Nature Conservancy’s lead scientist in Arizona, who wasn’t involved in the research. “It takes multiple decades to recover, and in some cases, they don’t recover.”
+This cute, compact charging kit comes in a soft faux-leather bag. Unzip it to find a folding charger with a tiltable pad for your iPhone, a pad underneath for your AirPods, and a pop-up Apple Watch charger to the side. It comes with a 5-foot USB-C cable and a power adapter with fold-out prongs and three plug attachments (EU, UK, and AU). Everything is color-matched in black or cream, unless you opt for the special edition in orange and teal.
 
-Now drought is compounding with other stressors, like habitat loss and poaching, to drive cactus species to the brink. On the opposite end of the spectrum, too much water from rising seas has led to the local extinction of the Key Largo tree cactus in Florida. Higher nighttime temperatures are a problem, too, since that’s when saguaro and other cacti respire to avoid water loss. “If the nighttime temperatures are very high, they can’t do it,” said Rod Haenni, president of the nonprofit Cactus and Succulent Society of America, who wasn’t involved in the paper. “Then if you water on top of that, the plants just rot.”
+ESR’s folding charger delivers 25-watt charging for Qi2 25W-supported phones, fast Apple Watch charging, and an effective cooling fan. This three-in-one model folds away neatly and has a strong magnetic pad that supports portrait or landscape orientation. You can also adjust the angles for the phone and watch chargers. The fan is relatively quiet, but I prefer total silence at night, so I was pleased to find a button that turns it off for when you’re trying to sleep.
 
-Still, some cactus species may persist by picking up and leaving. Well, not individual plants, but populations could creep into areas with climates that more closely match what the species adapted to all those millennia ago. A similar thing is happening in the Arctic, actually, where some plants are marching farther north in “search” of increasingly agreeable weather and more water.
+The plastic construction doesn’t feel premium, but it is lightweight, and the rubber feet do a decent job of preventing it from sliding around. It is more expensive than ESR’s previous release, the HaloLock, and the faster charging probably isn’t worth it if you’re primarily charging overnight, but overall it is a decent travel charger with a speed boost.
 
-In the end, the purpose of this sort of research is to better inform where conservation professionals might concentrate their efforts. They can’t stop droughts, of course, but they can evacuate enough cacti to establish populations in botanical gardens, where they can be cared for as the climate grows more unrecognizable to even the hardiest desert vegetation. Species can even be reintroduced to the wild in some cases, so long as drought and high temperatures don’t remain a threat to a population.
+With a clean white finish, an elegant folding design, and warm ambient light, this Journey charger is a delightful travel companion. Ordinarily, I hate superfluous lights on a charger, but this isn’t a pointless LED; it’s a gentle glow from behind the Apple Watch shelf on the back, with a touch-sensitive power button on the front. It’s nice to have when you wake up in an unfamiliar, pitch-dark hotel room. You can fold it out to stand mode to charge all three Apple gadgets at once, or lay it flat if you just need to charge your iPhone and AirPods.
 
-Governments, too, need to protect the lands where cacti are threatened, Haenni said. This new research, he added, could make that happen. “Hopefully, it’ll wake people up,” Haenni said. “But the problem is that a lot of the governments involved are indifferent to this. There are a lot of people in the countries who are not indifferent, but they’re not running the governments.”
+While this folding charger isn’t quite as compact as Anker’s below, I love that you can use the iPhone charging pad when it’s folded up. The Apple Watch charger can also pop up for Nightstand mode. It’s finished in a soft faux leather and folds flat for easy carrying in the included pouch. You get a cable to plug into the USB-C port, but no power supply, so you’ll need to provide a 30-watt power adapter. There is also a two-in-one version ($80) for just your iPhone and Apple Watch.
 
-This story originally appeared on Grist and is part of the Climate Desk collaboration.
+If you are really pressed for space, this is the smallest three-in-one charger you can get. It folds up to resemble a macaron and is easy to stow, but it’s not a power bank, so you do still need a cable and wall charger (both supplied). Unfolded, you get a magnetic pad to charge your iPhone at up to 15 watts, a middle pad for your AirPods, and an Apple Watch charger on the right. The design is lovely to handle, with a soft-touch finish and a durable silicone strap. I still prefer stand-style chargers because they allow you to angle your iPhone and use StandBy mode, but the MagGo UFO lets you travel as light as possible.
 
-In your inbox: Inside WIRED’s newsroom with Katie Drummond
+More stylish and compact than the other options listed here, this two-in-one charger from Peak Design folds flat for easy stowing. Open it to reveal a base with a channel for a USB-C cable and a Qi2 25W charging pad, plus a second swiveling Qi2 25W pad on top. You can charge two phones, or a phone and wireless earbuds. There’s also a USB-C port on the side, so you can plug in a third device, or a watch or ring charger. It comes with a cable, but you’ll need a power adapter (45-watt minimum). I like Peak Design’s 65W Dual Slim Charger ($65), but you don’t have to spend that much.
 
-They war-gamed dimming the sun—it went worse than you think
+This genius petite gadget is perfect for folks who love to travel light. It’s an Apple Watch charger with a handy carabiner you can clip to your key ring or bag strap. Rotate the magnetic pad, and a USB-C jack pops out. Just to be clear, this is not a power bank—you must plug it into your MacBook, a USB-C port on a wall adapter, or even your iPhone to charge your Apple Watch. It doesn’t get more portable than this.
 
-The Big Interview: Nathan Fielder tells us everything
+UAG SRGE 3-in-1 Travel and Desktop Charger for $100: This charger was close to earning a top spot until I saw the price (regularly $165). It’s a very smart charging kit that folds flat and comes in a snazzy zip-up bag with a 4-foot braided USB-C cable and a 25-watt power adapter, including plugs for the US, UK, and Europe. You can prop your iPhone at different angles on the MagSafe stand, and it works well with StandBy mode and Nightstand mode for your Apple Watch, but it’s not Qi2-certified, so you won’t get the stated 15-watt charging for an iPhone.
 
-Live tracker: Elon Musk’s America PAC is spending big on the midterms
+Mophie 3-in-1 Travel Charger With MagSafe for $150: This little travel kit is the older version of our pick above, but it’s still good (especially if you find it on sale). It also comes with a carrying case, charging brick, and USB-C cable. The square stack unfolds to reveal three wireless chargers in one elongated pad. The iPhone sticks magnetically to the center (15 watts), and the Apple Watch dock supports Nightstand mode. There’s also a grooved spot for the AirPods. It works well and is pretty lightweight and compact.
 
-Introducing the app: More ways to make the most of WIRED
+Twelve South Butterfly Travel 2-in-1 MagSafe Charger for $80: This uber-compact two-in-one charger looks like a hockey puck. Open the Butterfly, and you’ll find two pads attached with a rubbery silicone material. You can fast-charge an Apple Watch on one—even popping the charger up to take advantage of Nightstand mode—and the other circle lets you recharge your MagSafe iPhone at 15 watts. It’s a super compact solution, and Twelve South includes a 30-watt power source and cable with international plug adapters.
+
+Native Union Voyage 2-in-1 MagSafe Charger for $100: For a slightly lower price, former WIRED reviews editor Adrienne So likes Native Union’s Qi2 butterfly solution, which doesn’t include plug adapters but comes in a tidy travel pouch and includes a cable.
+
+Kuxiu Qi2 25W Travel Charging Station: This charger folds down to an impressively small package, and it feels sturdy with a silicone-covered metal construction. It can hit 25 watts for supported Qi2 25W phones, comes in a few different finishes, and ships with a 45-watt power adapter and USB-C cable in the box. Unfortunately, I don’t like how it looks, and I found it awkward to charge all three devices at once. It’s actually so compact that it feels crowded.
+
+Mous Travel Charger: While the compact, folding design and low price impressed me, it gets kinda warm when you charge all three of your Apple devices, and the AirPods spot is finicky.
+
+Most of my picks are MagSafe or Qi2-certified wireless chargers. That means they take advantage of the magnets embedded in the back of the iPhone 12, iPhone 13, iPhone 14, iPhone 15, iPhone 16, iPhone 17, and iPhone 18 ranges. The magnets ensure perfect alignment, enabling faster and more efficient wireless charging.
+
+Qi2 is a wireless charging standard that Apple worked with the Wireless Power Consortium to develop. Compared to the original Qi standard, it brings MagSafe-style magnetic charging, enabling faster charging rates and improved efficiency. Apple updated the iPhone 12 and newer to support Qi2, but it’s not just for Apple phones; other phones can get Qi2 certification. While Qi2 Android phones are still thin on the ground, you’ll find Qi2 in Google's Pixel 10 and Pixel 11 series, and there are Qi2-ready phones that add magnets via a compatible case.
+
+Qi2 charging mostly goes up to 15 watts, but the Qi2.2 update, branded as Qi2 25W, goes up to 25 watts. Support for Qi2 25W is currently limited and includes the iPhone 17 and 18 range and the Pixel 10 Pro XL and Pixel 11 range.
+
+If you use a case, make sure it is MagSafe- or Qi2-compatible. A normal case will weaken the pull of the magnets in the device and will not stick to chargers as well. If your case is too thick, your phone may not charge at all.
+
+MagSafe is also available in the AirPods charging case (depending on your model). Apple’s AirPods and AirPods Pro with the wireless charging case work with nearly all standard Qi wireless charging pads (as do many third-party wireless earbuds), but if you have AirPods with MagSafe, you can also connect them to magnetic mounts.
+
+I mention StandBy and Nightstand modes throughout this guide, but what are they?
+
+StandBy mode was introduced in iOS 17. When you place your iPhone on a charger in landscape orientation, it turns the screen into a smart display to show the time (with different clock designs to choose from), photos from your library, or widgets. If your iPhone supports an always-on screen, you can set it to turn off automatically after a set time when the iPhone isn't in use or when the room is dark. Head to Settings > Standby to customize it.
+
+Nightstand mode shows the time on your Apple Watch when it’s sitting upright and charging, so it can serve as a bedside clock. You can customize this on your Apple Watch by heading to Settings > General > Nightstand mode.
+
+Power up with unlimited access to WIRED. Get best-in-class reporting and exclusive subscriber content that’s too important to ignore. Subscribe Today.
+
+20% Off Your First Order with VistaPrint Promo Code
 
 © 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
 
 ----------------------------------------
 
-[2] M6 MAC MINI EARLY BLACK FRIDAY SALE (2026)
+[2] THE 4 BEST PLANNERS OF 2027: ROTERUNNER, HOBONICHI, CLOTH & PAPER
 
-All configurations of the Mac Mini are on sale today on Amazon, starting at $779 for the base M6 model. That's $120 off the full retail price that Apple charges.
+There’s nothing like the feeling of a brand-new planner, and I've found the best planners if you're shopping for something new for 2027. Whether you're looking to get a little more organized or just love having somewhere to write everything down, the beginning of the year is a great time for a fresh start, and most planner companies have their 2027 planner designs already available.
 
-For nearly half of this year, the Mac Mini was unavailable to buy; it was either sold out at retailers or subject to wait times that stretched up to three months long. But at the end of August, Apple launched a new model, which not only introduced the M6 (or M5 Pro) chip inside, but also restocked the Mac Mini so that you can actually just go out and buy one.
+The world of planners might seem simple if you've only browsed your local Target or bookstore to see what planners they might have on hand. But there's a wide world of options out there that can perfectly suit your needs, especially if you're willing to build your own travel notebook or write in the dates on an undated paper planner, or open to trying your first Japanese-style planner.
 
-The sharp escalation in demand even took Apple by surprise, by its own admission. AI enthusiasts were buying these up for the quick and simple access to an always-on computer with enough memory to run models locally in an affordable package.
+After years of testing and a constant stack of planners on my desk, I've found these standout favorite planner styles that could benefit everyone. If you're looking for a tech companion to your paper planner, check out my guides to the Best Digital Wall Calendars and Best Digital Notebooks to help keep your calendar and thoughts organized digitally.
 
-The M6 comes with 16 GB of RAM, which is barely enough to run some smaller models. Amazon also sells a 24-GB model (with 512 GB of storage) for $1,150. If you want to bump up the storage capability to 32 GB, you'll have to buy the machine directly from Apple. Either way, the extra storage will make your Mini quite a bit more expensive than the base model, but it's still $150 off the retail price. Best Buy is also selling the previous-gen M4 model for $649 if you're really trying to save cash—or just need a basic computer for work. The M6 does offer a substantial upgrade to GPU performance over the M4, though, so if you're planning to do any on-device AI work, it's worth the extra $120.
+Updated November 2026: I've updated the information in this guide to reflect planner availability as 2026 comes to an end and 2027 designs become available. I'm also currently testing 2027 designs from Plum Paper, Laurel Denise, My PA Planner, and Sterling Ink, plus an undated design of Aura Estelle if you're looking for a planner you can start using in December 2026 into the new year.
 
-I should note that this isn't the lowest price I've seen the Mac Mini reach—though it's close. For one day in October, it dropped by an extra $10. I can't say for sure whether we'll see an additional price decrease during Black Friday. My gut says no, but if you're worried about it, you might want to put it in your shopping cart and wait before clicking “purchase.”
+If you need a single planner that can do it all and won't burn through your back-to-school budget, this is the one. The Roterunner Purpose Planner is an undated planner that has monthly spreads, weekly spreads, and two full open pages for each week, so there's plenty of room to write longer lists or a project brainstorm. Each monthly and weekly spread has a ton of premade checklist sections for you to use, too. There's even space to track your meals, water intake, and gratitude. It's a planner that actually helps me stay organized and gives me space to track and take notes without running out of room.
 
-The best deal in the Mac world heading into Black Friday, however, is the M5 MacBook Air. It's currently $1,099, and that still gets you 16 GB of unified memory.
+The undated nature makes it easy to pick up anytime and use for whichever months you need. Fell off the boat for a few months? No problem. No pages will go to waste when you can fill them in as you go. It only covers six months, but I actually like that; it once again feels like a feasible commitment, especially if you're waffling on how much paper planner you want to promise to use. I love the massive B5 size ($35) since it's finally enough space for me and all my various to-do lists and brainstorms, but there's also a smaller (and cheaper!) A5 ($28) size. It's truly my go-to planner since it has so much space for me to both use the pre-made lists and the open space to actually stay organized and put all my ideas, plans, and notes into one planner. Most others make me feel like I need a companion notebook, but not the Roterunner.
 
-For more savings, check out our Early Black Friday Deals, Early Amazon Black Friday Deals, and Early Black Friday Deals Under $100.
+The covers come in a variety of simple colors, and in both hard cover or soft, but the butter-soft faux leather soft cover is my favorite of the bunch. Get it in B5 size if you're always looking for more room in your journals and planners—you won't regret it.
+
+If you're getting into planners, there's no way you won't hear about Hobonichi at some point. There are a few different planners the brand makes, with the Techo being the most popular model. I tested the similar Hobonichi Cousin, which adds weekly spreads to the front of the planner after the monthly overviews. While I don't typically prefer a daily planner style, I was surprised by how much I liked using the Hobonichi. All of Hobonichi's planners use Tomoe River S paper, which is super thin but won't bleed through to the other side. It's also super smooth to the touch and to write on. I liked adding my own structure to the daily pages; I sketched a box to separate my to-do lists and habit trackers from my hourly agenda for the day, and then would usually freeform the rest of the page based on what was on my mind. The Cousin I tested and photographed is an A5 size, while the standard Techo is the smaller A6.
+
+Hobonichi's 2027 editions are here, so you can stock up on your planner for next year right now, plus tons of colors, covers, and other accessories, some of which are unique to 2027. I recommend picking out a protective cover since I did ding up my soft cover quite a bit, and that was just from being used around the house with an occasional trip in a bag. There are little quotes in the corners, but I got a Japanese version instead of an English one, so I can't actually read mine. But honestly, I'm glad I did; I prefer the Japanese lettering to English words on the corners of each page.
+
+I've been obsessed with travel notebooks this year. A travel notebook uses bands to connect three or four notebooks together, and I love using this system to build a customized planner designed for my exact needs. It makes it easy to change the design, too, since you can just switch out a single notebook when it's full.
+
+I really like Cloth & Paper's Travel Notebook Collection. There are 13 different notebooks you can choose from to include in your travel notebook, ranging from classic weekly and monthly spreads to more unique options like a daily wellness notebook and a task planner. It's really a great option if you want a couple of specific things, or even just a regular monthly and weekly notebook plus a blank notebook in the back you can fill with to-do lists and replace anytime without needing an entirely new planner. It's great for students, too, because you can have a notebook dedicated to tracking your assignments and syllabus for the semester. You'll need to create your own, though, as Cloth & Paper doesn't have a dedicated academic notebook for you to select.
+
+I tried both the A5 Slim and the Pocket Plus size, and I really prefer the A5 Slim for a traditional planner experience. The Pocket Plus would be fun to bring on a trip; I wish I'd had it on my latest trip to store little mementos and important things like parking receipts, and could have also written out notes and the plan for the week-long trip. But otherwise, the larger A5 slim was much easier to write on and use for my daily notes and planning.
+
+You'll want the Clear Vinyl Travel Notebook Cover ($23 to $25) no matter which size you choose, which includes elastic bindings to bring all the notebooks you buy together, and you can also pick up more colorful elastic options to add a little more personality to your planner.
+
+I've heard a lot of good things about Erin Condren. Founded in 2005 by Erin Condren, it's known for the LifePlanner that's full of various spreads and productivity tools that you can customize, but there are other variations of planners you can find from the brand. While you'll usually customize your Erin Condren planner if you shop directly on the site, there's a predesigned Target line you can shop that won't give you options, but will give you a well-made planner that's ready to go immediately.
+
+I've been testing the Erin Condren Academic Planner you'll find at Target, but it's sold out as we head into the new year; Erin Condren's website has similar, but more expensive options with more cover and customization options. This base version from Target is a great fit for students and people with deadline-style or client-based work they want to organize. Each month has two pages following the monthly spread to set your most important to-dos and dates, but also a full page to track the month's deadlines and what class (or client, or in my case, story beat) they're for. After that, there are weekly spreads with long columns for each day, and seven blocks of four lines that you can label with things like specific classes, clubs, or organizations, or parenting and household tasks, as I track. It's been a really easy planner to add into my lifestyle, even though it's made for students. There's a class tracker in the front of the planner, too, which I skipped using, plus a detailed holiday calendar, and the back has project and exam pages, plus blank note pages, and even a simple sheet of stickers with things like “Exam,” “Midterm,” and “Paper Due.”
+
+Academic planners usually start in August, so you probably don't want a planner like this if you want something fresh for the new year. But it's still my favorite I've tried if it's your preferred style. Erin Condren does have annual layouts and its popular LifePlanner designs available in 2027 layouts, and other specific designs like budget planners and teacher lesson planners if you're looking for something specific, too.
+
+Like I said, there's a huge world of planners out there. Here are a few that the Reviews team and I at WIRED have tested and enjoyed.
+
+The Kokuyo Jibun Techo is another Japanese planner, but this one is a travel-notebook-style design, making it more customizable with a cover and multiple books that fit inside it. The First Kit comes with three books that fit into the included cover: Diary (labeled simply with the year), Life, and Idea. The 2026 versions are sold out, but you can buy the 2027 versions right now.
+
+Looking for more of a monthly planner? The Big A## Planner is a massive planner with a nice monthly spread you can literally spread across your desk, with plenty of writing space for each day. Best for working from home, though; you don't want to have to fit this into your work bag.
+
+If you're looking for a great daily planner, the Day Designer is a popular option for a reason. It's bulky since it has pages for every single day, but it leaves room for both your schedule and a long to-do list.
+
+Plum Paper is my favorite classic-style planner, and you can easily customize it to start at any time of year and design the pages to fit your needs. I especially like the weekly A5 Vertical Priorities layout, and you can add all kinds of customizations into the daily columns, the habit tracker, and more to make it exactly what you want. But I've also left the habit tracker blank so I can adjust my habits as needed all year long.
+
+I bought this no-frills hardback during Prime Day last year, figuring I couldn’t go wrong for less than 20 bucks, and I was right. It’s a handy A5 size with a monthly view calendar at the beginning of each month, and then a 5-by-2.5-inch square for each day. That’s it. There are some plain lined pages in the back if you need more space for notes, but if your planning consists only of to-do lists and tracking deadlines, you will love this.—Kat Merck
+
+Agendio Basic Planner starting at $48: This is a completely customizable planner. I liked it, and you have the option to design your own pages, and the folder-style cover will protect both the pages and binding. I didn't love the customization tools or abilities as much as I wanted to, and there are a lot of steps to create your planner. I preferred the custom tools of Plum Paper over it. It's a good planner if the pages and binder-style are what you're looking for, and you can find some preset options that usually start around $48 for the smallest page size and black-and-white print.
+
+Ban.do 12-Month Planner for $20: If you're looking for another affordable option but want something with more personality than the Roterunner above, Ban.do's planners are fun and colorful and even come with a page of stickers. It's only a horizontal weekly format, though, which I don't love (but maybe you do!) and the 2027 12-Month designs are now available.
+
+Happy Planner 12-Month Planner for $33: Happy Planner uses disc-bound planners to make it easy to remove and add pages or covers, which is nice for customizability. But they're a very specific aesthetic, and personally, I didn't love turning pages on the discs. Still, it's a good planner if you like the style, and they come in a ton of different layouts. Right now, you can get a Happy Planner that starts in July 2026 and will run you until June 2027, perfect for tracking the academic year.
+
+Laurel Denise Nancy Academic Planner for $44: These planners are cool because you'll look at the month and your weekly at the same time, as the slim weekly pages lay on top of the monthly spread. However, I write way, way too much for the space in these planners, at least for the Nancy design I tested previously. It's great if you just want to write a couple to-dos and meetings per day, but if you want space for detailed lists, you might feel the way I did. I'm currently testing the 2027 Luna ($62) and Scout ($62) planners from Laurel Denise to see if I still feel the same way compared to the original design.
+
+Leuchtturm1917 12-Month Ruled Planner for $29: This is a solid, minimalist planner that has a popular following. It's a simple horizontal weekly layout with the week on one side and a lined page on the other. It's not enough space for everything I write down, but if you're looking for something simple and space for a couple of lists or notes for each week that fit onto a page, it's a good option for you. Leuchtturm1917 also has a nice line of notebooks that look the same from the outside cover, so make sure you actually get the planner.
+
+Muji Undated Weekly Planner for $7: If you want a super simple, super affordable planner, the Muji Undated Weekly is for you. It's just undated weekly horizontal spreads from front to back, even on the paper cover. It's slim, but still more than a year's worth of weeks in it. It's the most minimalist planner I've tried, and though I'm not a fan of horizontal weekly spreads for my planner needs, it's a great cheap option for a lot of people.
+
+Papier Hardcover 2027 Planner for $40: My favorite thing about Papier's planners is how gorgeous the covers are. Papier has a range of beautiful designs you can choose that feel like they belong on a bookshelf rather than just my planner. I tested one of the annual planners, which has the horizontal weekly layout I don't love on any planner (and you can still get that by choosing the mid-year layout for any cover Papier has if you love that style), but the academic one ($29) has a vertical layout that's much more up my alley. Whichever style you like, you can pick. Papier also has softcover academic planners ($32) that use a ring binding, which is easier to lay open than the hard cover binding, and still has both mid-year and academic layout options.
+
+Passion Planner 2027 Planner for $50: This planner was really popular when I was in college, and maybe it still is with the college kids. I liked it, but I feel like the Purpose Planner does a similar thing but better, at least for my needs. It's got vertical spread, but every slot is timed, so I can't use it as a to-do list. It's great for anyone needing to plan out a super detailed schedule and has some to-do list spaces on the bottom, but they're pretty small in my opinion to work for an entire week. It's good for students who only want to track their busy schedules and a couple assignments and tasks for each week.
+
+Looking for what to pair with your planner? Here are some of our team's favorite daily tools and planner accessories.
+
+Passion Planner Passion Highlighters for $20: If your planner could use a little color, I really like Passion Planner's highlighter sets. They're nice and thin-tipped to fit into slim planner lines, and I especially like the vintage colors for adding color without it feeling neon-bright. You can use the highlighters to organize your plans by type (I like to do red for work, blue for my kid, yellow for things like doctor's appointments, and green for my social life) or color-code your class subjects like we used to do with ringed notebooks.
+
+Pilot Metropolitan Fountain Pen for $34: I never understood the appeal of a fountain pen until I bought one. A properly smoothed fountain pen nib requires very little pressure to write with and seems to glide across the page with a soft, satisfying scratching sound. I know, I'm one of those people now. Much of my initial skepticism came from the perceived complexity of caring for and using a fountain pen, which is very much overblown. My favorite pen of the dozen I've tested is the Pilot Metropolitan with the fine nib. It's easy to work with, taking either prefilled ink cartridges, which you can pop in and out without ever spilling any ink, or you can fill it yourself using a converter and the ink of your choice. I started off using the cartridges, but eventually my quest for a waterproof ink led me to the converter and this sketching ink. Once a week or so, I dip the Metropolitan nib in the bottle of ink and twist the converter to fill the chamber with ink—that's all there is to it. Whichever fountain pen you find works best for you, you’ll find you'll have a quite simply better writing experience. —Scott Gilbertson
+
+Plum Paper Seasonal Stickers for $10: There are a lot of stickers out there you could use for your planners, but my favorites—especially for the holidays—are from Plum Paper. They're beautiful and fun, and are mostly nice and small to fit into small lines or monthly charts without eating up the entire section. I like that there's a mix of shapes and styles, and you can also shop stickers for themes like home, fitness, wellness, and baby milestones. You can even make your own custom stickers (starting at $12), which are only thick line-style stickers where you can customize the word and icon on them. Still, very handy!
+
+Not everyone needs or wants a rigid planner. If you just need daily to-do lists or are a fan of bullet journals, consider getting a great notebook instead.
+
+Maybe you just want a plain, lined notebook. One of our former reviewers recommended the Midori MD Notebook, and I found it to be a nice small size if you're looking for something minimal. It comes in lined, unlined, or dot-grid, and uses paper made from cotton pulp (just like money!) Midori’s notebooks are designed to fit inside notebook or journal covers (which you can find all over Etsy). The pages are a subtle off-white and have a weight and texture that draw you in.
+
+One of our reviewers skips a planner entirely and instead writes down his to-do list on a 3-by-5 index card. He puts that index card into his pocket with a pocket-sized memo book like this one from Field Notes ($13 for three), where he jots down notes throughout the day to use for the next day's to-do list. Both the notebook and index cards fit inside a waxed canvas notebook cover to keep them safe from the elements (or just his pocket). It's an affordable and easy-to-manage system.
+
+Studies show that it's good for your brain to write things down. Sure, you could put your calendar in an online tool, but putting pen to paper activates more brain connectivity. We're more likely to remember and learn things if we write them down by hand, so using a paper planner for your to-do list can make it easier to remember. Plus, it's fun! You're given a creative space to let out everything you need to remember, from appointments to the day's tasks, and customize it in a way that best helps you stay organized.
+
+Paper planners mainly come in two styles: weekly and daily. Daily planners have an entire page dedicated to each day, while weekly planners have an entire week spread across just two pages. These aren't the only options (monthly is another popular one, for example, but not as popular as these two styles), but they're the most common you'll see. I like daily planners for folks who have a really busy schedule they want to plan out, and long daily to-do lists. Weekly planners are great if you want to be able to write down a few things per day but don't need an entire page.
+
+Here are a couple common planner sizes. My favorite are the larger sizes since I like lots of room to doodle, but the smaller A5 is a popular choice for a book-sized planner that won't take up too much space. Not all paper planners use the same sizing names—Moleskine, for example, calls its A5 size a large—so you'll want to check measurements before you purchase.
 
 Power up with unlimited access to WIRED. Get best-in-class reporting and exclusive subscriber content that's too important to ignore. Subscribe Today.
 
@@ -268,29 +334,31 @@ Power up with unlimited access to WIRED. Get best-in-class reporting and exclusi
 
 ----------------------------------------
 
-[3] NEW SPECIES OF GIANT FUNGUS DISCOVERED IN CHINA GROWS UP TO 20 INCHES TALL
+[3] AI DJS COMPLETELY KILL MY GROOVE
 
-Sometimes new species evade detection because they’re tiny and thus easy to miss—not this giant fungus. Shaped like a hand reaching out of the ground, this new species of fungus was discovered deep in the forest in China’s Yunnan Province. A research team from the Kunming Institute of Botany, part of the Chinese Academy of Sciences, reported it as a new species they named Dianjunus rex.
+I usually can’t pinpoint the moment I stop using a software feature, with most tools drifting out of fashion without an expiration date. That’s not the case with YouTube Music’s “Beyond the Beat,” an AI-generated DJ that explains songs to you.
 
-The name comes from the region’s ancient Dian Kingdom and the Chinese pronunciation of the word “fungus.” D. rex is a type of Ascomycete, which is the largest phylum of fungi with over 64,000 known species, and among them, this new fungus produces the largest masses of mushroom recorded. Unlike what we typically think of as a “mushroom,” Ascomycetes don’t form caps and stems but produce structures called fruiting bodies, which release spores to reproduce. And growing up to 20 inches and weighting nearly five pounds, D. rex’s are huge.
+YouTube Music is my music-streaming service of choice. And since I’m a software reporter, I always enable the beta features available through YouTube Labs, which include Beyond the Beat. YouTube’s AI DJ randomly interjects for about 30 seconds between songs, teeing up the vibe shift and providing context about the next track.
 
-Within the Ascomycetes, the giant fungus constitutes an entirely new biological family (the broader classification of genus and species), meaning that it has no close relatives—at least that we know of. While 6,000 fungal species have been documented in Yunnan, mycologists believe the province known for its biological diversity could easily harbor 100,000
+More listeners are encountering synthetic commentary built into their music streaming apps. While YouTube launched this experimental AI DJ in 2025, Spotify first introduced a similar tool back in 2023. It doubled down on its AI DJ efforts in November, expanding the different personalities available to users and adding more controls over the commentary.
 
-“The discovery illustrates how much fungus biodiversity remains to be discovered in East Asian forests,” Indunil C. Senanayake, an associate professor at the Kunming Institute of Botany and the lead author of the paper, said in a press release.
+These AI DJs aren’t just annoying. Their attempts to provide helpful context and mimic human candor ultimately fall flat. Lucky for me, both features are optional and avoidable.
 
-Senanayake and his research team conducted surveys in the Nanban tropical rainforest, where they came across large, whitish fruiting bodies growing in the soil near the roots of dying trees. They documented and collected fungi growing in a wide variety of shapes like cylinders, spindles, and cupped palms. The fruiting bodies appeared to develop finger-like branches upon maturity. They found that the above-ground portions are covered with white, powdery fibers that turn dark yellow as the fungi mature while the portions buried in the soil are black and smooth.
+After months of leaving it enabled, a bad experience with Beyond the Beat this week pushed me to swear off AI DJs altogether. I was listening to a pop divas playlist as part of my morning workout and got slapped with 30 seconds of exposition after a Slayyyter track:
 
-The fruiting bodies dried rapidly when the scientists took samples back to the lab. They found that the interiors were dense and sponge-like, appearing white or yellow with no strong odor or taste. (Don’t try this experiment at home.)
+“Hey Boy delivers that high-energy surge perfectly, but we're shifting our focus to a sharper, more visceral reality. In Rock Music, Charli XXC [sic] weaves in a biting, dark sense of humor regarding the physical toll of her relentless 2024 and 2025 touring. She turns the genuine nerve damage she sustained on the road into a strange sort of battle scar, reclaiming the exhaustion of a weary party girl as a badge of honor. It's an unflinching look at the cost behind the spectacle, where the grind of the industry becomes the actual subject matter. Here is Rock Music by Charli XXC [sic].”
 
-Analyzing the DNA of these fungi, the researchers reconstructed a “molecular clock,” which revealed that D. rex diverged from other species approximately 65 million years ago. This is the end of the Cretaceous period, immediately following the mass extinction that is believed to have wiped out three quarters of all plant and animal species, including the dinosaurs. That means D. rex and T. rex never met, but this era was likely a boon for fungi. Large quantities of dead plant material became available following the die off, which could have provided new ecological opportunities for fungi and other organisms that decompose such matter.
+What a lengthy paragraph of platitudes with little substance. That’s not even mentioning how the AI DJ butchered the pronunciation of a little-known, indie act called Charli XCX. This flub reflected my overall experience with YouTube Music’s AI DJ. It took me out of the groove and didn’t feel additive.
 
-Genomic analyses, however, indicated that D. rex doesn’t have nearly as many decomposition-related genes as the scientists expected. Compared to some of its closest relatives that also feast on plant matter, the huge fungus has only about half the usual number of decomposition-related genes.
+In another example, it went in-depth on the meaning of Olivia Rodrigo’s Expectations remix featuring Chappell Roan, calling it a "structural interpretation” that unpacks the “nuances of queer dating.” Then YouTube Music played the original track, sans Roan; so much for the queer yearning.
 
-Senanayake has a theory about this. Though, so far, they have only found the fruiting bodies around dying plants, the fungus may be leading a “double life”—living inside healthy trees and then feeding on dead plant material when the hosts die. That could perhaps explain how D. rex is able to store enough energy to build the massive fruiting bodies.
+Curious how Spotify’s AI DJ experience would compare, I upgraded my account to the premium tier for access to that beta software. One of the biggest recent changes to Spotify’s AI DJ was adding new voices to the lineup, so I went into my settings and played the introduction clips for each of the eight English-language voices.
 
-This is just a theory for now, but the giant fungi undoubtedly do need a surplus of energy to grow so large. Senanayake hypothesizes that the benefit of these large fruiting bodies is that they tower higher than the surrounding plants and fallen leaves, which could be advantageous for wind-mediated spore dispersal in a dense forest. “However, such a large structure requires substantial energy investment, suggesting that this strategy likely evolved only where the ecological benefits outweighed the costs.”
+Maybe I was already a bit miffed from my YouTube Music experience because these voices immediately started to frustrate me. Multiple voices leaned into filler words such as “you know” and “like,” as the AI described the next songs it would play. Knowing an AI voice is being trained to use filler words to sound more human gave me the uncanny-valley ick.
 
-This story was originally published in WIRED Japan and has been translated from Japanese.
+Spotify’s AI DJ was fairly different from YouTube Music’s version. On Spotify, the AI DJ is also an algorithmically guided experience that picks songs for you based on past listening habits and song requests. Overall, Spotify’s synthetic commentary felt tighter and more tolerable than YouTube’s blabbering DJ. That said, neither software experience was enjoyable enough for me to return.
+
+Although Spotify claims it has “80 percent of listeners coming back to DJ week after week,” according to the company’s launch blog, I won’t be one of them. My rejection of AI DJs isn’t based on how they audibly sound. The voices, from both companies, are decent and sound convincingly human. The content of their commentary is what truly turns me off. Whether it’s empty platitudes or mimicking human mistakes, I’ve heard enough.
 
 In your inbox: For life-tested picks, sign up for our Gear newsletters
 
@@ -299,6 +367,8 @@ Airbnb hosts are furious they can no longer make guests do their chores
 big story: cool kids write in all lowercase—does that make you mad?
 
 WIRED event: The technologies, people, and ideas transforming our world
+
+20% Off Your First Order with VistaPrint Promo Code
 
 © 2026 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
 
